@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "system-design-primer",
+    "owner": "donnemartin",
+    "stargazers_count": 203342
+  },
+  {
+    "name": "awesome-python",
+    "owner": "vinta",
+    "stargazers_count": 147239
+  },
+  {
+    "name": "thefuck",
+    "owner": "nvbn",
+    "stargazers_count": 74567
+  },
+  {
+    "name": "scikit-learn",
+    "owner": "scikit-learn",
+    "stargazers_count": 52109
+  },
+  {
+    "name": "cpython",
+    "owner": "python",
+    "stargazers_count": 48956
+  },
+  {
+    "name": "manim",
+    "owner": "3b1b",
+    "stargazers_count": 48110
+  },
+  {
+    "name": "faceswap",
+    "owner": "deepfakes",
+    "stargazers_count": 42754
+  },
+  {
+    "name": "sherlock",
+    "owner": "sherlock-project",
+    "stargazers_count": 36969
+  },
+  {
+    "name": "openpilot",
+    "owner": "commaai",
+    "stargazers_count": 36962
+  },
+  {
+    "name": "d2l-zh",
+    "owner": "d2l-ai",
+    "stargazers_count": 36343
+  },
+  {
+    "name": "CppCoreGuidelines",
+    "owner": "isocpp",
+    "stargazers_count": 36105
+  },
+  {
+    "name": "python-patterns",
+    "owner": "faif",
+    "stargazers_count": 35564
+  },
+  {
+    "name": "yt-dlp",
+    "owner": "yt-dlp",
+    "stargazers_count": 35175
+  },
+  {
+    "name": "interview_internal_reference",
+    "owner": "0voice",
+    "stargazers_count": 34225
+  },
+  {
+    "name": "Deep-Learning-Papers-Reading-Roadmap",
+    "owner": "floodsung",
+    "stargazers_count": 34152
+  },
+  {
+    "name": "shadowsocks",
+    "owner": "shadowsocks",
+    "stargazers_count": 33234
+  },
+  {
+    "name": "bert",
+    "owner": "google-research",
+    "stargazers_count": 32557
+  },
+  {
+    "name": "jieba",
+    "owner": "fxsjy",
+    "stargazers_count": 29564
+  },
+  {
+    "name": "certbot",
+    "owner": "certbot",
+    "stargazers_count": 29427
+  },
+  {
+    "name": "gym",
+    "owner": "openai",
+    "stargazers_count": 29040
+  },
+  {
+    "name": "PaddleOCR",
+    "owner": "PaddlePaddle",
+    "stargazers_count": 26718
+  },
+  {
+    "name": "Python",
+    "owner": "geekcomputers",
+    "stargazers_count": 26712
+  },
+  {
+    "name": "interactive-coding-challenges",
+    "owner": "donnemartin",
+    "stargazers_count": 26531
+  },
+  {
+    "name": "Detectron",
+    "owner": "facebookresearch",
+    "stargazers_count": 25420
+  },
+  {
+    "name": "sqlmap",
+    "owner": "sqlmapproject",
+    "stargazers_count": 25295
+  },
+  {
+    "name": "pytorch-tutorial",
+    "owner": "yunjey",
+    "stargazers_count": 25213
+  },
+  {
+    "name": "GFPGAN",
+    "owner": "TencentARC",
+    "stargazers_count": 24690
+  },
+  {
+    "name": "YouCompleteMe",
+    "owner": "ycm-core",
+    "stargazers_count": 24398
+  },
+  {
+    "name": "data-science-ipython-notebooks",
+    "owner": "donnemartin",
+    "stargazers_count": 24215
+  },
+  {
+    "name": "detectron2",
+    "owner": "facebookresearch",
+    "stargazers_count": 22856
+  },
+  {
+    "name": "poetry",
+    "owner": "python-poetry",
+    "stargazers_count": 22668
+  },
+  {
+    "name": "Mask_RCNN",
+    "owner": "matterport",
+    "stargazers_count": 22429
+  },
+  {
+    "name": "pytorch-image-models",
+    "owner": "rwightman",
+    "stargazers_count": 22028
+  },
+  {
+    "name": "algorithms",
+    "owner": "keon",
+    "stargazers_count": 21847
+  },
+  {
+    "name": "glances",
+    "owner": "nicolargo",
+    "stargazers_count": 21771
+  },
+  {
+    "name": "ML-From-Scratch",
+    "owner": "eriklindernoren",
+    "stargazers_count": 21664
+  },
+  {
+    "name": "streamlit",
+    "owner": "streamlit",
+    "stargazers_count": 21465
+  },
+  {
+    "name": "cascadia-code",
+    "owner": "microsoft",
+    "stargazers_count": 21408
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "owner": "AUTOMATIC1111",
+    "stargazers_count": 21299
+  },
+  {
+    "name": "professional-programming",
+    "owner": "charlax",
+    "stargazers_count": 21216
+  },
+  {
+    "name": "NLP-progress",
+    "owner": "sebastianruder",
+    "stargazers_count": 21069
+  },
+  {
+    "name": "python-telegram-bot",
+    "owner": "python-telegram-bot",
+    "stargazers_count": 20192
+  },
+  {
+    "name": "macOS-Security-and-Privacy-Guide",
+    "owner": "drduh",
+    "stargazers_count": 19687
+  },
+  {
+    "name": "labelImg",
+    "owner": "heartexlabs",
+    "stargazers_count": 18740
+  },
+  {
+    "name": "cookiecutter",
+    "owner": "cookiecutter",
+    "stargazers_count": 18392
+  },
+  {
+    "name": "Awesome-Linux-Software",
+    "owner": "luong-komorebi",
+    "stargazers_count": 18115
+  },
+  {
+    "name": "OpenBBTerminal",
+    "owner": "OpenBB-finance",
+    "stargazers_count": 17657
+  },
+  {
+    "name": "saleor",
+    "owner": "saleor",
+    "stargazers_count": 17265
+  },
+  {
+    "name": "PythonRobotics",
+    "owner": "AtsushiSakai",
+    "stargazers_count": 16763
+  },
+  {
+    "name": "zulip",
+    "owner": "zulip",
+    "stargazers_count": 16737
+  },
+  {
+    "name": "jina",
+    "owner": "jina-ai",
+    "stargazers_count": 16651
+  },
+  {
+    "name": "kitty",
+    "owner": "kovidgoyal",
+    "stargazers_count": 16628
+  },
+  {
+    "name": "sanic",
+    "owner": "sanic-org",
+    "stargazers_count": 16610
+  },
+  {
+    "name": "30-Days-Of-Python",
+    "owner": "Asabeneh",
+    "stargazers_count": 16417
+  },
+  {
+    "name": "Real-ESRGAN",
+    "owner": "xinntao",
+    "stargazers_count": 16353
+  },
+  {
+    "name": "EasyOCR",
+    "owner": "JaidedAI",
+    "stargazers_count": 16319
+  },
+  {
+    "name": "reddit",
+    "owner": "reddit-archive",
+    "stargazers_count": 16219
+  },
+  {
+    "name": "ddia",
+    "owner": "Vonng",
+    "stargazers_count": 16145
+  },
+  {
+    "name": "pytorch_geometric",
+    "owner": "pyg-team",
+    "stargazers_count": 16126
+  },
+  {
+    "name": "ungoogled-chromium",
+    "owner": "ungoogled-software",
+    "stargazers_count": 15589
+  },
+  {
+    "name": "ipython",
+    "owner": "ipython",
+    "stargazers_count": 15586
+  },
+  {
+    "name": "d2l-en",
+    "owner": "d2l-ai",
+    "stargazers_count": 15568
+  },
+  {
+    "name": "game-programmer",
+    "owner": "miloyip",
+    "stargazers_count": 15421
+  },
+  {
+    "name": "PySnooper",
+    "owner": "cool-RR",
+    "stargazers_count": 15330
+  },
+  {
+    "name": "avatarify-python",
+    "owner": "alievk",
+    "stargazers_count": 15254
+  },
+  {
+    "name": "kivy",
+    "owner": "kivy",
+    "stargazers_count": 15222
+  },
+  {
+    "name": "Summer2023-Internships",
+    "owner": "pittcsc",
+    "stargazers_count": 15158
+  },
+  {
+    "name": "pyscript",
+    "owner": "pyscript",
+    "stargazers_count": 14898
+  },
+  {
+    "name": "ArchiveBox",
+    "owner": "ArchiveBox",
+    "stargazers_count": 14535
+  },
+  {
+    "name": "autojump",
+    "owner": "wting",
+    "stargazers_count": 14380
+  },
+  {
+    "name": "mypy",
+    "owner": "python",
+    "stargazers_count": 14142
+  },
+  {
+    "name": "Shadowrocket-ADBlock-Rules",
+    "owner": "h2y",
+    "stargazers_count": 14060
+  },
+  {
+    "name": "twint",
+    "owner": "twintproject",
+    "stargazers_count": 14032
+  },
+  {
+    "name": "jupyter",
+    "owner": "jupyter",
+    "stargazers_count": 13883
+  },
+  {
+    "name": "neural-networks-and-deep-learning",
+    "owner": "mnielsen",
+    "stargazers_count": 13820
+  },
+  {
+    "name": "fabric",
+    "owner": "fabric",
+    "stargazers_count": 13728
+  },
+  {
+    "name": "calibre",
+    "owner": "kovidgoyal",
+    "stargazers_count": 13674
+  },
+  {
+    "name": "onnx",
+    "owner": "onnx",
+    "stargazers_count": 13586
+  },
+  {
+    "name": "GitHub520",
+    "owner": "521xueweihan",
+    "stargazers_count": 13388
+  },
+  {
+    "name": "microservices-demo",
+    "owner": "GoogleCloudPlatform",
+    "stargazers_count": 13239
+  },
+  {
+    "name": "imgaug",
+    "owner": "aleju",
+    "stargazers_count": 13127
+  },
+  {
+    "name": "aws-cli",
+    "owner": "aws",
+    "stargazers_count": 13116
+  },
+  {
+    "name": "baselines",
+    "owner": "openai",
+    "stargazers_count": 13080
+  },
+  {
+    "name": "mlflow",
+    "owner": "mlflow",
+    "stargazers_count": 13056
+  },
+  {
+    "name": "DeDRM_tools",
+    "owner": "apprenticeharper",
+    "stargazers_count": 13035
+  },
+  {
+    "name": "aiohttp",
+    "owner": "aio-libs",
+    "stargazers_count": 13023
+  },
+  {
+    "name": "stylegan",
+    "owner": "NVlabs",
+    "stargazers_count": 13022
+  },
+  {
+    "name": "insightface",
+    "owner": "deepinsight",
+    "stargazers_count": 12960
+  },
+  {
+    "name": "deep-learning-for-image-processing",
+    "owner": "WZMIAOMIAO",
+    "stargazers_count": 12906
+  },
+  {
+    "name": "horovod",
+    "owner": "horovod",
+    "stargazers_count": 12846
+  },
+  {
+    "name": "the-gan-zoo",
+    "owner": "hindupuravinash",
+    "stargazers_count": 12748
+  },
+  {
+    "name": "plotly.py",
+    "owner": "plotly",
+    "stargazers_count": 12443
+  },
+  {
+    "name": "wtfpython-cn",
+    "owner": "leisurelicht",
+    "stargazers_count": 12328
+  },
+  {
+    "name": "erpnext",
+    "owner": "frappe",
+    "stargazers_count": 12227
+  },
+  {
+    "name": "flair",
+    "owner": "flairNLP",
+    "stargazers_count": 12217
+  },
+  {
+    "name": "GHunt",
+    "owner": "mxrch",
+    "stargazers_count": 12184
+  },
+  {
+    "name": "YYeTsBot",
+    "owner": "tgbot-collection",
+    "stargazers_count": 12111
+  },
+  {
+    "name": "manim",
+    "owner": "ManimCommunity",
+    "stargazers_count": 11956
+  },
+  {
+    "name": "networkx",
+    "owner": "networkx",
+    "stargazers_count": 11851
+  },
+  {
+    "name": "tushare",
+    "owner": "waditu",
+    "stargazers_count": 11832
+  },
+  {
+    "name": "tweepy",
+    "owner": "tweepy",
+    "stargazers_count": 9282
+  },
+  {
+    "name": "EverydayWechat",
+    "owner": "sfyc23",
+    "stargazers_count": 9264
+  },
+  {
+    "name": "theZoo",
+    "owner": "ytisf",
+    "stargazers_count": 9129
+  },
+  {
+    "name": "MLAlgorithms",
+    "owner": "rushter",
+    "stargazers_count": 9054
+  },
+  {
+    "name": "tinygrad",
+    "owner": "geohot",
+    "stargazers_count": 8975
+  },
+  {
+    "name": "coursera-dl",
+    "owner": "coursera-dl",
+    "stargazers_count": 8920
+  },
+  {
+    "name": "jinja",
+    "owner": "pallets",
+    "stargazers_count": 8876
+  },
+  {
+    "name": "Keras-GAN",
+    "owner": "eriklindernoren",
+    "stargazers_count": 8826
+  },
+  {
+    "name": "bpytop",
+    "owner": "aristocratos",
+    "stargazers_count": 8826
+  },
+  {
+    "name": "serverless-application-model",
+    "owner": "aws",
+    "stargazers_count": 8814
+  },
+  {
+    "name": "fuzzywuzzy",
+    "owner": "seatgeek",
+    "stargazers_count": 8774
+  },
+  {
+    "name": "node-gyp",
+    "owner": "nodejs",
+    "stargazers_count": 8709
+  },
+  {
+    "name": "Mailpile",
+    "owner": "mailpile",
+    "stargazers_count": 8676
+  },
+  {
+    "name": "gunicorn",
+    "owner": "benoitc",
+    "stargazers_count": 8622
+  },
+  {
+    "name": "http-prompt",
+    "owner": "httpie",
+    "stargazers_count": 8592
+  },
+  {
+    "name": "scientific-visualization-book",
+    "owner": "rougier",
+    "stargazers_count": 8517
+  },
+  {
+    "name": "mlcourse.ai",
+    "owner": "Yorko",
+    "stargazers_count": 8472
+  },
+  {
+    "name": "TextBlob",
+    "owner": "sloria",
+    "stargazers_count": 8359
+  },
+  {
+    "name": "pattern",
+    "owner": "clips",
+    "stargazers_count": 8346
+  },
+  {
+    "name": "qutebrowser",
+    "owner": "qutebrowser",
+    "stargazers_count": 8247
+  },
+  {
+    "name": "wait-for-it",
+    "owner": "vishnubob",
+    "stargazers_count": 8190
+  },
+  {
+    "name": "arrow",
+    "owner": "arrow-py",
+    "stargazers_count": 8118
+  },
+  {
+    "name": "vid2vid",
+    "owner": "NVIDIA",
+    "stargazers_count": 8088
+  },
+  {
+    "name": "DeepFaceLive",
+    "owner": "iperov",
+    "stargazers_count": 8024
+  },
+  {
+    "name": "opensnitch",
+    "owner": "evilsocket",
+    "stargazers_count": 8002
+  },
+  {
+    "name": "numba",
+    "owner": "numba",
+    "stargazers_count": 7996
+  },
+  {
+    "name": "paramiko",
+    "owner": "paramiko",
+    "stargazers_count": 7976
+  },
+  {
+    "name": "Douyin-Bot",
+    "owner": "wangshub",
+    "stargazers_count": 7972
+  },
+  {
+    "name": "Python",
+    "owner": "injetlee",
+    "stargazers_count": 7965
+  },
+  {
+    "name": "elastalert",
+    "owner": "Yelp",
+    "stargazers_count": 7853
+  },
+  {
+    "name": "kedro",
+    "owner": "kedro-org",
+    "stargazers_count": 7821
+  },
+  {
+    "name": "bottle",
+    "owner": "bottlepy",
+    "stargazers_count": 7802
+  },
+  {
+    "name": "pytube",
+    "owner": "pytube",
+    "stargazers_count": 7750
+  },
+  {
+    "name": "paperless",
+    "owner": "the-paperless-project",
+    "stargazers_count": 7747
+  },
+  {
+    "name": "boto3",
+    "owner": "boto",
+    "stargazers_count": 7705
+  },
+  {
+    "name": "diffusers",
+    "owner": "huggingface",
+    "stargazers_count": 7680
+  },
+  {
+    "name": "Reinforcement-learning-with-tensorflow",
+    "owner": "MorvanZhou",
+    "stargazers_count": 7677
+  },
+  {
+    "name": "pyro",
+    "owner": "pyro-ppl",
+    "stargazers_count": 7674
+  },
+  {
+    "name": "pysc2",
+    "owner": "deepmind",
+    "stargazers_count": 7629
+  },
+  {
+    "name": "YOLOX",
+    "owner": "Megvii-BaseDetection",
+    "stargazers_count": 7562
+  },
+  {
+    "name": "playwright-python",
+    "owner": "microsoft",
+    "stargazers_count": 7506
+  },
+  {
+    "name": "TrumpScript",
+    "owner": "samshadwell",
+    "stargazers_count": 7496
+  },
+  {
+    "name": "tensorboardX",
+    "owner": "lanpa",
+    "stargazers_count": 7482
+  },
+  {
+    "name": "text_classification",
+    "owner": "brightmart",
+    "stargazers_count": 7457
+  },
+  {
+    "name": "graphene",
+    "owner": "graphql-python",
+    "stargazers_count": 7453
+  },
+  {
+    "name": "opendrop",
+    "owner": "seemoo-lab",
+    "stargazers_count": 7418
+  },
+  {
+    "name": "iOS-DeviceSupport",
+    "owner": "iGhibli",
+    "stargazers_count": 7393
+  },
+  {
+    "name": "spinningup",
+    "owner": "openai",
+    "stargazers_count": 7355
+  },
+  {
+    "name": "ImageAI",
+    "owner": "OlafenwaMoses",
+    "stargazers_count": 7340
+  },
+  {
+    "name": "gitsome",
+    "owner": "donnemartin",
+    "stargazers_count": 7329
+  },
+  {
+    "name": "universe",
+    "owner": "openai",
+    "stargazers_count": 7325
+  },
+  {
+    "name": "unilm",
+    "owner": "microsoft",
+    "stargazers_count": 7260
+  },
+  {
+    "name": "SpaceshipGenerator",
+    "owner": "a1studmuffin",
+    "stargazers_count": 7245
+  },
+  {
+    "name": "MHDDoS",
+    "owner": "MatrixTM",
+    "stargazers_count": 7214
+  },
+  {
+    "name": "EfficientNet-PyTorch",
+    "owner": "lukemelas",
+    "stargazers_count": 7206
+  },
+  {
+    "name": "rembg",
+    "owner": "danielgatis",
+    "stargazers_count": 7199
+  },
+  {
+    "name": "trax",
+    "owner": "google",
+    "stargazers_count": 7173
+  },
+  {
+    "name": "gitfiti",
+    "owner": "gelstudios",
+    "stargazers_count": 7126
+  },
+  {
+    "name": "TensorLayer",
+    "owner": "tensorlayer",
+    "stargazers_count": 7108
+  },
+  {
+    "name": "machine_learning_examples",
+    "owner": "lazyprogrammer",
+    "stargazers_count": 7075
+  },
+  {
+    "name": "jupyterhub",
+    "owner": "jupyterhub",
+    "stargazers_count": 6996
+  },
+  {
+    "name": "docker-stacks",
+    "owner": "jupyter",
+    "stargazers_count": 6975
+  },
+  {
+    "name": "WeixinBot",
+    "owner": "Urinx",
+    "stargazers_count": 6973
+  },
+  {
+    "name": "programming-talks",
+    "owner": "hellerve",
+    "stargazers_count": 6966
+  },
+  {
+    "name": "ajenti",
+    "owner": "ajenti",
+    "stargazers_count": 6913
+  },
+  {
+    "name": "machine-learning-course",
+    "owner": "instillai",
+    "stargazers_count": 6875
+  },
+  {
+    "name": "QUANTAXIS",
+    "owner": "yutiansut",
+    "stargazers_count": 6850
+  },
+  {
+    "name": "pulse",
+    "owner": "adamian98",
+    "stargazers_count": 6842
+  },
+  {
+    "name": "bup",
+    "owner": "bup",
+    "stargazers_count": 6826
+  },
+  {
+    "name": "pywal",
+    "owner": "dylanaraps",
+    "stargazers_count": 6782
+  },
+  {
+    "name": "wtv",
+    "owner": "biancangming",
+    "stargazers_count": 6781
+  },
+  {
+    "name": "apex",
+    "owner": "NVIDIA",
+    "stargazers_count": 6780
+  },
+  {
+    "name": "aws-shell",
+    "owner": "awslabs",
+    "stargazers_count": 6742
+  },
+  {
+    "name": "pytorch3d",
+    "owner": "facebookresearch",
+    "stargazers_count": 6732
+  },
+  {
+    "name": "howmanypeoplearearound",
+    "owner": "schollz",
+    "stargazers_count": 6669
+  },
+  {
+    "name": "ipwndfu",
+    "owner": "axi0mX",
+    "stargazers_count": 6658
+  },
+  {
+    "name": "Airtest",
+    "owner": "AirtestProject",
+    "stargazers_count": 6644
+  },
+  {
+    "name": "ColossalAI",
+    "owner": "hpcaitech",
+    "stargazers_count": 6606
+  },
+  {
+    "name": "fluentui-emoji",
+    "owner": "microsoft",
+    "stargazers_count": 6605
+  },
+  {
+    "name": "whoogle-search",
+    "owner": "benbusby",
+    "stargazers_count": 6595
+  },
+  {
+    "name": "bypy",
+    "owner": "houtianze",
+    "stargazers_count": 6586
+  },
+  {
+    "name": "speech_recognition",
+    "owner": "Uberi",
+    "stargazers_count": 6566
+  },
+  {
+    "name": "eve",
+    "owner": "pyeve",
+    "stargazers_count": 6554
+  },
+  {
+    "name": "PaddleNLP",
+    "owner": "PaddlePaddle",
+    "stargazers_count": 6534
+  },
+  {
+    "name": "awesome-math",
+    "owner": "rossant",
+    "stargazers_count": 6516
+  },
+  {
+    "name": "gpt-neo",
+    "owner": "EleutherAI",
+    "stargazers_count": 6515
+  },
+  {
+    "name": "hydra",
+    "owner": "facebookresearch",
+    "stargazers_count": 6512
+  },
+  {
+    "name": "gcn",
+    "owner": "tkipf",
+    "stargazers_count": 6510
+  },
+  {
+    "name": "hyperopt",
+    "owner": "hyperopt",
+    "stargazers_count": 6472
+  },
+  {
+    "name": "devicon",
+    "owner": "devicons",
+    "stargazers_count": 6455
+  },
+  {
+    "name": "sh",
+    "owner": "amoffat",
+    "stargazers_count": 6437
+  },
+  {
+    "name": "pyod",
+    "owner": "yzhao062",
+    "stargazers_count": 6411
+  },
+  {
+    "name": "segmentation_models.pytorch",
+    "owner": "qubvel",
+    "stargazers_count": 6399
+  },
+  {
+    "name": "U-2-Net",
+    "owner": "xuebinqin",
+    "stargazers_count": 6397
+  },
+  {
+    "name": "icecream",
+    "owner": "gruns",
+    "stargazers_count": 6392
+  },
+  {
+    "name": "stanza",
+    "owner": "stanfordnlp",
+    "stargazers_count": 6386
+  },
+  {
+    "name": "maybe",
+    "owner": "p-e-w",
+    "stargazers_count": 6380
+  },
+  {
+    "name": "awesome-cheatsheet",
+    "owner": "detailyang",
+    "stargazers_count": 6357
+  },
+  {
+    "name": "marshmallow",
+    "owner": "marshmallow-code",
+    "stargazers_count": 6324
+  },
+  {
+    "name": "InfoSpider",
+    "owner": "kangvcar",
+    "stargazers_count": 6321
+  },
+  {
+    "name": "docker-py",
+    "owner": "docker",
+    "stargazers_count": 6006
+  },
+  {
+    "name": "data-science-blogs",
+    "owner": "rushter",
+    "stargazers_count": 5981
+  },
+  {
+    "name": "sktime",
+    "owner": "sktime",
+    "stargazers_count": 5879
+  },
+  {
+    "name": "googler",
+    "owner": "jarun",
+    "stargazers_count": 5853
+  },
+  {
+    "name": "codeface",
+    "owner": "chrissimpkins",
+    "stargazers_count": 5836
+  },
+  {
+    "name": "voltron",
+    "owner": "snare",
+    "stargazers_count": 5828
+  },
+  {
+    "name": "grip",
+    "owner": "joeyespo",
+    "stargazers_count": 5817
+  },
+  {
+    "name": "stock",
+    "owner": "pythonstock",
+    "stargazers_count": 5799
+  },
+  {
+    "name": "fuck-login",
+    "owner": "xchaoinfo",
+    "stargazers_count": 5782
+  },
+  {
+    "name": "pipx",
+    "owner": "pypa",
+    "stargazers_count": 5719
+  },
+  {
+    "name": "jukebox",
+    "owner": "openai",
+    "stargazers_count": 5705
+  },
+  {
+    "name": "imagen-pytorch",
+    "owner": "lucidrains",
+    "stargazers_count": 5669
+  },
+  {
+    "name": "jupytext",
+    "owner": "mwouts",
+    "stargazers_count": 5667
+  },
+  {
+    "name": "MMdnn",
+    "owner": "microsoft",
+    "stargazers_count": 5646
+  },
+  {
+    "name": "jc",
+    "owner": "kellyjonbrazil",
+    "stargazers_count": 5638
+  },
+  {
+    "name": "data-scientist-roadmap",
+    "owner": "MrMimic",
+    "stargazers_count": 5633
+  },
+  {
+    "name": "SASM",
+    "owner": "Dman95",
+    "stargazers_count": 5621
+  },
+  {
+    "name": "PyGithub",
+    "owner": "PyGithub",
+    "stargazers_count": 5619
+  },
+  {
+    "name": "pyWhat",
+    "owner": "bee-san",
+    "stargazers_count": 5556
+  },
+  {
+    "name": "cnn-text-classification-tf",
+    "owner": "dennybritz",
+    "stargazers_count": 5546
+  },
+  {
+    "name": "seq2seq",
+    "owner": "google",
+    "stargazers_count": 5536
+  },
+  {
+    "name": "Awesome-CoreML-Models",
+    "owner": "likedan",
+    "stargazers_count": 5531
+  },
+  {
+    "name": "librosa",
+    "owner": "librosa",
+    "stargazers_count": 5493
+  },
+  {
+    "name": "flower",
+    "owner": "mher",
+    "stargazers_count": 5450
+  },
+  {
+    "name": "objection",
+    "owner": "sensepost",
+    "stargazers_count": 5447
+  },
+  {
+    "name": "WechatSogou",
+    "owner": "chyroc",
+    "stargazers_count": 5406
+  },
+  {
+    "name": "dowhy",
+    "owner": "py-why",
+    "stargazers_count": 5396
+  },
+  {
+    "name": "Dshell",
+    "owner": "USArmyResearchLab",
+    "stargazers_count": 5377
+  },
+  {
+    "name": "example-code",
+    "owner": "fluentpython",
+    "stargazers_count": 5331
+  },
+  {
+    "name": "wxBot",
+    "owner": "liuwons",
+    "stargazers_count": 5323
+  },
+  {
+    "name": "ERNIE",
+    "owner": "PaddlePaddle",
+    "stargazers_count": 5308
+  },
+  {
+    "name": "Eel",
+    "owner": "python-eel",
+    "stargazers_count": 5300
+  },
+  {
+    "name": "srez",
+    "owner": "david-gpu",
+    "stargazers_count": 5296
+  },
+  {
+    "name": "tensorflow-wavenet",
+    "owner": "ibab",
+    "stargazers_count": 5280
+  },
+  {
+    "name": "sqlfluff",
+    "owner": "sqlfluff",
+    "stargazers_count": 5268
+  },
+  {
+    "name": "SlowFast",
+    "owner": "facebookresearch",
+    "stargazers_count": 5258
+  },
+  {
+    "name": "eht-imaging",
+    "owner": "achael",
+    "stargazers_count": 5232
+  },
+  {
+    "name": "BERT-pytorch",
+    "owner": "codertimo",
+    "stargazers_count": 5221
+  },
+  {
+    "name": "knowledge-repo",
+    "owner": "airbnb",
+    "stargazers_count": 5216
+  },
+  {
+    "name": "csvkit",
+    "owner": "wireservice",
+    "stargazers_count": 5199
+  },
+  {
+    "name": "scrapy-redis",
+    "owner": "rmax",
+    "stargazers_count": 5198
+  },
+  {
+    "name": "flask-admin",
+    "owner": "flask-admin",
+    "stargazers_count": 5187
+  },
+  {
+    "name": "cryptography",
+    "owner": "pyca",
+    "stargazers_count": 5161
+  },
+  {
+    "name": "Lihang",
+    "owner": "SmirkCao",
+    "stargazers_count": 5158
+  },
+  {
+    "name": "scikit-image",
+    "owner": "scikit-image",
+    "stargazers_count": 5123
+  },
+  {
+    "name": "instaloader",
+    "owner": "instaloader",
+    "stargazers_count": 5060
+  },
+  {
+    "name": "kaggle-api",
+    "owner": "Kaggle",
+    "stargazers_count": 5024
+  },
+  {
+    "name": "setup.py",
+    "owner": "navdeep-G",
+    "stargazers_count": 5014
+  },
+  {
+    "name": "sphinx",
+    "owner": "sphinx-doc",
+    "stargazers_count": 5003
+  },
+  {
+    "name": "wandb",
+    "owner": "wandb",
+    "stargazers_count": 4985
+  },
+  {
+    "name": "pytorch-cifar",
+    "owner": "kuangliu",
+    "stargazers_count": 4968
+  },
+  {
+    "name": "PathPlanning",
+    "owner": "zhm-real",
+    "stargazers_count": 4955
+  },
+  {
+    "name": "deepface",
+    "owner": "serengil",
+    "stargazers_count": 4940
+  },
+  {
+    "name": "DALLE-pytorch",
+    "owner": "lucidrains",
+    "stargazers_count": 4934
+  },
+  {
+    "name": "python-binance",
+    "owner": "sammchardy",
+    "stargazers_count": 4932
+  },
+  {
+    "name": "regular-investing-in-box",
+    "owner": "xiaolai",
+    "stargazers_count": 4931
+  },
+  {
+    "name": "checkov",
+    "owner": "bridgecrewio",
+    "stargazers_count": 4912
+  },
+  {
+    "name": "AidLearning-FrameWork",
+    "owner": "aidlearning",
+    "stargazers_count": 4908
+  },
+  {
+    "name": "PyPDF2",
+    "owner": "py-pdf",
+    "stargazers_count": 4899
+  },
+  {
+    "name": "DeepLearning",
+    "owner": "MingchaoZhu",
+    "stargazers_count": 4876
+  },
+  {
+    "name": "Augmentor",
+    "owner": "mdbloice",
+    "stargazers_count": 4822
+  },
+  {
+    "name": "maltrail",
+    "owner": "stamparm",
+    "stargazers_count": 4807
+  },
+  {
+    "name": "textgenrnn",
+    "owner": "minimaxir",
+    "stargazers_count": 4806
+  },
+  {
+    "name": "uiautomator2",
+    "owner": "openatx",
+    "stargazers_count": 4803
+  },
+  {
+    "name": "mmsegmentation",
+    "owner": "open-mmlab",
+    "stargazers_count": 4778
+  },
+  {
+    "name": "bert4keras",
+    "owner": "bojone",
+    "stargazers_count": 4760
+  },
+  {
+    "name": "noteshrink",
+    "owner": "mzucker",
+    "stargazers_count": 4752
+  },
+  {
+    "name": "oppia",
+    "owner": "oppia",
+    "stargazers_count": 4733
+  },
+  {
+    "name": "autoscraper",
+    "owner": "alirezamika",
+    "stargazers_count": 4726
+  },
+  {
+    "name": "stylegan3",
+    "owner": "NVlabs",
+    "stargazers_count": 4725
+  },
+  {
+    "name": "git-filter-repo",
+    "owner": "newren",
+    "stargazers_count": 4717
+  },
+  {
+    "name": "commonmark-spec",
+    "owner": "commonmark",
+    "stargazers_count": 4670
+  },
+  {
+    "name": "xadmin",
+    "owner": "sshwsfc",
+    "stargazers_count": 4669
+  },
+  {
+    "name": "pipreqs",
+    "owner": "bndr",
+    "stargazers_count": 4662
+  },
+  {
+    "name": "package_control",
+    "owner": "wbond",
+    "stargazers_count": 4660
+  },
+  {
+    "name": "mae",
+    "owner": "facebookresearch",
+    "stargazers_count": 4658
+  },
+  {
+    "name": "transitions",
+    "owner": "pytransitions",
+    "stargazers_count": 4656
+  },
+  {
+    "name": "AutoSploit",
+    "owner": "NullArray",
+    "stargazers_count": 4653
+  },
+  {
+    "name": "acme-tiny",
+    "owner": "diafygi",
+    "stargazers_count": 4637
+  },
+  {
+    "name": "udemy-dl",
+    "owner": "r0oth3x49",
+    "stargazers_count": 4621
+  },
+  {
+    "name": "Tautulli",
+    "owner": "Tautulli",
+    "stargazers_count": 4612
+  },
+  {
+    "name": "mininet",
+    "owner": "mininet",
+    "stargazers_count": 4608
+  },
+  {
+    "name": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+    "owner": "p-christ",
+    "stargazers_count": 4606
+  },
+  {
+    "name": "django-crispy-forms",
+    "owner": "django-crispy-forms",
+    "stargazers_count": 4559
+  },
+  {
+    "name": "openstack",
+    "owner": "openstack",
+    "stargazers_count": 4547
+  },
+  {
+    "name": "yolact",
+    "owner": "dbolya",
+    "stargazers_count": 4533
+  },
+  {
+    "name": "pytesseract",
+    "owner": "madmaze",
+    "stargazers_count": 4526
+  },
+  {
+    "name": "mmcv",
+    "owner": "open-mmlab",
+    "stargazers_count": 4520
+  },
+  {
+    "name": "pygcn",
+    "owner": "tkipf",
+    "stargazers_count": 4500
+  },
+  {
+    "name": "MachineLearning",
+    "owner": "wepe",
+    "stargazers_count": 4496
+  },
+  {
+    "name": "Machine-Learning-Collection",
+    "owner": "aladdinpersson",
+    "stargazers_count": 4453
+  },
+  {
+    "name": "server",
+    "owner": "triton-inference-server",
+    "stargazers_count": 4411
+  },
+  {
+    "name": "wifite2",
+    "owner": "derv82",
+    "stargazers_count": 4373
+  },
+  {
+    "name": "deep-learning-roadmap",
+    "owner": "instillai",
+    "stargazers_count": 4354
+  },
+  {
+    "name": "Dango-Translator",
+    "owner": "PantsuDango",
+    "stargazers_count": 4344
+  },
+  {
+    "name": "pylint",
+    "owner": "PyCQA",
+    "stargazers_count": 4342
+  },
+  {
+    "name": "CTFd",
+    "owner": "CTFd",
+    "stargazers_count": 4318
+  },
+  {
+    "name": "keras-retinanet",
+    "owner": "fizyr",
+    "stargazers_count": 4316
+  },
+  {
+    "name": "DeepNude-an-Image-to-Image-technology",
+    "owner": "yuanxiaosc",
+    "stargazers_count": 4314
+  },
+  {
+    "name": "virtualenv",
+    "owner": "pypa",
+    "stargazers_count": 4311
+  },
+  {
+    "name": "pyapns",
+    "owner": "samuraisam",
+    "stargazers_count": 1941
+  },
+  {
+    "name": "Some-PoC-oR-ExP",
+    "owner": "coffeehb",
+    "stargazers_count": 1936
+  },
+  {
+    "name": "ironpython3",
+    "owner": "IronLanguages",
+    "stargazers_count": 1932
+  },
+  {
+    "name": "libra",
+    "owner": "Palashio",
+    "stargazers_count": 1916
+  },
+  {
+    "name": "exchangeratesapi",
+    "owner": "exchangeratesapi",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "MS17-010",
+    "owner": "worawit",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "KAIR",
+    "owner": "cszn",
+    "stargazers_count": 1909
+  },
+  {
+    "name": "exercises-in-programming-style",
+    "owner": "crista",
+    "stargazers_count": 1904
+  },
+  {
+    "name": "plane-notify",
+    "owner": "Jxck-S",
+    "stargazers_count": 1899
+  },
+  {
+    "name": "IPProxyTool",
+    "owner": "awolfly9",
+    "stargazers_count": 1889
+  },
+  {
+    "name": "Bombers",
+    "owner": "bhattsameer",
+    "stargazers_count": 1882
+  },
+  {
+    "name": "presidio",
+    "owner": "microsoft",
+    "stargazers_count": 1879
+  },
+  {
+    "name": "cipherscan",
+    "owner": "mozilla",
+    "stargazers_count": 1864
+  },
+  {
+    "name": "py-evm",
+    "owner": "ethereum",
+    "stargazers_count": 1861
+  },
+  {
+    "name": "nonebot",
+    "owner": "nonebot",
+    "stargazers_count": 1861
+  },
+  {
+    "name": "Impulse",
+    "owner": "LimerBoy",
+    "stargazers_count": 1860
+  },
+  {
+    "name": "pycharm-guide",
+    "owner": "iswbm",
+    "stargazers_count": 1852
+  },
+  {
+    "name": "AmpliGraph",
+    "owner": "Accenture",
+    "stargazers_count": 1850
+  },
+  {
+    "name": "retrying",
+    "owner": "rholder",
+    "stargazers_count": 1845
+  },
+  {
+    "name": "examples",
+    "owner": "pyqt",
+    "stargazers_count": 1842
+  },
+  {
+    "name": "tern_for_vim",
+    "owner": "ternjs",
+    "stargazers_count": 1842
+  },
+  {
+    "name": "osxcollector",
+    "owner": "Yelp",
+    "stargazers_count": 1840
+  },
+  {
+    "name": "rekall",
+    "owner": "google",
+    "stargazers_count": 1837
+  },
+  {
+    "name": "SynthText",
+    "owner": "ankush-me",
+    "stargazers_count": 1834
+  },
+  {
+    "name": "Dialog_Corpus",
+    "owner": "candlewill",
+    "stargazers_count": 1834
+  },
+  {
+    "name": "JSFinder",
+    "owner": "Threezh1",
+    "stargazers_count": 1826
+  },
+  {
+    "name": "cityscapesScripts",
+    "owner": "mcordts",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "POC-T",
+    "owner": "Xyntax",
+    "stargazers_count": 1818
+  },
+  {
+    "name": "DeepMatch",
+    "owner": "shenweichen",
+    "stargazers_count": 1809
+  },
+  {
+    "name": "awesome-discord-communities",
+    "owner": "mhxion",
+    "stargazers_count": 1797
+  },
+  {
+    "name": "chardet",
+    "owner": "chardet",
+    "stargazers_count": 1797
+  },
+  {
+    "name": "rdflib",
+    "owner": "RDFLib",
+    "stargazers_count": 1792
+  },
+  {
+    "name": "textfilter",
+    "owner": "observerss",
+    "stargazers_count": 1784
+  },
+  {
+    "name": "pyusb",
+    "owner": "pyusb",
+    "stargazers_count": 1770
+  },
+  {
+    "name": "wpgtk",
+    "owner": "deviantfero",
+    "stargazers_count": 1768
+  },
+  {
+    "name": "editorconfig-sublime",
+    "owner": "sindresorhus",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "voluptuous",
+    "owner": "alecthomas",
+    "stargazers_count": 1750
+  },
+  {
+    "name": "PyTorch_YOLOv4",
+    "owner": "WongKinYiu",
+    "stargazers_count": 1741
+  },
+  {
+    "name": "retopoflow",
+    "owner": "CGCookie",
+    "stargazers_count": 1736
+  },
+  {
+    "name": "macro_pack",
+    "owner": "sevagas",
+    "stargazers_count": 1733
+  },
+  {
+    "name": "gitless",
+    "owner": "gitless-vcs",
+    "stargazers_count": 1725
+  },
+  {
+    "name": "Kunlun-M",
+    "owner": "LoRexxar",
+    "stargazers_count": 1725
+  },
+  {
+    "name": "FART",
+    "owner": "hanbinglengyue",
+    "stargazers_count": 1724
+  },
+  {
+    "name": "django-simple-history",
+    "owner": "jazzband",
+    "stargazers_count": 1723
+  },
+  {
+    "name": "Medusa",
+    "owner": "Ascotbe",
+    "stargazers_count": 1722
+  },
+  {
+    "name": "YOLO_tensorflow",
+    "owner": "gliese581gg",
+    "stargazers_count": 1715
+  },
+  {
+    "name": "offlineimap",
+    "owner": "OfflineIMAP",
+    "stargazers_count": 1714
+  },
+  {
+    "name": "content",
+    "owner": "cs109",
+    "stargazers_count": 1710
+  },
+  {
+    "name": "LayoutCast",
+    "owner": "mmin18",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "boltstream",
+    "owner": "benwilber",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "ai-chatbot-framework",
+    "owner": "alfredfrancis",
+    "stargazers_count": 1701
+  },
+  {
+    "name": "PyPattyrn",
+    "owner": "tylerlaberge",
+    "stargazers_count": 1695
+  },
+  {
+    "name": "gmail",
+    "owner": "charlierguo",
+    "stargazers_count": 1694
+  },
+  {
+    "name": "Diamond",
+    "owner": "python-diamond",
+    "stargazers_count": 1687
+  },
+  {
+    "name": "youtube",
+    "owner": "engineer-man",
+    "stargazers_count": 1685
+  },
+  {
+    "name": "pwnedOrNot",
+    "owner": "thewhiteh4t",
+    "stargazers_count": 1684
+  },
+  {
+    "name": "POT",
+    "owner": "PythonOT",
+    "stargazers_count": 1664
+  },
+  {
+    "name": "aws-well-architected-labs",
+    "owner": "awslabs",
+    "stargazers_count": 1650
+  },
+  {
+    "name": "named_entity_recognition",
+    "owner": "luopeixiang",
+    "stargazers_count": 1646
+  },
+  {
+    "name": "Vintageous",
+    "owner": "guillermooo",
+    "stargazers_count": 1646
+  },
+  {
+    "name": "project_alias",
+    "owner": "bjoernkarmann",
+    "stargazers_count": 1637
+  },
+  {
+    "name": "greykite",
+    "owner": "linkedin",
+    "stargazers_count": 1632
+  },
+  {
+    "name": "tensorflow-resnet",
+    "owner": "ry",
+    "stargazers_count": 1631
+  },
+  {
+    "name": "delegator.py",
+    "owner": "amitt001",
+    "stargazers_count": 1626
+  },
+  {
+    "name": "ursina",
+    "owner": "pokepetter",
+    "stargazers_count": 1621
+  },
+  {
+    "name": "cleanrl",
+    "owner": "vwxyzjn",
+    "stargazers_count": 1616
+  },
+  {
+    "name": "snoop",
+    "owner": "snooppr",
+    "stargazers_count": 1614
+  },
+  {
+    "name": "cherrypy",
+    "owner": "cherrypy",
+    "stargazers_count": 1613
+  },
+  {
+    "name": "RoseTTAFold",
+    "owner": "RosettaCommons",
+    "stargazers_count": 1610
+  },
+  {
+    "name": "owtf",
+    "owner": "owtf",
+    "stargazers_count": 1604
+  },
+  {
+    "name": "coronavirus-tracker-api",
+    "owner": "ExpDev07",
+    "stargazers_count": 1603
+  },
+  {
+    "name": "instagrapi",
+    "owner": "adw0rd",
+    "stargazers_count": 1602
+  },
+  {
+    "name": "opencanary",
+    "owner": "thinkst",
+    "stargazers_count": 1597
+  },
+  {
+    "name": "python-nubia",
+    "owner": "facebookarchive",
+    "stargazers_count": 1594
+  },
+  {
+    "name": "keepsake",
+    "owner": "replicate",
+    "stargazers_count": 1594
+  },
+  {
+    "name": "Awesome-Redteam",
+    "owner": "Threekiii",
+    "stargazers_count": 1593
+  },
+  {
+    "name": "once-for-all",
+    "owner": "mit-han-lab",
+    "stargazers_count": 1592
+  },
+  {
+    "name": "virt-manager",
+    "owner": "virt-manager",
+    "stargazers_count": 1585
+  },
+  {
+    "name": "3DUnetCNN",
+    "owner": "ellisdg",
+    "stargazers_count": 1584
+  },
+  {
+    "name": "backgroundremover",
+    "owner": "nadermx",
+    "stargazers_count": 1583
+  },
+  {
+    "name": "diffgram",
+    "owner": "diffgram",
+    "stargazers_count": 1576
+  },
+  {
+    "name": "scancode-toolkit",
+    "owner": "nexB",
+    "stargazers_count": 1576
+  },
+  {
+    "name": "handtracking",
+    "owner": "victordibia",
+    "stargazers_count": 1570
+  },
+  {
+    "name": "sparkup",
+    "owner": "rstacruz",
+    "stargazers_count": 1565
+  },
+  {
+    "name": "tldextract",
+    "owner": "john-kurkowski",
+    "stargazers_count": 1565
+  },
+  {
+    "name": "second.pytorch",
+    "owner": "traveller59",
+    "stargazers_count": 1564
+  },
+  {
+    "name": "highway-env",
+    "owner": "eleurent",
+    "stargazers_count": 1564
+  },
+  {
+    "name": "parsimonious",
+    "owner": "erikrose",
+    "stargazers_count": 1561
+  },
+  {
+    "name": "yanderifier",
+    "owner": "dunnousername",
+    "stargazers_count": 1559
+  },
+  {
+    "name": "pwn_jenkins",
+    "owner": "gquere",
+    "stargazers_count": 1555
+  },
+  {
+    "name": "pywt",
+    "owner": "PyWavelets",
+    "stargazers_count": 1552
+  },
+  {
+    "name": "napari",
+    "owner": "napari",
+    "stargazers_count": 1547
+  },
+  {
+    "name": "dh-virtualenv",
+    "owner": "spotify",
+    "stargazers_count": 1542
+  },
+  {
+    "name": "mathematics_dataset",
+    "owner": "deepmind",
+    "stargazers_count": 1542
+  },
+  {
+    "name": "example-code-2e",
+    "owner": "fluentpython",
+    "stargazers_count": 1540
+  },
+  {
+    "name": "weblogicScanner",
+    "owner": "0xn0ne",
+    "stargazers_count": 1539
+  },
+  {
+    "name": "searss",
+    "owner": "fossasia",
+    "stargazers_count": 1537
+  },
+  {
+    "name": "simplejson",
+    "owner": "simplejson",
+    "stargazers_count": 1537
+  },
+  {
+    "name": "line-bot-sdk-python",
+    "owner": "line",
+    "stargazers_count": 1532
+  },
+  {
+    "name": "petastorm",
+    "owner": "uber",
+    "stargazers_count": 1530
+  },
+  {
+    "name": "nvda",
+    "owner": "nvaccess",
+    "stargazers_count": 1567
+  },
+  {
+    "name": "Metrics",
+    "owner": "benhamner",
+    "stargazers_count": 1565
+  },
+  {
+    "name": "second.pytorch",
+    "owner": "traveller59",
+    "stargazers_count": 1564
+  },
+  {
+    "name": "aiyprojects-raspbian",
+    "owner": "google",
+    "stargazers_count": 1561
+  },
+  {
+    "name": "syncplay",
+    "owner": "Syncplay",
+    "stargazers_count": 1560
+  },
+  {
+    "name": "yanderifier",
+    "owner": "dunnousername",
+    "stargazers_count": 1559
+  },
+  {
+    "name": "flanker",
+    "owner": "mailgun",
+    "stargazers_count": 1557
+  },
+  {
+    "name": "pwn_jenkins",
+    "owner": "gquere",
+    "stargazers_count": 1555
+  },
+  {
+    "name": "pywt",
+    "owner": "PyWavelets",
+    "stargazers_count": 1552
+  },
+  {
+    "name": "neural_collaborative_filtering",
+    "owner": "hexiangnan",
+    "stargazers_count": 1550
+  },
+  {
+    "name": "meilix-systemlock",
+    "owner": "fossasia",
+    "stargazers_count": 1549
+  },
+  {
+    "name": "dh-virtualenv",
+    "owner": "spotify",
+    "stargazers_count": 1542
+  },
+  {
+    "name": "example-code-2e",
+    "owner": "fluentpython",
+    "stargazers_count": 1540
+  },
+  {
+    "name": "weblogicScanner",
+    "owner": "0xn0ne",
+    "stargazers_count": 1539
+  },
+  {
+    "name": "petastorm",
+    "owner": "uber",
+    "stargazers_count": 1530
+  },
+  {
+    "name": "surpriver",
+    "owner": "tradytics",
+    "stargazers_count": 1521
+  },
+  {
+    "name": "CommonRegex",
+    "owner": "madisonmay",
+    "stargazers_count": 1520
+  },
+  {
+    "name": "Pipe",
+    "owner": "JulienPalard",
+    "stargazers_count": 1520
+  },
+  {
+    "name": "disposable-email-domains",
+    "owner": "disposable-email-domains",
+    "stargazers_count": 1513
+  },
+  {
+    "name": "MedicalNet",
+    "owner": "Tencent",
+    "stargazers_count": 1512
+  },
+  {
+    "name": "xar",
+    "owner": "facebookincubator",
+    "stargazers_count": 1512
+  },
+  {
+    "name": "anchore-engine",
+    "owner": "anchore",
+    "stargazers_count": 1511
+  },
+  {
+    "name": "lsassy",
+    "owner": "Hackndo",
+    "stargazers_count": 1510
+  },
+  {
+    "name": "pytorch_GAN_zoo",
+    "owner": "facebookresearch",
+    "stargazers_count": 1509
+  },
+  {
+    "name": "circus",
+    "owner": "circus-tent",
+    "stargazers_count": 1509
+  },
+  {
+    "name": "AYABInterface",
+    "owner": "fossasia",
+    "stargazers_count": 1502
+  },
+  {
+    "name": "geocoder",
+    "owner": "DenisCarriere",
+    "stargazers_count": 1496
+  },
+  {
+    "name": "heartrate",
+    "owner": "alexmojaki",
+    "stargazers_count": 1496
+  },
+  {
+    "name": "Reddit-Stock-Trends",
+    "owner": "iam-abbas",
+    "stargazers_count": 1491
+  },
+  {
+    "name": "PIFu",
+    "owner": "shunsukesaito",
+    "stargazers_count": 1489
+  },
+  {
+    "name": "cloudml-samples",
+    "owner": "GoogleCloudPlatform",
+    "stargazers_count": 1485
+  },
+  {
+    "name": "Non-local_pytorch",
+    "owner": "AlexHex7",
+    "stargazers_count": 1485
+  },
+  {
+    "name": "AppleNeuralHash2ONNX",
+    "owner": "AsuharietYgvar",
+    "stargazers_count": 1484
+  },
+  {
+    "name": "wechat-dump",
+    "owner": "ppwwyyxx",
+    "stargazers_count": 1482
+  },
+  {
+    "name": "SuperPointPretrainedNetwork",
+    "owner": "magicleap",
+    "stargazers_count": 1477
+  },
+  {
+    "name": "aiomultiprocess",
+    "owner": "omnilib",
+    "stargazers_count": 1476
+  },
+  {
+    "name": "pixivpy",
+    "owner": "upbit",
+    "stargazers_count": 1471
+  },
+  {
+    "name": "Poco",
+    "owner": "AirtestProject",
+    "stargazers_count": 1470
+  },
+  {
+    "name": "TransGAN",
+    "owner": "VITA-Group",
+    "stargazers_count": 1461
+  },
+  {
+    "name": "noisy",
+    "owner": "1tayH",
+    "stargazers_count": 1457
+  },
+  {
+    "name": "pytorch-styleguide",
+    "owner": "IgorSusmelj",
+    "stargazers_count": 1455
+  },
+  {
+    "name": "vedo",
+    "owner": "marcomusy",
+    "stargazers_count": 1454
+  },
+  {
+    "name": "phishing_catcher",
+    "owner": "x0rz",
+    "stargazers_count": 1448
+  },
+  {
+    "name": "django-pipeline",
+    "owner": "jazzband",
+    "stargazers_count": 1445
+  },
+  {
+    "name": "mmdeploy",
+    "owner": "open-mmlab",
+    "stargazers_count": 1443
+  },
+  {
+    "name": "lightweight-gan",
+    "owner": "lucidrains",
+    "stargazers_count": 1437
+  },
+  {
+    "name": "news-please",
+    "owner": "fhamborg",
+    "stargazers_count": 1434
+  },
+  {
+    "name": "fvcore",
+    "owner": "facebookresearch",
+    "stargazers_count": 1433
+  },
+  {
+    "name": "snake",
+    "owner": "chuyangliu",
+    "stargazers_count": 1430
+  },
+  {
+    "name": "organize",
+    "owner": "tfeldmann",
+    "stargazers_count": 1423
+  },
+  {
+    "name": "EfficientDet.Pytorch",
+    "owner": "toandaominh1997",
+    "stargazers_count": 1423
+  },
+  {
+    "name": "NeuronBlocks",
+    "owner": "microsoft",
+    "stargazers_count": 1421
+  },
+  {
+    "name": "distributed",
+    "owner": "dask",
+    "stargazers_count": 1421
+  },
+  {
+    "name": "snake",
+    "owner": "amoffat",
+    "stargazers_count": 1410
+  },
+  {
+    "name": "pegasus",
+    "owner": "google-research",
+    "stargazers_count": 1402
+  },
+  {
+    "name": "sawtooth-core",
+    "owner": "hyperledger",
+    "stargazers_count": 1399
+  },
+  {
+    "name": "nba_api",
+    "owner": "swar",
+    "stargazers_count": 1392
+  },
+  {
+    "name": "rethinking-network-pruning",
+    "owner": "Eric-mingjie",
+    "stargazers_count": 1391
+  },
+  {
+    "name": "siren",
+    "owner": "vsitzmann",
+    "stargazers_count": 1390
+  },
+  {
+    "name": "meshio",
+    "owner": "nschloe",
+    "stargazers_count": 1388
+  },
+  {
+    "name": "Rainbow",
+    "owner": "Kaixhin",
+    "stargazers_count": 1382
+  },
+  {
+    "name": "Blender-For-UnrealEngine-Addons",
+    "owner": "xavier150",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "ryu",
+    "owner": "faucetsdn",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "Django-CRM",
+    "owner": "MicroPyramid",
+    "stargazers_count": 1380
+  },
+  {
+    "name": "neovim-remote",
+    "owner": "mhinz",
+    "stargazers_count": 1379
+  },
+  {
+    "name": "gnomecast",
+    "owner": "keredson",
+    "stargazers_count": 1376
+  },
+  {
+    "name": "AliceMind",
+    "owner": "alibaba",
+    "stargazers_count": 1375
+  },
+  {
+    "name": "uncertainty-toolbox",
+    "owner": "uncertainty-toolbox",
+    "stargazers_count": 1374
+  },
+  {
+    "name": "acd_cli",
+    "owner": "yadayada",
+    "stargazers_count": 1367
+  },
+  {
+    "name": "pytheory",
+    "owner": "kennethreitz",
+    "stargazers_count": 1367
+  },
+  {
+    "name": "end-to-end-negotiator",
+    "owner": "facebookresearch",
+    "stargazers_count": 1364
+  },
+  {
+    "name": "multi-agent-emergence-environments",
+    "owner": "openai",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "blessings",
+    "owner": "erikrose",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "simple-salesforce",
+    "owner": "simple-salesforce",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "dlcv_for_beginners",
+    "owner": "yeyun111",
+    "stargazers_count": 1360
+  },
+  {
+    "name": "ShellPop",
+    "owner": "0x00-0x00",
+    "stargazers_count": 1354
+  },
+  {
+    "name": "ParamSpider",
+    "owner": "devanshbatham",
+    "stargazers_count": 1351
+  },
+  {
+    "name": "drf-spectacular",
+    "owner": "tfranzel",
+    "stargazers_count": 1351
+  },
+  {
+    "name": "SoCo",
+    "owner": "SoCo",
+    "stargazers_count": 1348
+  },
+  {
+    "name": "container-transform",
+    "owner": "micahhausler",
+    "stargazers_count": 1347
+  },
+  {
+    "name": "exploits",
+    "owner": "XiphosResearch",
+    "stargazers_count": 1345
+  },
+  {
+    "name": "Git-Auto-Deploy",
+    "owner": "olipo186",
+    "stargazers_count": 1343
+  },
+  {
+    "name": "DI-engine",
+    "owner": "opendilab",
+    "stargazers_count": 1339
+  },
+  {
+    "name": "Poker",
+    "owner": "dickreuter",
+    "stargazers_count": 1338
+  },
+  {
+    "name": "twine",
+    "owner": "pypa",
+    "stargazers_count": 1337
+  },
+  {
+    "name": "langdetect",
+    "owner": "Mimino666",
+    "stargazers_count": 1323
+  },
+  {
+    "name": "noreward-rl",
+    "owner": "pathak22",
+    "stargazers_count": 1319
+  },
+  {
+    "name": "ncm2",
+    "owner": "ncm2",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "zarp",
+    "owner": "hatRiot",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "pythondotorg",
+    "owner": "python",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "OpenFermion",
+    "owner": "quantumlib",
+    "stargazers_count": 1307
+  },
+  {
+    "name": "xalpha",
+    "owner": "refraction-ray",
+    "stargazers_count": 1304
+  },
+  {
+    "name": "smart-contracts",
+    "owner": "TokenMarketNet",
+    "stargazers_count": 1303
+  },
+  {
+    "name": "case-212",
+    "owner": "developers-against-repressions",
+    "stargazers_count": 1301
+  },
+  {
+    "name": "pymarl",
+    "owner": "oxwhirl",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "zzzzz",
+    "owner": "defaultnamehere",
+    "stargazers_count": 1298
+  },
+  {
+    "name": "ml-hypersim",
+    "owner": "apple",
+    "stargazers_count": 1297
+  },
+  {
+    "name": "dockerizing-django",
+    "owner": "realpython",
+    "stargazers_count": 1295
+  },
+  {
+    "name": "matrix-webcam",
+    "owner": "joschuck",
+    "stargazers_count": 1285
+  },
+  {
+    "name": "TexTools-Blender",
+    "owner": "SavMartin",
+    "stargazers_count": 1284
+  },
+  {
+    "name": "awesome-sentence-embedding",
+    "owner": "Separius",
+    "stargazers_count": 2077
+  },
+  {
+    "name": "pypykatz",
+    "owner": "skelsec",
+    "stargazers_count": 2070
+  },
+  {
+    "name": "Tacotron-2",
+    "owner": "Rayhane-mamah",
+    "stargazers_count": 2070
+  },
+  {
+    "name": "django-imagekit",
+    "owner": "matthewwithanm",
+    "stargazers_count": 2066
+  },
+  {
+    "name": "lazynlp",
+    "owner": "chiphuyen",
+    "stargazers_count": 2064
+  },
+  {
+    "name": "thonny",
+    "owner": "thonny",
+    "stargazers_count": 2063
+  },
+  {
+    "name": "EDSR-PyTorch",
+    "owner": "sanghyun-son",
+    "stargazers_count": 2062
+  },
+  {
+    "name": "awesome-decision-tree-papers",
+    "owner": "benedekrozemberczki",
+    "stargazers_count": 2059
+  },
+  {
+    "name": "Neural-Photo-Editor",
+    "owner": "ajbrock",
+    "stargazers_count": 2059
+  },
+  {
+    "name": "Resemblyzer",
+    "owner": "resemble-ai",
+    "stargazers_count": 2058
+  },
+  {
+    "name": "mt-dnn",
+    "owner": "namisan",
+    "stargazers_count": 2053
+  },
+  {
+    "name": "django-sql-explorer",
+    "owner": "groveco",
+    "stargazers_count": 2048
+  },
+  {
+    "name": "cadmus",
+    "owner": "josh-richardson",
+    "stargazers_count": 2047
+  },
+  {
+    "name": "vincent",
+    "owner": "wrobstory",
+    "stargazers_count": 2044
+  },
+  {
+    "name": "timesketch",
+    "owner": "google",
+    "stargazers_count": 2043
+  },
+  {
+    "name": "docker-python",
+    "owner": "Kaggle",
+    "stargazers_count": 2043
+  },
+  {
+    "name": "amemv-crawler",
+    "owner": "loadchange",
+    "stargazers_count": 2034
+  },
+  {
+    "name": "Information-Extraction-Chinese",
+    "owner": "crownpku",
+    "stargazers_count": 2028
+  },
+  {
+    "name": "Awesome-AutoDL",
+    "owner": "D-X-Y",
+    "stargazers_count": 2027
+  },
+  {
+    "name": "person-blocker",
+    "owner": "minimaxir",
+    "stargazers_count": 2023
+  },
+  {
+    "name": "gain",
+    "owner": "gaojiuli",
+    "stargazers_count": 2016
+  },
+  {
+    "name": "pycls",
+    "owner": "facebookresearch",
+    "stargazers_count": 2015
+  },
+  {
+    "name": "django-push-notifications",
+    "owner": "jazzband",
+    "stargazers_count": 2014
+  },
+  {
+    "name": "archerysec",
+    "owner": "archerysec",
+    "stargazers_count": 2012
+  },
+  {
+    "name": "Striker",
+    "owner": "s0md3v",
+    "stargazers_count": 2006
+  },
+  {
+    "name": "textacy",
+    "owner": "chartbeat-labs",
+    "stargazers_count": 1998
+  },
+  {
+    "name": "pyflux",
+    "owner": "RJT1990",
+    "stargazers_count": 1996
+  },
+  {
+    "name": "python-scripts",
+    "owner": "realpython",
+    "stargazers_count": 1992
+  },
+  {
+    "name": "spot-sdk",
+    "owner": "boston-dynamics",
+    "stargazers_count": 1987
+  },
+  {
+    "name": "pyvmomi",
+    "owner": "vmware",
+    "stargazers_count": 1986
+  },
+  {
+    "name": "PyTorchDocs",
+    "owner": "fendouai",
+    "stargazers_count": 1985
+  },
+  {
+    "name": "stethoscope",
+    "owner": "Netflix-Skunkworks",
+    "stargazers_count": 1984
+  },
+  {
+    "name": "LaTeXTools",
+    "owner": "SublimeText",
+    "stargazers_count": 1984
+  },
+  {
+    "name": "federated",
+    "owner": "tensorflow",
+    "stargazers_count": 1983
+  },
+  {
+    "name": "refurb",
+    "owner": "dosisod",
+    "stargazers_count": 1964
+  },
+  {
+    "name": "wger",
+    "owner": "wger-project",
+    "stargazers_count": 1962
+  },
+  {
+    "name": "SparrowRecSys",
+    "owner": "wzhe06",
+    "stargazers_count": 1961
+  },
+  {
+    "name": "tikzplotlib",
+    "owner": "texworld",
+    "stargazers_count": 1959
+  },
+  {
+    "name": "transparent_latent_gan",
+    "owner": "SummitKwan",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "ITArticles",
+    "owner": "qiwsir",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "SublimePrettyJson",
+    "owner": "dzhibas",
+    "stargazers_count": 1954
+  },
+  {
+    "name": "KeyBERT",
+    "owner": "MaartenGr",
+    "stargazers_count": 1952
+  },
+  {
+    "name": "ObjectDetection-OneStageDet",
+    "owner": "Tencent",
+    "stargazers_count": 1948
+  },
+  {
+    "name": "PixivUtil2",
+    "owner": "Nandaka",
+    "stargazers_count": 1944
+  },
+  {
+    "name": "kuma",
+    "owner": "mdn",
+    "stargazers_count": 1944
+  },
+  {
+    "name": "nlp",
+    "owner": "duoergun0729",
+    "stargazers_count": 1934
+  },
+  {
+    "name": "clang_complete",
+    "owner": "xavierd",
+    "stargazers_count": 1930
+  },
+  {
+    "name": "LeaderF",
+    "owner": "Yggdroot",
+    "stargazers_count": 1928
+  },
+  {
+    "name": "The-NLP-Pandect",
+    "owner": "ivan-bilan",
+    "stargazers_count": 1927
+  },
+  {
+    "name": "fairscale",
+    "owner": "facebookresearch",
+    "stargazers_count": 1922
+  },
+  {
+    "name": "libra",
+    "owner": "Palashio",
+    "stargazers_count": 1916
+  },
+  {
+    "name": "exchangeratesapi",
+    "owner": "exchangeratesapi",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "guietta",
+    "owner": "alfiopuglisi",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "masonite",
+    "owner": "MasoniteFramework",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "KAIR",
+    "owner": "cszn",
+    "stargazers_count": 1909
+  },
+  {
+    "name": "exercises-in-programming-style",
+    "owner": "crista",
+    "stargazers_count": 1904
+  },
+  {
+    "name": "plane-notify",
+    "owner": "Jxck-S",
+    "stargazers_count": 1899
+  },
+  {
+    "name": "PlexConnect",
+    "owner": "iBaa",
+    "stargazers_count": 1899
+  },
+  {
+    "name": "Bombers",
+    "owner": "bhattsameer",
+    "stargazers_count": 1882
+  },
+  {
+    "name": "lumenpnp",
+    "owner": "opulo-inc",
+    "stargazers_count": 1882
+  },
+  {
+    "name": "PINNs",
+    "owner": "maziarraissi",
+    "stargazers_count": 1877
+  },
+  {
+    "name": "tensorflow_template_application",
+    "owner": "tobegit3hub",
+    "stargazers_count": 1874
+  },
+  {
+    "name": "autocut",
+    "owner": "mli",
+    "stargazers_count": 1871
+  },
+  {
+    "name": "mongo-connector",
+    "owner": "yougov",
+    "stargazers_count": 1870
+  },
+  {
+    "name": "py-evm",
+    "owner": "ethereum",
+    "stargazers_count": 1861
+  },
+  {
+    "name": "nonebot",
+    "owner": "nonebot",
+    "stargazers_count": 1861
+  },
+  {
+    "name": "Impulse",
+    "owner": "LimerBoy",
+    "stargazers_count": 1860
+  },
+  {
+    "name": "pyarmor",
+    "owner": "dashingsoft",
+    "stargazers_count": 1858
+  },
+  {
+    "name": "raiden",
+    "owner": "raiden-network",
+    "stargazers_count": 1856
+  },
+  {
+    "name": "Dash-User-Contributions",
+    "owner": "Kapeli",
+    "stargazers_count": 1855
+  },
+  {
+    "name": "pycharm-guide",
+    "owner": "iswbm",
+    "stargazers_count": 1852
+  },
+  {
+    "name": "plover",
+    "owner": "openstenoproject",
+    "stargazers_count": 1852
+  },
+  {
+    "name": "OctoBot",
+    "owner": "Drakkar-Software",
+    "stargazers_count": 1848
+  },
+  {
+    "name": "retrying",
+    "owner": "rholder",
+    "stargazers_count": 1845
+  },
+  {
+    "name": "examples",
+    "owner": "pyqt",
+    "stargazers_count": 1842
+  },
+  {
+    "name": "tern_for_vim",
+    "owner": "ternjs",
+    "stargazers_count": 1842
+  },
+  {
+    "name": "numexpr",
+    "owner": "pydata",
+    "stargazers_count": 1840
+  },
+  {
+    "name": "NCRFpp",
+    "owner": "jiesutd",
+    "stargazers_count": 1837
+  },
+  {
+    "name": "qtpylib",
+    "owner": "ranaroussi",
+    "stargazers_count": 1836
+  },
+  {
+    "name": "SynthText",
+    "owner": "ankush-me",
+    "stargazers_count": 1834
+  },
+  {
+    "name": "delorean",
+    "owner": "myusuf3",
+    "stargazers_count": 1833
+  },
+  {
+    "name": "flare-ida",
+    "owner": "mandiant",
+    "stargazers_count": 1820
+  },
+  {
+    "name": "OSINT",
+    "owner": "sinwindie",
+    "stargazers_count": 1815
+  },
+  {
+    "name": "reformer-pytorch",
+    "owner": "lucidrains",
+    "stargazers_count": 1814
+  },
+  {
+    "name": "dulwich",
+    "owner": "jelmer",
+    "stargazers_count": 1811
+  },
+  {
+    "name": "DeepMatch",
+    "owner": "shenweichen",
+    "stargazers_count": 1809
+  },
+  {
+    "name": "DeepLearningImplementations",
+    "owner": "tdeboissiere",
+    "stargazers_count": 1807
+  },
+  {
+    "name": "CenterNet",
+    "owner": "Duankaiwen",
+    "stargazers_count": 1803
+  },
+  {
+    "name": "reverse-geocoder",
+    "owner": "thampiman",
+    "stargazers_count": 1793
+  },
+  {
+    "name": "rdflib",
+    "owner": "RDFLib",
+    "stargazers_count": 1792
+  },
+  {
+    "name": "viewfinder",
+    "owner": "viewfinderco",
+    "stargazers_count": 1784
+  },
+  {
+    "name": "talking-head-anime-demo",
+    "owner": "pkhungurn",
+    "stargazers_count": 1780
+  },
+  {
+    "name": "pyfilesystem2",
+    "owner": "PyFilesystem",
+    "stargazers_count": 1778
+  },
+  {
+    "name": "curl-impersonate",
+    "owner": "lwthiker",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "PokemonGo-DesktopMap",
+    "owner": "mchristopher",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "finta",
+    "owner": "peerchemist",
+    "stargazers_count": 1773
+  },
+  {
+    "name": "python-cheat-sheet",
+    "owner": "juliangaal",
+    "stargazers_count": 1770
+  },
+  {
+    "name": "mx-maskrcnn",
+    "owner": "TuSimple",
+    "stargazers_count": 1760
+  },
+  {
+    "name": "coinbasepro-python",
+    "owner": "danpaquin",
+    "stargazers_count": 1760
+  },
+  {
+    "name": "PerfKitBenchmarker",
+    "owner": "GoogleCloudPlatform",
+    "stargazers_count": 1755
+  },
+  {
+    "name": "dnsReaper",
+    "owner": "punk-security",
+    "stargazers_count": 1527
+  },
+  {
+    "name": "django-react-boilerplate",
+    "owner": "vintasoftware",
+    "stargazers_count": 1521
+  },
+  {
+    "name": "surpriver",
+    "owner": "tradytics",
+    "stargazers_count": 1521
+  },
+  {
+    "name": "CommonRegex",
+    "owner": "madisonmay",
+    "stargazers_count": 1520
+  },
+  {
+    "name": "Pipe",
+    "owner": "JulienPalard",
+    "stargazers_count": 1520
+  },
+  {
+    "name": "Medusa",
+    "owner": "pymedusa",
+    "stargazers_count": 1515
+  },
+  {
+    "name": "Smart_Construction",
+    "owner": "PeterH0323",
+    "stargazers_count": 1513
+  },
+  {
+    "name": "disposable-email-domains",
+    "owner": "disposable-email-domains",
+    "stargazers_count": 1513
+  },
+  {
+    "name": "MedicalNet",
+    "owner": "Tencent",
+    "stargazers_count": 1512
+  },
+  {
+    "name": "xar",
+    "owner": "facebookincubator",
+    "stargazers_count": 1512
+  },
+  {
+    "name": "anchore-engine",
+    "owner": "anchore",
+    "stargazers_count": 1511
+  },
+  {
+    "name": "pydicom",
+    "owner": "pydicom",
+    "stargazers_count": 1510
+  },
+  {
+    "name": "lsassy",
+    "owner": "Hackndo",
+    "stargazers_count": 1510
+  },
+  {
+    "name": "pytorch_GAN_zoo",
+    "owner": "facebookresearch",
+    "stargazers_count": 1509
+  },
+  {
+    "name": "circus",
+    "owner": "circus-tent",
+    "stargazers_count": 1509
+  },
+  {
+    "name": "AYABInterface",
+    "owner": "fossasia",
+    "stargazers_count": 1502
+  },
+  {
+    "name": "mozc-devices",
+    "owner": "google",
+    "stargazers_count": 1502
+  },
+  {
+    "name": "knowledge-distillation-pytorch",
+    "owner": "haitongli",
+    "stargazers_count": 1502
+  },
+  {
+    "name": "inbox.py",
+    "owner": "billzhong",
+    "stargazers_count": 1501
+  },
+  {
+    "name": "treeio",
+    "owner": "treeio",
+    "stargazers_count": 1499
+  },
+  {
+    "name": "x-mario-center",
+    "owner": "fossasia",
+    "stargazers_count": 1498
+  },
+  {
+    "name": "geocoder",
+    "owner": "DenisCarriere",
+    "stargazers_count": 1496
+  },
+  {
+    "name": "heartrate",
+    "owner": "alexmojaki",
+    "stargazers_count": 1496
+  },
+  {
+    "name": "MTCNN-Tensorflow",
+    "owner": "AITTSMD",
+    "stargazers_count": 1494
+  },
+  {
+    "name": "Flexget",
+    "owner": "Flexget",
+    "stargazers_count": 1493
+  },
+  {
+    "name": "Reddit-Stock-Trends",
+    "owner": "iam-abbas",
+    "stargazers_count": 1491
+  },
+  {
+    "name": "facebook-wda",
+    "owner": "openatx",
+    "stargazers_count": 1489
+  },
+  {
+    "name": "PIFu",
+    "owner": "shunsukesaito",
+    "stargazers_count": 1489
+  },
+  {
+    "name": "cloudml-samples",
+    "owner": "GoogleCloudPlatform",
+    "stargazers_count": 1485
+  },
+  {
+    "name": "Non-local_pytorch",
+    "owner": "AlexHex7",
+    "stargazers_count": 1485
+  },
+  {
+    "name": "AppleNeuralHash2ONNX",
+    "owner": "AsuharietYgvar",
+    "stargazers_count": 1484
+  },
+  {
+    "name": "wechat-dump",
+    "owner": "ppwwyyxx",
+    "stargazers_count": 1482
+  },
+  {
+    "name": "domato",
+    "owner": "googleprojectzero",
+    "stargazers_count": 1479
+  },
+  {
+    "name": "SuperPointPretrainedNetwork",
+    "owner": "magicleap",
+    "stargazers_count": 1477
+  },
+  {
+    "name": "hacktronian",
+    "owner": "thehackingsage",
+    "stargazers_count": 1477
+  },
+  {
+    "name": "aiomultiprocess",
+    "owner": "omnilib",
+    "stargazers_count": 1476
+  },
+  {
+    "name": "weird_proxies",
+    "owner": "GrrrDog",
+    "stargazers_count": 1476
+  },
+  {
+    "name": "Sony-PMCA-RE",
+    "owner": "ma1co",
+    "stargazers_count": 1472
+  },
+  {
+    "name": "pixivpy",
+    "owner": "upbit",
+    "stargazers_count": 1471
+  },
+  {
+    "name": "Poco",
+    "owner": "AirtestProject",
+    "stargazers_count": 1470
+  },
+  {
+    "name": "streamparse",
+    "owner": "Parsely",
+    "stargazers_count": 1468
+  },
+  {
+    "name": "awesome-game-security",
+    "owner": "gmh5225",
+    "stargazers_count": 1467
+  },
+  {
+    "name": "TransGAN",
+    "owner": "VITA-Group",
+    "stargazers_count": 1461
+  },
+  {
+    "name": "reloadium",
+    "owner": "reloadware",
+    "stargazers_count": 1459
+  },
+  {
+    "name": "noisy",
+    "owner": "1tayH",
+    "stargazers_count": 1457
+  },
+  {
+    "name": "pytorch-styleguide",
+    "owner": "IgorSusmelj",
+    "stargazers_count": 1455
+  },
+  {
+    "name": "vedo",
+    "owner": "marcomusy",
+    "stargazers_count": 1454
+  },
+  {
+    "name": "flask-oauthlib",
+    "owner": "lepture",
+    "stargazers_count": 1449
+  },
+  {
+    "name": "phishing_catcher",
+    "owner": "x0rz",
+    "stargazers_count": 1448
+  },
+  {
+    "name": "generating-reviews-discovering-sentiment",
+    "owner": "openai",
+    "stargazers_count": 1448
+  },
+  {
+    "name": "pyftpdlib",
+    "owner": "giampaolo",
+    "stargazers_count": 1448
+  },
+  {
+    "name": "gradify",
+    "owner": "fraser-hemp",
+    "stargazers_count": 1448
+  },
+  {
+    "name": "django-pipeline",
+    "owner": "jazzband",
+    "stargazers_count": 1445
+  },
+  {
+    "name": "kippo",
+    "owner": "desaster",
+    "stargazers_count": 1443
+  },
+  {
+    "name": "mmdeploy",
+    "owner": "open-mmlab",
+    "stargazers_count": 1443
+  },
+  {
+    "name": "AutoDL-Projects",
+    "owner": "D-X-Y",
+    "stargazers_count": 1442
+  },
+  {
+    "name": "Linux-Fake-Background-Webcam",
+    "owner": "fangfufu",
+    "stargazers_count": 1439
+  },
+  {
+    "name": "photonix",
+    "owner": "photonixapp",
+    "stargazers_count": 1439
+  },
+  {
+    "name": "lightweight-gan",
+    "owner": "lucidrains",
+    "stargazers_count": 1437
+  },
+  {
+    "name": "open-spectrometer-hardware",
+    "owner": "OpnTec",
+    "stargazers_count": 1434
+  },
+  {
+    "name": "news-please",
+    "owner": "fhamborg",
+    "stargazers_count": 1434
+  },
+  {
+    "name": "fvcore",
+    "owner": "facebookresearch",
+    "stargazers_count": 1433
+  },
+  {
+    "name": "snake",
+    "owner": "chuyangliu",
+    "stargazers_count": 1430
+  },
+  {
+    "name": "yunohost",
+    "owner": "YunoHost",
+    "stargazers_count": 1428
+  },
+  {
+    "name": "organize",
+    "owner": "tfeldmann",
+    "stargazers_count": 1423
+  },
+  {
+    "name": "EfficientDet.Pytorch",
+    "owner": "toandaominh1997",
+    "stargazers_count": 1423
+  },
+  {
+    "name": "NeuronBlocks",
+    "owner": "microsoft",
+    "stargazers_count": 1421
+  },
+  {
+    "name": "distributed",
+    "owner": "dask",
+    "stargazers_count": 1421
+  },
+  {
+    "name": "itchatmp",
+    "owner": "littlecodersh",
+    "stargazers_count": 1412
+  },
+  {
+    "name": "tensorflow_chatbot",
+    "owner": "llSourcell",
+    "stargazers_count": 1411
+  },
+  {
+    "name": "sc-controller",
+    "owner": "kozec",
+    "stargazers_count": 1408
+  },
+  {
+    "name": "EvalAI",
+    "owner": "Cloud-CV",
+    "stargazers_count": 1408
+  },
+  {
+    "name": "pegasus",
+    "owner": "google-research",
+    "stargazers_count": 1402
+  },
+  {
+    "name": "Keras-TextClassification",
+    "owner": "yongzhuo",
+    "stargazers_count": 1402
+  },
+  {
+    "name": "sawtooth-core",
+    "owner": "hyperledger",
+    "stargazers_count": 1399
+  },
+  {
+    "name": "leapcast",
+    "owner": "dz0ny",
+    "stargazers_count": 1397
+  },
+  {
+    "name": "PythonHackingBook1",
+    "owner": "xuanhun",
+    "stargazers_count": 1397
+  },
+  {
+    "name": "nba_api",
+    "owner": "swar",
+    "stargazers_count": 1392
+  },
+  {
+    "name": "catuserbot",
+    "owner": "TgCatUB",
+    "stargazers_count": 1391
+  },
+  {
+    "name": "CenterPoint",
+    "owner": "tianweiy",
+    "stargazers_count": 1391
+  },
+  {
+    "name": "rethinking-network-pruning",
+    "owner": "Eric-mingjie",
+    "stargazers_count": 1391
+  },
+  {
+    "name": "siren",
+    "owner": "vsitzmann",
+    "stargazers_count": 1390
+  },
+  {
+    "name": "meshio",
+    "owner": "nschloe",
+    "stargazers_count": 1388
+  },
+  {
+    "name": "Rainbow",
+    "owner": "Kaixhin",
+    "stargazers_count": 1382
+  },
+  {
+    "name": "Blender-For-UnrealEngine-Addons",
+    "owner": "xavier150",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "ryu",
+    "owner": "faucetsdn",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "Django-CRM",
+    "owner": "MicroPyramid",
+    "stargazers_count": 1380
+  },
+  {
+    "name": "neovim-remote",
+    "owner": "mhinz",
+    "stargazers_count": 1379
+  },
+  {
+    "name": "gnomecast",
+    "owner": "keredson",
+    "stargazers_count": 1376
+  },
+  {
+    "name": "AliceMind",
+    "owner": "alibaba",
+    "stargazers_count": 1375
+  },
+  {
+    "name": "uncertainty-toolbox",
+    "owner": "uncertainty-toolbox",
+    "stargazers_count": 1374
+  },
+  {
+    "name": "spearmint",
+    "owner": "JasperSnoek",
+    "stargazers_count": 1369
+  },
+  {
+    "name": "MLBox",
+    "owner": "AxeldeRomblay",
+    "stargazers_count": 1368
+  },
+  {
+    "name": "acd_cli",
+    "owner": "yadayada",
+    "stargazers_count": 1367
+  },
+  {
+    "name": "end-to-end-negotiator",
+    "owner": "facebookresearch",
+    "stargazers_count": 1364
+  },
+  {
+    "name": "multi-agent-emergence-environments",
+    "owner": "openai",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "blessings",
+    "owner": "erikrose",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "simple-salesforce",
+    "owner": "simple-salesforce",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "dlcv_for_beginners",
+    "owner": "yeyun111",
+    "stargazers_count": 1360
+  },
+  {
+    "name": "ShellPop",
+    "owner": "0x00-0x00",
+    "stargazers_count": 1354
+  },
+  {
+    "name": "pytorch-pose",
+    "owner": "bearpaw",
+    "stargazers_count": 1058
+  },
+  {
+    "name": "p2pool",
+    "owner": "p2pool",
+    "stargazers_count": 1058
+  },
+  {
+    "name": "cppimport",
+    "owner": "tbenthompson",
+    "stargazers_count": 1055
+  },
+  {
+    "name": "apartment-finder",
+    "owner": "VikParuchuri",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "django-watson",
+    "owner": "etianen",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "meshrcnn",
+    "owner": "facebookresearch",
+    "stargazers_count": 1052
+  },
+  {
+    "name": "creepy",
+    "owner": "ilektrojohn",
+    "stargazers_count": 1051
+  },
+  {
+    "name": "soccer-cli",
+    "owner": "architv",
+    "stargazers_count": 1050
+  },
+  {
+    "name": "pyNES",
+    "owner": "gutomaia",
+    "stargazers_count": 1047
+  },
+  {
+    "name": "phimpme-generator",
+    "owner": "phimpme",
+    "stargazers_count": 1047
+  },
+  {
+    "name": "ModiScript",
+    "owner": "VPanjeta",
+    "stargazers_count": 1038
+  },
+  {
+    "name": "solo-learn",
+    "owner": "vturrisi",
+    "stargazers_count": 1038
+  },
+  {
+    "name": "pluginbase",
+    "owner": "mitsuhiko",
+    "stargazers_count": 1037
+  },
+  {
+    "name": "nsfw_model",
+    "owner": "GantMan",
+    "stargazers_count": 1036
+  },
+  {
+    "name": "asciify",
+    "owner": "RameshAditya",
+    "stargazers_count": 1035
+  },
+  {
+    "name": "Varken",
+    "owner": "Boerderij",
+    "stargazers_count": 1035
+  },
+  {
+    "name": "dgk_lost_conv",
+    "owner": "aceimnorstuvwxz",
+    "stargazers_count": 1031
+  },
+  {
+    "name": "sqlite-utils",
+    "owner": "simonw",
+    "stargazers_count": 1030
+  },
+  {
+    "name": "pytorch-a3c",
+    "owner": "ikostrikov",
+    "stargazers_count": 1030
+  },
+  {
+    "name": "adb-sync",
+    "owner": "google",
+    "stargazers_count": 1027
+  },
+  {
+    "name": "unvcode",
+    "owner": "RimoChan",
+    "stargazers_count": 1024
+  },
+  {
+    "name": "joycontrol",
+    "owner": "mart1nro",
+    "stargazers_count": 1023
+  },
+  {
+    "name": "cherrymusic",
+    "owner": "devsnd",
+    "stargazers_count": 1022
+  },
+  {
+    "name": "wily",
+    "owner": "tonybaloney",
+    "stargazers_count": 1021
+  },
+  {
+    "name": "tplink-smartplug",
+    "owner": "softScheck",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "SoftRas",
+    "owner": "ShichenLiu",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "pyroomacoustics",
+    "owner": "LCAV",
+    "stargazers_count": 1017
+  },
+  {
+    "name": "gotgit",
+    "owner": "gotgit",
+    "stargazers_count": 1016
+  },
+  {
+    "name": "tensornets",
+    "owner": "taehoonlee",
+    "stargazers_count": 1011
+  },
+  {
+    "name": "pdbpp",
+    "owner": "pdbpp",
+    "stargazers_count": 1010
+  },
+  {
+    "name": "yappi",
+    "owner": "sumerc",
+    "stargazers_count": 1009
+  },
+  {
+    "name": "hifi-gan",
+    "owner": "jik876",
+    "stargazers_count": 1009
+  },
+  {
+    "name": "mixup-cifar10",
+    "owner": "facebookresearch",
+    "stargazers_count": 1004
+  },
+  {
+    "name": "classifier",
+    "owner": "bhrigu123",
+    "stargazers_count": 1000
+  },
+  {
+    "name": "vae",
+    "owner": "bojone",
+    "stargazers_count": 996
+  },
+  {
+    "name": "merchant",
+    "owner": "agiliq",
+    "stargazers_count": 993
+  },
+  {
+    "name": "DetectAndTrack",
+    "owner": "facebookresearch",
+    "stargazers_count": 992
+  },
+  {
+    "name": "fiber",
+    "owner": "uber",
+    "stargazers_count": 992
+  },
+  {
+    "name": "madmom",
+    "owner": "CPJKU",
+    "stargazers_count": 988
+  },
+  {
+    "name": "migen",
+    "owner": "m-labs",
+    "stargazers_count": 985
+  },
+  {
+    "name": "node2vec",
+    "owner": "eliorc",
+    "stargazers_count": 985
+  },
+  {
+    "name": "malboxes",
+    "owner": "GoSecure",
+    "stargazers_count": 985
+  },
+  {
+    "name": "logparser",
+    "owner": "logpai",
+    "stargazers_count": 983
+  },
+  {
+    "name": "mylar",
+    "owner": "evilhero",
+    "stargazers_count": 982
+  },
+  {
+    "name": "dtw",
+    "owner": "pollen-robotics",
+    "stargazers_count": 982
+  },
+  {
+    "name": "sepconv-slomo",
+    "owner": "sniklaus",
+    "stargazers_count": 982
+  },
+  {
+    "name": "demo-self-driving",
+    "owner": "streamlit",
+    "stargazers_count": 982
+  },
+  {
+    "name": "amaranth",
+    "owner": "amaranth-lang",
+    "stargazers_count": 980
+  },
+  {
+    "name": "MaskFormer",
+    "owner": "facebookresearch",
+    "stargazers_count": 980
+  },
+  {
+    "name": "metta",
+    "owner": "uber-common",
+    "stargazers_count": 978
+  },
+  {
+    "name": "FixRes",
+    "owner": "facebookresearch",
+    "stargazers_count": 977
+  },
+  {
+    "name": "SincNet",
+    "owner": "mravanelli",
+    "stargazers_count": 977
+  },
+  {
+    "name": "videoflow",
+    "owner": "videoflow",
+    "stargazers_count": 975
+  },
+  {
+    "name": "ObstructionRemoval",
+    "owner": "alex04072000",
+    "stargazers_count": 974
+  },
+  {
+    "name": "2048-ai",
+    "owner": "nneonneo",
+    "stargazers_count": 974
+  },
+  {
+    "name": "ssh-mitm",
+    "owner": "ssh-mitm",
+    "stargazers_count": 973
+  },
+  {
+    "name": "xcp",
+    "owner": "xcp-ng",
+    "stargazers_count": 971
+  },
+  {
+    "name": "nltk_data",
+    "owner": "nltk",
+    "stargazers_count": 971
+  },
+  {
+    "name": "WordOps",
+    "owner": "WordOps",
+    "stargazers_count": 969
+  },
+  {
+    "name": "googlesearch",
+    "owner": "MarioVilas",
+    "stargazers_count": 969
+  },
+  {
+    "name": "contextualise",
+    "owner": "brettkromkamp",
+    "stargazers_count": 968
+  },
+  {
+    "name": "this-word-does-not-exist",
+    "owner": "turtlesoupy",
+    "stargazers_count": 968
+  },
+  {
+    "name": "pydocstyle",
+    "owner": "PyCQA",
+    "stargazers_count": 968
+  },
+  {
+    "name": "InsideReCaptcha",
+    "owner": "neuroradiology",
+    "stargazers_count": 967
+  },
+  {
+    "name": "voice2json",
+    "owner": "synesthesiam",
+    "stargazers_count": 966
+  },
+  {
+    "name": "pyrender",
+    "owner": "mmatl",
+    "stargazers_count": 964
+  },
+  {
+    "name": "obspy",
+    "owner": "obspy",
+    "stargazers_count": 964
+  },
+  {
+    "name": "RotationDetection",
+    "owner": "yangxue0827",
+    "stargazers_count": 964
+  },
+  {
+    "name": "docs",
+    "owner": "x64dbg",
+    "stargazers_count": 962
+  },
+  {
+    "name": "university-domains-list",
+    "owner": "Hipo",
+    "stargazers_count": 961
+  },
+  {
+    "name": "mitra",
+    "owner": "corkami",
+    "stargazers_count": 960
+  },
+  {
+    "name": "GMS-Feature-Matcher",
+    "owner": "JiawangBian",
+    "stargazers_count": 960
+  },
+  {
+    "name": "BlindWatermark",
+    "owner": "fire-keeper",
+    "stargazers_count": 957
+  },
+  {
+    "name": "siuba",
+    "owner": "machow",
+    "stargazers_count": 957
+  },
+  {
+    "name": "plato-research-dialogue-system",
+    "owner": "uber-archive",
+    "stargazers_count": 955
+  },
+  {
+    "name": "bert_language_understanding",
+    "owner": "brightmart",
+    "stargazers_count": 954
+  },
+  {
+    "name": "LAMA",
+    "owner": "facebookresearch",
+    "stargazers_count": 953
+  },
+  {
+    "name": "flask-bones",
+    "owner": "cburmeister",
+    "stargazers_count": 953
+  },
+  {
+    "name": "doge",
+    "owner": "Olivia5k",
+    "stargazers_count": 952
+  },
+  {
+    "name": "Char-RNN-TensorFlow",
+    "owner": "hzy46",
+    "stargazers_count": 949
+  },
+  {
+    "name": "chnroutes",
+    "owner": "jimmyxu",
+    "stargazers_count": 949
+  },
+  {
+    "name": "d6tflow",
+    "owner": "d6t",
+    "stargazers_count": 945
+  },
+  {
+    "name": "semshi",
+    "owner": "numirias",
+    "stargazers_count": 945
+  },
+  {
+    "name": "devol",
+    "owner": "joeddav",
+    "stargazers_count": 944
+  },
+  {
+    "name": "pytest-sugar",
+    "owner": "Teemu",
+    "stargazers_count": 944
+  },
+  {
+    "name": "xmnlp",
+    "owner": "SeanLee97",
+    "stargazers_count": 943
+  },
+  {
+    "name": "aws-cfn-template-flip",
+    "owner": "awslabs",
+    "stargazers_count": 943
+  },
+  {
+    "name": "synthetic-computer-vision",
+    "owner": "unrealcv",
+    "stargazers_count": 942
+  },
+  {
+    "name": "compiledb",
+    "owner": "nickdiego",
+    "stargazers_count": 941
+  },
+  {
+    "name": "around-dataengineering",
+    "owner": "abhishek-ch",
+    "stargazers_count": 941
+  },
+  {
+    "name": "pyopencl",
+    "owner": "inducer",
+    "stargazers_count": 940
+  },
+  {
+    "name": "learnable-triangulation-pytorch",
+    "owner": "karfly",
+    "stargazers_count": 939
+  },
+  {
+    "name": "zhihu-api",
+    "owner": "lzjun567",
+    "stargazers_count": 938
+  },
+  {
+    "name": "plotman",
+    "owner": "ericaltendorf",
+    "stargazers_count": 938
+  },
+  {
+    "name": "telegram_media_downloader",
+    "owner": "Dineshkarthik",
+    "stargazers_count": 937
+  },
+  {
+    "name": "deepfakes",
+    "owner": "llSourcell",
+    "stargazers_count": 936
+  },
+  {
+    "name": "Face-Detector-1MB-with-landmark",
+    "owner": "biubug6",
+    "stargazers_count": 935
+  },
+  {
+    "name": "appdirs",
+    "owner": "ActiveState",
+    "stargazers_count": 934
+  },
+  {
+    "name": "SublimeJEDI",
+    "owner": "srusskih",
+    "stargazers_count": 931
+  },
+  {
+    "name": "AnimationsWithManim",
+    "owner": "Elteoremadebeethoven",
+    "stargazers_count": 928
+  },
+  {
+    "name": "txtai",
+    "owner": "neuml",
+    "stargazers_count": 2806
+  },
+  {
+    "name": "tqsdk-python",
+    "owner": "shinnytech",
+    "stargazers_count": 2806
+  },
+  {
+    "name": "AlphaZero_Gomoku",
+    "owner": "junxiaosong",
+    "stargazers_count": 2806
+  },
+  {
+    "name": "KeymouseGo",
+    "owner": "taojy123",
+    "stargazers_count": 2801
+  },
+  {
+    "name": "RocketMap",
+    "owner": "RocketMap",
+    "stargazers_count": 2799
+  },
+  {
+    "name": "django-reversion",
+    "owner": "etianen",
+    "stargazers_count": 2798
+  },
+  {
+    "name": "django-sspanel",
+    "owner": "Ehco1996",
+    "stargazers_count": 2797
+  },
+  {
+    "name": "NeteaseCloudMusicFlac",
+    "owner": "atlas-comstock",
+    "stargazers_count": 2788
+  },
+  {
+    "name": "TextRank4ZH",
+    "owner": "letiantian",
+    "stargazers_count": 2788
+  },
+  {
+    "name": "more-itertools",
+    "owner": "more-itertools",
+    "stargazers_count": 2786
+  },
+  {
+    "name": "Jiagu",
+    "owner": "ownthink",
+    "stargazers_count": 2782
+  },
+  {
+    "name": "tqdm",
+    "owner": "noamraph",
+    "stargazers_count": 2782
+  },
+  {
+    "name": "Merlion",
+    "owner": "salesforce",
+    "stargazers_count": 2781
+  },
+  {
+    "name": "book",
+    "owner": "cosmicpython",
+    "stargazers_count": 2775
+  },
+  {
+    "name": "siamese-triplet",
+    "owner": "adambielski",
+    "stargazers_count": 2771
+  },
+  {
+    "name": "munki",
+    "owner": "munki",
+    "stargazers_count": 2770
+  },
+  {
+    "name": "book",
+    "owner": "crypto101",
+    "stargazers_count": 2765
+  },
+  {
+    "name": "uncaptcha",
+    "owner": "ecthros",
+    "stargazers_count": 2763
+  },
+  {
+    "name": "uwsgi-nginx-flask-docker",
+    "owner": "tiangolo",
+    "stargazers_count": 2763
+  },
+  {
+    "name": "FreeWifi",
+    "owner": "kylemcdonald",
+    "stargazers_count": 2760
+  },
+  {
+    "name": "bunkerweb",
+    "owner": "bunkerity",
+    "stargazers_count": 2759
+  },
+  {
+    "name": "rubber-docker",
+    "owner": "Fewbytes",
+    "stargazers_count": 2755
+  },
+  {
+    "name": "LinkFinder",
+    "owner": "GerbenJavado",
+    "stargazers_count": 2752
+  },
+  {
+    "name": "MODNet",
+    "owner": "ZHKKKe",
+    "stargazers_count": 2741
+  },
+  {
+    "name": "opyrator",
+    "owner": "ml-tooling",
+    "stargazers_count": 2739
+  },
+  {
+    "name": "streamalert",
+    "owner": "airbnb",
+    "stargazers_count": 2736
+  },
+  {
+    "name": "pyppeteer",
+    "owner": "pyppeteer",
+    "stargazers_count": 2733
+  },
+  {
+    "name": "PocketFlow",
+    "owner": "Tencent",
+    "stargazers_count": 2727
+  },
+  {
+    "name": "fastNLP",
+    "owner": "fastnlp",
+    "stargazers_count": 2726
+  },
+  {
+    "name": "OpenSfM",
+    "owner": "mapillary",
+    "stargazers_count": 2726
+  },
+  {
+    "name": "human-pose-estimation.pytorch",
+    "owner": "microsoft",
+    "stargazers_count": 2725
+  },
+  {
+    "name": "flamescope",
+    "owner": "Netflix",
+    "stargazers_count": 2713
+  },
+  {
+    "name": "WeiboSpider",
+    "owner": "nghuyong",
+    "stargazers_count": 2711
+  },
+  {
+    "name": "gpt-neox",
+    "owner": "EleutherAI",
+    "stargazers_count": 2695
+  },
+  {
+    "name": "django-oauth-toolkit",
+    "owner": "jazzband",
+    "stargazers_count": 2691
+  },
+  {
+    "name": "DeleteFB",
+    "owner": "weskerfoot",
+    "stargazers_count": 2689
+  },
+  {
+    "name": "ByteTrack",
+    "owner": "ifzhang",
+    "stargazers_count": 2689
+  },
+  {
+    "name": "AITemplate",
+    "owner": "facebookincubator",
+    "stargazers_count": 2687
+  },
+  {
+    "name": "exodus",
+    "owner": "intoli",
+    "stargazers_count": 2685
+  },
+  {
+    "name": "PhotoGIMP",
+    "owner": "Diolinux",
+    "stargazers_count": 2684
+  },
+  {
+    "name": "XLM",
+    "owner": "facebookresearch",
+    "stargazers_count": 2684
+  },
+  {
+    "name": "police-brutality",
+    "owner": "2020PB",
+    "stargazers_count": 2681
+  },
+  {
+    "name": "graphics",
+    "owner": "tensorflow",
+    "stargazers_count": 2680
+  },
+  {
+    "name": "platform_development",
+    "owner": "aosp-mirror",
+    "stargazers_count": 2676
+  },
+  {
+    "name": "viztracer",
+    "owner": "gaogaotiantian",
+    "stargazers_count": 2674
+  },
+  {
+    "name": "halo",
+    "owner": "manrajgrover",
+    "stargazers_count": 2673
+  },
+  {
+    "name": "schema",
+    "owner": "keleshev",
+    "stargazers_count": 2670
+  },
+  {
+    "name": "SNIPER",
+    "owner": "mahyarnajibi",
+    "stargazers_count": 2668
+  },
+  {
+    "name": "weevely3",
+    "owner": "epinna",
+    "stargazers_count": 2667
+  },
+  {
+    "name": "pytorch-deeplab-xception",
+    "owner": "jfzhang95",
+    "stargazers_count": 2665
+  },
+  {
+    "name": "mmpose",
+    "owner": "open-mmlab",
+    "stargazers_count": 2662
+  },
+  {
+    "name": "django-environ",
+    "owner": "joke2k",
+    "stargazers_count": 2651
+  },
+  {
+    "name": "book",
+    "owner": "SystemsApproach",
+    "stargazers_count": 2649
+  },
+  {
+    "name": "char-rnn-tensorflow",
+    "owner": "sherjilozair",
+    "stargazers_count": 2648
+  },
+  {
+    "name": "fluxgui",
+    "owner": "xflux-gui",
+    "stargazers_count": 2640
+  },
+  {
+    "name": "PythonPlantsVsZombies",
+    "owner": "marblexu",
+    "stargazers_count": 2639
+  },
+  {
+    "name": "pcc",
+    "owner": "ehmatthes",
+    "stargazers_count": 2637
+  },
+  {
+    "name": "Transcrypt",
+    "owner": "QQuick",
+    "stargazers_count": 2636
+  },
+  {
+    "name": "vigil",
+    "owner": "munificent",
+    "stargazers_count": 2635
+  },
+  {
+    "name": "neural_prophet",
+    "owner": "ourownstory",
+    "stargazers_count": 2635
+  },
+  {
+    "name": "texthero",
+    "owner": "jbesomi",
+    "stargazers_count": 2629
+  },
+  {
+    "name": "django-social-auth",
+    "owner": "omab",
+    "stargazers_count": 2623
+  },
+  {
+    "name": "thinc",
+    "owner": "explosion",
+    "stargazers_count": 2622
+  },
+  {
+    "name": "WireViz",
+    "owner": "formatc1702",
+    "stargazers_count": 2619
+  },
+  {
+    "name": "pinax",
+    "owner": "pinax",
+    "stargazers_count": 2618
+  },
+  {
+    "name": "scrapydweb",
+    "owner": "my8100",
+    "stargazers_count": 2615
+  },
+  {
+    "name": "BigGAN-PyTorch",
+    "owner": "ajbrock",
+    "stargazers_count": 2608
+  },
+  {
+    "name": "gprof2dot",
+    "owner": "jrfonseca",
+    "stargazers_count": 2603
+  },
+  {
+    "name": "PrettyErrors",
+    "owner": "onelivesleft",
+    "stargazers_count": 2600
+  },
+  {
+    "name": "armory",
+    "owner": "armory3d",
+    "stargazers_count": 2599
+  },
+  {
+    "name": "ENAS-pytorch",
+    "owner": "carpedm20",
+    "stargazers_count": 2596
+  },
+  {
+    "name": "django-rest-swagger",
+    "owner": "marcgibbons",
+    "stargazers_count": 2582
+  },
+  {
+    "name": "SimpleCV",
+    "owner": "sightmachine",
+    "stargazers_count": 2578
+  },
+  {
+    "name": "itsdangerous",
+    "owner": "pallets",
+    "stargazers_count": 2576
+  },
+  {
+    "name": "splinter",
+    "owner": "cobrateam",
+    "stargazers_count": 2576
+  },
+  {
+    "name": "instagram_private_api",
+    "owner": "ping",
+    "stargazers_count": 2572
+  },
+  {
+    "name": "glue",
+    "owner": "jorgebastida",
+    "stargazers_count": 2571
+  },
+  {
+    "name": "GAT",
+    "owner": "PetarV-",
+    "stargazers_count": 2569
+  },
+  {
+    "name": "easyquant",
+    "owner": "shidenggui",
+    "stargazers_count": 2568
+  },
+  {
+    "name": "pytrends",
+    "owner": "GeneralMills",
+    "stargazers_count": 2563
+  },
+  {
+    "name": "wifite",
+    "owner": "derv82",
+    "stargazers_count": 2563
+  },
+  {
+    "name": "PerceptualSimilarity",
+    "owner": "richzhang",
+    "stargazers_count": 2555
+  },
+  {
+    "name": "django-import-export",
+    "owner": "django-import-export",
+    "stargazers_count": 2552
+  },
+  {
+    "name": "scdl",
+    "owner": "flyingrub",
+    "stargazers_count": 2551
+  },
+  {
+    "name": "stellargraph",
+    "owner": "stellargraph",
+    "stargazers_count": 2548
+  },
+  {
+    "name": "interactive-deep-colorization",
+    "owner": "junyanz",
+    "stargazers_count": 2548
+  },
+  {
+    "name": "scrapyd",
+    "owner": "scrapy",
+    "stargazers_count": 2547
+  },
+  {
+    "name": "open-paperless",
+    "owner": "zhoubear",
+    "stargazers_count": 2544
+  },
+  {
+    "name": "schematics",
+    "owner": "schematics",
+    "stargazers_count": 2541
+  },
+  {
+    "name": "chipsec",
+    "owner": "chipsec",
+    "stargazers_count": 2537
+  },
+  {
+    "name": "wifi-password",
+    "owner": "sdushantha",
+    "stargazers_count": 2534
+  },
+  {
+    "name": "awesome-hand-pose-estimation",
+    "owner": "xinghaochen",
+    "stargazers_count": 2532
+  },
+  {
+    "name": "quantstats",
+    "owner": "ranaroussi",
+    "stargazers_count": 2528
+  },
+  {
+    "name": "dirmap",
+    "owner": "H4ckForJob",
+    "stargazers_count": 2525
+  },
+  {
+    "name": "captcha_trainer",
+    "owner": "kerlomz",
+    "stargazers_count": 2523
+  },
+  {
+    "name": "knockknock",
+    "owner": "huggingface",
+    "stargazers_count": 2520
+  },
+  {
+    "name": "gmusicapi",
+    "owner": "simon-weber",
+    "stargazers_count": 2517
+  },
+  {
+    "name": "AlfredWorkflow.com",
+    "owner": "hzlzh",
+    "stargazers_count": 2510
+  },
+  {
+    "name": "MUNIT",
+    "owner": "NVlabs",
+    "stargazers_count": 2508
+  },
+  {
+    "name": "python-language-server",
+    "owner": "palantir",
+    "stargazers_count": 2508
+  },
+  {
+    "name": "pyleus",
+    "owner": "Yelp",
+    "stargazers_count": 406
+  },
+  {
+    "name": "ultrafinance",
+    "owner": "panpanpandas",
+    "stargazers_count": 405
+  },
+  {
+    "name": "plivoframework",
+    "owner": "plivo",
+    "stargazers_count": 404
+  },
+  {
+    "name": "wechatircd",
+    "owner": "MaskRay",
+    "stargazers_count": 403
+  },
+  {
+    "name": "flownet2-tf",
+    "owner": "sampepose",
+    "stargazers_count": 403
+  },
+  {
+    "name": "keras-maskrcnn",
+    "owner": "fizyr",
+    "stargazers_count": 402
+  },
+  {
+    "name": "mysql_streamer",
+    "owner": "Yelp",
+    "stargazers_count": 401
+  },
+  {
+    "name": "django-lazysignup",
+    "owner": "danfairs",
+    "stargazers_count": 402
+  },
+  {
+    "name": "BERT-whitening",
+    "owner": "bojone",
+    "stargazers_count": 401
+  },
+  {
+    "name": "gc-mc",
+    "owner": "riannevdberg",
+    "stargazers_count": 400
+  },
+  {
+    "name": "neural-architecture-search",
+    "owner": "titu1994",
+    "stargazers_count": 400
+  },
+  {
+    "name": "Pext",
+    "owner": "Pext",
+    "stargazers_count": 400
+  },
+  {
+    "name": "chronic",
+    "owner": "davidcrawford",
+    "stargazers_count": 400
+  },
+  {
+    "name": "u-net",
+    "owner": "yihui-he",
+    "stargazers_count": 400
+  },
+  {
+    "name": "RLs",
+    "owner": "StepNeverStop",
+    "stargazers_count": 399
+  },
+  {
+    "name": "DRF-TDD-example",
+    "owner": "erdem",
+    "stargazers_count": 399
+  },
+  {
+    "name": "objectiv-analytics",
+    "owner": "objectiv",
+    "stargazers_count": 399
+  },
+  {
+    "name": "tensorflow-convlstm-cell",
+    "owner": "carlthome",
+    "stargazers_count": 399
+  },
+  {
+    "name": "morisawa-biz-ud-mincho",
+    "owner": "googlefonts",
+    "stargazers_count": 398
+  },
+  {
+    "name": "winappdbg",
+    "owner": "MarioVilas",
+    "stargazers_count": 398
+  },
+  {
+    "name": "ChineseBLUE",
+    "owner": "alibaba-research",
+    "stargazers_count": 398
+  },
+  {
+    "name": "pip-chill",
+    "owner": "rbanffy",
+    "stargazers_count": 398
+  },
+  {
+    "name": "gpt-4chan-public",
+    "owner": "yk",
+    "stargazers_count": 398
+  },
+  {
+    "name": "learn-x-by-doing-y",
+    "owner": "aquadzn",
+    "stargazers_count": 398
+  },
+  {
+    "name": "Yolov5-Deepsort",
+    "owner": "Sharpiless",
+    "stargazers_count": 398
+  },
+  {
+    "name": "vio_data_simulation",
+    "owner": "HeYijia",
+    "stargazers_count": 397
+  },
+  {
+    "name": "heroprotocol",
+    "owner": "Blizzard",
+    "stargazers_count": 397
+  },
+  {
+    "name": "coref",
+    "owner": "mandarjoshi90",
+    "stargazers_count": 397
+  },
+  {
+    "name": "doubtlab",
+    "owner": "koaning",
+    "stargazers_count": 397
+  },
+  {
+    "name": "ssh2",
+    "owner": "soheil-zz",
+    "stargazers_count": 396
+  },
+  {
+    "name": "keychain.io",
+    "owner": "progrium",
+    "stargazers_count": 396
+  },
+  {
+    "name": "win_driver_plugin",
+    "owner": "FSecureLABS",
+    "stargazers_count": 396
+  },
+  {
+    "name": "pytorch-vsumm-reinforce",
+    "owner": "KaiyangZhou",
+    "stargazers_count": 396
+  },
+  {
+    "name": "nauta",
+    "owner": "IntelAI",
+    "stargazers_count": 394
+  },
+  {
+    "name": "times",
+    "owner": "nvie",
+    "stargazers_count": 393
+  },
+  {
+    "name": "SqueezeNet-Deep-Compression",
+    "owner": "songhan",
+    "stargazers_count": 395
+  },
+  {
+    "name": "SB-Actuator",
+    "owner": "rabbitmask",
+    "stargazers_count": 395
+  },
+  {
+    "name": "django-app-metrics",
+    "owner": "frankwiles",
+    "stargazers_count": 394
+  },
+  {
+    "name": "ADBench",
+    "owner": "Minqi824",
+    "stargazers_count": 394
+  },
+  {
+    "name": "Learn-to-identify-similar-images",
+    "owner": "MashiMaroLjc",
+    "stargazers_count": 393
+  },
+  {
+    "name": "bitcoin_book_2nd",
+    "owner": "inoutcode",
+    "stargazers_count": 393
+  },
+  {
+    "name": "ProphetNet",
+    "owner": "microsoft",
+    "stargazers_count": 392
+  },
+  {
+    "name": "opensourcegames",
+    "owner": "Trilarion",
+    "stargazers_count": 392
+  },
+  {
+    "name": "nerve",
+    "owner": "PaytmLabs",
+    "stargazers_count": 392
+  },
+  {
+    "name": "git-repo",
+    "owner": "esrlabs",
+    "stargazers_count": 391
+  },
+  {
+    "name": "scipy-lecture-notes-zh-CN",
+    "owner": "jayleicn",
+    "stargazers_count": 391
+  },
+  {
+    "name": "oyster",
+    "owner": "katerakelly",
+    "stargazers_count": 391
+  },
+  {
+    "name": "compose",
+    "owner": "alteryx",
+    "stargazers_count": 391
+  },
+  {
+    "name": "aiozmq",
+    "owner": "aio-libs",
+    "stargazers_count": 391
+  },
+  {
+    "name": "PyTagCloud",
+    "owner": "atizo",
+    "stargazers_count": 391
+  },
+  {
+    "name": "POL-POM-4",
+    "owner": "PlayOnLinux",
+    "stargazers_count": 390
+  },
+  {
+    "name": "MerossIot",
+    "owner": "albertogeniola",
+    "stargazers_count": 390
+  },
+  {
+    "name": "hypersearch",
+    "owner": "kevinzakka",
+    "stargazers_count": 390
+  },
+  {
+    "name": "CIA-SSD",
+    "owner": "Vegeta2020",
+    "stargazers_count": 389
+  },
+  {
+    "name": "placebo",
+    "owner": "garnaat",
+    "stargazers_count": 389
+  },
+  {
+    "name": "state_machine",
+    "owner": "jtushman",
+    "stargazers_count": 388
+  },
+  {
+    "name": "PSPNet-Keras-tensorflow",
+    "owner": "Vladkryvoruchko",
+    "stargazers_count": 388
+  },
+  {
+    "name": "LambdaGuard",
+    "owner": "Skyscanner",
+    "stargazers_count": 388
+  },
+  {
+    "name": "ffmpeg-avi-m3u-xbin",
+    "owner": "neex",
+    "stargazers_count": 388
+  },
+  {
+    "name": "ConvLab",
+    "owner": "ConvLab",
+    "stargazers_count": 388
+  },
+  {
+    "name": "CrowdDet",
+    "owner": "Purkialo",
+    "stargazers_count": 388
+  },
+  {
+    "name": "KGCN",
+    "owner": "hwwang55",
+    "stargazers_count": 387
+  },
+  {
+    "name": "HASS-Deepstack-object",
+    "owner": "robmarkcole",
+    "stargazers_count": 387
+  },
+  {
+    "name": "Full-Stack-Foundations",
+    "owner": "udacity",
+    "stargazers_count": 387
+  },
+  {
+    "name": "xbmctorrent",
+    "owner": "steeve",
+    "stargazers_count": 387
+  },
+  {
+    "name": "sequence_gan",
+    "owner": "ofirnachum",
+    "stargazers_count": 387
+  },
+  {
+    "name": "biicode",
+    "owner": "biicode",
+    "stargazers_count": 387
+  },
+  {
+    "name": "MicrosoftHostsPicker",
+    "owner": "ButaiKirin",
+    "stargazers_count": 385
+  },
+  {
+    "name": "watchpoints",
+    "owner": "gaogaotiantian",
+    "stargazers_count": 385
+  },
+  {
+    "name": "lahja",
+    "owner": "ethereum",
+    "stargazers_count": 385
+  },
+  {
+    "name": "genrl",
+    "owner": "SforAiDl",
+    "stargazers_count": 384
+  },
+  {
+    "name": "adaptive_voice_conversion",
+    "owner": "jjery2243542",
+    "stargazers_count": 384
+  },
+  {
+    "name": "GetMail",
+    "owner": "b0bac",
+    "stargazers_count": 384
+  },
+  {
+    "name": "brainrender",
+    "owner": "brainglobe",
+    "stargazers_count": 384
+  },
+  {
+    "name": "twitter-sort",
+    "owner": "exPHAT",
+    "stargazers_count": 384
+  },
+  {
+    "name": "httplib2",
+    "owner": "jcgregorio",
+    "stargazers_count": 384
+  },
+  {
+    "name": "elmo-bilstm-cnn-crf",
+    "owner": "UKPLab",
+    "stargazers_count": 384
+  },
+  {
+    "name": "critic",
+    "owner": "jensl",
+    "stargazers_count": 384
+  },
+  {
+    "name": "cert-issuer",
+    "owner": "blockchain-certificates",
+    "stargazers_count": 384
+  },
+  {
+    "name": "pytorch-faster-rcnn",
+    "owner": "AlphaJia",
+    "stargazers_count": 383
+  },
+  {
+    "name": "FLAME_PyTorch",
+    "owner": "soubhiksanyal",
+    "stargazers_count": 383
+  },
+  {
+    "name": "VAmPI",
+    "owner": "erev0s",
+    "stargazers_count": 383
+  },
+  {
+    "name": "ConvLab-2",
+    "owner": "thu-coai",
+    "stargazers_count": 383
+  },
+  {
+    "name": "AndroidTestScripts",
+    "owner": "gb112211",
+    "stargazers_count": 383
+  },
+  {
+    "name": "seq2seq",
+    "owner": "alex-berard",
+    "stargazers_count": 382
+  },
+  {
+    "name": "phenny",
+    "owner": "sbp",
+    "stargazers_count": 382
+  },
+  {
+    "name": "ShuffleNet",
+    "owner": "MG2033",
+    "stargazers_count": 382
+  },
+  {
+    "name": "zio",
+    "owner": "zTrix",
+    "stargazers_count": 381
+  },
+  {
+    "name": "sandboxMP",
+    "owner": "RobbieHan",
+    "stargazers_count": 381
+  },
+  {
+    "name": "frepple",
+    "owner": "frePPLe",
+    "stargazers_count": 380
+  },
+  {
+    "name": "voxnet",
+    "owner": "dimatura",
+    "stargazers_count": 380
+  },
+  {
+    "name": "django-mama-cas",
+    "owner": "jbittel",
+    "stargazers_count": 380
+  },
+  {
+    "name": "Activation-Visualization-Histogram",
+    "owner": "shaohua0116",
+    "stargazers_count": 379
+  },
+  {
+    "name": "mqtt-io",
+    "owner": "flyte",
+    "stargazers_count": 379
+  },
+  {
+    "name": "theano-rnn",
+    "owner": "gwtaylor",
+    "stargazers_count": 379
+  },
+  {
+    "name": "medaCy",
+    "owner": "NLPatVCU",
+    "stargazers_count": 378
+  },
+  {
+    "name": "cuckoo-modified",
+    "owner": "spender-sandbox",
+    "stargazers_count": 379
+  },
+  {
+    "name": "dusty",
+    "owner": "gamechanger",
+    "stargazers_count": 377
+  },
+  {
+    "name": "PyScribe",
+    "owner": "alixander",
+    "stargazers_count": 376
+  },
+  {
+    "name": "tornadio",
+    "owner": "mrjoes",
+    "stargazers_count": 377
+  }
+]

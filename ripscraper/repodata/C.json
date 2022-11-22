@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "linux",
+    "owner": "torvalds",
+    "stargazers_count": 141466
+  },
+  {
+    "name": "scrcpy",
+    "owner": "Genymobile",
+    "stargazers_count": 73067
+  },
+  {
+    "name": "netdata",
+    "owner": "netdata",
+    "stargazers_count": 61209
+  },
+  {
+    "name": "redis",
+    "owner": "redis",
+    "stargazers_count": 57604
+  },
+  {
+    "name": "git",
+    "owner": "git",
+    "stargazers_count": 44277
+  },
+  {
+    "name": "obs-studio",
+    "owner": "obsproject",
+    "stargazers_count": 43027
+  },
+  {
+    "name": "Ventoy",
+    "owner": "ventoy",
+    "stargazers_count": 41391
+  },
+  {
+    "name": "php-src",
+    "owner": "php",
+    "stargazers_count": 34581
+  },
+  {
+    "name": "wrk",
+    "owner": "wg",
+    "stargazers_count": 33303
+  },
+  {
+    "name": "FFmpeg",
+    "owner": "FFmpeg",
+    "stargazers_count": 32730
+  },
+  {
+    "name": "ijkplayer",
+    "owner": "bilibili",
+    "stargazers_count": 30916
+  },
+  {
+    "name": "curl",
+    "owner": "curl",
+    "stargazers_count": 27458
+  },
+  {
+    "name": "tmux",
+    "owner": "tmux",
+    "stargazers_count": 26838
+  },
+  {
+    "name": "the_silver_searcher",
+    "owner": "ggreer",
+    "stargazers_count": 24318
+  },
+  {
+    "name": "os-tutorial",
+    "owner": "cfenollosa",
+    "stargazers_count": 24105
+  },
+  {
+    "name": "lede",
+    "owner": "coolsnowwolf",
+    "stargazers_count": 23778
+  },
+  {
+    "name": "jq",
+    "owner": "stedolan",
+    "stargazers_count": 23590
+  },
+  {
+    "name": "darknet",
+    "owner": "pjreddie",
+    "stargazers_count": 23519
+  },
+  {
+    "name": "emscripten",
+    "owner": "emscripten-core",
+    "stargazers_count": 22949
+  },
+  {
+    "name": "rufus",
+    "owner": "pbatard",
+    "stargazers_count": 20772
+  },
+  {
+    "name": "mpv",
+    "owner": "mpv-player",
+    "stargazers_count": 20682
+  },
+  {
+    "name": "The-Art-Of-Programming-By-July",
+    "owner": "julycoding",
+    "stargazers_count": 20608
+  },
+  {
+    "name": "libuv",
+    "owner": "libuv",
+    "stargazers_count": 20431
+  },
+  {
+    "name": "stb",
+    "owner": "nothings",
+    "stargazers_count": 20365
+  },
+  {
+    "name": "masscan",
+    "owner": "robertdavidgraham",
+    "stargazers_count": 20144
+  },
+  {
+    "name": "openssl",
+    "owner": "openssl",
+    "stargazers_count": 20119
+  },
+  {
+    "name": "How-to-Make-a-Computer-Operating-System",
+    "owner": "SamyPesse",
+    "stargazers_count": 20066
+  },
+  {
+    "name": "TDengine",
+    "owner": "taosdata",
+    "stargazers_count": 19637
+  },
+  {
+    "name": "zstd",
+    "owner": "facebook",
+    "stargazers_count": 18673
+  },
+  {
+    "name": "HarmonyOS",
+    "owner": "Awesome-HarmonyOS",
+    "stargazers_count": 18662
+  },
+  {
+    "name": "Tasmota",
+    "owner": "arendst",
+    "stargazers_count": 18643
+  },
+  {
+    "name": "nginx",
+    "owner": "nginx",
+    "stargazers_count": 17542
+  },
+  {
+    "name": "radare2",
+    "owner": "radareorg",
+    "stargazers_count": 17167
+  },
+  {
+    "name": "mimikatz",
+    "owner": "gentilkiwi",
+    "stargazers_count": 16352
+  },
+  {
+    "name": "hashcat",
+    "owner": "hashcat",
+    "stargazers_count": 16095
+  },
+  {
+    "name": "bcc",
+    "owner": "iovisor",
+    "stargazers_count": 15986
+  },
+  {
+    "name": "micropython",
+    "owner": "micropython",
+    "stargazers_count": 15451
+  },
+  {
+    "name": "goaccess",
+    "owner": "allinurl",
+    "stargazers_count": 15384
+  },
+  {
+    "name": "nnn",
+    "owner": "jarun",
+    "stargazers_count": 15222
+  },
+  {
+    "name": "C",
+    "owner": "TheAlgorithms",
+    "stargazers_count": 14984
+  },
+  {
+    "name": "timescaledb",
+    "owner": "timescale",
+    "stargazers_count": 14039
+  },
+  {
+    "name": "qmk_firmware",
+    "owner": "qmk",
+    "stargazers_count": 13745
+  },
+  {
+    "name": "yabai",
+    "owner": "koekeishiya",
+    "stargazers_count": 13610
+  },
+  {
+    "name": "nuklear",
+    "owner": "vurtun",
+    "stargazers_count": 13490
+  },
+  {
+    "name": "Mailspring",
+    "owner": "Foundry376",
+    "stargazers_count": 13448
+  },
+  {
+    "name": "openwrt",
+    "owner": "openwrt",
+    "stargazers_count": 13208
+  },
+  {
+    "name": "ish",
+    "owner": "ish-app",
+    "stargazers_count": 12986
+  },
+  {
+    "name": "open-gpu-kernel-modules",
+    "owner": "NVIDIA",
+    "stargazers_count": 12700
+  },
+  {
+    "name": "memcached",
+    "owner": "memcached",
+    "stargazers_count": 12250
+  },
+  {
+    "name": "nginx-rtmp-module",
+    "owner": "arut",
+    "stargazers_count": 12225
+  },
+  {
+    "name": "blurhash",
+    "owner": "woltapp",
+    "stargazers_count": 12192
+  },
+  {
+    "name": "kcp",
+    "owner": "skywind3000",
+    "stargazers_count": 11879
+  },
+  {
+    "name": "raspberry-pi-os",
+    "owner": "s-matyukevich",
+    "stargazers_count": 11831
+  },
+  {
+    "name": "tengine",
+    "owner": "alibaba",
+    "stargazers_count": 11716
+  },
+  {
+    "name": "reactos",
+    "owner": "reactos",
+    "stargazers_count": 11672
+  },
+  {
+    "name": "brotli",
+    "owner": "google",
+    "stargazers_count": 11630
+  },
+  {
+    "name": "twemproxy",
+    "owner": "twitter",
+    "stargazers_count": 11628
+  },
+  {
+    "name": "skynet",
+    "owner": "cloudwu",
+    "stargazers_count": 11613
+  },
+  {
+    "name": "robotjs",
+    "owner": "octalmage",
+    "stargazers_count": 11404
+  },
+  {
+    "name": "sway",
+    "owner": "swaywm",
+    "stargazers_count": 11349
+  },
+  {
+    "name": "postgres",
+    "owner": "postgres",
+    "stargazers_count": 11334
+  },
+  {
+    "name": "tig",
+    "owner": "jonas",
+    "stargazers_count": 11309
+  },
+  {
+    "name": "HandBrake",
+    "owner": "HandBrake",
+    "stargazers_count": 11136
+  },
+  {
+    "name": "raylib",
+    "owner": "raysan5",
+    "stargazers_count": 11059
+  },
+  {
+    "name": "openresty",
+    "owner": "openresty",
+    "stargazers_count": 10978
+  },
+  {
+    "name": "esp8266_deauther",
+    "owner": "SpacehuhnTech",
+    "stargazers_count": 10847
+  },
+  {
+    "name": "lvgl",
+    "owner": "lvgl",
+    "stargazers_count": 10746
+  },
+  {
+    "name": "webview",
+    "owner": "webview",
+    "stargazers_count": 10652
+  },
+  {
+    "name": "libsodium",
+    "owner": "jedisct1",
+    "stargazers_count": 10574
+  },
+  {
+    "name": "OpenCorePkg",
+    "owner": "acidanthera",
+    "stargazers_count": 10481
+  },
+  {
+    "name": "WindTerm",
+    "owner": "kingToolbox",
+    "stargazers_count": 10420
+  },
+  {
+    "name": "darwin-xnu",
+    "owner": "apple",
+    "stargazers_count": 10371
+  },
+  {
+    "name": "systemd",
+    "owner": "systemd",
+    "stargazers_count": 10354
+  },
+  {
+    "name": "lua-nginx-module",
+    "owner": "openresty",
+    "stargazers_count": 10348
+  },
+  {
+    "name": "libui",
+    "owner": "andlabs",
+    "stargazers_count": 10343
+  },
+  {
+    "name": "rofi",
+    "owner": "davatorium",
+    "stargazers_count": 10213
+  },
+  {
+    "name": "seafile",
+    "owner": "haiwen",
+    "stargazers_count": 10194
+  },
+  {
+    "name": "h2o",
+    "owner": "h2o",
+    "stargazers_count": 10187
+  },
+  {
+    "name": "vlc",
+    "owner": "videolan",
+    "stargazers_count": 9866
+  },
+  {
+    "name": "BlackHole",
+    "owner": "ExistentialAudio",
+    "stargazers_count": 9863
+  },
+  {
+    "name": "glfw",
+    "owner": "glfw",
+    "stargazers_count": 9841
+  },
+  {
+    "name": "cosmopolitan",
+    "owner": "jart",
+    "stargazers_count": 9770
+  },
+  {
+    "name": "arduino-esp32",
+    "owner": "espressif",
+    "stargazers_count": 9619
+  },
+  {
+    "name": "ExplorerPatcher",
+    "owner": "valinet",
+    "stargazers_count": 9543
+  },
+  {
+    "name": "wcdb",
+    "owner": "Tencent",
+    "stargazers_count": 9527
+  },
+  {
+    "name": "phpredis",
+    "owner": "phpredis",
+    "stargazers_count": 9512
+  },
+  {
+    "name": "Craft",
+    "owner": "fogleman",
+    "stargazers_count": 9498
+  },
+  {
+    "name": "SoftEtherVPN",
+    "owner": "SoftEtherVPN",
+    "stargazers_count": 9452
+  },
+  {
+    "name": "esp-idf",
+    "owner": "espressif",
+    "stargazers_count": 9432
+  },
+  {
+    "name": "DOOM",
+    "owner": "id-Software",
+    "stargazers_count": 9371
+  },
+  {
+    "name": "linux",
+    "owner": "raspberrypi",
+    "stargazers_count": 9350
+  },
+  {
+    "name": "darling",
+    "owner": "darlinghq",
+    "stargazers_count": 9329
+  },
+  {
+    "name": "libevent",
+    "owner": "libevent",
+    "stargazers_count": 9326
+  },
+  {
+    "name": "Tinyhttpd",
+    "owner": "EZLippi",
+    "stargazers_count": 9173
+  },
+  {
+    "name": "redis-3.0-annotated",
+    "owner": "huangz1990",
+    "stargazers_count": 9168
+  },
+  {
+    "name": "sumatrapdf",
+    "owner": "sumatrapdfreader",
+    "stargazers_count": 9131
+  },
+  {
+    "name": "sanitizers",
+    "owner": "google",
+    "stargazers_count": 8970
+  },
+  {
+    "name": "mongoose",
+    "owner": "cesanta",
+    "stargazers_count": 8930
+  },
+  {
+    "name": "libgit2",
+    "owner": "libgit2",
+    "stargazers_count": 8773
+  },
+  {
+    "name": "torch7",
+    "owner": "torch",
+    "stargazers_count": 8753
+  },
+  {
+    "name": "toxcore",
+    "owner": "irungentoo",
+    "stargazers_count": 8693
+  },
+  {
+    "name": "Dummy-Robot",
+    "owner": "peng-zhihui",
+    "stargazers_count": 8650
+  },
+  {
+    "name": "japronto",
+    "owner": "squeaky-pl",
+    "stargazers_count": 8591
+  },
+  {
+    "name": "Sandboxie",
+    "owner": "sandboxie-plus",
+    "stargazers_count": 8448
+  },
+  {
+    "name": "coturn",
+    "owner": "coturn",
+    "stargazers_count": 8445
+  },
+  {
+    "name": "audacity",
+    "owner": "audacity",
+    "stargazers_count": 8412
+  },
+  {
+    "name": "proxychains-ng",
+    "owner": "rofl0r",
+    "stargazers_count": 8326
+  },
+  {
+    "name": "zfs",
+    "owner": "openzfs",
+    "stargazers_count": 8310
+  },
+  {
+    "name": "ffmpeg-libav-tutorial",
+    "owner": "leandromoreira",
+    "stargazers_count": 8293
+  },
+  {
+    "name": "fastdfs",
+    "owner": "happyfish100",
+    "stargazers_count": 8293
+  },
+  {
+    "name": "react-native-code-push",
+    "owner": "microsoft",
+    "stargazers_count": 8269
+  },
+  {
+    "name": "systeminformer",
+    "owner": "winsiderss",
+    "stargazers_count": 8172
+  },
+  {
+    "name": "cJSON",
+    "owner": "DaveGamble",
+    "stargazers_count": 8131
+  },
+  {
+    "name": "xLua",
+    "owner": "Tencent",
+    "stargazers_count": 8066
+  },
+  {
+    "name": "ImageMagick",
+    "owner": "ImageMagick",
+    "stargazers_count": 8010
+  },
+  {
+    "name": "tini",
+    "owner": "krallin",
+    "stargazers_count": 7970
+  },
+  {
+    "name": "c4",
+    "owner": "rswier",
+    "stargazers_count": 7940
+  },
+  {
+    "name": "disque",
+    "owner": "antirez",
+    "stargazers_count": 7898
+  },
+  {
+    "name": "GoodbyeDPI",
+    "owner": "ValdikSS",
+    "stargazers_count": 7855
+  },
+  {
+    "name": "openvpn",
+    "owner": "OpenVPN",
+    "stargazers_count": 7779
+  },
+  {
+    "name": "lz4",
+    "owner": "lz4",
+    "stargazers_count": 7747
+  },
+  {
+    "name": "BGAQRCode-Android",
+    "owner": "bingoogolapple",
+    "stargazers_count": 7686
+  },
+  {
+    "name": "i3",
+    "owner": "i3",
+    "stargazers_count": 7676
+  },
+  {
+    "name": "db_tutorial",
+    "owner": "cstack",
+    "stargazers_count": 7609
+  },
+  {
+    "name": "FreeRDP",
+    "owner": "FreeRDP",
+    "stargazers_count": 7590
+  },
+  {
+    "name": "rt-thread",
+    "owner": "RT-Thread",
+    "stargazers_count": 7588
+  },
+  {
+    "name": "citus",
+    "owner": "citusdata",
+    "stargazers_count": 7575
+  },
+  {
+    "name": "Mirai-Source-Code",
+    "owner": "jgamblin",
+    "stargazers_count": 7570
+  },
+  {
+    "name": "AppImageKit",
+    "owner": "AppImage",
+    "stargazers_count": 7564
+  },
+  {
+    "name": "jemalloc",
+    "owner": "jemalloc",
+    "stargazers_count": 7557
+  },
+  {
+    "name": "mimalloc",
+    "owner": "microsoft",
+    "stargazers_count": 7408
+  },
+  {
+    "name": "cockpit",
+    "owner": "cockpit-project",
+    "stargazers_count": 7382
+  },
+  {
+    "name": "libvips",
+    "owner": "libvips",
+    "stargazers_count": 7381
+  },
+  {
+    "name": "yugabyte-db",
+    "owner": "yugabyte",
+    "stargazers_count": 7259
+  },
+  {
+    "name": "xmrig",
+    "owner": "xmrig",
+    "stargazers_count": 7252
+  },
+  {
+    "name": "RetroArch",
+    "owner": "libretro",
+    "stargazers_count": 7231
+  },
+  {
+    "name": "nodemcu-firmware",
+    "owner": "nodemcu",
+    "stargazers_count": 7199
+  },
+  {
+    "name": "darktable",
+    "owner": "darktable-org",
+    "stargazers_count": 7114
+  },
+  {
+    "name": "TheFatRat",
+    "owner": "screetsec",
+    "stargazers_count": 7083
+  },
+  {
+    "name": "nmap",
+    "owner": "nmap",
+    "stargazers_count": 7082
+  },
+  {
+    "name": "blender",
+    "owner": "blender",
+    "stargazers_count": 7071
+  },
+  {
+    "name": "qemu",
+    "owner": "qemu",
+    "stargazers_count": 7011
+  },
+  {
+    "name": "john",
+    "owner": "openwall",
+    "stargazers_count": 7002
+  },
+  {
+    "name": "gcc",
+    "owner": "gcc-mirror",
+    "stargazers_count": 6993
+  },
+  {
+    "name": "acwj",
+    "owner": "DoctorWkt",
+    "stargazers_count": 6972
+  },
+  {
+    "name": "Learn-Algorithms",
+    "owner": "nonstriater",
+    "stargazers_count": 6952
+  },
+  {
+    "name": "ccv",
+    "owner": "liuliu",
+    "stargazers_count": 6900
+  },
+  {
+    "name": "zephyr",
+    "owner": "zephyrproject-rtos",
+    "stargazers_count": 6900
+  },
+  {
+    "name": "thc-hydra",
+    "owner": "vanhauser-thc",
+    "stargazers_count": 6846
+  },
+  {
+    "name": "janus-gateway",
+    "owner": "meetecho",
+    "stargazers_count": 6833
+  },
+  {
+    "name": "catboost",
+    "owner": "catboost",
+    "stargazers_count": 6807
+  },
+  {
+    "name": "windows-kernel-exploits",
+    "owner": "SecWiki",
+    "stargazers_count": 6799
+  },
+  {
+    "name": "vlmcsd",
+    "owner": "Wind4",
+    "stargazers_count": 6798
+  },
+  {
+    "name": "chibicc",
+    "owner": "rui314",
+    "stargazers_count": 6782
+  },
+  {
+    "name": "mosquitto",
+    "owner": "eclipse",
+    "stargazers_count": 6774
+  },
+  {
+    "name": "lab",
+    "owner": "deepmind",
+    "stargazers_count": 6770
+  },
+  {
+    "name": "xxHash",
+    "owner": "Cyan4973",
+    "stargazers_count": 6763
+  },
+  {
+    "name": "L-ink_Card",
+    "owner": "peng-zhihui",
+    "stargazers_count": 6733
+  },
+  {
+    "name": "mac-precision-touchpad",
+    "owner": "imbushuo",
+    "stargazers_count": 6680
+  },
+  {
+    "name": "Undecimus",
+    "owner": "pwn20wndstuff",
+    "stargazers_count": 6650
+  },
+  {
+    "name": "freebsd-src",
+    "owner": "freebsd",
+    "stargazers_count": 6628
+  },
+  {
+    "name": "gb-studio",
+    "owner": "chrismaltby",
+    "stargazers_count": 6620
+  },
+  {
+    "name": "bspwm",
+    "owner": "baskerville",
+    "stargazers_count": 6601
+  },
+  {
+    "name": "poco",
+    "owner": "pocoproject",
+    "stargazers_count": 6505
+  },
+  {
+    "name": "sm64",
+    "owner": "n64decomp",
+    "stargazers_count": 6451
+  },
+  {
+    "name": "anypixel",
+    "owner": "googlecreativelab",
+    "stargazers_count": 6432
+  },
+  {
+    "name": "json-tutorial",
+    "owner": "miloyip",
+    "stargazers_count": 6431
+  },
+  {
+    "name": "jerryscript",
+    "owner": "jerryscript-project",
+    "stargazers_count": 6417
+  },
+  {
+    "name": "xhyve",
+    "owner": "machyve",
+    "stargazers_count": 6346
+  },
+  {
+    "name": "librdkafka",
+    "owner": "edenhill",
+    "stargazers_count": 6309
+  },
+  {
+    "name": "winfile",
+    "owner": "microsoft",
+    "stargazers_count": 6281
+  },
+  {
+    "name": "lua",
+    "owner": "lua",
+    "stargazers_count": 6268
+  },
+  {
+    "name": "betaflight",
+    "owner": "betaflight",
+    "stargazers_count": 6251
+  },
+  {
+    "name": "beanstalkd",
+    "owner": "beanstalkd",
+    "stargazers_count": 6233
+  },
+  {
+    "name": "kphp-kdb",
+    "owner": "vk-com",
+    "stargazers_count": 6220
+  },
+  {
+    "name": "Nuklear",
+    "owner": "Immediate-Mode-UI",
+    "stargazers_count": 6202
+  },
+  {
+    "name": "go-sqlite3",
+    "owner": "mattn",
+    "stargazers_count": 6189
+  },
+  {
+    "name": "Quake-III-Arena",
+    "owner": "id-Software",
+    "stargazers_count": 6181
+  },
+  {
+    "name": "yara",
+    "owner": "VirusTotal",
+    "stargazers_count": 6151
+  },
+  {
+    "name": "WSL2-Linux-Kernel",
+    "owner": "microsoft",
+    "stargazers_count": 6132
+  },
+  {
+    "name": "redis",
+    "owner": "tporadowski",
+    "stargazers_count": 6121
+  },
+  {
+    "name": "http-parser",
+    "owner": "nodejs",
+    "stargazers_count": 6121
+  },
+  {
+    "name": "GloVe",
+    "owner": "stanfordnlp",
+    "stargazers_count": 6093
+  },
+  {
+    "name": "deepin-wine-ubuntu",
+    "owner": "wszqkzqk",
+    "stargazers_count": 6028
+  },
+  {
+    "name": "i3",
+    "owner": "Airblader",
+    "stargazers_count": 6015
+  },
+  {
+    "name": "capstone",
+    "owner": "capstone-engine",
+    "stargazers_count": 6004
+  },
+  {
+    "name": "Cello",
+    "owner": "orangeduck",
+    "stargazers_count": 5990
+  },
+  {
+    "name": "system-bus-radio",
+    "owner": "fulldecent",
+    "stargazers_count": 5972
+  },
+  {
+    "name": "pifs",
+    "owner": "philipl",
+    "stargazers_count": 5970
+  },
+  {
+    "name": "xv6-public",
+    "owner": "mit-pdos",
+    "stargazers_count": 5967
+  },
+  {
+    "name": "nokogiri",
+    "owner": "sparklemotion",
+    "stargazers_count": 5929
+  },
+  {
+    "name": "xmake",
+    "owner": "xmake-io",
+    "stargazers_count": 5907
+  },
+  {
+    "name": "unicorn",
+    "owner": "unicorn-engine",
+    "stargazers_count": 5897
+  },
+  {
+    "name": "qoi",
+    "owner": "phoboslab",
+    "stargazers_count": 5873
+  },
+  {
+    "name": "progress",
+    "owner": "Xfennec",
+    "stargazers_count": 5871
+  },
+  {
+    "name": "itlwm",
+    "owner": "OpenIntelWireless",
+    "stargazers_count": 5830
+  },
+  {
+    "name": "tg",
+    "owner": "vysheng",
+    "stargazers_count": 5825
+  },
+  {
+    "name": "ElectronBot",
+    "owner": "peng-zhihui",
+    "stargazers_count": 5772
+  },
+  {
+    "name": "how2heap",
+    "owner": "shellphish",
+    "stargazers_count": 5748
+  },
+  {
+    "name": "8cc",
+    "owner": "rui314",
+    "stargazers_count": 5747
+  },
+  {
+    "name": "htop",
+    "owner": "hishamhm",
+    "stargazers_count": 5734
+  },
+  {
+    "name": "kilo",
+    "owner": "antirez",
+    "stargazers_count": 5721
+  },
+  {
+    "name": "lwan",
+    "owner": "lpereira",
+    "stargazers_count": 5683
+  },
+  {
+    "name": "TencentOS-tiny",
+    "owner": "OpenAtomFoundation",
+    "stargazers_count": 5669
+  },
+  {
+    "name": "endlessh",
+    "owner": "skeeto",
+    "stargazers_count": 5650
+  },
+  {
+    "name": "Windows-driver-samples",
+    "owner": "microsoft",
+    "stargazers_count": 5628
+  },
+  {
+    "name": "klipper",
+    "owner": "Klipper3d",
+    "stargazers_count": 5606
+  },
+  {
+    "name": "ios-webkit-debug-proxy",
+    "owner": "google",
+    "stargazers_count": 5594
+  },
+  {
+    "name": "VoxelSpace",
+    "owner": "s-macke",
+    "stargazers_count": 5542
+  },
+  {
+    "name": "nanomsg",
+    "owner": "nanomsg",
+    "stargazers_count": 5531
+  },
+  {
+    "name": "smartdns",
+    "owner": "pymumu",
+    "stargazers_count": 5506
+  },
+  {
+    "name": "wasm3",
+    "owner": "wasm3",
+    "stargazers_count": 5500
+  },
+  {
+    "name": "hiredis",
+    "owner": "redis",
+    "stargazers_count": 5496
+  },
+  {
+    "name": "redshift",
+    "owner": "jonls",
+    "stargazers_count": 5490
+  },
+  {
+    "name": "gpdb",
+    "owner": "greenplum-db",
+    "stargazers_count": 5467
+  },
+  {
+    "name": "pygame",
+    "owner": "pygame",
+    "stargazers_count": 5460
+  },
+  {
+    "name": "libimobiledevice",
+    "owner": "libimobiledevice",
+    "stargazers_count": 5290
+  },
+  {
+    "name": "toaruos",
+    "owner": "klange",
+    "stargazers_count": 5276
+  },
+  {
+    "name": "ctags",
+    "owner": "universal-ctags",
+    "stargazers_count": 5264
+  },
+  {
+    "name": "sqlcipher",
+    "owner": "sqlcipher",
+    "stargazers_count": 5258
+  },
+  {
+    "name": "siege",
+    "owner": "JoeDog",
+    "stargazers_count": 5250
+  },
+  {
+    "name": "no-more-secrets",
+    "owner": "bartobri",
+    "stargazers_count": 5243
+  },
+  {
+    "name": "CMake",
+    "owner": "Kitware",
+    "stargazers_count": 5240
+  },
+  {
+    "name": "quickjs",
+    "owner": "bellard",
+    "stargazers_count": 5237
+  },
+  {
+    "name": "camerakit-android",
+    "owner": "CameraKit",
+    "stargazers_count": 5221
+  },
+  {
+    "name": "wazuh",
+    "owner": "wazuh",
+    "stargazers_count": 5191
+  },
+  {
+    "name": "SQLAdvisor",
+    "owner": "Meituan-Dianping",
+    "stargazers_count": 5173
+  },
+  {
+    "name": "mjolnir",
+    "owner": "mjolnirapp",
+    "stargazers_count": 5168
+  },
+  {
+    "name": "GameNetworkingResources",
+    "owner": "ThusSpokeNomad",
+    "stargazers_count": 5167
+  },
+  {
+    "name": "ponyc",
+    "owner": "ponylang",
+    "stargazers_count": 5147
+  },
+  {
+    "name": "macvim",
+    "owner": "b4winckler",
+    "stargazers_count": 5137
+  },
+  {
+    "name": "ZipArchive",
+    "owner": "ZipArchive",
+    "stargazers_count": 5129
+  },
+  {
+    "name": "ttyd",
+    "owner": "tsl0922",
+    "stargazers_count": 5083
+  },
+  {
+    "name": "HDMI-PI",
+    "owner": "peng-zhihui",
+    "stargazers_count": 5066
+  },
+  {
+    "name": "ecapture",
+    "owner": "ehids",
+    "stargazers_count": 5063
+  },
+  {
+    "name": "kbengine",
+    "owner": "kbengine",
+    "stargazers_count": 5047
+  },
+  {
+    "name": "winfsp",
+    "owner": "winfsp",
+    "stargazers_count": 5030
+  },
+  {
+    "name": "mruby",
+    "owner": "mruby",
+    "stargazers_count": 5028
+  },
+  {
+    "name": "mozjpeg",
+    "owner": "mozilla",
+    "stargazers_count": 5021
+  },
+  {
+    "name": "mujoco",
+    "owner": "deepmind",
+    "stargazers_count": 5019
+  },
+  {
+    "name": "dsvpn",
+    "owner": "jedisct1",
+    "stargazers_count": 5014
+  },
+  {
+    "name": "IronOS",
+    "owner": "Ralim",
+    "stargazers_count": 5009
+  },
+  {
+    "name": "Provenance",
+    "owner": "Provenance-Emu",
+    "stargazers_count": 5006
+  },
+  {
+    "name": "wireshark",
+    "owner": "wireshark",
+    "stargazers_count": 4979
+  },
+  {
+    "name": "tmate",
+    "owner": "tmate-io",
+    "stargazers_count": 4977
+  },
+  {
+    "name": "bitwise",
+    "owner": "pervognsen",
+    "stargazers_count": 4964
+  },
+  {
+    "name": "MBE",
+    "owner": "RPISEC",
+    "stargazers_count": 4963
+  },
+  {
+    "name": "hackrf",
+    "owner": "greatscottgadgets",
+    "stargazers_count": 4959
+  },
+  {
+    "name": "HP-Socket",
+    "owner": "ldcsaa",
+    "stargazers_count": 4946
+  },
+  {
+    "name": "fontforge",
+    "owner": "fontforge",
+    "stargazers_count": 4943
+  },
+  {
+    "name": "cjdns",
+    "owner": "cjdelisle",
+    "stargazers_count": 4933
+  },
+  {
+    "name": "OpenBLAS",
+    "owner": "xianyi",
+    "stargazers_count": 4861
+  },
+  {
+    "name": "sysbench",
+    "owner": "akopytov",
+    "stargazers_count": 4851
+  },
+  {
+    "name": "iperf",
+    "owner": "esnet",
+    "stargazers_count": 4850
+  },
+  {
+    "name": "libhv",
+    "owner": "ithewei",
+    "stargazers_count": 4850
+  },
+  {
+    "name": "fishhook",
+    "owner": "facebook",
+    "stargazers_count": 4847
+  },
+  {
+    "name": "sshfs",
+    "owner": "libfuse",
+    "stargazers_count": 4824
+  },
+  {
+    "name": "grbl",
+    "owner": "grbl",
+    "stargazers_count": 4820
+  },
+  {
+    "name": "30dayMakeOS",
+    "owner": "yourtion",
+    "stargazers_count": 4807
+  },
+  {
+    "name": "HoloCubic",
+    "owner": "peng-zhihui",
+    "stargazers_count": 4805
+  },
+  {
+    "name": "redcarpet",
+    "owner": "vmg",
+    "stargazers_count": 4802
+  },
+  {
+    "name": "cmus",
+    "owner": "cmus",
+    "stargazers_count": 4762
+  },
+  {
+    "name": "UACME",
+    "owner": "hfiref0x",
+    "stargazers_count": 4754
+  },
+  {
+    "name": "licecap",
+    "owner": "justinfrankel",
+    "stargazers_count": 4747
+  },
+  {
+    "name": "proxychains",
+    "owner": "haad",
+    "stargazers_count": 4730
+  },
+  {
+    "name": "yasea",
+    "owner": "begeekmyfriend",
+    "stargazers_count": 4728
+  },
+  {
+    "name": "reptyr",
+    "owner": "nelhage",
+    "stargazers_count": 4720
+  },
+  {
+    "name": "AdAway",
+    "owner": "AdAway",
+    "stargazers_count": 4716
+  },
+  {
+    "name": "firmware",
+    "owner": "raspberrypi",
+    "stargazers_count": 4700
+  },
+  {
+    "name": "Logan",
+    "owner": "Meituan-Dianping",
+    "stargazers_count": 4658
+  },
+  {
+    "name": "iodine",
+    "owner": "yarrick",
+    "stargazers_count": 4645
+  },
+  {
+    "name": "Atlas",
+    "owner": "Qihoo360",
+    "stargazers_count": 4632
+  },
+  {
+    "name": "ravynos",
+    "owner": "ravynsoft",
+    "stargazers_count": 4623
+  },
+  {
+    "name": "linux-kernel-exploits",
+    "owner": "SecWiki",
+    "stargazers_count": 4612
+  },
+  {
+    "name": "LiteOS",
+    "owner": "LiteOS",
+    "stargazers_count": 4592
+  },
+  {
+    "name": "colmap",
+    "owner": "colmap",
+    "stargazers_count": 4587
+  },
+  {
+    "name": "arcore-android-sdk",
+    "owner": "google-ar",
+    "stargazers_count": 4579
+  },
+  {
+    "name": "streem",
+    "owner": "matz",
+    "stargazers_count": 4576
+  },
+  {
+    "name": "zmap",
+    "owner": "zmap",
+    "stargazers_count": 4545
+  },
+  {
+    "name": "nanovg",
+    "owner": "memononen",
+    "stargazers_count": 4539
+  },
+  {
+    "name": "kcat",
+    "owner": "edenhill",
+    "stargazers_count": 4536
+  },
+  {
+    "name": "firejail",
+    "owner": "netblue30",
+    "stargazers_count": 4525
+  },
+  {
+    "name": "yaf",
+    "owner": "laruence",
+    "stargazers_count": 4488
+  },
+  {
+    "name": "dokany",
+    "owner": "dokan-dev",
+    "stargazers_count": 4485
+  },
+  {
+    "name": "pngquant",
+    "owner": "kornelski",
+    "stargazers_count": 4485
+  },
+  {
+    "name": "mdp",
+    "owner": "visit1985",
+    "stargazers_count": 4477
+  },
+  {
+    "name": "VeraCrypt",
+    "owner": "veracrypt",
+    "stargazers_count": 4457
+  },
+  {
+    "name": "n2n",
+    "owner": "ntop",
+    "stargazers_count": 4450
+  },
+  {
+    "name": "vim.js",
+    "owner": "coolwanglu",
+    "stargazers_count": 4447
+  },
+  {
+    "name": "nvtop",
+    "owner": "Syllo",
+    "stargazers_count": 4437
+  },
+  {
+    "name": "clib",
+    "owner": "clibs",
+    "stargazers_count": 4427
+  },
+  {
+    "name": "collapseos",
+    "owner": "hsoft",
+    "stargazers_count": 4377
+  },
+  {
+    "name": "coder-kung-fu",
+    "owner": "yanfeizhang",
+    "stargazers_count": 4314
+  },
+  {
+    "name": "RIOT",
+    "owner": "RIOT-OS",
+    "stargazers_count": 4311
+  },
+  {
+    "name": "AliOS-Things",
+    "owner": "alibaba",
+    "stargazers_count": 4298
+  },
+  {
+    "name": "rtl_433",
+    "owner": "merbanan",
+    "stargazers_count": 4285
+  },
+  {
+    "name": "jo",
+    "owner": "jpmens",
+    "stargazers_count": 4283
+  },
+  {
+    "name": "SDL",
+    "owner": "libsdl-org",
+    "stargazers_count": 4268
+  },
+  {
+    "name": "htop",
+    "owner": "htop-dev",
+    "stargazers_count": 4262
+  },
+  {
+    "name": "HelloWord-Keyboard",
+    "owner": "peng-zhihui",
+    "stargazers_count": 4257
+  },
+  {
+    "name": "sioyek",
+    "owner": "ahrm",
+    "stargazers_count": 4142
+  },
+  {
+    "name": "phc-winner-argon2",
+    "owner": "P-H-C",
+    "stargazers_count": 4126
+  },
+  {
+    "name": "fluent-bit",
+    "owner": "fluent",
+    "stargazers_count": 4117
+  },
+  {
+    "name": "mgba",
+    "owner": "mgba-emu",
+    "stargazers_count": 4093
+  },
+  {
+    "name": "gravity",
+    "owner": "marcobambini",
+    "stargazers_count": 4081
+  },
+  {
+    "name": "libusb",
+    "owner": "libusb",
+    "stargazers_count": 4065
+  },
+  {
+    "name": "sokol",
+    "owner": "floooh",
+    "stargazers_count": 4037
+  },
+  {
+    "name": "OpenLara",
+    "owner": "XProger",
+    "stargazers_count": 4027
+  },
+  {
+    "name": "loadlibrary",
+    "owner": "taviso",
+    "stargazers_count": 4014
+  },
+  {
+    "name": "sds",
+    "owner": "antirez",
+    "stargazers_count": 4011
+  },
+  {
+    "name": "Telegram-iOS",
+    "owner": "TelegramMessenger",
+    "stargazers_count": 4005
+  },
+  {
+    "name": "RediSearch",
+    "owner": "RediSearch",
+    "stargazers_count": 4000
+  },
+  {
+    "name": "meltdown",
+    "owner": "IAIK",
+    "stargazers_count": 3999
+  },
+  {
+    "name": "dynomite",
+    "owner": "Netflix",
+    "stargazers_count": 3992
+  },
+  {
+    "name": "zlib",
+    "owner": "madler",
+    "stargazers_count": 3991
+  },
+  {
+    "name": "PINRemoteImage",
+    "owner": "pinterest",
+    "stargazers_count": 3956
+  },
+  {
+    "name": "seL4",
+    "owner": "seL4",
+    "stargazers_count": 3955
+  },
+  {
+    "name": "mpc-hc",
+    "owner": "mpc-hc",
+    "stargazers_count": 3926
+  },
+  {
+    "name": "katran",
+    "owner": "facebookincubator",
+    "stargazers_count": 3914
+  },
+  {
+    "name": "X-TRACK",
+    "owner": "FASTSHIFT",
+    "stargazers_count": 3908
+  },
+  {
+    "name": "oot",
+    "owner": "zeldaret",
+    "stargazers_count": 3903
+  },
+  {
+    "name": "vis",
+    "owner": "martanne",
+    "stargazers_count": 3894
+  },
+  {
+    "name": "glusterfs",
+    "owner": "gluster",
+    "stargazers_count": 3880
+  },
+  {
+    "name": "fio",
+    "owner": "axboe",
+    "stargazers_count": 3874
+  },
+  {
+    "name": "Quake",
+    "owner": "id-Software",
+    "stargazers_count": 3853
+  },
+  {
+    "name": "LCUI",
+    "owner": "lc-soft",
+    "stargazers_count": 3850
+  },
+  {
+    "name": "Luma3DS",
+    "owner": "LumaTeam",
+    "stargazers_count": 3845
+  },
+  {
+    "name": "mbedtls",
+    "owner": "Mbed-TLS",
+    "stargazers_count": 3832
+  },
+  {
+    "name": "ossec-hids",
+    "owner": "ossec",
+    "stargazers_count": 3820
+  },
+  {
+    "name": "osv",
+    "owner": "cloudius-systems",
+    "stargazers_count": 3812
+  },
+  {
+    "name": "RxFFmpeg",
+    "owner": "microshow",
+    "stargazers_count": 3801
+  },
+  {
+    "name": "study",
+    "owner": "ming1016",
+    "stargazers_count": 3796
+  },
+  {
+    "name": "reading-code-of-nginx-1.9.2",
+    "owner": "y123456yz",
+    "stargazers_count": 3774
+  },
+  {
+    "name": "fastsocket",
+    "owner": "fastos",
+    "stargazers_count": 3770
+  },
+  {
+    "name": "sslh",
+    "owner": "yrutschle",
+    "stargazers_count": 3769
+  },
+  {
+    "name": "LookingGlass",
+    "owner": "gnif",
+    "stargazers_count": 3758
+  },
+  {
+    "name": "tmk_keyboard",
+    "owner": "tmk",
+    "stargazers_count": 3731
+  },
+  {
+    "name": "ttygif",
+    "owner": "icholy",
+    "stargazers_count": 3731
+  },
+  {
+    "name": "h3",
+    "owner": "uber",
+    "stargazers_count": 3726
+  },
+  {
+    "name": "libwebsockets",
+    "owner": "warmcat",
+    "stargazers_count": 3701
+  },
+  {
+    "name": "tess-two",
+    "owner": "rmtheis",
+    "stargazers_count": 3692
+  },
+  {
+    "name": "CloverBootloader",
+    "owner": "CloverHackyColor",
+    "stargazers_count": 3670
+  },
+  {
+    "name": "TIC-80",
+    "owner": "nesbox",
+    "stargazers_count": 3667
+  },
+  {
+    "name": "gimp",
+    "owner": "GNOME",
+    "stargazers_count": 3664
+  },
+  {
+    "name": "klib",
+    "owner": "attractivechaos",
+    "stargazers_count": 3660
+  },
+  {
+    "name": "cute_headers",
+    "owner": "RandyGaul",
+    "stargazers_count": 3643
+  },
+  {
+    "name": "littlefs",
+    "owner": "littlefs-project",
+    "stargazers_count": 3639
+  },
+  {
+    "name": "FFmpegAndroid",
+    "owner": "xufuji456",
+    "stargazers_count": 3626
+  },
+  {
+    "name": "openwrt-passwall",
+    "owner": "xiaorouji",
+    "stargazers_count": 3617
+  },
+  {
+    "name": "GmSSL",
+    "owner": "guanzhi",
+    "stargazers_count": 3615
+  },
+  {
+    "name": "wrk2",
+    "owner": "giltene",
+    "stargazers_count": 3615
+  },
+  {
+    "name": "libpostal",
+    "owner": "openvenues",
+    "stargazers_count": 3603
+  },
+  {
+    "name": "qira",
+    "owner": "geohot",
+    "stargazers_count": 3583
+  },
+  {
+    "name": "vgpu_unlock",
+    "owner": "DualCoder",
+    "stargazers_count": 3567
+  },
+  {
+    "name": "tinyproxy",
+    "owner": "tinyproxy",
+    "stargazers_count": 3556
+  },
+  {
+    "name": "rainmeter",
+    "owner": "rainmeter",
+    "stargazers_count": 3552
+  },
+  {
+    "name": "kore",
+    "owner": "jorisvink",
+    "stargazers_count": 3541
+  },
+  {
+    "name": "flinux",
+    "owner": "wishstudio",
+    "stargazers_count": 3534
+  },
+  {
+    "name": "stlink",
+    "owner": "stlink-org",
+    "stargazers_count": 3529
+  },
+  {
+    "name": "LuaJIT",
+    "owner": "LuaJIT",
+    "stargazers_count": 3529
+  },
+  {
+    "name": "btrfs",
+    "owner": "maharmstone",
+    "stargazers_count": 3528
+  },
+  {
+    "name": "CPython-Internals",
+    "owner": "zpoint",
+    "stargazers_count": 3528
+  },
+  {
+    "name": "Linux-NetSpeed",
+    "owner": "Chikage0o0",
+    "stargazers_count": 3527
+  },
+  {
+    "name": "Skill-Tree",
+    "owner": "linw7",
+    "stargazers_count": 3523
+  },
+  {
+    "name": "contiki",
+    "owner": "contiki-os",
+    "stargazers_count": 3505
+  },
+  {
+    "name": "ChinaDNS",
+    "owner": "shadowsocks",
+    "stargazers_count": 3499
+  },
+  {
+    "name": "tor",
+    "owner": "torproject",
+    "stargazers_count": 3485
+  },
+  {
+    "name": "pthreads",
+    "owner": "krakjoe",
+    "stargazers_count": 3482
+  },
+  {
+    "name": "mobile-ffmpeg",
+    "owner": "tanersener",
+    "stargazers_count": 3482
+  },
+  {
+    "name": "clumsy",
+    "owner": "jagt",
+    "stargazers_count": 3479
+  },
+  {
+    "name": "sc-im",
+    "owner": "andmarti1424",
+    "stargazers_count": 3472
+  },
+  {
+    "name": "daytripper",
+    "owner": "dekuNukem",
+    "stargazers_count": 3471
+  },
+  {
+    "name": "sshfs-win",
+    "owner": "winfsp",
+    "stargazers_count": 3458
+  },
+  {
+    "name": "dunst",
+    "owner": "dunst-project",
+    "stargazers_count": 3457
+  },
+  {
+    "name": "u8g2",
+    "owner": "olikraus",
+    "stargazers_count": 3453
+  },
+  {
+    "name": "flatpak",
+    "owner": "flatpak",
+    "stargazers_count": 3449
+  },
+  {
+    "name": "ly",
+    "owner": "fairyglade",
+    "stargazers_count": 3448
+  },
+  {
+    "name": "gamemode",
+    "owner": "FeralInteractive",
+    "stargazers_count": 3445
+  },
+  {
+    "name": "grbl",
+    "owner": "gnea",
+    "stargazers_count": 3441
+  },
+  {
+    "name": "xHook",
+    "owner": "iqiyi",
+    "stargazers_count": 3439
+  },
+  {
+    "name": "simplewall",
+    "owner": "henrypp",
+    "stargazers_count": 3415
+  },
+  {
+    "name": "small-video-record",
+    "owner": "mabeijianxi",
+    "stargazers_count": 3414
+  },
+  {
+    "name": "pushdeer",
+    "owner": "easychen",
+    "stargazers_count": 3408
+  },
+  {
+    "name": "legacy-cc",
+    "owner": "mortdeus",
+    "stargazers_count": 3392
+  },
+  {
+    "name": "aircrack-ng",
+    "owner": "aircrack-ng",
+    "stargazers_count": 3391
+  },
+  {
+    "name": "hyperkit",
+    "owner": "moby",
+    "stargazers_count": 3384
+  },
+  {
+    "name": "OBS",
+    "owner": "jp9000",
+    "stargazers_count": 3363
+  },
+  {
+    "name": "skhd",
+    "owner": "koekeishiya",
+    "stargazers_count": 3362
+  },
+  {
+    "name": "orbital",
+    "owner": "AlexAltea",
+    "stargazers_count": 3357
+  },
+  {
+    "name": "dSYMTools",
+    "owner": "answer-huang",
+    "stargazers_count": 3350
+  },
+  {
+    "name": "tiny-AES-c",
+    "owner": "kokke",
+    "stargazers_count": 3347
+  },
+  {
+    "name": "flecs",
+    "owner": "SanderMertens",
+    "stargazers_count": 3342
+  },
+  {
+    "name": "mimipenguin",
+    "owner": "huntergregal",
+    "stargazers_count": 3336
+  },
+  {
+    "name": "f-stack",
+    "owner": "F-Stack",
+    "stargazers_count": 3335
+  },
+  {
+    "name": "OpenMower",
+    "owner": "ClemensElflein",
+    "stargazers_count": 3327
+  },
+  {
+    "name": "hstr",
+    "owner": "dvorka",
+    "stargazers_count": 3323
+  },
+  {
+    "name": "ngx_http_google_filter_module",
+    "owner": "cuber",
+    "stargazers_count": 3306
+  },
+  {
+    "name": "edk2",
+    "owner": "tianocore",
+    "stargazers_count": 3283
+  },
+  {
+    "name": "haproxy",
+    "owner": "haproxy",
+    "stargazers_count": 3283
+  },
+  {
+    "name": "xv6-riscv",
+    "owner": "mit-pdos",
+    "stargazers_count": 3280
+  },
+  {
+    "name": "uwsgi",
+    "owner": "unbit",
+    "stargazers_count": 3205
+  },
+  {
+    "name": "tinyusb",
+    "owner": "hathach",
+    "stargazers_count": 3200
+  },
+  {
+    "name": "CTF-All-In-One",
+    "owner": "firmianay",
+    "stargazers_count": 3198
+  },
+  {
+    "name": "motion",
+    "owner": "Motion-Project",
+    "stargazers_count": 3187
+  },
+  {
+    "name": "libaco",
+    "owner": "hnes",
+    "stargazers_count": 3167
+  },
+  {
+    "name": "magspoof",
+    "owner": "samyk",
+    "stargazers_count": 3166
+  },
+  {
+    "name": "coreutils",
+    "owner": "coreutils",
+    "stargazers_count": 3165
+  },
+  {
+    "name": "coz",
+    "owner": "plasma-umass",
+    "stargazers_count": 3154
+  },
+  {
+    "name": "krackattacks-scripts",
+    "owner": "vanhoefm",
+    "stargazers_count": 3146
+  },
+  {
+    "name": "pocketsphinx",
+    "owner": "cmusphinx",
+    "stargazers_count": 3146
+  },
+  {
+    "name": "xCrash",
+    "owner": "iqiyi",
+    "stargazers_count": 3143
+  },
+  {
+    "name": "jsmn",
+    "owner": "zserge",
+    "stargazers_count": 3106
+  },
+  {
+    "name": "msquic",
+    "owner": "microsoft",
+    "stargazers_count": 3101
+  },
+  {
+    "name": "httpd",
+    "owner": "apache",
+    "stargazers_count": 3097
+  },
+  {
+    "name": "varnish-cache",
+    "owner": "varnishcache",
+    "stargazers_count": 3093
+  },
+  {
+    "name": "libjpeg-turbo",
+    "owner": "libjpeg-turbo",
+    "stargazers_count": 3091
+  },
+  {
+    "name": "FreeRTOS",
+    "owner": "FreeRTOS",
+    "stargazers_count": 3087
+  },
+  {
+    "name": "gifsicle",
+    "owner": "kohler",
+    "stargazers_count": 3086
+  },
+  {
+    "name": "linenoise",
+    "owner": "antirez",
+    "stargazers_count": 3082
+  },
+  {
+    "name": "Nintendo_Switch_Reverse_Engineering",
+    "owner": "dekuNukem",
+    "stargazers_count": 3076
+  },
+  {
+    "name": "UEFITool",
+    "owner": "LongSoft",
+    "stargazers_count": 3070
+  },
+  {
+    "name": "minecraft-weekend",
+    "owner": "jdah",
+    "stargazers_count": 3058
+  },
+  {
+    "name": "nDPI",
+    "owner": "ntop",
+    "stargazers_count": 3051
+  },
+  {
+    "name": "rt-n56u",
+    "owner": "hanwckf",
+    "stargazers_count": 3051
+  },
+  {
+    "name": "picom",
+    "owner": "yshui",
+    "stargazers_count": 3041
+  },
+  {
+    "name": "eddystone",
+    "owner": "google",
+    "stargazers_count": 3041
+  },
+  {
+    "name": "ovs",
+    "owner": "openvswitch",
+    "stargazers_count": 3035
+  },
+  {
+    "name": "rubinius",
+    "owner": "rubinius",
+    "stargazers_count": 3026
+  },
+  {
+    "name": "sqlitestudio",
+    "owner": "pawelsalawa",
+    "stargazers_count": 3023
+  },
+  {
+    "name": "stellar-core",
+    "owner": "stellar",
+    "stargazers_count": 3014
+  },
+  {
+    "name": "noise-suppression-for-voice",
+    "owner": "werman",
+    "stargazers_count": 3006
+  },
+  {
+    "name": "v4l2loopback",
+    "owner": "umlaeute",
+    "stargazers_count": 3005
+  },
+  {
+    "name": "minhook",
+    "owner": "TsudaKageyu",
+    "stargazers_count": 2995
+  },
+  {
+    "name": "clink",
+    "owner": "mridgers",
+    "stargazers_count": 2983
+  },
+  {
+    "name": "rtty",
+    "owner": "zhaojh329",
+    "stargazers_count": 2977
+  },
+  {
+    "name": "wsltty",
+    "owner": "mintty",
+    "stargazers_count": 2976
+  },
+  {
+    "name": "tinyvm",
+    "owner": "jakogut",
+    "stargazers_count": 2972
+  },
+  {
+    "name": "C",
+    "owner": "Mzzopublic",
+    "stargazers_count": 2964
+  },
+  {
+    "name": "nng",
+    "owner": "nanomsg",
+    "stargazers_count": 2960
+  },
+  {
+    "name": "emojicode",
+    "owner": "emojicode",
+    "stargazers_count": 2954
+  },
+  {
+    "name": "zsh",
+    "owner": "zsh-users",
+    "stargazers_count": 2949
+  },
+  {
+    "name": "AFL",
+    "owner": "google",
+    "stargazers_count": 2946
+  },
+  {
+    "name": "cmatrix",
+    "owner": "abishekvashok",
+    "stargazers_count": 2945
+  },
+  {
+    "name": "oj",
+    "owner": "ohler55",
+    "stargazers_count": 2926
+  },
+  {
+    "name": "tectonic",
+    "owner": "tectonic-typesetting",
+    "stargazers_count": 2920
+  },
+  {
+    "name": "ESP8266_RTOS_SDK",
+    "owner": "espressif",
+    "stargazers_count": 2897
+  },
+  {
+    "name": "icmptunnel",
+    "owner": "DhavalKapil",
+    "stargazers_count": 2886
+  },
+  {
+    "name": "nchan",
+    "owner": "slact",
+    "stargazers_count": 2885
+  },
+  {
+    "name": "p2pvc",
+    "owner": "mofarrell",
+    "stargazers_count": 2880
+  },
+  {
+    "name": "lastpass-cli",
+    "owner": "lastpass",
+    "stargazers_count": 2863
+  },
+  {
+    "name": "bjoern",
+    "owner": "jonashaag",
+    "stargazers_count": 2856
+  },
+  {
+    "name": "INTANG",
+    "owner": "seclab-ucr",
+    "stargazers_count": 2851
+  },
+  {
+    "name": "haxm",
+    "owner": "intel",
+    "stargazers_count": 2843
+  },
+  {
+    "name": "c-algorithms",
+    "owner": "fragglet",
+    "stargazers_count": 2836
+  },
+  {
+    "name": "suricata",
+    "owner": "OISF",
+    "stargazers_count": 2834
+  },
+  {
+    "name": "odyssey",
+    "owner": "yandex",
+    "stargazers_count": 2832
+  },
+  {
+    "name": "aubio",
+    "owner": "aubio",
+    "stargazers_count": 2823
+  },
+  {
+    "name": "leetcode",
+    "owner": "begeekmyfriend",
+    "stargazers_count": 2816
+  },
+  {
+    "name": "cava",
+    "owner": "karlstav",
+    "stargazers_count": 2815
+  },
+  {
+    "name": "redsocks",
+    "owner": "darkk",
+    "stargazers_count": 2811
+  },
+  {
+    "name": "GTAO_Booster_PoC",
+    "owner": "tostercx",
+    "stargazers_count": 2805
+  },
+  {
+    "name": "psycopg2",
+    "owner": "psycopg",
+    "stargazers_count": 2801
+  },
+  {
+    "name": "collectd",
+    "owner": "collectd",
+    "stargazers_count": 2800
+  },
+  {
+    "name": "pcileech",
+    "owner": "ufrisk",
+    "stargazers_count": 2796
+  },
+  {
+    "name": "Data-Structure",
+    "owner": "kangjianwei",
+    "stargazers_count": 2795
+  },
+  {
+    "name": "flex",
+    "owner": "westes",
+    "stargazers_count": 2791
+  },
+  {
+    "name": "bubblewrap",
+    "owner": "containers",
+    "stargazers_count": 2786
+  },
+  {
+    "name": "3proxy",
+    "owner": "3proxy",
+    "stargazers_count": 2780
+  },
+  {
+    "name": "nginx-module-vts",
+    "owner": "vozlt",
+    "stargazers_count": 2778
+  },
+  {
+    "name": "glad",
+    "owner": "Dav1dde",
+    "stargazers_count": 2777
+  },
+  {
+    "name": "rnnoise",
+    "owner": "xiph",
+    "stargazers_count": 2776
+  },
+  {
+    "name": "hexchat",
+    "owner": "hexchat",
+    "stargazers_count": 2767
+  },
+  {
+    "name": "checkedc",
+    "owner": "microsoft",
+    "stargazers_count": 2762
+  },
+  {
+    "name": "openwifi",
+    "owner": "open-sdr",
+    "stargazers_count": 2755
+  },
+  {
+    "name": "Unity",
+    "owner": "ThrowTheSwitch",
+    "stargazers_count": 2752
+  },
+  {
+    "name": "retro",
+    "owner": "openai",
+    "stargazers_count": 2752
+  },
+  {
+    "name": "AirConnect",
+    "owner": "philippe44",
+    "stargazers_count": 2744
+  },
+  {
+    "name": "dumpdecrypted",
+    "owner": "stefanesser",
+    "stargazers_count": 2742
+  },
+  {
+    "name": "lk",
+    "owner": "littlekernel",
+    "stargazers_count": 2741
+  },
+  {
+    "name": "cuda-samples",
+    "owner": "NVIDIA",
+    "stargazers_count": 2730
+  },
+  {
+    "name": "unit",
+    "owner": "nginx",
+    "stargazers_count": 2725
+  },
+  {
+    "name": "AI-on-the-edge-device",
+    "owner": "jomjol",
+    "stargazers_count": 2714
+  },
+  {
+    "name": "Main_MiSTer",
+    "owner": "MiSTer-devel",
+    "stargazers_count": 2704
+  },
+  {
+    "name": "jansson",
+    "owner": "akheron",
+    "stargazers_count": 2700
+  },
+  {
+    "name": "ostep-projects",
+    "owner": "remzi-arpacidusseau",
+    "stargazers_count": 2698
+  },
+  {
+    "name": "inotify-tools",
+    "owner": "inotify-tools",
+    "stargazers_count": 2696
+  },
+  {
+    "name": "openwrt",
+    "owner": "Lienol",
+    "stargazers_count": 2689
+  },
+  {
+    "name": "pingfs",
+    "owner": "yarrick",
+    "stargazers_count": 2687
+  },
+  {
+    "name": "zimg",
+    "owner": "buaazp",
+    "stargazers_count": 2677
+  },
+  {
+    "name": "nq",
+    "owner": "leahneukirchen",
+    "stargazers_count": 2668
+  },
+  {
+    "name": "muon",
+    "owner": "ImVexed",
+    "stargazers_count": 2667
+  },
+  {
+    "name": "ics-openvpn",
+    "owner": "schwabe",
+    "stargazers_count": 2664
+  },
+  {
+    "name": "entr",
+    "owner": "eradman",
+    "stargazers_count": 2658
+  },
+  {
+    "name": "honggfuzz",
+    "owner": "google",
+    "stargazers_count": 2653
+  },
+  {
+    "name": "libffi",
+    "owner": "libffi",
+    "stargazers_count": 2635
+  },
+  {
+    "name": "libmill",
+    "owner": "sustrik",
+    "stargazers_count": 2633
+  },
+  {
+    "name": "neomutt",
+    "owner": "neomutt",
+    "stargazers_count": 2631
+  },
+  {
+    "name": "proxmark3",
+    "owner": "Proxmark",
+    "stargazers_count": 2628
+  },
+  {
+    "name": "fzy",
+    "owner": "jhawthorn",
+    "stargazers_count": 2622
+  },
+  {
+    "name": "os",
+    "owner": "minoca",
+    "stargazers_count": 2620
+  },
+  {
+    "name": "proxmark3",
+    "owner": "Proxmark",
+    "stargazers_count": 2628
+  },
+  {
+    "name": "fzy",
+    "owner": "jhawthorn",
+    "stargazers_count": 2622
+  },
+  {
+    "name": "os",
+    "owner": "minoca",
+    "stargazers_count": 2620
+  },
+  {
+    "name": "neuralcoref",
+    "owner": "huggingface",
+    "stargazers_count": 2620
+  },
+  {
+    "name": "helloworld",
+    "owner": "fw876",
+    "stargazers_count": 2620
+  },
+  {
+    "name": "awtk",
+    "owner": "zlgopen",
+    "stargazers_count": 2613
+  },
+  {
+    "name": "webdis",
+    "owner": "nicolasff",
+    "stargazers_count": 2612
+  },
+  {
+    "name": "EasyLogger",
+    "owner": "armink",
+    "stargazers_count": 2610
+  },
+  {
+    "name": "QuickJS",
+    "owner": "quickjs-zh",
+    "stargazers_count": 2610
+  },
+  {
+    "name": "ProcDump-for-Linux",
+    "owner": "Sysinternals",
+    "stargazers_count": 2608
+  },
+  {
+    "name": "SmartAppUpdates",
+    "owner": "cundong",
+    "stargazers_count": 2602
+  },
+  {
+    "name": "janet",
+    "owner": "janet-lang",
+    "stargazers_count": 2602
+  },
+  {
+    "name": "Broadway",
+    "owner": "mbebenita",
+    "stargazers_count": 2583
+  },
+  {
+    "name": "UVCCamera",
+    "owner": "saki4510t",
+    "stargazers_count": 2579
+  },
+  {
+    "name": "irssi",
+    "owner": "irssi",
+    "stargazers_count": 2577
+  },
+  {
+    "name": "weechat",
+    "owner": "weechat",
+    "stargazers_count": 2574
+  },
+  {
+    "name": "premake-core",
+    "owner": "premake",
+    "stargazers_count": 2563
+  },
+  {
+    "name": "viabtc_exchange_server",
+    "owner": "viabtc",
+    "stargazers_count": 2556
+  },
+  {
+    "name": "json-c",
+    "owner": "json-c",
+    "stargazers_count": 2555
+  },
+  {
+    "name": "Tiny",
+    "owner": "Sunzxyong",
+    "stargazers_count": 2554
+  },
+  {
+    "name": "zydis",
+    "owner": "zyantific",
+    "stargazers_count": 2551
+  },
+  {
+    "name": "starrtc-server",
+    "owner": "starrtc",
+    "stargazers_count": 2541
+  },
+  {
+    "name": "amazon-freertos",
+    "owner": "aws",
+    "stargazers_count": 2532
+  },
+  {
+    "name": "WizQTClient",
+    "owner": "WizTeam",
+    "stargazers_count": 2530
+  },
+  {
+    "name": "pipelinedb",
+    "owner": "pipelinedb",
+    "stargazers_count": 2528
+  },
+  {
+    "name": "shadowsocksr-native",
+    "owner": "ShadowsocksR-Live",
+    "stargazers_count": 2527
+  },
+  {
+    "name": "esp-link",
+    "owner": "jeelabs",
+    "stargazers_count": 2525
+  },
+  {
+    "name": "pwnat",
+    "owner": "samyk",
+    "stargazers_count": 2524
+  },
+  {
+    "name": "mjpg-streamer",
+    "owner": "jacksonliam",
+    "stargazers_count": 2519
+  },
+  {
+    "name": "tidy-html5",
+    "owner": "htacg",
+    "stargazers_count": 2515
+  },
+  {
+    "name": "miniaudio",
+    "owner": "mackron",
+    "stargazers_count": 2514
+  },
+  {
+    "name": "iotjs",
+    "owner": "jerryscript-project",
+    "stargazers_count": 2514
+  },
+  {
+    "name": "rpi4-osdev",
+    "owner": "isometimes",
+    "stargazers_count": 2506
+  },
+  {
+    "name": "Espruino",
+    "owner": "espruino",
+    "stargazers_count": 2503
+  },
+  {
+    "name": "libopencm3",
+    "owner": "libopencm3",
+    "stargazers_count": 2502
+  },
+  {
+    "name": "shellinabox",
+    "owner": "shellinabox",
+    "stargazers_count": 2490
+  },
+  {
+    "name": "Collections-C",
+    "owner": "srdja",
+    "stargazers_count": 2483
+  },
+  {
+    "name": "u-boot",
+    "owner": "u-boot",
+    "stargazers_count": 2475
+  },
+  {
+    "name": "sl",
+    "owner": "mtoyoda",
+    "stargazers_count": 2470
+  },
+  {
+    "name": "notcurses",
+    "owner": "dankamongmen",
+    "stargazers_count": 2470
+  },
+  {
+    "name": "PolarDB-for-PostgreSQL",
+    "owner": "ApsaraDB",
+    "stargazers_count": 2466
+  },
+  {
+    "name": "io",
+    "owner": "IoLanguage",
+    "stargazers_count": 2465
+  },
+  {
+    "name": "patchelf",
+    "owner": "NixOS",
+    "stargazers_count": 2463
+  },
+  {
+    "name": "microui",
+    "owner": "rxi",
+    "stargazers_count": 2461
+  },
+  {
+    "name": "libmodbus",
+    "owner": "stephane",
+    "stargazers_count": 2461
+  },
+  {
+    "name": "cleanflight",
+    "owner": "cleanflight",
+    "stargazers_count": 2458
+  },
+  {
+    "name": "geany",
+    "owner": "geany",
+    "stargazers_count": 2457
+  },
+  {
+    "name": "dpvs",
+    "owner": "iqiyi",
+    "stargazers_count": 2455
+  },
+  {
+    "name": "word2vec",
+    "owner": "danielfrg",
+    "stargazers_count": 2455
+  },
+  {
+    "name": "massdns",
+    "owner": "blechschmidt",
+    "stargazers_count": 2453
+  },
+  {
+    "name": "acl",
+    "owner": "acl-dev",
+    "stargazers_count": 2449
+  },
+  {
+    "name": "luna",
+    "owner": "tj",
+    "stargazers_count": 2438
+  },
+  {
+    "name": "pafish",
+    "owner": "a0rtega",
+    "stargazers_count": 2436
+  },
+  {
+    "name": "HomeKitADK",
+    "owner": "apple",
+    "stargazers_count": 2431
+  },
+  {
+    "name": "webgl-noise",
+    "owner": "ashima",
+    "stargazers_count": 2422
+  },
+  {
+    "name": "packr",
+    "owner": "libgdx",
+    "stargazers_count": 2417
+  },
+  {
+    "name": "shairport",
+    "owner": "abrasive",
+    "stargazers_count": 2416
+  },
+  {
+    "name": "obs-ndi",
+    "owner": "Palakis",
+    "stargazers_count": 2416
+  },
+  {
+    "name": "RMStore",
+    "owner": "robotmedia",
+    "stargazers_count": 2412
+  },
+  {
+    "name": "Remotery",
+    "owner": "Celtoys",
+    "stargazers_count": 2409
+  },
+  {
+    "name": "minix",
+    "owner": "Stichting-MINIX-Research-Foundation",
+    "stargazers_count": 2399
+  },
+  {
+    "name": "sysstat",
+    "owner": "sysstat",
+    "stargazers_count": 2398
+  },
+  {
+    "name": "lightning",
+    "owner": "ElementsProject",
+    "stargazers_count": 2389
+  },
+  {
+    "name": "tsar",
+    "owner": "alibaba",
+    "stargazers_count": 2385
+  },
+  {
+    "name": "mpc",
+    "owner": "orangeduck",
+    "stargazers_count": 2383
+  },
+  {
+    "name": "waifu2x-ncnn-vulkan",
+    "owner": "nihui",
+    "stargazers_count": 2372
+  },
+  {
+    "name": "npcap",
+    "owner": "nmap",
+    "stargazers_count": 2365
+  },
+  {
+    "name": "ZBar",
+    "owner": "ZBar",
+    "stargazers_count": 2363
+  },
+  {
+    "name": "WebBench",
+    "owner": "EZLippi",
+    "stargazers_count": 2359
+  },
+  {
+    "name": "frr",
+    "owner": "FRRouting",
+    "stargazers_count": 2357
+  },
+  {
+    "name": "u2f-zero",
+    "owner": "conorpp",
+    "stargazers_count": 2352
+  },
+  {
+    "name": "clamav",
+    "owner": "Cisco-Talos",
+    "stargazers_count": 2347
+  },
+  {
+    "name": "memreduct",
+    "owner": "henrypp",
+    "stargazers_count": 2338
+  },
+  {
+    "name": "ostep-code",
+    "owner": "remzi-arpacidusseau",
+    "stargazers_count": 2337
+  },
+  {
+    "name": "lwip",
+    "owner": "EyalAr",
+    "stargazers_count": 2337
+  },
+  {
+    "name": "box86",
+    "owner": "ptitSeb",
+    "stargazers_count": 2336
+  },
+  {
+    "name": "tmux-MacOSX-pasteboard",
+    "owner": "ChrisJohnsen",
+    "stargazers_count": 2331
+  },
+  {
+    "name": "nginx-http-flv-module",
+    "owner": "winshining",
+    "stargazers_count": 2329
+  },
+  {
+    "name": "axel",
+    "owner": "axel-download-accelerator",
+    "stargazers_count": 2324
+  },
+  {
+    "name": "mongoose-os",
+    "owner": "cesanta",
+    "stargazers_count": 2324
+  },
+  {
+    "name": "PF_RING",
+    "owner": "ntop",
+    "stargazers_count": 2322
+  },
+  {
+    "name": "MemoryModule",
+    "owner": "fancycode",
+    "stargazers_count": 2322
+  },
+  {
+    "name": "goxel",
+    "owner": "guillaumechereau",
+    "stargazers_count": 2321
+  },
+  {
+    "name": "Arduino_STM32",
+    "owner": "rogerclarkmelbourne",
+    "stargazers_count": 2318
+  },
+  {
+    "name": "permafrost-engine",
+    "owner": "eduard-permyakov",
+    "stargazers_count": 2314
+  },
+  {
+    "name": "chia-plotter",
+    "owner": "madMAx43v3r",
+    "stargazers_count": 2313
+  },
+  {
+    "name": "wine",
+    "owner": "wine-mirror",
+    "stargazers_count": 2312
+  },
+  {
+    "name": "annotated_redis_source",
+    "owner": "huangz1990",
+    "stargazers_count": 2312
+  },
+  {
+    "name": "donut",
+    "owner": "TheWover",
+    "stargazers_count": 2307
+  },
+  {
+    "name": "raspi3-tutorial",
+    "owner": "bztsrc",
+    "stargazers_count": 2302
+  },
+  {
+    "name": "simple-obfs",
+    "owner": "shadowsocks",
+    "stargazers_count": 2299
+  },
+  {
+    "name": "sxhkd",
+    "owner": "baskerville",
+    "stargazers_count": 2298
+  },
+  {
+    "name": "sl4a",
+    "owner": "damonkohler",
+    "stargazers_count": 2296
+  },
+  {
+    "name": "Kernelhub",
+    "owner": "Ascotbe",
+    "stargazers_count": 2291
+  },
+  {
+    "name": "media-server",
+    "owner": "ireader",
+    "stargazers_count": 2279
+  },
+  {
+    "name": "guacamole-server",
+    "owner": "apache",
+    "stargazers_count": 2273
+  },
+  {
+    "name": "surge",
+    "owner": "surge-synthesizer",
+    "stargazers_count": 2269
+  },
+  {
+    "name": "OpenSimpleLidar",
+    "owner": "iliasam",
+    "stargazers_count": 2265
+  },
+  {
+    "name": "tvheadend",
+    "owner": "tvheadend",
+    "stargazers_count": 2263
+  },
+  {
+    "name": "CreepyCodeCollection",
+    "owner": "MinhasKamal",
+    "stargazers_count": 2262
+  },
+  {
+    "name": "inav",
+    "owner": "iNavFlight",
+    "stargazers_count": 2201
+  },
+  {
+    "name": "yojimbo",
+    "owner": "networkprotocol",
+    "stargazers_count": 2190
+  },
+  {
+    "name": "pycryptodome",
+    "owner": "Legrandin",
+    "stargazers_count": 2186
+  },
+  {
+    "name": "libfaketime",
+    "owner": "wolfcw",
+    "stargazers_count": 2184
+  },
+  {
+    "name": "blackmagic",
+    "owner": "blackmagic-debug",
+    "stargazers_count": 2184
+  },
+  {
+    "name": "DBProxy",
+    "owner": "Meituan-Dianping",
+    "stargazers_count": 2181
+  },
+  {
+    "name": "Quake-2",
+    "owner": "id-Software",
+    "stargazers_count": 2181
+  },
+  {
+    "name": "glew",
+    "owner": "nigels-com",
+    "stargazers_count": 2176
+  },
+  {
+    "name": "ZQCNN",
+    "owner": "zuoqing1988",
+    "stargazers_count": 2176
+  },
+  {
+    "name": "compton",
+    "owner": "chjj",
+    "stargazers_count": 2176
+  },
+  {
+    "name": "rugged",
+    "owner": "libgit2",
+    "stargazers_count": 2176
+  },
+  {
+    "name": "NetHack",
+    "owner": "NetHack",
+    "stargazers_count": 2174
+  },
+  {
+    "name": "fsearch",
+    "owner": "cboxdoerfer",
+    "stargazers_count": 2172
+  },
+  {
+    "name": "bdwgc",
+    "owner": "ivmai",
+    "stargazers_count": 2171
+  },
+  {
+    "name": "coroutine",
+    "owner": "cloudwu",
+    "stargazers_count": 2170
+  },
+  {
+    "name": "displayplacer",
+    "owner": "jakehilborn",
+    "stargazers_count": 2167
+  },
+  {
+    "name": "proxmark3",
+    "owner": "RfidResearchGroup",
+    "stargazers_count": 2165
+  },
+  {
+    "name": "rawdrawandroid",
+    "owner": "cnlohr",
+    "stargazers_count": 2161
+  },
+  {
+    "name": "net-speeder",
+    "owner": "snooda",
+    "stargazers_count": 2159
+  },
+  {
+    "name": "dynamorio",
+    "owner": "DynamoRIO",
+    "stargazers_count": 2157
+  },
+  {
+    "name": "EpMedia",
+    "owner": "yangjie10930",
+    "stargazers_count": 2155
+  },
+  {
+    "name": "nginx-push-stream-module",
+    "owner": "wandenberg",
+    "stargazers_count": 2155
+  },
+  {
+    "name": "dpdk",
+    "owner": "DPDK",
+    "stargazers_count": 2152
+  },
+  {
+    "name": "OSCPRepo",
+    "owner": "rewardone",
+    "stargazers_count": 2149
+  },
+  {
+    "name": "level-ip",
+    "owner": "saminiir",
+    "stargazers_count": 2139
+  },
+  {
+    "name": "PongoOS",
+    "owner": "checkra1n",
+    "stargazers_count": 2138
+  },
+  {
+    "name": "sleuthkit",
+    "owner": "sleuthkit",
+    "stargazers_count": 2138
+  },
+  {
+    "name": "solo1",
+    "owner": "solokeys",
+    "stargazers_count": 2137
+  },
+  {
+    "name": "earth-reverse-engineering",
+    "owner": "retroplasma",
+    "stargazers_count": 2133
+  },
+  {
+    "name": "way-cooler",
+    "owner": "way-cooler",
+    "stargazers_count": 2133
+  },
+  {
+    "name": "ck",
+    "owner": "concurrencykit",
+    "stargazers_count": 2129
+  },
+  {
+    "name": "earlyoom",
+    "owner": "rfjakob",
+    "stargazers_count": 2120
+  },
+  {
+    "name": "hashcat-legacy",
+    "owner": "hashcat",
+    "stargazers_count": 2116
+  },
+  {
+    "name": "openssh-portable",
+    "owner": "openssh",
+    "stargazers_count": 2115
+  },
+  {
+    "name": "mtr",
+    "owner": "traviscross",
+    "stargazers_count": 2111
+  },
+  {
+    "name": "darkforestGo",
+    "owner": "facebookresearch",
+    "stargazers_count": 2109
+  },
+  {
+    "name": "smenu",
+    "owner": "p-gen",
+    "stargazers_count": 2100
+  },
+  {
+    "name": "lmdb",
+    "owner": "LMDB",
+    "stargazers_count": 2096
+  },
+  {
+    "name": "freeswitch",
+    "owner": "signalwire",
+    "stargazers_count": 2070
+  },
+  {
+    "name": "i3blocks",
+    "owner": "vivien",
+    "stargazers_count": 2066
+  },
+  {
+    "name": "yajl",
+    "owner": "lloyd",
+    "stargazers_count": 2065
+  },
+  {
+    "name": "Arduino_Core_STM32",
+    "owner": "stm32duino",
+    "stargazers_count": 2057
+  },
+  {
+    "name": "ReflectiveDLLInjection",
+    "owner": "stephenfewer",
+    "stargazers_count": 2055
+  },
+  {
+    "name": "libpcap",
+    "owner": "the-tcpdump-group",
+    "stargazers_count": 2052
+  },
+  {
+    "name": "ext-ds",
+    "owner": "php-ds",
+    "stargazers_count": 2051
+  },
+  {
+    "name": "dustcloud",
+    "owner": "dgiese",
+    "stargazers_count": 2046
+  },
+  {
+    "name": "renderer",
+    "owner": "zauonlok",
+    "stargazers_count": 2045
+  },
+  {
+    "name": "Reptile",
+    "owner": "f0rb1dd3n",
+    "stargazers_count": 2045
+  },
+  {
+    "name": "WiringPi",
+    "owner": "WiringPi",
+    "stargazers_count": 2043
+  },
+  {
+    "name": "ExpressLRS",
+    "owner": "ExpressLRS",
+    "stargazers_count": 2040
+  },
+  {
+    "name": "tcpdump",
+    "owner": "the-tcpdump-group",
+    "stargazers_count": 2037
+  },
+  {
+    "name": "drmemory",
+    "owner": "DynamoRIO",
+    "stargazers_count": 2037
+  },
+  {
+    "name": "esp-homekit-devices",
+    "owner": "RavenSystem",
+    "stargazers_count": 2035
+  },
+  {
+    "name": "wlroots",
+    "owner": "swaywm",
+    "stargazers_count": 2030
+  },
+  {
+    "name": "silk-v3-decoder",
+    "owner": "kn007",
+    "stargazers_count": 2023
+  },
+  {
+    "name": "ATC_MiThermometer",
+    "owner": "atc1441",
+    "stargazers_count": 2022
+  },
+  {
+    "name": "esp32-snippets",
+    "owner": "nkolban",
+    "stargazers_count": 2020
+  },
+  {
+    "name": "tinn",
+    "owner": "glouw",
+    "stargazers_count": 2017
+  },
+  {
+    "name": "OpenSC",
+    "owner": "OpenSC",
+    "stargazers_count": 2007
+  },
+  {
+    "name": "Down",
+    "owner": "johnxnguyen",
+    "stargazers_count": 1996
+  },
+  {
+    "name": "unbound",
+    "owner": "NLnetLabs",
+    "stargazers_count": 1996
+  },
+  {
+    "name": "OpenGL",
+    "owner": "McNopper",
+    "stargazers_count": 1994
+  },
+  {
+    "name": "wax",
+    "owner": "probablycorey",
+    "stargazers_count": 1986
+  },
+  {
+    "name": "HID",
+    "owner": "NicoHood",
+    "stargazers_count": 1986
+  },
+  {
+    "name": "dump1090",
+    "owner": "antirez",
+    "stargazers_count": 1983
+  },
+  {
+    "name": "userland",
+    "owner": "raspberrypi",
+    "stargazers_count": 1982
+  },
+  {
+    "name": "xcape",
+    "owner": "alols",
+    "stargazers_count": 1982
+  },
+  {
+    "name": "zapret",
+    "owner": "bol-van",
+    "stargazers_count": 1976
+  },
+  {
+    "name": "riscv-gnu-toolchain",
+    "owner": "riscv-collab",
+    "stargazers_count": 1966
+  },
+  {
+    "name": "nexmon",
+    "owner": "seemoo-lab",
+    "stargazers_count": 1966
+  },
+  {
+    "name": "ldd3",
+    "owner": "martinezjavier",
+    "stargazers_count": 1964
+  },
+  {
+    "name": "libsixel",
+    "owner": "saitoha",
+    "stargazers_count": 1963
+  },
+  {
+    "name": "wiredtiger",
+    "owner": "wiredtiger",
+    "stargazers_count": 1958
+  },
+  {
+    "name": "open62541",
+    "owner": "open62541",
+    "stargazers_count": 1951
+  },
+  {
+    "name": "sqlite",
+    "owner": "mackyle",
+    "stargazers_count": 1951
+  },
+  {
+    "name": "nanos",
+    "owner": "nanovms",
+    "stargazers_count": 1950
+  },
+  {
+    "name": "openmv",
+    "owner": "openmv",
+    "stargazers_count": 1949
+  },
+  {
+    "name": "ettercap",
+    "owner": "Ettercap",
+    "stargazers_count": 1942
+  },
+  {
+    "name": "gps-sdr-sim",
+    "owner": "osqzss",
+    "stargazers_count": 1940
+  },
+  {
+    "name": "raygui",
+    "owner": "raysan5",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "criu",
+    "owner": "checkpoint-restore",
+    "stargazers_count": 1936
+  },
+  {
+    "name": "thc-tips-tricks-hacks-cheat-sheet",
+    "owner": "hackerschoice",
+    "stargazers_count": 1935
+  },
+  {
+    "name": "c-jwt-cracker",
+    "owner": "brendan-rius",
+    "stargazers_count": 1935
+  },
+  {
+    "name": "util-linux",
+    "owner": "util-linux",
+    "stargazers_count": 1934
+  },
+  {
+    "name": "RTKLIB",
+    "owner": "tomojitakasu",
+    "stargazers_count": 1933
+  },
+  {
+    "name": "fwupd",
+    "owner": "fwupd",
+    "stargazers_count": 1932
+  },
+  {
+    "name": "proxydroid",
+    "owner": "madeye",
+    "stargazers_count": 1929
+  },
+  {
+    "name": "tetragon",
+    "owner": "cilium",
+    "stargazers_count": 1928
+  },
+  {
+    "name": "printf-tac-toe",
+    "owner": "carlini",
+    "stargazers_count": 1927
+  },
+  {
+    "name": "Adafruit-GFX-Library",
+    "owner": "adafruit",
+    "stargazers_count": 1920
+  },
+  {
+    "name": "noah",
+    "owner": "linux-noah",
+    "stargazers_count": 1919
+  },
+  {
+    "name": "sundown",
+    "owner": "vmg",
+    "stargazers_count": 1918
+  },
+  {
+    "name": "ejoy2d",
+    "owner": "ejoy",
+    "stargazers_count": 1915
+  },
+  {
+    "name": "playerctl",
+    "owner": "altdesktop",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "FreeDVDBoot",
+    "owner": "CTurt",
+    "stargazers_count": 1902
+  },
+  {
+    "name": "LVS",
+    "owner": "alibaba",
+    "stargazers_count": 1902
+  },
+  {
+    "name": "crun",
+    "owner": "containers",
+    "stargazers_count": 1902
+  },
+  {
+    "name": "HyperDbg",
+    "owner": "HyperDbg",
+    "stargazers_count": 1896
+  },
+  {
+    "name": "openvas-scanner",
+    "owner": "greenbone",
+    "stargazers_count": 1894
+  },
+  {
+    "name": "HackSysExtremeVulnerableDriver",
+    "owner": "hacksysteam",
+    "stargazers_count": 1894
+  },
+  {
+    "name": "sophia",
+    "owner": "pmwkaa",
+    "stargazers_count": 1834
+  },
+  {
+    "name": "desmume",
+    "owner": "TASEmulators",
+    "stargazers_count": 1833
+  },
+  {
+    "name": "mini3d",
+    "owner": "skywind3000",
+    "stargazers_count": 1833
+  },
+  {
+    "name": "ios-twitter-image-pipeline",
+    "owner": "twitter",
+    "stargazers_count": 1833
+  },
+  {
+    "name": "bcrypt-ruby",
+    "owner": "bcrypt-ruby",
+    "stargazers_count": 1831
+  },
+  {
+    "name": "FUZIX",
+    "owner": "EtchedPixels",
+    "stargazers_count": 1828
+  },
+  {
+    "name": "rlwrap",
+    "owner": "hanslub42",
+    "stargazers_count": 1826
+  },
+  {
+    "name": "moonlight-android",
+    "owner": "moonlight-stream",
+    "stargazers_count": 1825
+  },
+  {
+    "name": "litex",
+    "owner": "enjoy-digital",
+    "stargazers_count": 1825
+  },
+  {
+    "name": "Validity90",
+    "owner": "nmikhailov",
+    "stargazers_count": 1824
+  },
+  {
+    "name": "dosbox-x",
+    "owner": "joncampbell123",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "quadsort",
+    "owner": "scandum",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "pgbouncer",
+    "owner": "pgbouncer",
+    "stargazers_count": 1817
+  },
+  {
+    "name": "gobpf",
+    "owner": "iovisor",
+    "stargazers_count": 1815
+  },
+  {
+    "name": "TrustKit",
+    "owner": "datatheorem",
+    "stargazers_count": 1814
+  },
+  {
+    "name": "toybox",
+    "owner": "landley",
+    "stargazers_count": 1810
+  },
+  {
+    "name": "mydumper",
+    "owner": "mydumper",
+    "stargazers_count": 1810
+  },
+  {
+    "name": "pico-sdk",
+    "owner": "raspberrypi",
+    "stargazers_count": 1809
+  },
+  {
+    "name": "VulkanMemoryAllocator",
+    "owner": "GPUOpen-LibrariesAndSDKs",
+    "stargazers_count": 1805
+  },
+  {
+    "name": "shad0w",
+    "owner": "bats3c",
+    "stargazers_count": 1804
+  },
+  {
+    "name": "statsite",
+    "owner": "statsite",
+    "stargazers_count": 1801
+  },
+  {
+    "name": "tools",
+    "owner": "raspberrypi",
+    "stargazers_count": 1800
+  },
+  {
+    "name": "inception",
+    "owner": "arkdb",
+    "stargazers_count": 1799
+  },
+  {
+    "name": "ServerStatus-Hotaru",
+    "owner": "cokemine",
+    "stargazers_count": 1799
+  },
+  {
+    "name": "PureDarwin",
+    "owner": "PureDarwin",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "f3",
+    "owner": "AltraMayor",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "HIT-OSLab",
+    "owner": "hoverwinter",
+    "stargazers_count": 1792
+  },
+  {
+    "name": "mtcp",
+    "owner": "mtcp-stack",
+    "stargazers_count": 1789
+  },
+  {
+    "name": "pg_cron",
+    "owner": "citusdata",
+    "stargazers_count": 1787
+  },
+  {
+    "name": "GCanvas",
+    "owner": "alibaba",
+    "stargazers_count": 1786
+  },
+  {
+    "name": "monyhar-lite",
+    "owner": "monyhar",
+    "stargazers_count": 1784
+  },
+  {
+    "name": "unqlite",
+    "owner": "symisc",
+    "stargazers_count": 1778
+  },
+  {
+    "name": "magma",
+    "owner": "lavabit",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "winevdm",
+    "owner": "otya128",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "ctypes.sh",
+    "owner": "taviso",
+    "stargazers_count": 1774
+  },
+  {
+    "name": "sslscan",
+    "owner": "rbsec",
+    "stargazers_count": 1772
+  },
+  {
+    "name": "hitch",
+    "owner": "varnish",
+    "stargazers_count": 1769
+  },
+  {
+    "name": "wolfssl",
+    "owner": "wolfSSL",
+    "stargazers_count": 1768
+  },
+  {
+    "name": "openwebrtc",
+    "owner": "EricssonResearch",
+    "stargazers_count": 1767
+  },
+  {
+    "name": "ngx_brotli",
+    "owner": "google",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "sc",
+    "owner": "tezc",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "distcc",
+    "owner": "distcc",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "chafa",
+    "owner": "hpjansson",
+    "stargazers_count": 1757
+  },
+  {
+    "name": "tools",
+    "owner": "nullsecuritynet",
+    "stargazers_count": 1756
+  },
+  {
+    "name": "esp8266-oled-ssd1306",
+    "owner": "ThingPulse",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "CSAPP-Labs",
+    "owner": "Exely",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "RedisGraph",
+    "owner": "RedisGraph",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "deconz-rest-plugin",
+    "owner": "dresden-elektronik",
+    "stargazers_count": 1750
+  },
+  {
+    "name": "pelikan",
+    "owner": "twitter",
+    "stargazers_count": 1749
+  },
+  {
+    "name": "bplustree",
+    "owner": "begeekmyfriend",
+    "stargazers_count": 1748
+  },
+  {
+    "name": "YAOF",
+    "owner": "QiuSimons",
+    "stargazers_count": 1747
+  },
+  {
+    "name": "fbtft",
+    "owner": "notro",
+    "stargazers_count": 1743
+  },
+  {
+    "name": "polipo",
+    "owner": "jech",
+    "stargazers_count": 1741
+  },
+  {
+    "name": "freeradius-server",
+    "owner": "FreeRADIUS",
+    "stargazers_count": 1734
+  },
+  {
+    "name": "Yolo-Fastest",
+    "owner": "dog-qiuqiu",
+    "stargazers_count": 1732
+  },
+  {
+    "name": "liburing",
+    "owner": "axboe",
+    "stargazers_count": 1731
+  },
+  {
+    "name": "WindowsInternals",
+    "owner": "zodiacon",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "syslog-ng",
+    "owner": "syslog-ng",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "pulseaudio-modules-bt",
+    "owner": "EHfive",
+    "stargazers_count": 1723
+  },
+  {
+    "name": "immortalwrt",
+    "owner": "immortalwrt",
+    "stargazers_count": 1720
+  },
+  {
+    "name": "sxiv",
+    "owner": "muennich",
+    "stargazers_count": 1720
+  },
+  {
+    "name": "opengles3-book",
+    "owner": "danginsburg",
+    "stargazers_count": 1716
+  },
+  {
+    "name": "can-utils",
+    "owner": "linux-can",
+    "stargazers_count": 1715
+  },
+  {
+    "name": "nginx-upsync-module",
+    "owner": "weibocom",
+    "stargazers_count": 1711
+  },
+  {
+    "name": "nginx-vod-module",
+    "owner": "kaltura",
+    "stargazers_count": 1710
+  },
+  {
+    "name": "wcc",
+    "owner": "endrazine",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "badvpn",
+    "owner": "ambrop72",
+    "stargazers_count": 1707
+  },
+  {
+    "name": "pianobar",
+    "owner": "PromyLOPh",
+    "stargazers_count": 1704
+  },
+  {
+    "name": "yjPlay",
+    "owner": "yangchaojiang",
+    "stargazers_count": 1703
+  },
+  {
+    "name": "CVE-2021-4034",
+    "owner": "berdav",
+    "stargazers_count": 1702
+  },
+  {
+    "name": "log.c",
+    "owner": "rxi",
+    "stargazers_count": 1701
+  },
+  {
+    "name": "lcc",
+    "owner": "drh",
+    "stargazers_count": 1700
+  },
+  {
+    "name": "crown",
+    "owner": "crownengine",
+    "stargazers_count": 1694
+  },
+  {
+    "name": "cstore_fdw",
+    "owner": "citusdata",
+    "stargazers_count": 1693
+  },
+  {
+    "name": "lzfse",
+    "owner": "lzfse",
+    "stargazers_count": 1692
+  },
+  {
+    "name": "esp8266-wiki",
+    "owner": "esp8266",
+    "stargazers_count": 1692
+  },
+  {
+    "name": "9cc",
+    "owner": "rui314",
+    "stargazers_count": 1689
+  },
+  {
+    "name": "stm32f429",
+    "owner": "MaJerle",
+    "stargazers_count": 1687
+  },
+  {
+    "name": "mjs",
+    "owner": "cesanta",
+    "stargazers_count": 1684
+  },
+  {
+    "name": "rspamd",
+    "owner": "rspamd",
+    "stargazers_count": 1683
+  },
+  {
+    "name": "WidescreenFixesPack",
+    "owner": "ThirteenAG",
+    "stargazers_count": 1680
+  },
+  {
+    "name": "Entware",
+    "owner": "Entware",
+    "stargazers_count": 1677
+  },
+  {
+    "name": "phptrace",
+    "owner": "Qihoo360",
+    "stargazers_count": 1676
+  },
+  {
+    "name": "coreboot",
+    "owner": "coreboot",
+    "stargazers_count": 1671
+  },
+  {
+    "name": "mir",
+    "owner": "vnmakarov",
+    "stargazers_count": 1670
+  },
+  {
+    "name": "bfgminer",
+    "owner": "luke-jr",
+    "stargazers_count": 1669
+  },
+  {
+    "name": "ubertooth",
+    "owner": "greatscottgadgets",
+    "stargazers_count": 1668
+  },
+  {
+    "name": "libphenom",
+    "owner": "facebookarchive",
+    "stargazers_count": 1667
+  },
+  {
+    "name": "LDD-LinuxDeviceDrivers",
+    "owner": "gatieme",
+    "stargazers_count": 1667
+  },
+  {
+    "name": "projectsandcastle",
+    "owner": "corellium",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "DungeonRush",
+    "owner": "rapiz1",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "Criterion",
+    "owner": "Snaipe",
+    "stargazers_count": 1658
+  },
+  {
+    "name": "SUDO_KILLER",
+    "owner": "TH3xACE",
+    "stargazers_count": 1655
+  },
+  {
+    "name": "rpmalloc",
+    "owner": "mjansson",
+    "stargazers_count": 1655
+  },
+  {
+    "name": "herebedragons",
+    "owner": "kosua20",
+    "stargazers_count": 1655
+  },
+  {
+    "name": "facil.io",
+    "owner": "boazsegev",
+    "stargazers_count": 1650
+  },
+  {
+    "name": "DAPLink",
+    "owner": "ARMmbed",
+    "stargazers_count": 1647
+  },
+  {
+    "name": "sensible-side-buttons",
+    "owner": "archagon",
+    "stargazers_count": 1643
+  },
+  {
+    "name": "mac-dictionary-kit",
+    "owner": "jjgod",
+    "stargazers_count": 1630
+  },
+  {
+    "name": "libratbag",
+    "owner": "libratbag",
+    "stargazers_count": 1629
+  },
+  {
+    "name": "FUZIX",
+    "owner": "EtchedPixels",
+    "stargazers_count": 1828
+  },
+  {
+    "name": "rlwrap",
+    "owner": "hanslub42",
+    "stargazers_count": 1826
+  },
+  {
+    "name": "moonlight-android",
+    "owner": "moonlight-stream",
+    "stargazers_count": 1825
+  },
+  {
+    "name": "litex",
+    "owner": "enjoy-digital",
+    "stargazers_count": 1825
+  },
+  {
+    "name": "Validity90",
+    "owner": "nmikhailov",
+    "stargazers_count": 1824
+  },
+  {
+    "name": "dosbox-x",
+    "owner": "joncampbell123",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "quadsort",
+    "owner": "scandum",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "pgbouncer",
+    "owner": "pgbouncer",
+    "stargazers_count": 1817
+  },
+  {
+    "name": "gobpf",
+    "owner": "iovisor",
+    "stargazers_count": 1815
+  },
+  {
+    "name": "TrustKit",
+    "owner": "datatheorem",
+    "stargazers_count": 1814
+  },
+  {
+    "name": "cc65",
+    "owner": "cc65",
+    "stargazers_count": 1811
+  },
+  {
+    "name": "toybox",
+    "owner": "landley",
+    "stargazers_count": 1810
+  },
+  {
+    "name": "mydumper",
+    "owner": "mydumper",
+    "stargazers_count": 1810
+  },
+  {
+    "name": "pico-sdk",
+    "owner": "raspberrypi",
+    "stargazers_count": 1809
+  },
+  {
+    "name": "VulkanMemoryAllocator",
+    "owner": "GPUOpen-LibrariesAndSDKs",
+    "stargazers_count": 1805
+  },
+  {
+    "name": "shad0w",
+    "owner": "bats3c",
+    "stargazers_count": 1804
+  },
+  {
+    "name": "statsite",
+    "owner": "statsite",
+    "stargazers_count": 1801
+  },
+  {
+    "name": "tools",
+    "owner": "raspberrypi",
+    "stargazers_count": 1800
+  },
+  {
+    "name": "inception",
+    "owner": "arkdb",
+    "stargazers_count": 1799
+  },
+  {
+    "name": "ServerStatus-Hotaru",
+    "owner": "cokemine",
+    "stargazers_count": 1799
+  },
+  {
+    "name": "PureDarwin",
+    "owner": "PureDarwin",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "f3",
+    "owner": "AltraMayor",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "HIT-OSLab",
+    "owner": "hoverwinter",
+    "stargazers_count": 1792
+  },
+  {
+    "name": "libsql",
+    "owner": "libsql",
+    "stargazers_count": 1791
+  },
+  {
+    "name": "mtcp",
+    "owner": "mtcp-stack",
+    "stargazers_count": 1789
+  },
+  {
+    "name": "pg_cron",
+    "owner": "citusdata",
+    "stargazers_count": 1787
+  },
+  {
+    "name": "GCanvas",
+    "owner": "alibaba",
+    "stargazers_count": 1786
+  },
+  {
+    "name": "monyhar-lite",
+    "owner": "monyhar",
+    "stargazers_count": 1784
+  },
+  {
+    "name": "unqlite",
+    "owner": "symisc",
+    "stargazers_count": 1778
+  },
+  {
+    "name": "magma",
+    "owner": "lavabit",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "winevdm",
+    "owner": "otya128",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "ctypes.sh",
+    "owner": "taviso",
+    "stargazers_count": 1774
+  },
+  {
+    "name": "sslscan",
+    "owner": "rbsec",
+    "stargazers_count": 1772
+  },
+  {
+    "name": "hitch",
+    "owner": "varnish",
+    "stargazers_count": 1769
+  },
+  {
+    "name": "wolfssl",
+    "owner": "wolfSSL",
+    "stargazers_count": 1768
+  },
+  {
+    "name": "openwebrtc",
+    "owner": "EricssonResearch",
+    "stargazers_count": 1767
+  },
+  {
+    "name": "ngx_brotli",
+    "owner": "google",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "sc",
+    "owner": "tezc",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "distcc",
+    "owner": "distcc",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "chafa",
+    "owner": "hpjansson",
+    "stargazers_count": 1757
+  },
+  {
+    "name": "kamailio",
+    "owner": "kamailio",
+    "stargazers_count": 1756
+  },
+  {
+    "name": "tools",
+    "owner": "nullsecuritynet",
+    "stargazers_count": 1756
+  },
+  {
+    "name": "esp8266-oled-ssd1306",
+    "owner": "ThingPulse",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "CSAPP-Labs",
+    "owner": "Exely",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "RedisGraph",
+    "owner": "RedisGraph",
+    "stargazers_count": 1752
+  },
+  {
+    "name": "deconz-rest-plugin",
+    "owner": "dresden-elektronik",
+    "stargazers_count": 1750
+  },
+  {
+    "name": "pelikan",
+    "owner": "twitter",
+    "stargazers_count": 1749
+  },
+  {
+    "name": "bplustree",
+    "owner": "begeekmyfriend",
+    "stargazers_count": 1748
+  },
+  {
+    "name": "YAOF",
+    "owner": "QiuSimons",
+    "stargazers_count": 1747
+  },
+  {
+    "name": "mpitutorial",
+    "owner": "mpitutorial",
+    "stargazers_count": 1747
+  },
+  {
+    "name": "fbtft",
+    "owner": "notro",
+    "stargazers_count": 1743
+  },
+  {
+    "name": "polipo",
+    "owner": "jech",
+    "stargazers_count": 1741
+  },
+  {
+    "name": "freeradius-server",
+    "owner": "FreeRADIUS",
+    "stargazers_count": 1734
+  },
+  {
+    "name": "Yolo-Fastest",
+    "owner": "dog-qiuqiu",
+    "stargazers_count": 1732
+  },
+  {
+    "name": "liburing",
+    "owner": "axboe",
+    "stargazers_count": 1731
+  },
+  {
+    "name": "zlog",
+    "owner": "HardySimpson",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "WindowsInternals",
+    "owner": "zodiacon",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "syslog-ng",
+    "owner": "syslog-ng",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "pulseaudio-modules-bt",
+    "owner": "EHfive",
+    "stargazers_count": 1723
+  },
+  {
+    "name": "immortalwrt",
+    "owner": "immortalwrt",
+    "stargazers_count": 1720
+  },
+  {
+    "name": "sxiv",
+    "owner": "muennich",
+    "stargazers_count": 1720
+  },
+  {
+    "name": "opengles3-book",
+    "owner": "danginsburg",
+    "stargazers_count": 1716
+  },
+  {
+    "name": "can-utils",
+    "owner": "linux-can",
+    "stargazers_count": 1715
+  },
+  {
+    "name": "nginx-upsync-module",
+    "owner": "weibocom",
+    "stargazers_count": 1711
+  },
+  {
+    "name": "nginx-vod-module",
+    "owner": "kaltura",
+    "stargazers_count": 1710
+  },
+  {
+    "name": "wcc",
+    "owner": "endrazine",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "badvpn",
+    "owner": "ambrop72",
+    "stargazers_count": 1707
+  },
+  {
+    "name": "pianobar",
+    "owner": "PromyLOPh",
+    "stargazers_count": 1704
+  },
+  {
+    "name": "yjPlay",
+    "owner": "yangchaojiang",
+    "stargazers_count": 1703
+  },
+  {
+    "name": "CVE-2021-4034",
+    "owner": "berdav",
+    "stargazers_count": 1702
+  },
+  {
+    "name": "log.c",
+    "owner": "rxi",
+    "stargazers_count": 1701
+  },
+  {
+    "name": "lcc",
+    "owner": "drh",
+    "stargazers_count": 1700
+  },
+  {
+    "name": "crown",
+    "owner": "crownengine",
+    "stargazers_count": 1694
+  },
+  {
+    "name": "cstore_fdw",
+    "owner": "citusdata",
+    "stargazers_count": 1693
+  },
+  {
+    "name": "rsyslog",
+    "owner": "rsyslog",
+    "stargazers_count": 1692
+  },
+  {
+    "name": "lzfse",
+    "owner": "lzfse",
+    "stargazers_count": 1692
+  },
+  {
+    "name": "esp8266-wiki",
+    "owner": "esp8266",
+    "stargazers_count": 1692
+  },
+  {
+    "name": "9cc",
+    "owner": "rui314",
+    "stargazers_count": 1689
+  },
+  {
+    "name": "stm32f429",
+    "owner": "MaJerle",
+    "stargazers_count": 1687
+  },
+  {
+    "name": "mjs",
+    "owner": "cesanta",
+    "stargazers_count": 1684
+  },
+  {
+    "name": "rspamd",
+    "owner": "rspamd",
+    "stargazers_count": 1683
+  },
+  {
+    "name": "WidescreenFixesPack",
+    "owner": "ThirteenAG",
+    "stargazers_count": 1680
+  },
+  {
+    "name": "Entware",
+    "owner": "Entware",
+    "stargazers_count": 1677
+  },
+  {
+    "name": "phptrace",
+    "owner": "Qihoo360",
+    "stargazers_count": 1676
+  },
+  {
+    "name": "coreboot",
+    "owner": "coreboot",
+    "stargazers_count": 1671
+  },
+  {
+    "name": "mir",
+    "owner": "vnmakarov",
+    "stargazers_count": 1670
+  },
+  {
+    "name": "bfgminer",
+    "owner": "luke-jr",
+    "stargazers_count": 1669
+  },
+  {
+    "name": "ubertooth",
+    "owner": "greatscottgadgets",
+    "stargazers_count": 1668
+  },
+  {
+    "name": "libphenom",
+    "owner": "facebookarchive",
+    "stargazers_count": 1667
+  },
+  {
+    "name": "LDD-LinuxDeviceDrivers",
+    "owner": "gatieme",
+    "stargazers_count": 1667
+  },
+  {
+    "name": "projectsandcastle",
+    "owner": "corellium",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "DungeonRush",
+    "owner": "rapiz1",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "Criterion",
+    "owner": "Snaipe",
+    "stargazers_count": 1658
+  },
+  {
+    "name": "SUDO_KILLER",
+    "owner": "TH3xACE",
+    "stargazers_count": 1655
+  },
+  {
+    "name": "rpmalloc",
+    "owner": "mjansson",
+    "stargazers_count": 1655
+  },
+  {
+    "name": "herebedragons",
+    "owner": "kosua20",
+    "stargazers_count": 1655
+  },
+  {
+    "name": "eaphammer",
+    "owner": "s0lst1c3",
+    "stargazers_count": 1654
+  },
+  {
+    "name": "facil.io",
+    "owner": "boazsegev",
+    "stargazers_count": 1650
+  },
+  {
+    "name": "rizin",
+    "owner": "rizinorg",
+    "stargazers_count": 1648
+  },
+  {
+    "name": "android-gpuimage-plus",
+    "owner": "wysaid",
+    "stargazers_count": 1647
+  },
+  {
+    "name": "meinheld",
+    "owner": "mopemope",
+    "stargazers_count": 1405
+  },
+  {
+    "name": "HashCheck",
+    "owner": "gurnec",
+    "stargazers_count": 1404
+  },
+  {
+    "name": "mintty",
+    "owner": "mintty",
+    "stargazers_count": 1404
+  },
+  {
+    "name": "iPlug2",
+    "owner": "iPlug2",
+    "stargazers_count": 1401
+  },
+  {
+    "name": "shockmac",
+    "owner": "NightDive-Studio",
+    "stargazers_count": 1400
+  },
+  {
+    "name": "LiME",
+    "owner": "504ensicsLabs",
+    "stargazers_count": 1399
+  },
+  {
+    "name": "pgbackrest",
+    "owner": "pgbackrest",
+    "stargazers_count": 1398
+  },
+  {
+    "name": "emacs-libvterm",
+    "owner": "akermu",
+    "stargazers_count": 1396
+  },
+  {
+    "name": "Guitar",
+    "owner": "soramimi",
+    "stargazers_count": 1392
+  },
+  {
+    "name": "dyad",
+    "owner": "rxi",
+    "stargazers_count": 1385
+  },
+  {
+    "name": "OpenHD",
+    "owner": "OpenHD",
+    "stargazers_count": 1384
+  },
+  {
+    "name": "cmark",
+    "owner": "commonmark",
+    "stargazers_count": 1384
+  },
+  {
+    "name": "php-spx",
+    "owner": "NoiseByNorthwest",
+    "stargazers_count": 1383
+  },
+  {
+    "name": "nlopt",
+    "owner": "stevengj",
+    "stargazers_count": 1382
+  },
+  {
+    "name": "moonlight-embedded",
+    "owner": "moonlight-stream",
+    "stargazers_count": 1379
+  },
+  {
+    "name": "nanosvg",
+    "owner": "memononen",
+    "stargazers_count": 1378
+  },
+  {
+    "name": "insert_dylib",
+    "owner": "tyilo",
+    "stargazers_count": 1378
+  },
+  {
+    "name": "plan9port",
+    "owner": "9fans",
+    "stargazers_count": 1377
+  },
+  {
+    "name": "deadbeef",
+    "owner": "DeaDBeeF-Player",
+    "stargazers_count": 1377
+  },
+  {
+    "name": "Watchy",
+    "owner": "sqfmi",
+    "stargazers_count": 1375
+  },
+  {
+    "name": "StarRuler2-Source",
+    "owner": "BlindMindStudios",
+    "stargazers_count": 1375
+  },
+  {
+    "name": "FastestWebsiteEver",
+    "owner": "diracdeltas",
+    "stargazers_count": 1374
+  },
+  {
+    "name": "STAR",
+    "owner": "alexdobin",
+    "stargazers_count": 1372
+  },
+  {
+    "name": "blinker-esp-idf",
+    "owner": "blinker-iot",
+    "stargazers_count": 1371
+  },
+  {
+    "name": "minivm",
+    "owner": "FastVM",
+    "stargazers_count": 1371
+  },
+  {
+    "name": "libsignal-protocol-c",
+    "owner": "signalapp",
+    "stargazers_count": 1369
+  },
+  {
+    "name": "greatest",
+    "owner": "silentbicycle",
+    "stargazers_count": 1369
+  },
+  {
+    "name": "rlua",
+    "owner": "amethyst",
+    "stargazers_count": 1367
+  },
+  {
+    "name": "rtl8821ce",
+    "owner": "tomaspinho",
+    "stargazers_count": 1366
+  },
+  {
+    "name": "simavr",
+    "owner": "buserror",
+    "stargazers_count": 1366
+  },
+  {
+    "name": "Hypervisor-From-Scratch",
+    "owner": "SinaKarvandi",
+    "stargazers_count": 1365
+  },
+  {
+    "name": "v7",
+    "owner": "cesanta",
+    "stargazers_count": 1362
+  },
+  {
+    "name": "FreeRTOS-Kernel",
+    "owner": "FreeRTOS",
+    "stargazers_count": 1358
+  },
+  {
+    "name": "SoftEtherVPN_Stable",
+    "owner": "SoftEtherVPN",
+    "stargazers_count": 1355
+  },
+  {
+    "name": "bhook",
+    "owner": "bytedance",
+    "stargazers_count": 1354
+  },
+  {
+    "name": "blinker-nRF52",
+    "owner": "blinker-iot",
+    "stargazers_count": 1354
+  },
+  {
+    "name": "zrythm",
+    "owner": "zrythm",
+    "stargazers_count": 1352
+  },
+  {
+    "name": "injection",
+    "owner": "odzhan",
+    "stargazers_count": 1350
+  },
+  {
+    "name": "pixiewps",
+    "owner": "wiire-a",
+    "stargazers_count": 1350
+  },
+  {
+    "name": "repmgr",
+    "owner": "EnterpriseDB",
+    "stargazers_count": 1349
+  },
+  {
+    "name": "icmpsh",
+    "owner": "bdamele",
+    "stargazers_count": 1346
+  },
+  {
+    "name": "moosefs",
+    "owner": "moosefs",
+    "stargazers_count": 1345
+  },
+  {
+    "name": "thinscript",
+    "owner": "evanw",
+    "stargazers_count": 1343
+  },
+  {
+    "name": "hcxdumptool",
+    "owner": "ZerBea",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "asterisk",
+    "owner": "asterisk",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "dnspod-sr",
+    "owner": "DNSPod",
+    "stargazers_count": 1338
+  },
+  {
+    "name": "paparazzi",
+    "owner": "paparazzi",
+    "stargazers_count": 1334
+  },
+  {
+    "name": "slua",
+    "owner": "pangweiwei",
+    "stargazers_count": 1334
+  },
+  {
+    "name": "glfw",
+    "owner": "go-gl",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "Open-PS2-Loader",
+    "owner": "ps2homebrew",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "proximac",
+    "owner": "csujedihy",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "minimap2",
+    "owner": "lh3",
+    "stargazers_count": 1326
+  },
+  {
+    "name": "virgo",
+    "owner": "henkman",
+    "stargazers_count": 1326
+  },
+  {
+    "name": "pokeemerald",
+    "owner": "pret",
+    "stargazers_count": 1325
+  },
+  {
+    "name": "esp-who",
+    "owner": "espressif",
+    "stargazers_count": 1325
+  },
+  {
+    "name": "pjproject",
+    "owner": "pjsip",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "xquic",
+    "owner": "alibaba",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "mongrel2",
+    "owner": "mongrel2",
+    "stargazers_count": 1323
+  },
+  {
+    "name": "paperview",
+    "owner": "glouw",
+    "stargazers_count": 1321
+  },
+  {
+    "name": "spiffs",
+    "owner": "pellepl",
+    "stargazers_count": 1321
+  },
+  {
+    "name": "almighty-dotfiles",
+    "owner": "addy-dclxvi",
+    "stargazers_count": 1321
+  },
+  {
+    "name": "leptonica",
+    "owner": "DanBloomberg",
+    "stargazers_count": 1320
+  },
+  {
+    "name": "kvm-guest-drivers-windows",
+    "owner": "virtio-win",
+    "stargazers_count": 1319
+  },
+  {
+    "name": "Kha",
+    "owner": "Kode",
+    "stargazers_count": 1318
+  },
+  {
+    "name": "libnfc",
+    "owner": "nfc-tools",
+    "stargazers_count": 1316
+  },
+  {
+    "name": "esp-iot-solution",
+    "owner": "espressif",
+    "stargazers_count": 1316
+  },
+  {
+    "name": "kernel-exploits",
+    "owner": "xairy",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "casync",
+    "owner": "systemd",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "xpadneo",
+    "owner": "atar-axis",
+    "stargazers_count": 1313
+  },
+  {
+    "name": "refterm",
+    "owner": "cmuratori",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "BlockTheSpot",
+    "owner": "master131",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "libwdi",
+    "owner": "pbatard",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "bakeware",
+    "owner": "bake-bake-bake",
+    "stargazers_count": 1311
+  },
+  {
+    "name": "dostackbufferoverflowgood",
+    "owner": "justinsteven",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "libtomcrypt",
+    "owner": "libtom",
+    "stargazers_count": 1309
+  },
+  {
+    "name": "tinywm",
+    "owner": "mackstann",
+    "stargazers_count": 1309
+  },
+  {
+    "name": "sm64ex",
+    "owner": "sm64pc",
+    "stargazers_count": 1309
+  },
+  {
+    "name": "Ne10",
+    "owner": "projectNe10",
+    "stargazers_count": 1307
+  },
+  {
+    "name": "bbrplus",
+    "owner": "cx9208",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "fuzzer-test-suite",
+    "owner": "google",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "Process-Dump",
+    "owner": "glmcdona",
+    "stargazers_count": 1304
+  },
+  {
+    "name": "dislocker",
+    "owner": "Aorimn",
+    "stargazers_count": 1303
+  },
+  {
+    "name": "fatcache",
+    "owner": "twitter",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "TencentOS-kernel",
+    "owner": "Tencent",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "drgn",
+    "owner": "osandov",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "86Box",
+    "owner": "86Box",
+    "stargazers_count": 1298
+  },
+  {
+    "name": "monero-gui",
+    "owner": "monero-project",
+    "stargazers_count": 1298
+  },
+  {
+    "name": "utf8.h",
+    "owner": "sheredom",
+    "stargazers_count": 1297
+  },
+  {
+    "name": "phpspy",
+    "owner": "adsr",
+    "stargazers_count": 1296
+  },
+  {
+    "name": "openexr",
+    "owner": "AcademySoftwareFoundation",
+    "stargazers_count": 1294
+  },
+  {
+    "name": "kona",
+    "owner": "kevinlawler",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "SGDK",
+    "owner": "Stephane-D",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "mraa",
+    "owner": "eclipse",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "ScanNet",
+    "owner": "ScanNet",
+    "stargazers_count": 1291
+  },
+  {
+    "name": "space-shooter.c",
+    "owner": "tsherif",
+    "stargazers_count": 1290
+  },
+  {
+    "name": "HackBGRT",
+    "owner": "Metabolix",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "genann",
+    "owner": "codeplea",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "dperf",
+    "owner": "baidu",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "CoreFreq",
+    "owner": "cyring",
+    "stargazers_count": 1286
+  },
+  {
+    "name": "MOTHBALLED-graphviz",
+    "owner": "ellson",
+    "stargazers_count": 1285
+  }
+]

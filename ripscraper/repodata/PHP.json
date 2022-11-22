@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "laravel",
+    "owner": "laravel",
+    "stargazers_count": 71500
+  },
+  {
+    "name": "SecLists",
+    "owner": "danielmiessler",
+    "stargazers_count": 43097
+  },
+  {
+    "name": "jQuery-File-Upload",
+    "owner": "blueimp",
+    "stargazers_count": 31054
+  },
+  {
+    "name": "framework",
+    "owner": "laravel",
+    "stargazers_count": 28274
+  },
+  {
+    "name": "symfony",
+    "owner": "symfony",
+    "stargazers_count": 27633
+  },
+  {
+    "name": "composer",
+    "owner": "composer",
+    "stargazers_count": 27089
+  },
+  {
+    "name": "Faker",
+    "owner": "fzaninotto",
+    "stargazers_count": 26642
+  },
+  {
+    "name": "guzzle",
+    "owner": "guzzle",
+    "stargazers_count": 22190
+  },
+  {
+    "name": "DesignPatternsPHP",
+    "owner": "DesignPatternsPHP",
+    "stargazers_count": 20903
+  },
+  {
+    "name": "server",
+    "owner": "nextcloud",
+    "stargazers_count": 20625
+  },
+  {
+    "name": "monolog",
+    "owner": "Seldaek",
+    "stargazers_count": 20012
+  },
+  {
+    "name": "PHPMailer",
+    "owner": "PHPMailer",
+    "stargazers_count": 18894
+  },
+  {
+    "name": "phpunit",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 18737
+  },
+  {
+    "name": "CodeIgniter",
+    "owner": "bcit-ci",
+    "stargazers_count": 18180
+  },
+  {
+    "name": "monica",
+    "owner": "monicahq",
+    "stargazers_count": 17613
+  },
+  {
+    "name": "matomo",
+    "owner": "matomo-org",
+    "stargazers_count": 17044
+  },
+  {
+    "name": "WordPress",
+    "owner": "WordPress",
+    "stargazers_count": 16855
+  },
+  {
+    "name": "Carbon",
+    "owner": "briannesbitt",
+    "stargazers_count": 15967
+  },
+  {
+    "name": "PHP-Parser",
+    "owner": "nikic",
+    "stargazers_count": 15775
+  },
+  {
+    "name": "howto-make-more-money",
+    "owner": "easychen",
+    "stargazers_count": 15765
+  },
+  {
+    "name": "laravel-debugbar",
+    "owner": "barryvdh",
+    "stargazers_count": 14623
+  },
+  {
+    "name": "parsedown",
+    "owner": "erusev",
+    "stargazers_count": 14265
+  },
+  {
+    "name": "koel",
+    "owner": "koel",
+    "stargazers_count": 14192
+  },
+  {
+    "name": "yii2",
+    "owner": "yiisoft",
+    "stargazers_count": 14020
+  },
+  {
+    "name": "grav",
+    "owner": "getgrav",
+    "stargazers_count": 13541
+  },
+  {
+    "name": "flarum",
+    "owner": "flarum",
+    "stargazers_count": 13473
+  },
+  {
+    "name": "Cachet",
+    "owner": "CachetHQ",
+    "stargazers_count": 12936
+  },
+  {
+    "name": "whoops",
+    "owner": "filp",
+    "stargazers_count": 12893
+  },
+  {
+    "name": "flysystem",
+    "owner": "thephpleague",
+    "stargazers_count": 12702
+  },
+  {
+    "name": "phabricator",
+    "owner": "phacility",
+    "stargazers_count": 12302
+  },
+  {
+    "name": "phpdotenv",
+    "owner": "vlucas",
+    "stargazers_count": 12254
+  },
+  {
+    "name": "sage",
+    "owner": "roots",
+    "stargazers_count": 11971
+  },
+  {
+    "name": "uuid",
+    "owner": "ramsey",
+    "stargazers_count": 11892
+  },
+  {
+    "name": "PhpSpreadsheet",
+    "owner": "PHPOffice",
+    "stargazers_count": 11706
+  },
+  {
+    "name": "PHP-CS-Fixer",
+    "owner": "PHP-CS-Fixer",
+    "stargazers_count": 11514
+  },
+  {
+    "name": "Slim",
+    "owner": "slimphp",
+    "stargazers_count": 11434
+  },
+  {
+    "name": "voyager",
+    "owner": "the-control-group",
+    "stargazers_count": 11223
+  },
+  {
+    "name": "Laravel-Excel",
+    "owner": "SpartnerNL",
+    "stargazers_count": 11150
+  },
+  {
+    "name": "labs",
+    "owner": "docker",
+    "stargazers_count": 11013
+  },
+  {
+    "name": "EmailValidator",
+    "owner": "egulias",
+    "stargazers_count": 10853
+  },
+  {
+    "name": "laravel-permission",
+    "owner": "spatie",
+    "stargazers_count": 10828
+  },
+  {
+    "name": "october",
+    "owner": "octobercms",
+    "stargazers_count": 10804
+  },
+  {
+    "name": "lexer",
+    "owner": "doctrine",
+    "stargazers_count": 10756
+  },
+  {
+    "name": "instantiator",
+    "owner": "doctrine",
+    "stargazers_count": 10682
+  },
+  {
+    "name": "jwt-auth",
+    "owner": "tymondesigns",
+    "stargazers_count": 10679
+  },
+  {
+    "name": "cphalcon",
+    "owner": "phalcon",
+    "stargazers_count": 10652
+  },
+  {
+    "name": "laravel-admin",
+    "owner": "z-song",
+    "stargazers_count": 10640
+  },
+  {
+    "name": "BookStack",
+    "owner": "BookStackApp",
+    "stargazers_count": 10375
+  },
+  {
+    "name": "mockery",
+    "owner": "mockery",
+    "stargazers_count": 10282
+  },
+  {
+    "name": "workerman",
+    "owner": "walkor",
+    "stargazers_count": 10154
+  },
+  {
+    "name": "Mobile-Detect",
+    "owner": "serbanghita",
+    "stargazers_count": 10128
+  },
+  {
+    "name": "log",
+    "owner": "php-fig",
+    "stargazers_count": 10038
+  },
+  {
+    "name": "easywechat",
+    "owner": "w7corp",
+    "stargazers_count": 9920
+  },
+  {
+    "name": "PHP_CodeSniffer",
+    "owner": "squizlabs",
+    "stargazers_count": 9823
+  },
+  {
+    "name": "deployer",
+    "owner": "deployphp",
+    "stargazers_count": 9624
+  },
+  {
+    "name": "container",
+    "owner": "php-fig",
+    "stargazers_count": 9602
+  },
+  {
+    "name": "swiftmailer",
+    "owner": "swiftmailer",
+    "stargazers_count": 9572
+  },
+  {
+    "name": "typecho",
+    "owner": "typecho",
+    "stargazers_count": 9491
+  },
+  {
+    "name": "psysh",
+    "owner": "bobthecow",
+    "stargazers_count": 9411
+  },
+  {
+    "name": "orm",
+    "owner": "doctrine",
+    "stargazers_count": 9406
+  },
+  {
+    "name": "api",
+    "owner": "dingo",
+    "stargazers_count": 9280
+  },
+  {
+    "name": "firefly-iii",
+    "owner": "firefly-iii",
+    "stargazers_count": 9229
+  },
+  {
+    "name": "dompdf",
+    "owner": "dompdf",
+    "stargazers_count": 9228
+  },
+  {
+    "name": "ReflectionDocBlock",
+    "owner": "phpDocumentor",
+    "stargazers_count": 9128
+  },
+  {
+    "name": "Goutte",
+    "owner": "FriendsOfPHP",
+    "stargazers_count": 9089
+  },
+  {
+    "name": "TypeResolver",
+    "owner": "phpDocumentor",
+    "stargazers_count": 8931
+  },
+  {
+    "name": "dbal",
+    "owner": "doctrine",
+    "stargazers_count": 8861
+  },
+  {
+    "name": "ReflectionCommon",
+    "owner": "phpDocumentor",
+    "stargazers_count": 8830
+  },
+  {
+    "name": "avbook",
+    "owner": "guyueyingmu",
+    "stargazers_count": 8631
+  },
+  {
+    "name": "cakephp",
+    "owner": "cakephp",
+    "stargazers_count": 8573
+  },
+  {
+    "name": "YOURLS",
+    "owner": "YOURLS",
+    "stargazers_count": 8553
+  },
+  {
+    "name": "webshell",
+    "owner": "tennc",
+    "stargazers_count": 8541
+  },
+  {
+    "name": "prophecy",
+    "owner": "phpspec",
+    "stargazers_count": 8505
+  },
+  {
+    "name": "reactphp",
+    "owner": "reactphp",
+    "stargazers_count": 8454
+  },
+  {
+    "name": "Awsome-Front-End-learning-resource",
+    "owner": "helloqingfeng",
+    "stargazers_count": 8446
+  },
+  {
+    "name": "php-code-coverage",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 8412
+  },
+  {
+    "name": "DeepCopy",
+    "owner": "myclabs",
+    "stargazers_count": 8360
+  },
+  {
+    "name": "google-api-php-client",
+    "owner": "googleapis",
+    "stargazers_count": 8340
+  },
+  {
+    "name": "http-foundation",
+    "owner": "symfony",
+    "stargazers_count": 8300
+  },
+  {
+    "name": "woocommerce",
+    "owner": "woocommerce",
+    "stargazers_count": 8254
+  },
+  {
+    "name": "event-dispatcher",
+    "owner": "symfony",
+    "stargazers_count": 8182
+  },
+  {
+    "name": "finder",
+    "owner": "symfony",
+    "stargazers_count": 8078
+  },
+  {
+    "name": "random_compat",
+    "owner": "paragonie",
+    "stargazers_count": 8031
+  },
+  {
+    "name": "simple-cache",
+    "owner": "php-fig",
+    "stargazers_count": 7939
+  },
+  {
+    "name": "core",
+    "owner": "owncloud",
+    "stargazers_count": 7884
+  },
+  {
+    "name": "http-kernel",
+    "owner": "symfony",
+    "stargazers_count": 7771
+  },
+  {
+    "name": "thanks",
+    "owner": "symfony",
+    "stargazers_count": 7769
+  },
+  {
+    "name": "think",
+    "owner": "top-think",
+    "stargazers_count": 7720
+  },
+  {
+    "name": "Twig",
+    "owner": "twigphp",
+    "stargazers_count": 7643
+  },
+  {
+    "name": "wallabag",
+    "owner": "wallabag",
+    "stargazers_count": 7585
+  },
+  {
+    "name": "lumen",
+    "owner": "laravel",
+    "stargazers_count": 7576
+  },
+  {
+    "name": "psr7",
+    "owner": "guzzle",
+    "stargazers_count": 7574
+  },
+  {
+    "name": "polyfill-mbstring",
+    "owner": "symfony",
+    "stargazers_count": 7544
+  },
+  {
+    "name": "cache",
+    "owner": "doctrine",
+    "stargazers_count": 7539
+  },
+  {
+    "name": "php-timer",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 7329
+  },
+  {
+    "name": "debug",
+    "owner": "symfony",
+    "stargazers_count": 7318
+  },
+  {
+    "name": "TrustedProxy",
+    "owner": "fideloper",
+    "stargazers_count": 7311
+  },
+  {
+    "name": "routing",
+    "owner": "symfony",
+    "stargazers_count": 7283
+  },
+  {
+    "name": "promises",
+    "owner": "guzzle",
+    "stargazers_count": 7277
+  },
+  {
+    "name": "predis",
+    "owner": "predis",
+    "stargazers_count": 7247
+  },
+  {
+    "name": "manifest",
+    "owner": "phar-io",
+    "stargazers_count": 7112
+  },
+  {
+    "name": "php-file-iterator",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 7104
+  },
+  {
+    "name": "tinker",
+    "owner": "laravel",
+    "stargazers_count": 7094
+  },
+  {
+    "name": "version",
+    "owner": "phar-io",
+    "stargazers_count": 7092
+  },
+  {
+    "name": "Sylius",
+    "owner": "Sylius",
+    "stargazers_count": 7086
+  },
+  {
+    "name": "var-dumper",
+    "owner": "symfony",
+    "stargazers_count": 7068
+  },
+  {
+    "name": "fuzzdb",
+    "owner": "fuzzdb-project",
+    "stargazers_count": 7065
+  },
+  {
+    "name": "php-text-template",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 7059
+  },
+  {
+    "name": "kanboard",
+    "owner": "kanboard",
+    "stargazers_count": 6858
+  },
+  {
+    "name": "hamcrest-php",
+    "owner": "hamcrest",
+    "stargazers_count": 6854
+  },
+  {
+    "name": "lang",
+    "owner": "Laravel-Lang",
+    "stargazers_count": 6843
+  },
+  {
+    "name": "PrestaShop",
+    "owner": "PrestaShop",
+    "stargazers_count": 6826
+  },
+  {
+    "name": "DVWA",
+    "owner": "digininja",
+    "stargazers_count": 6824
+  },
+  {
+    "name": "jwt",
+    "owner": "lcobucci",
+    "stargazers_count": 6813
+  },
+  {
+    "name": "comparator",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6684
+  },
+  {
+    "name": "http-message",
+    "owner": "php-fig",
+    "stargazers_count": 6641
+  },
+  {
+    "name": "opencart",
+    "owner": "opencart",
+    "stargazers_count": 6624
+  },
+  {
+    "name": "crater",
+    "owner": "crater-invoice",
+    "stargazers_count": 6614
+  },
+  {
+    "name": "annotations",
+    "owner": "doctrine",
+    "stargazers_count": 6542
+  },
+  {
+    "name": "web-frameworks",
+    "owner": "the-benchmarker",
+    "stargazers_count": 6531
+  },
+  {
+    "name": "PHPWord",
+    "owner": "PHPOffice",
+    "stargazers_count": 6463
+  },
+  {
+    "name": "php-pm",
+    "owner": "php-pm",
+    "stargazers_count": 6450
+  },
+  {
+    "name": "environment",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6429
+  },
+  {
+    "name": "php-xdg-base-dir",
+    "owner": "dnoegel",
+    "stargazers_count": 6381
+  },
+  {
+    "name": "code-unit-reverse-lookup",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6373
+  },
+  {
+    "name": "translation",
+    "owner": "symfony",
+    "stargazers_count": 6364
+  },
+  {
+    "name": "phpmyadmin",
+    "owner": "phpmyadmin",
+    "stargazers_count": 6289
+  },
+  {
+    "name": "prestissimo",
+    "owner": "hirak",
+    "stargazers_count": 6270
+  },
+  {
+    "name": "global-state",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6267
+  },
+  {
+    "name": "laravel-mongodb",
+    "owner": "jenssegers",
+    "stargazers_count": 6256
+  },
+  {
+    "name": "version",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6251
+  },
+  {
+    "name": "PHP-Console-Highlighter",
+    "owner": "JakubOnderka",
+    "stargazers_count": 6247
+  },
+  {
+    "name": "PHP-Console-Color",
+    "owner": "JakubOnderka",
+    "stargazers_count": 6224
+  },
+  {
+    "name": "rector",
+    "owner": "rectorphp",
+    "stargazers_count": 6223
+  },
+  {
+    "name": "oauth2-server",
+    "owner": "thephpleague",
+    "stargazers_count": 6187
+  },
+  {
+    "name": "laravel-cors",
+    "owner": "fruitcake",
+    "stargazers_count": 6171
+  },
+  {
+    "name": "Lychee",
+    "owner": "electerious",
+    "stargazers_count": 6141
+  },
+  {
+    "name": "entrust",
+    "owner": "Zizaco",
+    "stargazers_count": 6137
+  },
+  {
+    "name": "object-enumerator",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6130
+  },
+  {
+    "name": "resource-operations",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 6033
+  },
+  {
+    "name": "object-reflector",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 5941
+  },
+  {
+    "name": "humhub",
+    "owner": "humhub",
+    "stargazers_count": 5935
+  },
+  {
+    "name": "Ratchet",
+    "owner": "ratchetphp",
+    "stargazers_count": 5842
+  },
+  {
+    "name": "aimeos-laravel",
+    "owner": "aimeos",
+    "stargazers_count": 5810
+  },
+  {
+    "name": "KodExplorer",
+    "owner": "kalcaddle",
+    "stargazers_count": 5789
+  },
+  {
+    "name": "framework",
+    "owner": "flarum",
+    "stargazers_count": 5772
+  },
+  {
+    "name": "botman",
+    "owner": "botman",
+    "stargazers_count": 5732
+  },
+  {
+    "name": "mailcow-dockerized",
+    "owner": "mailcow",
+    "stargazers_count": 5713
+  },
+  {
+    "name": "pest",
+    "owner": "pestphp",
+    "stargazers_count": 5696
+  },
+  {
+    "name": "aws-sdk-php",
+    "owner": "aws",
+    "stargazers_count": 5694
+  },
+  {
+    "name": "bedrock",
+    "owner": "roots",
+    "stargazers_count": 5660
+  },
+  {
+    "name": "omnipay",
+    "owner": "thephpleague",
+    "stargazers_count": 5646
+  },
+  {
+    "name": "collections",
+    "owner": "doctrine",
+    "stargazers_count": 5638
+  },
+  {
+    "name": "CssToInlineStyles",
+    "owner": "tijsverkoyen",
+    "stargazers_count": 5635
+  },
+  {
+    "name": "event-manager",
+    "owner": "doctrine",
+    "stargazers_count": 5617
+  },
+  {
+    "name": "countries",
+    "owner": "mledoze",
+    "stargazers_count": 5591
+  },
+  {
+    "name": "laravel-dompdf",
+    "owner": "barryvdh",
+    "stargazers_count": 5576
+  },
+  {
+    "name": "Validation",
+    "owner": "Respect",
+    "stargazers_count": 5569
+  },
+  {
+    "name": "swoft",
+    "owner": "swoft-cloud",
+    "stargazers_count": 5517
+  },
+  {
+    "name": "mautic",
+    "owner": "mautic",
+    "stargazers_count": 5512
+  },
+  {
+    "name": "pagekit",
+    "owner": "pagekit",
+    "stargazers_count": 5503
+  },
+  {
+    "name": "adminer",
+    "owner": "vrana",
+    "stargazers_count": 5470
+  },
+  {
+    "name": "laravel-boilerplate",
+    "owner": "rappasoft",
+    "stargazers_count": 5384
+  },
+  {
+    "name": "rss-bridge",
+    "owner": "RSS-Bridge",
+    "stargazers_count": 5349
+  },
+  {
+    "name": "phan",
+    "owner": "phan",
+    "stargazers_count": 5337
+  },
+  {
+    "name": "awesome-appsec",
+    "owner": "paragonie",
+    "stargazers_count": 5306
+  },
+  {
+    "name": "laravel-medialibrary",
+    "owner": "spatie",
+    "stargazers_count": 5136
+  },
+  {
+    "name": "laravel-backup",
+    "owner": "spatie",
+    "stargazers_count": 5093
+  },
+  {
+    "name": "filament",
+    "owner": "filamentphp",
+    "stargazers_count": 5056
+  },
+  {
+    "name": "Heimdall",
+    "owner": "linuxserver",
+    "stargazers_count": 5048
+  },
+  {
+    "name": "phpunit-mock-objects",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 5030
+  },
+  {
+    "name": "elasticsearch-php",
+    "owner": "elastic",
+    "stargazers_count": 5013
+  },
+  {
+    "name": "yii2_fecshop",
+    "owner": "fecshop",
+    "stargazers_count": 4991
+  },
+  {
+    "name": "psalm",
+    "owner": "vimeo",
+    "stargazers_count": 4980
+  },
+  {
+    "name": "tokenizer",
+    "owner": "theseer",
+    "stargazers_count": 4935
+  },
+  {
+    "name": "phpseclib",
+    "owner": "phpseclib",
+    "stargazers_count": 4915
+  },
+  {
+    "name": "cron-expression",
+    "owner": "mtdowling",
+    "stargazers_count": 4909
+  },
+  {
+    "name": "hashids",
+    "owner": "vinkla",
+    "stargazers_count": 4878
+  },
+  {
+    "name": "hyperf",
+    "owner": "hyperf",
+    "stargazers_count": 4871
+  },
+  {
+    "name": "yii",
+    "owner": "yiisoft",
+    "stargazers_count": 4842
+  },
+  {
+    "name": "codeigniter-restserver",
+    "owner": "chriskacerguis",
+    "stargazers_count": 4841
+  },
+  {
+    "name": "ProxyManager",
+    "owner": "Ocramius",
+    "stargazers_count": 4799
+  },
+  {
+    "name": "phpinsights",
+    "owner": "nunomaduro",
+    "stargazers_count": 4783
+  },
+  {
+    "name": "cache",
+    "owner": "php-fig",
+    "stargazers_count": 4763
+  },
+  {
+    "name": "FastRoute",
+    "owner": "nikic",
+    "stargazers_count": 4719
+  },
+  {
+    "name": "clockwork",
+    "owner": "itsgoingd",
+    "stargazers_count": 4712
+  },
+  {
+    "name": "php-webdriver",
+    "owner": "php-webdriver",
+    "stargazers_count": 4703
+  },
+  {
+    "name": "polyfill-php72",
+    "owner": "symfony",
+    "stargazers_count": 4688
+  },
+  {
+    "name": "roundcubemail",
+    "owner": "roundcube",
+    "stargazers_count": 4666
+  },
+  {
+    "name": "Codeception",
+    "owner": "Codeception",
+    "stargazers_count": 4604
+  },
+  {
+    "name": "wp-cli",
+    "owner": "wp-cli",
+    "stargazers_count": 4603
+  },
+  {
+    "name": "Medoo",
+    "owner": "catfan",
+    "stargazers_count": 4602
+  },
+  {
+    "name": "easyswoole",
+    "owner": "easy-swoole",
+    "stargazers_count": 4586
+  },
+  {
+    "name": "laravel-websockets",
+    "owner": "beyondcode",
+    "stargazers_count": 4571
+  },
+  {
+    "name": "laravel-modules",
+    "owner": "nWidart",
+    "stargazers_count": 4537
+  },
+  {
+    "name": "polr",
+    "owner": "cydrobolt",
+    "stargazers_count": 4519
+  },
+  {
+    "name": "Postman-cn",
+    "owner": "hlmd",
+    "stargazers_count": 4498
+  },
+  {
+    "name": "PrivateBin",
+    "owner": "PrivateBin",
+    "stargazers_count": 4471
+  },
+  {
+    "name": "emojione",
+    "owner": "joypixels",
+    "stargazers_count": 4469
+  },
+  {
+    "name": "pay",
+    "owner": "yansongda",
+    "stargazers_count": 4448
+  },
+  {
+    "name": "Codeception",
+    "owner": "Codeception",
+    "stargazers_count": 4604
+  },
+  {
+    "name": "wp-cli",
+    "owner": "wp-cli",
+    "stargazers_count": 4603
+  },
+  {
+    "name": "Medoo",
+    "owner": "catfan",
+    "stargazers_count": 4602
+  },
+  {
+    "name": "laravel-activitylog",
+    "owner": "spatie",
+    "stargazers_count": 4597
+  },
+  {
+    "name": "easyswoole",
+    "owner": "easy-swoole",
+    "stargazers_count": 4586
+  },
+  {
+    "name": "laravel-websockets",
+    "owner": "beyondcode",
+    "stargazers_count": 4571
+  },
+  {
+    "name": "laravel-modules",
+    "owner": "nWidart",
+    "stargazers_count": 4537
+  },
+  {
+    "name": "polr",
+    "owner": "cydrobolt",
+    "stargazers_count": 4519
+  },
+  {
+    "name": "Postman-cn",
+    "owner": "hlmd",
+    "stargazers_count": 4498
+  },
+  {
+    "name": "PrivateBin",
+    "owner": "PrivateBin",
+    "stargazers_count": 4471
+  },
+  {
+    "name": "emojione",
+    "owner": "joypixels",
+    "stargazers_count": 4469
+  },
+  {
+    "name": "pay",
+    "owner": "yansongda",
+    "stargazers_count": 4448
+  },
+  {
+    "name": "DoctrineBundle",
+    "owner": "doctrine",
+    "stargazers_count": 4444
+  },
+  {
+    "name": "migrations",
+    "owner": "doctrine",
+    "stargazers_count": 4434
+  },
+  {
+    "name": "wechat-php-sdk",
+    "owner": "dodgepudding",
+    "stargazers_count": 4431
+  },
+  {
+    "name": "moodle",
+    "owner": "moodle",
+    "stargazers_count": 4429
+  },
+  {
+    "name": "laravel-datatables",
+    "owner": "yajra",
+    "stargazers_count": 4411
+  },
+  {
+    "name": "CodeIgniter4",
+    "owner": "codeigniter4",
+    "stargazers_count": 4411
+  },
+  {
+    "name": "graphql-php",
+    "owner": "webonyx",
+    "stargazers_count": 4405
+  },
+  {
+    "name": "panel",
+    "owner": "pterodactyl",
+    "stargazers_count": 4365
+  },
+  {
+    "name": "telescope",
+    "owner": "laravel",
+    "stargazers_count": 4359
+  },
+  {
+    "name": "PHP-FFMpeg",
+    "owner": "PHP-FFMpeg",
+    "stargazers_count": 4346
+  },
+  {
+    "name": "phinx",
+    "owner": "cakephp",
+    "stargazers_count": 4328
+  },
+  {
+    "name": "filesystem",
+    "owner": "symfony",
+    "stargazers_count": 4312
+  },
+  {
+    "name": "larastan",
+    "owner": "nunomaduro",
+    "stargazers_count": 4309
+  },
+  {
+    "name": "joomla-cms",
+    "owner": "joomla",
+    "stargazers_count": 4304
+  },
+  {
+    "name": "Imagine",
+    "owner": "php-imagine",
+    "stargazers_count": 4280
+  },
+  {
+    "name": "sqli-labs",
+    "owner": "Audi-1",
+    "stargazers_count": 4270
+  },
+  {
+    "name": "wooyun_public",
+    "owner": "hanc00l",
+    "stargazers_count": 4262
+  },
+  {
+    "name": "libphonenumber-for-php",
+    "owner": "giggsey",
+    "stargazers_count": 4211
+  },
+  {
+    "name": "twitteroauth",
+    "owner": "abraham",
+    "stargazers_count": 4204
+  },
+  {
+    "name": "php-amqplib",
+    "owner": "php-amqplib",
+    "stargazers_count": 4170
+  },
+  {
+    "name": "spout",
+    "owner": "box",
+    "stargazers_count": 4166
+  },
+  {
+    "name": "agent",
+    "owner": "jenssegers",
+    "stargazers_count": 4145
+  },
+  {
+    "name": "bolt",
+    "owner": "bolt",
+    "stargazers_count": 4140
+  },
+  {
+    "name": "money",
+    "owner": "moneyphp",
+    "stargazers_count": 4133
+  },
+  {
+    "name": "snappy",
+    "owner": "KnpLabs",
+    "stargazers_count": 4125
+  },
+  {
+    "name": "pixelfed",
+    "owner": "pixelfed",
+    "stargazers_count": 4095
+  },
+  {
+    "name": "Organizr",
+    "owner": "causefx",
+    "stargazers_count": 4079
+  },
+  {
+    "name": "wave",
+    "owner": "thedevdojo",
+    "stargazers_count": 4066
+  },
+  {
+    "name": "browsershot",
+    "owner": "spatie",
+    "stargazers_count": 4050
+  },
+  {
+    "name": "l5-repository",
+    "owner": "andersao",
+    "stargazers_count": 4027
+  },
+  {
+    "name": "php-debugbar",
+    "owner": "maximebf",
+    "stargazers_count": 4014
+  },
+  {
+    "name": "pinyin",
+    "owner": "overtrue",
+    "stargazers_count": 3991
+  },
+  {
+    "name": "WP-API",
+    "owner": "WP-API",
+    "stargazers_count": 3979
+  },
+  {
+    "name": "countries-states-cities-database",
+    "owner": "dr5hn",
+    "stargazers_count": 3978
+  },
+  {
+    "name": "DoctrineMigrationsBundle",
+    "owner": "doctrine",
+    "stargazers_count": 3968
+  },
+  {
+    "name": "config",
+    "owner": "symfony",
+    "stargazers_count": 3944
+  },
+  {
+    "name": "pfsense",
+    "owner": "pfsense",
+    "stargazers_count": 3935
+  },
+  {
+    "name": "devilbox",
+    "owner": "cytopia",
+    "stargazers_count": 3910
+  },
+  {
+    "name": "polyfill-ctype",
+    "owner": "symfony",
+    "stargazers_count": 3897
+  },
+  {
+    "name": "expose",
+    "owner": "beyondcode",
+    "stargazers_count": 3895
+  },
+  {
+    "name": "laravel-swoole",
+    "owner": "swooletw",
+    "stargazers_count": 3876
+  },
+  {
+    "name": "qr-code",
+    "owner": "endroid",
+    "stargazers_count": 3872
+  },
+  {
+    "name": "manong",
+    "owner": "nemoTyrant",
+    "stargazers_count": 3866
+  },
+  {
+    "name": "corcel",
+    "owner": "corcel",
+    "stargazers_count": 3855
+  },
+  {
+    "name": "Geocoder",
+    "owner": "geocoder-php",
+    "stargazers_count": 3851
+  },
+  {
+    "name": "grumphp",
+    "owner": "phpro",
+    "stargazers_count": 3847
+  },
+  {
+    "name": "html",
+    "owner": "LaravelCollective",
+    "stargazers_count": 3842
+  },
+  {
+    "name": "Search-Replace-DB",
+    "owner": "interconnectit",
+    "stargazers_count": 3841
+  },
+  {
+    "name": "DoctrineExtensions",
+    "owner": "doctrine-extensions",
+    "stargazers_count": 3828
+  },
+  {
+    "name": "dependency-injection",
+    "owner": "symfony",
+    "stargazers_count": 3828
+  },
+  {
+    "name": "raspap-webgui",
+    "owner": "RaspAP",
+    "stargazers_count": 3812
+  },
+  {
+    "name": "cache",
+    "owner": "symfony",
+    "stargazers_count": 3803
+  },
+  {
+    "name": "rainloop-webmail",
+    "owner": "RainLoop",
+    "stargazers_count": 3798
+  },
+  {
+    "name": "drupal",
+    "owner": "drupal",
+    "stargazers_count": 3783
+  },
+  {
+    "name": "Behat",
+    "owner": "Behat",
+    "stargazers_count": 3781
+  },
+  {
+    "name": "assetic",
+    "owner": "kriswallsmith",
+    "stargazers_count": 3779
+  },
+  {
+    "name": "mpdf",
+    "owner": "mpdf",
+    "stargazers_count": 3773
+  },
+  {
+    "name": "amp",
+    "owner": "amphp",
+    "stargazers_count": 3760
+  },
+  {
+    "name": "phpDocumentor",
+    "owner": "phpDocumentor",
+    "stargazers_count": 3697
+  },
+  {
+    "name": "persistence",
+    "owner": "doctrine",
+    "stargazers_count": 3686
+  },
+  {
+    "name": "dom-crawler",
+    "owner": "symfony",
+    "stargazers_count": 3686
+  },
+  {
+    "name": "laravel-s",
+    "owner": "hhxsv5",
+    "stargazers_count": 3643
+  },
+  {
+    "name": "EasyAdminBundle",
+    "owner": "EasyCorp",
+    "stargazers_count": 3641
+  },
+  {
+    "name": "Silex",
+    "owner": "silexphp",
+    "stargazers_count": 3621
+  },
+  {
+    "name": "ss-panel",
+    "owner": "orvice",
+    "stargazers_count": 3610
+  },
+  {
+    "name": "dolibarr",
+    "owner": "Dolibarr",
+    "stargazers_count": 3592
+  },
+  {
+    "name": "dokuwiki",
+    "owner": "splitbrain",
+    "stargazers_count": 3581
+  },
+  {
+    "name": "dzzoffice",
+    "owner": "zyx0814",
+    "stargazers_count": 3569
+  },
+  {
+    "name": "eloquent-sluggable",
+    "owner": "cviebrock",
+    "stargazers_count": 3554
+  },
+  {
+    "name": "openbay",
+    "owner": "isohuntto",
+    "stargazers_count": 3548
+  },
+  {
+    "name": "php-encryption",
+    "owner": "defuse",
+    "stargazers_count": 3544
+  },
+  {
+    "name": "TCPDF",
+    "owner": "tecnickcom",
+    "stargazers_count": 3529
+  },
+  {
+    "name": "Attendize",
+    "owner": "Attendize",
+    "stargazers_count": 3525
+  },
+  {
+    "name": "Learn-Laravel-5",
+    "owner": "johnlui",
+    "stargazers_count": 3519
+  },
+  {
+    "name": "laravel-generator",
+    "owner": "InfyOmLabs",
+    "stargazers_count": 3504
+  },
+  {
+    "name": "LaravelShoppingcart",
+    "owner": "Crinsane",
+    "stargazers_count": 3500
+  },
+  {
+    "name": "Requests",
+    "owner": "WordPress",
+    "stargazers_count": 3483
+  },
+  {
+    "name": "jetstream",
+    "owner": "laravel",
+    "stargazers_count": 3476
+  },
+  {
+    "name": "phpspider",
+    "owner": "owner888",
+    "stargazers_count": 3467
+  },
+  {
+    "name": "php-resque",
+    "owner": "chrisboulton",
+    "stargazers_count": 3464
+  },
+  {
+    "name": "dotenv",
+    "owner": "symfony",
+    "stargazers_count": 3456
+  },
+  {
+    "name": "fractal",
+    "owner": "thephpleague",
+    "stargazers_count": 3455
+  },
+  {
+    "name": "laravel-query-builder",
+    "owner": "spatie",
+    "stargazers_count": 3443
+  },
+  {
+    "name": "contracts",
+    "owner": "symfony",
+    "stargazers_count": 3404
+  },
+  {
+    "name": "openmediavault",
+    "owner": "openmediavault",
+    "stargazers_count": 3389
+  },
+  {
+    "name": "platform",
+    "owner": "orchidsoftware",
+    "stargazers_count": 3381
+  },
+  {
+    "name": "vbot",
+    "owner": "Hanson",
+    "stargazers_count": 3366
+  },
+  {
+    "name": "oauth2-client",
+    "owner": "thephpleague",
+    "stargazers_count": 3358
+  },
+  {
+    "name": "passbolt_api",
+    "owner": "passbolt",
+    "stargazers_count": 3238
+  },
+  {
+    "name": "dcat-admin",
+    "owner": "jqhph",
+    "stargazers_count": 3225
+  },
+  {
+    "name": "SuiteCRM",
+    "owner": "salesagility",
+    "stargazers_count": 3219
+  },
+  {
+    "name": "mediawiki",
+    "owner": "wikimedia",
+    "stargazers_count": 3211
+  },
+  {
+    "name": "oauth2-server-php",
+    "owner": "bshaffer",
+    "stargazers_count": 3166
+  },
+  {
+    "name": "mustache.php",
+    "owner": "bobthecow",
+    "stargazers_count": 3160
+  },
+  {
+    "name": "zephir",
+    "owner": "zephir-lang",
+    "stargazers_count": 3155
+  },
+  {
+    "name": "bouncer",
+    "owner": "JosephSilber",
+    "stargazers_count": 3149
+  },
+  {
+    "name": "ampache",
+    "owner": "ampache",
+    "stargazers_count": 3143
+  },
+  {
+    "name": "php-graph-sdk",
+    "owner": "facebookarchive",
+    "stargazers_count": 3120
+  },
+  {
+    "name": "PHP-MySQLi-Database-Class",
+    "owner": "ThingEngineer",
+    "stargazers_count": 3117
+  },
+  {
+    "name": "pyrocms",
+    "owner": "pyrocms",
+    "stargazers_count": 3109
+  },
+  {
+    "name": "maker-bundle",
+    "owner": "symfony",
+    "stargazers_count": 3096
+  },
+  {
+    "name": "patternlab-php",
+    "owner": "pattern-lab",
+    "stargazers_count": 3083
+  },
+  {
+    "name": "php-curl-class",
+    "owner": "php-curl-class",
+    "stargazers_count": 3077
+  },
+  {
+    "name": "paseto",
+    "owner": "paragonie",
+    "stargazers_count": 3066
+  },
+  {
+    "name": "canvas",
+    "owner": "austintoddj",
+    "stargazers_count": 3064
+  },
+  {
+    "name": "passport",
+    "owner": "laravel",
+    "stargazers_count": 3060
+  },
+  {
+    "name": "baiduwp-php",
+    "owner": "yuantuo666",
+    "stargazers_count": 3056
+  },
+  {
+    "name": "lighthouse",
+    "owner": "nuwave",
+    "stargazers_count": 3028
+  },
+  {
+    "name": "dockerlabs",
+    "owner": "collabnix",
+    "stargazers_count": 3020
+  },
+  {
+    "name": "csv",
+    "owner": "thephpleague",
+    "stargazers_count": 3019
+  },
+  {
+    "name": "laravel-localization",
+    "owner": "mcamara",
+    "stargazers_count": 3014
+  },
+  {
+    "name": "laravel-vue-spa",
+    "owner": "cretueusebiu",
+    "stargazers_count": 3014
+  },
+  {
+    "name": "polyfill-intl-idn",
+    "owner": "symfony",
+    "stargazers_count": 2999
+  },
+  {
+    "name": "upload-labs",
+    "owner": "c0ny1",
+    "stargazers_count": 2999
+  },
+  {
+    "name": "reflection",
+    "owner": "doctrine",
+    "stargazers_count": 2981
+  },
+  {
+    "name": "event-dispatcher-contracts",
+    "owner": "symfony",
+    "stargazers_count": 2965
+  },
+  {
+    "name": "doctrine-bridge",
+    "owner": "symfony",
+    "stargazers_count": 2953
+  },
+  {
+    "name": "meedu",
+    "owner": "Qsnh",
+    "stargazers_count": 2952
+  },
+  {
+    "name": "minify",
+    "owner": "mrclay",
+    "stargazers_count": 2951
+  },
+  {
+    "name": "twill",
+    "owner": "area17",
+    "stargazers_count": 2945
+  },
+  {
+    "name": "PocketMine-MP",
+    "owner": "pmmp",
+    "stargazers_count": 2931
+  },
+  {
+    "name": "librenms",
+    "owner": "librenms",
+    "stargazers_count": 2930
+  },
+  {
+    "name": "laragon",
+    "owner": "leokhoa",
+    "stargazers_count": 2923
+  },
+  {
+    "name": "asset",
+    "owner": "symfony",
+    "stargazers_count": 2918
+  },
+  {
+    "name": "laravel-log-viewer",
+    "owner": "rap2hpoutre",
+    "stargazers_count": 2917
+  },
+  {
+    "name": "astral",
+    "owner": "astralapp",
+    "stargazers_count": 2913
+  },
+  {
+    "name": "argon-theme",
+    "owner": "solstice23",
+    "stargazers_count": 2909
+  },
+  {
+    "name": "cms",
+    "owner": "craftcms",
+    "stargazers_count": 2903
+  },
+  {
+    "name": "options-resolver",
+    "owner": "symfony",
+    "stargazers_count": 2893
+  },
+  {
+    "name": "glpi",
+    "owner": "glpi-project",
+    "stargazers_count": 2890
+  },
+  {
+    "name": "gitlist",
+    "owner": "klaussilveira",
+    "stargazers_count": 2884
+  },
+  {
+    "name": "tntsearch",
+    "owner": "teamtnt",
+    "stargazers_count": 2879
+  },
+  {
+    "name": "semver",
+    "owner": "composer",
+    "stargazers_count": 2871
+  },
+  {
+    "name": "thinkphp",
+    "owner": "top-think",
+    "stargazers_count": 2862
+  },
+  {
+    "name": "sakura",
+    "owner": "mashirozx",
+    "stargazers_count": 2856
+  },
+  {
+    "name": "ca-bundle",
+    "owner": "composer",
+    "stargazers_count": 2850
+  },
+  {
+    "name": "blog",
+    "owner": "jcc",
+    "stargazers_count": 2835
+  },
+  {
+    "name": "Codiad",
+    "owner": "Codiad",
+    "stargazers_count": 2819
+  },
+  {
+    "name": "laravel-auth",
+    "owner": "jeremykenedy",
+    "stargazers_count": 2795
+  },
+  {
+    "name": "slugify",
+    "owner": "cocur",
+    "stargazers_count": 2782
+  },
+  {
+    "name": "laravel-analytics",
+    "owner": "spatie",
+    "stargazers_count": 2780
+  },
+  {
+    "name": "laravel-wechat",
+    "owner": "overtrue",
+    "stargazers_count": 2779
+  },
+  {
+    "name": "CMB2",
+    "owner": "CMB2",
+    "stargazers_count": 2777
+  },
+  {
+    "name": "laravel-gitscrum",
+    "owner": "gitscrum-team",
+    "stargazers_count": 2771
+  },
+  {
+    "name": "alfred-github-workflow",
+    "owner": "gharlan",
+    "stargazers_count": 2757
+  },
+  {
+    "name": "FoundationPress",
+    "owner": "olefredrik",
+    "stargazers_count": 2746
+  },
+  {
+    "name": "FOSRestBundle",
+    "owner": "FriendsOfSymfony",
+    "stargazers_count": 2745
+  },
+  {
+    "name": "xdebug",
+    "owner": "xdebug",
+    "stargazers_count": 2738
+  },
+  {
+    "name": "scotch-box",
+    "owner": "scotch-io",
+    "stargazers_count": 2737
+  },
+  {
+    "name": "instagram-php-scraper",
+    "owner": "postaddictme",
+    "stargazers_count": 2736
+  },
+  {
+    "name": "vesta",
+    "owner": "serghey-rodin",
+    "stargazers_count": 2725
+  },
+  {
+    "name": "apiato",
+    "owner": "apiato",
+    "stargazers_count": 2724
+  },
+  {
+    "name": "dootask",
+    "owner": "kuaifan",
+    "stargazers_count": 2723
+  },
+  {
+    "name": "browser-kit",
+    "owner": "symfony",
+    "stargazers_count": 2718
+  },
+  {
+    "name": "rocketeer",
+    "owner": "rocketeers",
+    "stargazers_count": 2696
+  },
+  {
+    "name": "seotools",
+    "owner": "artesaos",
+    "stargazers_count": 2692
+  },
+  {
+    "name": "monolog-bundle",
+    "owner": "symfony",
+    "stargazers_count": 2676
+  },
+  {
+    "name": "tenancy",
+    "owner": "archtechx",
+    "stargazers_count": 2674
+  },
+  {
+    "name": "pimcore",
+    "owner": "pimcore",
+    "stargazers_count": 2671
+  },
+  {
+    "name": "panther",
+    "owner": "symfony",
+    "stargazers_count": 2657
+  },
+  {
+    "name": "kint",
+    "owner": "kint-php",
+    "stargazers_count": 2654
+  },
+  {
+    "name": "easy-tips",
+    "owner": "TIGERB",
+    "stargazers_count": 2646
+  },
+  {
+    "name": "chevereto-free",
+    "owner": "rodber",
+    "stargazers_count": 2646
+  },
+  {
+    "name": "htmlpurifier",
+    "owner": "ezyang",
+    "stargazers_count": 2639
+  },
+  {
+    "name": "klein.php",
+    "owner": "klein",
+    "stargazers_count": 2634
+  },
+  {
+    "name": "data-fixtures",
+    "owner": "doctrine",
+    "stargazers_count": 2622
+  },
+  {
+    "name": "zabbix",
+    "owner": "zabbix",
+    "stargazers_count": 2622
+  },
+  {
+    "name": "vanilla",
+    "owner": "vanilla",
+    "stargazers_count": 2600
+  },
+  {
+    "name": "alltube",
+    "owner": "Rudloff",
+    "stargazers_count": 2599
+  },
+  {
+    "name": "osTicket",
+    "owner": "osTicket",
+    "stargazers_count": 2580
+  },
+  {
+    "name": "php-enum",
+    "owner": "myclabs",
+    "stargazers_count": 2579
+  },
+  {
+    "name": "flash",
+    "owner": "laracasts",
+    "stargazers_count": 2577
+  },
+  {
+    "name": "expression-language",
+    "owner": "symfony",
+    "stargazers_count": 2571
+  },
+  {
+    "name": "kratos",
+    "owner": "seatonjiang",
+    "stargazers_count": 2569
+  },
+  {
+    "name": "robo",
+    "owner": "consolidation",
+    "stargazers_count": 2554
+  },
+  {
+    "name": "versionpress",
+    "owner": "versionpress",
+    "stargazers_count": 2547
+  },
+  {
+    "name": "stopwatch",
+    "owner": "symfony",
+    "stargazers_count": 2547
+  },
+  {
+    "name": "xhprof",
+    "owner": "phacility",
+    "stargazers_count": 2544
+  },
+  {
+    "name": "form",
+    "owner": "symfony",
+    "stargazers_count": 2541
+  },
+  {
+    "name": "aimeos-core",
+    "owner": "aimeos",
+    "stargazers_count": 2540
+  },
+  {
+    "name": "microweber",
+    "owner": "microweber",
+    "stargazers_count": 2535
+  },
+  {
+    "name": "pikachu",
+    "owner": "zhuifengshaonianhanlu",
+    "stargazers_count": 2535
+  },
+  {
+    "name": "CMS",
+    "owner": "BootstrapCMS",
+    "stargazers_count": 2523
+  },
+  {
+    "name": "property-access",
+    "owner": "symfony",
+    "stargazers_count": 2520
+  },
+  {
+    "name": "framework",
+    "owner": "top-think",
+    "stargazers_count": 2509
+  },
+  {
+    "name": "30-seconds-of-php",
+    "owner": "30-seconds",
+    "stargazers_count": 2503
+  },
+  {
+    "name": "database",
+    "owner": "illuminate",
+    "stargazers_count": 2496
+  },
+  {
+    "name": "Unifiedtransform",
+    "owner": "changeweb",
+    "stargazers_count": 2486
+  },
+  {
+    "name": "openemr",
+    "owner": "openemr",
+    "stargazers_count": 2037
+  },
+  {
+    "name": "smarty",
+    "owner": "smarty-php",
+    "stargazers_count": 2036
+  },
+  {
+    "name": "Laravel-Phone",
+    "owner": "Propaganistas",
+    "stargazers_count": 2031
+  },
+  {
+    "name": "skeleton",
+    "owner": "php-pds",
+    "stargazers_count": 2025
+  },
+  {
+    "name": "security-checker",
+    "owner": "sensiolabs",
+    "stargazers_count": 2021
+  },
+  {
+    "name": "idiorm",
+    "owner": "j4mie",
+    "stargazers_count": 2017
+  },
+  {
+    "name": "Baikal",
+    "owner": "sabre-io",
+    "stargazers_count": 2016
+  },
+  {
+    "name": "cache-contracts",
+    "owner": "symfony",
+    "stargazers_count": 2012
+  },
+  {
+    "name": "ThinkAdmin",
+    "owner": "zoujingli",
+    "stargazers_count": 2011
+  },
+  {
+    "name": "anonaddy",
+    "owner": "anonaddy",
+    "stargazers_count": 1997
+  },
+  {
+    "name": "paratest",
+    "owner": "paratestphp",
+    "stargazers_count": 1995
+  },
+  {
+    "name": "easyengine",
+    "owner": "EasyEngine",
+    "stargazers_count": 1972
+  },
+  {
+    "name": "music",
+    "owner": "maicong",
+    "stargazers_count": 1964
+  },
+  {
+    "name": "phphub5",
+    "owner": "summerblue",
+    "stargazers_count": 1964
+  },
+  {
+    "name": "searchable",
+    "owner": "nicolaslopezj",
+    "stargazers_count": 1960
+  },
+  {
+    "name": "Transliterator",
+    "owner": "Behat",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "Laravel-Administrator",
+    "owner": "FrozenNode",
+    "stargazers_count": 1954
+  },
+  {
+    "name": "Open-Web-Analytics",
+    "owner": "Open-Web-Analytics",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "Embed",
+    "owner": "oscarotero",
+    "stargazers_count": 1937
+  },
+  {
+    "name": "dashboard.spatie.be",
+    "owner": "spatie",
+    "stargazers_count": 1921
+  },
+  {
+    "name": "LittleProxy",
+    "owner": "adamfisk",
+    "stargazers_count": 1917
+  },
+  {
+    "name": "laravel-geoip",
+    "owner": "Torann",
+    "stargazers_count": 1916
+  },
+  {
+    "name": "functional-php",
+    "owner": "lstrojny",
+    "stargazers_count": 1907
+  },
+  {
+    "name": "Buzz",
+    "owner": "kriswallsmith",
+    "stargazers_count": 1890
+  },
+  {
+    "name": "security-advisories",
+    "owner": "FriendsOfPHP",
+    "stargazers_count": 1888
+  },
+  {
+    "name": "testbench",
+    "owner": "orchestral",
+    "stargazers_count": 1887
+  },
+  {
+    "name": "pdfparser",
+    "owner": "smalot",
+    "stargazers_count": 1873
+  },
+  {
+    "name": "PHPCompatibility",
+    "owner": "PHPCompatibility",
+    "stargazers_count": 1868
+  },
+  {
+    "name": "laravel-translatable",
+    "owner": "spatie",
+    "stargazers_count": 1860
+  },
+  {
+    "name": "laravel-filemanager",
+    "owner": "UniSharp",
+    "stargazers_count": 1859
+  },
+  {
+    "name": "firebase-php",
+    "owner": "kreait",
+    "stargazers_count": 1854
+  },
+  {
+    "name": "link-util",
+    "owner": "php-fig",
+    "stargazers_count": 1851
+  },
+  {
+    "name": "health",
+    "owner": "antonioribeiro",
+    "stargazers_count": 1849
+  },
+  {
+    "name": "imagehash",
+    "owner": "jenssegers",
+    "stargazers_count": 1844
+  },
+  {
+    "name": "LaravelInstaller",
+    "owner": "rashidlaasri",
+    "stargazers_count": 1834
+  },
+  {
+    "name": "phoronix-test-suite",
+    "owner": "phoronix-test-suite",
+    "stargazers_count": 1831
+  },
+  {
+    "name": "phpspec",
+    "owner": "phpspec",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "twitter-api-php",
+    "owner": "J7mbo",
+    "stargazers_count": 1822
+  },
+  {
+    "name": "WordPress-Skeleton",
+    "owner": "markjaquith",
+    "stargazers_count": 1819
+  },
+  {
+    "name": "laravel-hashids",
+    "owner": "vinkla",
+    "stargazers_count": 1815
+  },
+  {
+    "name": "mochat",
+    "owner": "mochat-cloud",
+    "stargazers_count": 1811
+  },
+  {
+    "name": "adminlte-laravel",
+    "owner": "mdbootstrap",
+    "stargazers_count": 1809
+  },
+  {
+    "name": "workerman-todpole",
+    "owner": "walkor",
+    "stargazers_count": 1804
+  },
+  {
+    "name": "SRL-PHP",
+    "owner": "SimpleRegex",
+    "stargazers_count": 1804
+  },
+  {
+    "name": "infection",
+    "owner": "infection",
+    "stargazers_count": 1796
+  },
+  {
+    "name": "minify",
+    "owner": "matthiasmullie",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "date",
+    "owner": "jenssegers",
+    "stargazers_count": 1792
+  },
+  {
+    "name": "phpipam",
+    "owner": "phpipam",
+    "stargazers_count": 1789
+  },
+  {
+    "name": "laravel-graphql",
+    "owner": "folkloreinc",
+    "stargazers_count": 1785
+  },
+  {
+    "name": "StofDoctrineExtensionsBundle",
+    "owner": "stof",
+    "stargazers_count": 1779
+  },
+  {
+    "name": "webim",
+    "owner": "matyhtf",
+    "stargazers_count": 1769
+  },
+  {
+    "name": "Custom-Metaboxes-and-Fields-for-WordPress",
+    "owner": "WebDevStudios",
+    "stargazers_count": 1767
+  },
+  {
+    "name": "amp-wp",
+    "owner": "ampproject",
+    "stargazers_count": 1764
+  },
+  {
+    "name": "laravel-enum",
+    "owner": "BenSampo",
+    "stargazers_count": 1760
+  },
+  {
+    "name": "php-msf",
+    "owner": "pinguo",
+    "stargazers_count": 1759
+  },
+  {
+    "name": "DirectoryLister",
+    "owner": "DirectoryLister",
+    "stargazers_count": 1755
+  },
+  {
+    "name": "tall",
+    "owner": "laravel-frontend-presets",
+    "stargazers_count": 1747
+  },
+  {
+    "name": "laravel-uuid",
+    "owner": "webpatser",
+    "stargazers_count": 1744
+  },
+  {
+    "name": "php-webshells",
+    "owner": "JohnTroony",
+    "stargazers_count": 1741
+  },
+  {
+    "name": "httpful",
+    "owner": "nategood",
+    "stargazers_count": 1735
+  },
+  {
+    "name": "leantime",
+    "owner": "Leantime",
+    "stargazers_count": 1734
+  },
+  {
+    "name": "Kunena-Forum",
+    "owner": "Kunena",
+    "stargazers_count": 1733
+  },
+  {
+    "name": "freescout",
+    "owner": "freescout-helpdesk",
+    "stargazers_count": 1730
+  },
+  {
+    "name": "SMProxy",
+    "owner": "louislivi",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "actionview",
+    "owner": "lxerxa",
+    "stargazers_count": 1728
+  },
+  {
+    "name": "metadata",
+    "owner": "schmittjoh",
+    "stargazers_count": 1725
+  },
+  {
+    "name": "Payum",
+    "owner": "Payum",
+    "stargazers_count": 1724
+  },
+  {
+    "name": "event-dispatcher",
+    "owner": "php-fig",
+    "stargazers_count": 1721
+  },
+  {
+    "name": "super_closure",
+    "owner": "jeremeamia",
+    "stargazers_count": 1719
+  },
+  {
+    "name": "php-generator",
+    "owner": "nette",
+    "stargazers_count": 1716
+  },
+  {
+    "name": "NelmioCorsBundle",
+    "owner": "nelmio",
+    "stargazers_count": 1715
+  },
+  {
+    "name": "zend-code",
+    "owner": "zendframework",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "TGM-Plugin-Activation",
+    "owner": "TGMPA",
+    "stargazers_count": 1708
+  },
+  {
+    "name": "laracom",
+    "owner": "jsdecena",
+    "stargazers_count": 1706
+  },
+  {
+    "name": "laravel-er-diagram-generator",
+    "owner": "beyondcode",
+    "stargazers_count": 1705
+  },
+  {
+    "name": "Torch",
+    "owner": "mattstauffer",
+    "stargazers_count": 1703
+  },
+  {
+    "name": "Parser-PHP",
+    "owner": "WhichBrowser",
+    "stargazers_count": 1694
+  },
+  {
+    "name": "fast-excel",
+    "owner": "rap2hpoutre",
+    "stargazers_count": 1693
+  },
+  {
+    "name": "ML",
+    "owner": "RubixML",
+    "stargazers_count": 1690
+  },
+  {
+    "name": "Crawler-Detect",
+    "owner": "JayBizzle",
+    "stargazers_count": 1686
+  },
+  {
+    "name": "S3-Uploads",
+    "owner": "humanmade",
+    "stargazers_count": 1685
+  },
+  {
+    "name": "VichUploaderBundle",
+    "owner": "dustin10",
+    "stargazers_count": 1684
+  },
+  {
+    "name": "sentry-php",
+    "owner": "getsentry",
+    "stargazers_count": 1673
+  },
+  {
+    "name": "laravel-query-detector",
+    "owner": "beyondcode",
+    "stargazers_count": 1669
+  },
+  {
+    "name": "blade-icons",
+    "owner": "blade-ui-kit",
+    "stargazers_count": 1668
+  },
+  {
+    "name": "Purifier",
+    "owner": "mewebstudio",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "Upload",
+    "owner": "brandonsavage",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "shlink",
+    "owner": "shlinkio",
+    "stargazers_count": 1665
+  },
+  {
+    "name": "countries",
+    "owner": "antonioribeiro",
+    "stargazers_count": 1662
+  },
+  {
+    "name": "phpbench",
+    "owner": "phpbench",
+    "stargazers_count": 1659
+  },
+  {
+    "name": "Biny",
+    "owner": "Tencent",
+    "stargazers_count": 1658
+  },
+  {
+    "name": "msphpsql",
+    "owner": "microsoft",
+    "stargazers_count": 1658
+  },
+  {
+    "name": "opauth",
+    "owner": "opauth",
+    "stargazers_count": 1657
+  },
+  {
+    "name": "LinkAce",
+    "owner": "Kovah",
+    "stargazers_count": 1656
+  },
+  {
+    "name": "laravel-form-builder",
+    "owner": "kristijanhusak",
+    "stargazers_count": 1648
+  },
+  {
+    "name": "redux-framework",
+    "owner": "reduxframework",
+    "stargazers_count": 1647
+  },
+  {
+    "name": "http-client-contracts",
+    "owner": "symfony",
+    "stargazers_count": 1640
+  },
+  {
+    "name": "chrome",
+    "owner": "chrome-php",
+    "stargazers_count": 1626
+  },
+  {
+    "name": "swoole-doc",
+    "owner": "LinkedDestiny",
+    "stargazers_count": 1626
+  },
+  {
+    "name": "dropplets",
+    "owner": "johnroper100",
+    "stargazers_count": 1626
+  },
+  {
+    "name": "security-checker",
+    "owner": "sensiolabs",
+    "stargazers_count": 2021
+  },
+  {
+    "name": "idiorm",
+    "owner": "j4mie",
+    "stargazers_count": 2017
+  },
+  {
+    "name": "ignition",
+    "owner": "facade",
+    "stargazers_count": 2013
+  },
+  {
+    "name": "ThinkAdmin",
+    "owner": "zoujingli",
+    "stargazers_count": 2011
+  },
+  {
+    "name": "mailchimp-api",
+    "owner": "drewm",
+    "stargazers_count": 1999
+  },
+  {
+    "name": "anonaddy",
+    "owner": "anonaddy",
+    "stargazers_count": 1997
+  },
+  {
+    "name": "paratest",
+    "owner": "paratestphp",
+    "stargazers_count": 1995
+  },
+  {
+    "name": "jigsaw",
+    "owner": "tighten",
+    "stargazers_count": 1988
+  },
+  {
+    "name": "ui",
+    "owner": "laravel",
+    "stargazers_count": 1987
+  },
+  {
+    "name": "easyengine",
+    "owner": "EasyEngine",
+    "stargazers_count": 1972
+  },
+  {
+    "name": "hprose-php",
+    "owner": "hprose",
+    "stargazers_count": 1972
+  },
+  {
+    "name": "laravel-translatable",
+    "owner": "dimsav",
+    "stargazers_count": 1969
+  },
+  {
+    "name": "phphub5",
+    "owner": "summerblue",
+    "stargazers_count": 1964
+  },
+  {
+    "name": "searchable",
+    "owner": "nicolaslopezj",
+    "stargazers_count": 1960
+  },
+  {
+    "name": "Transliterator",
+    "owner": "Behat",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "Laravel-Administrator",
+    "owner": "FrozenNode",
+    "stargazers_count": 1954
+  },
+  {
+    "name": "github-readme-streak-stats",
+    "owner": "DenverCoder1",
+    "stargazers_count": 1941
+  },
+  {
+    "name": "Open-Web-Analytics",
+    "owner": "Open-Web-Analytics",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "Embed",
+    "owner": "oscarotero",
+    "stargazers_count": 1937
+  },
+  {
+    "name": "kimai2",
+    "owner": "kevinpapst",
+    "stargazers_count": 1922
+  },
+  {
+    "name": "dashboard.spatie.be",
+    "owner": "spatie",
+    "stargazers_count": 1921
+  },
+  {
+    "name": "laravel-actions",
+    "owner": "lorisleiva",
+    "stargazers_count": 1920
+  },
+  {
+    "name": "LittleProxy",
+    "owner": "adamfisk",
+    "stargazers_count": 1917
+  },
+  {
+    "name": "laravel-geoip",
+    "owner": "Torann",
+    "stargazers_count": 1916
+  },
+  {
+    "name": "wizard",
+    "owner": "mylxsw",
+    "stargazers_count": 1914
+  },
+  {
+    "name": "property-info",
+    "owner": "symfony",
+    "stargazers_count": 1910
+  },
+  {
+    "name": "html5blank",
+    "owner": "html5blank",
+    "stargazers_count": 1907
+  },
+  {
+    "name": "functional-php",
+    "owner": "lstrojny",
+    "stargazers_count": 1907
+  },
+  {
+    "name": "graphql-laravel",
+    "owner": "rebing",
+    "stargazers_count": 1900
+  },
+  {
+    "name": "Buzz",
+    "owner": "kriswallsmith",
+    "stargazers_count": 1890
+  },
+  {
+    "name": "pdfparser",
+    "owner": "smalot",
+    "stargazers_count": 1873
+  },
+  {
+    "name": "PHPCompatibility",
+    "owner": "PHPCompatibility",
+    "stargazers_count": 1868
+  },
+  {
+    "name": "plugin-update-checker",
+    "owner": "YahnisElsts",
+    "stargazers_count": 1865
+  },
+  {
+    "name": "DoctrineExtensions",
+    "owner": "beberlei",
+    "stargazers_count": 1864
+  },
+  {
+    "name": "pheanstalk",
+    "owner": "pheanstalk",
+    "stargazers_count": 1862
+  },
+  {
+    "name": "laravel-filemanager",
+    "owner": "UniSharp",
+    "stargazers_count": 1859
+  },
+  {
+    "name": "cli-menu",
+    "owner": "php-school",
+    "stargazers_count": 1857
+  },
+  {
+    "name": "firebase-php",
+    "owner": "kreait",
+    "stargazers_count": 1854
+  },
+  {
+    "name": "link-util",
+    "owner": "php-fig",
+    "stargazers_count": 1851
+  },
+  {
+    "name": "imagehash",
+    "owner": "jenssegers",
+    "stargazers_count": 1844
+  },
+  {
+    "name": "v2board",
+    "owner": "v2board",
+    "stargazers_count": 1838
+  },
+  {
+    "name": "LaravelInstaller",
+    "owner": "rashidlaasri",
+    "stargazers_count": 1834
+  },
+  {
+    "name": "phoronix-test-suite",
+    "owner": "phoronix-test-suite",
+    "stargazers_count": 1831
+  },
+  {
+    "name": "phphub",
+    "owner": "summerblue",
+    "stargazers_count": 1826
+  },
+  {
+    "name": "goodwork",
+    "owner": "Hasnayeen",
+    "stargazers_count": 1826
+  },
+  {
+    "name": "Carbon-Forum",
+    "owner": "lincanbin",
+    "stargazers_count": 1825
+  },
+  {
+    "name": "laravel-sitemap",
+    "owner": "spatie",
+    "stargazers_count": 1821
+  },
+  {
+    "name": "climate",
+    "owner": "thephpleague",
+    "stargazers_count": 1818
+  },
+  {
+    "name": "laravel-hashids",
+    "owner": "vinkla",
+    "stargazers_count": 1815
+  },
+  {
+    "name": "mix",
+    "owner": "mix-php",
+    "stargazers_count": 1815
+  },
+  {
+    "name": "adminlte-laravel",
+    "owner": "mdbootstrap",
+    "stargazers_count": 1809
+  },
+  {
+    "name": "SRL-PHP",
+    "owner": "SimpleRegex",
+    "stargazers_count": 1804
+  },
+  {
+    "name": "icon-workshop",
+    "owner": "zhanghuanchong",
+    "stargazers_count": 1797
+  },
+  {
+    "name": "infection",
+    "owner": "infection",
+    "stargazers_count": 1796
+  },
+  {
+    "name": "minify",
+    "owner": "matthiasmullie",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "date",
+    "owner": "jenssegers",
+    "stargazers_count": 1792
+  },
+  {
+    "name": "phpipam",
+    "owner": "phpipam",
+    "stargazers_count": 1789
+  },
+  {
+    "name": "readme-typing-svg",
+    "owner": "DenverCoder1",
+    "stargazers_count": 1787
+  },
+  {
+    "name": "laravel-graphql",
+    "owner": "folkloreinc",
+    "stargazers_count": 1785
+  },
+  {
+    "name": "var-exporter",
+    "owner": "symfony",
+    "stargazers_count": 1775
+  },
+  {
+    "name": "webim",
+    "owner": "matyhtf",
+    "stargazers_count": 1769
+  },
+  {
+    "name": "Custom-Metaboxes-and-Fields-for-WordPress",
+    "owner": "WebDevStudios",
+    "stargazers_count": 1767
+  },
+  {
+    "name": "laravel-enum",
+    "owner": "BenSampo",
+    "stargazers_count": 1760
+  },
+  {
+    "name": "DirectoryLister",
+    "owner": "DirectoryLister",
+    "stargazers_count": 1755
+  },
+  {
+    "name": "tall",
+    "owner": "laravel-frontend-presets",
+    "stargazers_count": 1747
+  },
+  {
+    "name": "JMSSerializerBundle",
+    "owner": "schmittjoh",
+    "stargazers_count": 1747
+  },
+  {
+    "name": "thinkphp-bjyadmin",
+    "owner": "baijunyao",
+    "stargazers_count": 1745
+  },
+  {
+    "name": "Gazelle",
+    "owner": "WhatCD",
+    "stargazers_count": 1744
+  },
+  {
+    "name": "laravel-uuid",
+    "owner": "webpatser",
+    "stargazers_count": 1744
+  },
+  {
+    "name": "php-webshells",
+    "owner": "JohnTroony",
+    "stargazers_count": 1741
+  },
+  {
+    "name": "jose",
+    "owner": "namshi",
+    "stargazers_count": 1737
+  },
+  {
+    "name": "jmespath.php",
+    "owner": "jmespath",
+    "stargazers_count": 1738
+  },
+  {
+    "name": "httpful",
+    "owner": "nategood",
+    "stargazers_count": 1735
+  },
+  {
+    "name": "leantime",
+    "owner": "Leantime",
+    "stargazers_count": 1734
+  },
+  {
+    "name": "Kunena-Forum",
+    "owner": "Kunena",
+    "stargazers_count": 1733
+  },
+  {
+    "name": "phpunit-vw",
+    "owner": "hugues-m",
+    "stargazers_count": 1732
+  },
+  {
+    "name": "wordplate",
+    "owner": "vinkla",
+    "stargazers_count": 1730
+  },
+  {
+    "name": "actionview",
+    "owner": "lxerxa",
+    "stargazers_count": 1728
+  },
+  {
+    "name": "metadata",
+    "owner": "schmittjoh",
+    "stargazers_count": 1725
+  },
+  {
+    "name": "polyfill-iconv",
+    "owner": "symfony",
+    "stargazers_count": 1712
+  },
+  {
+    "name": "zend-code",
+    "owner": "zendframework",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "TGM-Plugin-Activation",
+    "owner": "TGMPA",
+    "stargazers_count": 1708
+  },
+  {
+    "name": "dusk",
+    "owner": "laravel",
+    "stargazers_count": 1708
+  },
+  {
+    "name": "laracom",
+    "owner": "jsdecena",
+    "stargazers_count": 1706
+  },
+  {
+    "name": "laravel-er-diagram-generator",
+    "owner": "beyondcode",
+    "stargazers_count": 1705
+  },
+  {
+    "name": "Torch",
+    "owner": "mattstauffer",
+    "stargazers_count": 1703
+  },
+  {
+    "name": "Parser-PHP",
+    "owner": "WhichBrowser",
+    "stargazers_count": 1694
+  },
+  {
+    "name": "zttp",
+    "owner": "kitetail",
+    "stargazers_count": 1693
+  },
+  {
+    "name": "fast-excel",
+    "owner": "rap2hpoutre",
+    "stargazers_count": 1693
+  },
+  {
+    "name": "livehelperchat",
+    "owner": "LiveHelperChat",
+    "stargazers_count": 1691
+  },
+  {
+    "name": "ML",
+    "owner": "RubixML",
+    "stargazers_count": 1690
+  },
+  {
+    "name": "pingcrm",
+    "owner": "inertiajs",
+    "stargazers_count": 1690
+  },
+  {
+    "name": "Crawler-Detect",
+    "owner": "JayBizzle",
+    "stargazers_count": 1686
+  },
+  {
+    "name": "VichUploaderBundle",
+    "owner": "dustin10",
+    "stargazers_count": 1684
+  },
+  {
+    "name": "termwind",
+    "owner": "nunomaduro",
+    "stargazers_count": 1680
+  },
+  {
+    "name": "laravel5-angular-material-starter",
+    "owner": "jadjoubran",
+    "stargazers_count": 1678
+  },
+  {
+    "name": "sentry-php",
+    "owner": "getsentry",
+    "stargazers_count": 1673
+  },
+  {
+    "name": "WDScanner",
+    "owner": "TideSec",
+    "stargazers_count": 1668
+  },
+  {
+    "name": "Purifier",
+    "owner": "mewebstudio",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "Upload",
+    "owner": "brandonsavage",
+    "stargazers_count": 1666
+  },
+  {
+    "name": "ardent",
+    "owner": "laravel-ardent",
+    "stargazers_count": 1407
+  },
+  {
+    "name": "takeout",
+    "owner": "tighten",
+    "stargazers_count": 1406
+  },
+  {
+    "name": "Bonfire",
+    "owner": "lonnieezell",
+    "stargazers_count": 1404
+  },
+  {
+    "name": "SEOstats",
+    "owner": "eyecatchup",
+    "stargazers_count": 1403
+  },
+  {
+    "name": "maccms10",
+    "owner": "magicblack",
+    "stargazers_count": 1402
+  },
+  {
+    "name": "ZipStream-PHP",
+    "owner": "maennchen",
+    "stargazers_count": 1400
+  },
+  {
+    "name": "math",
+    "owner": "brick",
+    "stargazers_count": 1395
+  },
+  {
+    "name": "query-monitor",
+    "owner": "johnbillion",
+    "stargazers_count": 1387
+  },
+  {
+    "name": "SwooleDistributed",
+    "owner": "SwooleDistributed",
+    "stargazers_count": 1385
+  },
+  {
+    "name": "sendgrid-php",
+    "owner": "sendgrid",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "twilio-php",
+    "owner": "twilio",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "installers",
+    "owner": "composer",
+    "stargazers_count": 1380
+  },
+  {
+    "name": "algorithm-php",
+    "owner": "m9rco",
+    "stargazers_count": 1380
+  },
+  {
+    "name": "php-malware-finder",
+    "owner": "jvoisin",
+    "stargazers_count": 1369
+  },
+  {
+    "name": "chromephp",
+    "owner": "ccampbell",
+    "stargazers_count": 1368
+  },
+  {
+    "name": "ICEcoder",
+    "owner": "icecoder",
+    "stargazers_count": 1368
+  },
+  {
+    "name": "PHP-Error",
+    "owner": "JosephLenton",
+    "stargazers_count": 1366
+  },
+  {
+    "name": "laravel-self-diagnosis",
+    "owner": "beyondcode",
+    "stargazers_count": 1364
+  },
+  {
+    "name": "fortify",
+    "owner": "laravel",
+    "stargazers_count": 1363
+  },
+  {
+    "name": "guzzle6-adapter",
+    "owner": "php-http",
+    "stargazers_count": 1358
+  },
+  {
+    "name": "php-reverse-shell",
+    "owner": "pentestmonkey",
+    "stargazers_count": 1356
+  },
+  {
+    "name": "php-console",
+    "owner": "barbushin",
+    "stargazers_count": 1355
+  },
+  {
+    "name": "VueThink",
+    "owner": "honraytech",
+    "stargazers_count": 1347
+  },
+  {
+    "name": "polyfill-util",
+    "owner": "symfony",
+    "stargazers_count": 1347
+  },
+  {
+    "name": "period",
+    "owner": "spatie",
+    "stargazers_count": 1343
+  },
+  {
+    "name": "vfsStream",
+    "owner": "bovigo",
+    "stargazers_count": 1344
+  },
+  {
+    "name": "laravel-tags",
+    "owner": "spatie",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "mini",
+    "owner": "panique",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "plates",
+    "owner": "thephpleague",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "react-php-v8js",
+    "owner": "reactjs",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "php-activerecord",
+    "owner": "jpfuentes2",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "former",
+    "owner": "formers",
+    "stargazers_count": 1325
+  },
+  {
+    "name": "p0wny-shell",
+    "owner": "flozz",
+    "stargazers_count": 1325
+  },
+  {
+    "name": "firewall",
+    "owner": "antonioribeiro",
+    "stargazers_count": 1321
+  },
+  {
+    "name": "KnpMenu",
+    "owner": "KnpLabs",
+    "stargazers_count": 1317
+  },
+  {
+    "name": "laravel-sitemap",
+    "owner": "Laravelium",
+    "stargazers_count": 1317
+  },
+  {
+    "name": "scout",
+    "owner": "laravel",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "puphpeteer",
+    "owner": "rialto-php",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "framework",
+    "owner": "spiral",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "wordpress-heroku",
+    "owner": "mhoofman",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "revolution",
+    "owner": "modxcms",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "Negotiation",
+    "owner": "willdurand",
+    "stargazers_count": 1306
+  },
+  {
+    "name": "shopware",
+    "owner": "shopware",
+    "stargazers_count": 1300
+  },
+  {
+    "name": "chronos",
+    "owner": "cakephp",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "php-svg-lib",
+    "owner": "dompdf",
+    "stargazers_count": 1294
+  },
+  {
+    "name": "phpsysinfo",
+    "owner": "phpsysinfo",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "YetiForceCRM",
+    "owner": "YetiForceCompany",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "tus-php",
+    "owner": "ankitpokhrel",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "pusher-http-php",
+    "owner": "pusher",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "iqiqiya-API",
+    "owner": "iqiqiya",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "cacti",
+    "owner": "Cacti",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "acf-to-rest-api",
+    "owner": "airesvsg",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "php-spider",
+    "owner": "mvdbos",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "container-interop",
+    "owner": "container-interop",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "churn-php",
+    "owner": "bmitch",
+    "stargazers_count": 1276
+  },
+  {
+    "name": "dav",
+    "owner": "sabre-io",
+    "stargazers_count": 1275
+  },
+  {
+    "name": "Cloudflare-CNAME-Setup",
+    "owner": "ZE3kr",
+    "stargazers_count": 1275
+  },
+  {
+    "name": "http-client",
+    "owner": "php-fig",
+    "stargazers_count": 1274
+  },
+  {
+    "name": "jsonlint",
+    "owner": "Seldaek",
+    "stargazers_count": 1273
+  },
+  {
+    "name": "theme",
+    "owner": "tonik",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "datawrapper",
+    "owner": "datawrapper",
+    "stargazers_count": 1259
+  },
+  {
+    "name": "web-link",
+    "owner": "symfony",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "PocketMine-MP",
+    "owner": "PocketMine",
+    "stargazers_count": 1255
+  },
+  {
+    "name": "swap",
+    "owner": "florianv",
+    "stargazers_count": 1252
+  },
+  {
+    "name": "Finite",
+    "owner": "yohang",
+    "stargazers_count": 1248
+  },
+  {
+    "name": "wp2static",
+    "owner": "WP2Static",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "php-qrcode-detector-decoder",
+    "owner": "khanamiryan",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "laravel-packager",
+    "owner": "Jeroen-G",
+    "stargazers_count": 1243
+  },
+  {
+    "name": "message-factory",
+    "owner": "php-http",
+    "stargazers_count": 1243
+  },
+  {
+    "name": "voten",
+    "owner": "voten-co",
+    "stargazers_count": 1242
+  },
+  {
+    "name": "wprig",
+    "owner": "wprig",
+    "stargazers_count": 1241
+  },
+  {
+    "name": "kirki",
+    "owner": "kirki-framework",
+    "stargazers_count": 1236
+  },
+  {
+    "name": "laravel-livewire-tables",
+    "owner": "rappasoft",
+    "stargazers_count": 1235
+  },
+  {
+    "name": "Propel2",
+    "owner": "propelorm",
+    "stargazers_count": 1232
+  },
+  {
+    "name": "laravel-ffmpeg",
+    "owner": "protonemedia",
+    "stargazers_count": 1229
+  },
+  {
+    "name": "JoliNotif",
+    "owner": "jolicode",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "laravel-push-notification",
+    "owner": "davibennun",
+    "stargazers_count": 1226
+  },
+  {
+    "name": "lithium",
+    "owner": "UnionOfRAD",
+    "stargazers_count": 1223
+  },
+  {
+    "name": "laravel-compass",
+    "owner": "davidhsianturi",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "diskover-community",
+    "owner": "diskoverdata",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "Laravel-Markdown",
+    "owner": "GrahamCampbell",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "FOSElasticaBundle",
+    "owner": "FriendsOfSymfony",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "phpbu",
+    "owner": "sebastianfeldmann",
+    "stargazers_count": 1219
+  },
+  {
+    "name": "phpunit-pretty-result-printer",
+    "owner": "mikeerickson",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "laravel-microscope",
+    "owner": "imanghafoori1",
+    "stargazers_count": 1213
+  },
+  {
+    "name": "openflights",
+    "owner": "jpatokal",
+    "stargazers_count": 1209
+  },
+  {
+    "name": "socialite",
+    "owner": "overtrue",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "money",
+    "owner": "brick",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "optimus",
+    "owner": "jenssegers",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "http-server",
+    "owner": "amphp",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "confide",
+    "owner": "Zizaco",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "jieba-php",
+    "owner": "fukuball",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "testlink-code",
+    "owner": "TestLinkOpenSourceTRMS",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "PHPPresentation",
+    "owner": "PHPOffice",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "fusio",
+    "owner": "apioo",
+    "stargazers_count": 1199
+  },
+  {
+    "name": "security",
+    "owner": "symfony",
+    "stargazers_count": 1199
+  },
+  {
+    "name": "box2",
+    "owner": "box-project",
+    "stargazers_count": 1196
+  },
+  {
+    "name": "WeChatDeveloper",
+    "owner": "zoujingli",
+    "stargazers_count": 1188
+  },
+  {
+    "name": "cookielesscookies",
+    "owner": "lucb1e",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "sendportal",
+    "owner": "mettle",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "chromephp",
+    "owner": "ccampbell",
+    "stargazers_count": 1368
+  },
+  {
+    "name": "ICEcoder",
+    "owner": "icecoder",
+    "stargazers_count": 1368
+  },
+  {
+    "name": "spdx-licenses",
+    "owner": "composer",
+    "stargazers_count": 1369
+  },
+  {
+    "name": "PHP-Error",
+    "owner": "JosephLenton",
+    "stargazers_count": 1366
+  },
+  {
+    "name": "laravel-self-diagnosis",
+    "owner": "beyondcode",
+    "stargazers_count": 1364
+  },
+  {
+    "name": "package-skeleton-laravel",
+    "owner": "spatie",
+    "stargazers_count": 1364
+  },
+  {
+    "name": "scssphp",
+    "owner": "leafo",
+    "stargazers_count": 1359
+  },
+  {
+    "name": "guzzle6-adapter",
+    "owner": "php-http",
+    "stargazers_count": 1358
+  },
+  {
+    "name": "sso",
+    "owner": "jasny",
+    "stargazers_count": 1356
+  },
+  {
+    "name": "php-reverse-shell",
+    "owner": "pentestmonkey",
+    "stargazers_count": 1356
+  },
+  {
+    "name": "speedtest-x",
+    "owner": "BadApple9",
+    "stargazers_count": 1354
+  },
+  {
+    "name": "awesome-ios",
+    "owner": "ivanvorobei",
+    "stargazers_count": 1350
+  },
+  {
+    "name": "VueThink",
+    "owner": "honraytech",
+    "stargazers_count": 1347
+  },
+  {
+    "name": "polyfill-util",
+    "owner": "symfony",
+    "stargazers_count": 1347
+  },
+  {
+    "name": "KnpMenuBundle",
+    "owner": "KnpLabs",
+    "stargazers_count": 1344
+  },
+  {
+    "name": "period",
+    "owner": "spatie",
+    "stargazers_count": 1343
+  },
+  {
+    "name": "mini",
+    "owner": "panique",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "crud-generator",
+    "owner": "appzcoder",
+    "stargazers_count": 1336
+  },
+  {
+    "name": "plates",
+    "owner": "thephpleague",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "react-php-v8js",
+    "owner": "reactjs",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "php-activerecord",
+    "owner": "jpfuentes2",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "laravel-create",
+    "owner": "pipe-dream",
+    "stargazers_count": 1326
+  },
+  {
+    "name": "former",
+    "owner": "formers",
+    "stargazers_count": 1325
+  },
+  {
+    "name": "pinghsu",
+    "owner": "chakhsu",
+    "stargazers_count": 1319
+  },
+  {
+    "name": "KnpMenu",
+    "owner": "KnpLabs",
+    "stargazers_count": 1317
+  },
+  {
+    "name": "laravel-sitemap",
+    "owner": "Laravelium",
+    "stargazers_count": 1317
+  },
+  {
+    "name": "scout",
+    "owner": "laravel",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "wordpress-heroku",
+    "owner": "mhoofman",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "revolution",
+    "owner": "modxcms",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "SimpleImage",
+    "owner": "claviska",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "cops",
+    "owner": "seblucas",
+    "stargazers_count": 1304
+  },
+  {
+    "name": "Elasticquent",
+    "owner": "elasticquent",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "tc-lib-pdf",
+    "owner": "tecnickcom",
+    "stargazers_count": 1298
+  },
+  {
+    "name": "tus-php",
+    "owner": "ankitpokhrel",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "geotools",
+    "owner": "thephpleague",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "composer-patches",
+    "owner": "cweagans",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "pusher-http-php",
+    "owner": "pusher",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "iqiqiya-API",
+    "owner": "iqiqiya",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "web-server-bundle",
+    "owner": "symfony",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "acf-to-rest-api",
+    "owner": "airesvsg",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "container-interop",
+    "owner": "container-interop",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "dav",
+    "owner": "sabre-io",
+    "stargazers_count": 1275
+  },
+  {
+    "name": "opening-hours",
+    "owner": "spatie",
+    "stargazers_count": 1274
+  },
+  {
+    "name": "webman",
+    "owner": "walkor",
+    "stargazers_count": 1272
+  },
+  {
+    "name": "jsonlint",
+    "owner": "Seldaek",
+    "stargazers_count": 1273
+  },
+  {
+    "name": "PHPMatrix",
+    "owner": "MarkBaker",
+    "stargazers_count": 1270
+  },
+  {
+    "name": "unirest-php",
+    "owner": "Kong",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "theme",
+    "owner": "tonik",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "string",
+    "owner": "symfony",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "laravel-lang",
+    "owner": "overtrue",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "datawrapper",
+    "owner": "datawrapper",
+    "stargazers_count": 1259
+  },
+  {
+    "name": "polyfill-intl-grapheme",
+    "owner": "symfony",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "web-link",
+    "owner": "symfony",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "PocketMine-MP",
+    "owner": "PocketMine",
+    "stargazers_count": 1255
+  },
+  {
+    "name": "php-emoji",
+    "owner": "iamcal",
+    "stargazers_count": 1252
+  },
+  {
+    "name": "Finite",
+    "owner": "yohang",
+    "stargazers_count": 1248
+  },
+  {
+    "name": "laravel-opcache",
+    "owner": "appstract",
+    "stargazers_count": 1247
+  },
+  {
+    "name": "wp2static",
+    "owner": "WP2Static",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "php-qrcode-detector-decoder",
+    "owner": "khanamiryan",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "stack-cors",
+    "owner": "asm89",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "voten",
+    "owner": "voten-co",
+    "stargazers_count": 1242
+  },
+  {
+    "name": "handesk",
+    "owner": "BadChoice",
+    "stargazers_count": 1241
+  },
+  {
+    "name": "laravel-livewire-tables",
+    "owner": "rappasoft",
+    "stargazers_count": 1235
+  },
+  {
+    "name": "Propel2",
+    "owner": "propelorm",
+    "stargazers_count": 1232
+  },
+  {
+    "name": "filegator",
+    "owner": "filegator",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "JoliNotif",
+    "owner": "jolicode",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "video_spider",
+    "owner": "5ime",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "netease-cloud-api",
+    "owner": "ZainCheung",
+    "stargazers_count": 1226
+  },
+  {
+    "name": "lithium",
+    "owner": "UnionOfRAD",
+    "stargazers_count": 1223
+  },
+  {
+    "name": "composer-unused",
+    "owner": "composer-unused",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "diskover-community",
+    "owner": "diskoverdata",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "Laravel-Markdown",
+    "owner": "GrahamCampbell",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "themosis",
+    "owner": "themosis",
+    "stargazers_count": 1218
+  },
+  {
+    "name": "phpunit-pretty-result-printer",
+    "owner": "mikeerickson",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "laravel-microscope",
+    "owner": "imanghafoori1",
+    "stargazers_count": 1213
+  },
+  {
+    "name": "openflights",
+    "owner": "jpatokal",
+    "stargazers_count": 1209
+  },
+  {
+    "name": "socialite",
+    "owner": "overtrue",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "money",
+    "owner": "brick",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "color-extractor",
+    "owner": "thephpleague",
+    "stargazers_count": 1207
+  },
+  {
+    "name": "optimus",
+    "owner": "jenssegers",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "http-server",
+    "owner": "amphp",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "confide",
+    "owner": "Zizaco",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "testlink-code",
+    "owner": "TestLinkOpenSourceTRMS",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "PHPPresentation",
+    "owner": "PHPOffice",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "phpstorm-stubs",
+    "owner": "JetBrains",
+    "stargazers_count": 1201
+  },
+  {
+    "name": "fusio",
+    "owner": "apioo",
+    "stargazers_count": 1199
+  },
+  {
+    "name": "security",
+    "owner": "symfony",
+    "stargazers_count": 1199
+  },
+  {
+    "name": "HyperDown",
+    "owner": "segmentfault",
+    "stargazers_count": 1197
+  },
+  {
+    "name": "bernard",
+    "owner": "bernardphp",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "laravel-shopify",
+    "owner": "osiset",
+    "stargazers_count": 1185
+  },
+  {
+    "name": "google-auth-library-php",
+    "owner": "googleapis",
+    "stargazers_count": 1184
+  },
+  {
+    "name": "IP-Tracer",
+    "owner": "rajkumardusad",
+    "stargazers_count": 1183
+  },
+  {
+    "name": "platform",
+    "owner": "cashmusic",
+    "stargazers_count": 1183
+  },
+  {
+    "name": "evenement",
+    "owner": "igorw",
+    "stargazers_count": 1182
+  },
+  {
+    "name": "website",
+    "owner": "elementary",
+    "stargazers_count": 1178
+  },
+  {
+    "name": "slack",
+    "owner": "maknz",
+    "stargazers_count": 1177
+  },
+  {
+    "name": "Beanbun",
+    "owner": "kiddyuchina",
+    "stargazers_count": 1176
+  },
+  {
+    "name": "blade-ui-kit",
+    "owner": "blade-ui-kit",
+    "stargazers_count": 1176
+  },
+  {
+    "name": "laminas-zendframework-bridge",
+    "owner": "laminas",
+    "stargazers_count": 1175
+  },
+  {
+    "name": "laravel-cookie-consent",
+    "owner": "spatie",
+    "stargazers_count": 1173
+  },
+  {
+    "name": "composer-patches",
+    "owner": "cweagans",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "web-server-bundle",
+    "owner": "symfony",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "acf-to-rest-api",
+    "owner": "airesvsg",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "php-spider",
+    "owner": "mvdbos",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "container-interop",
+    "owner": "container-interop",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "churn-php",
+    "owner": "bmitch",
+    "stargazers_count": 1276
+  },
+  {
+    "name": "dav",
+    "owner": "sabre-io",
+    "stargazers_count": 1275
+  },
+  {
+    "name": "opening-hours",
+    "owner": "spatie",
+    "stargazers_count": 1274
+  },
+  {
+    "name": "webman",
+    "owner": "walkor",
+    "stargazers_count": 1272
+  },
+  {
+    "name": "jsonlint",
+    "owner": "Seldaek",
+    "stargazers_count": 1273
+  },
+  {
+    "name": "PHPMatrix",
+    "owner": "MarkBaker",
+    "stargazers_count": 1270
+  },
+  {
+    "name": "unirest-php",
+    "owner": "Kong",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "string",
+    "owner": "symfony",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "laravel-lang",
+    "owner": "overtrue",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "polyfill-intl-grapheme",
+    "owner": "symfony",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "web-link",
+    "owner": "symfony",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "PocketMine-MP",
+    "owner": "PocketMine",
+    "stargazers_count": 1255
+  },
+  {
+    "name": "php-emoji",
+    "owner": "iamcal",
+    "stargazers_count": 1252
+  },
+  {
+    "name": "laravel-opcache",
+    "owner": "appstract",
+    "stargazers_count": 1247
+  },
+  {
+    "name": "wp2static",
+    "owner": "WP2Static",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "php-qrcode-detector-decoder",
+    "owner": "khanamiryan",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "stack-cors",
+    "owner": "asm89",
+    "stargazers_count": 1246
+  },
+  {
+    "name": "laravel-packager",
+    "owner": "Jeroen-G",
+    "stargazers_count": 1243
+  },
+  {
+    "name": "message-factory",
+    "owner": "php-http",
+    "stargazers_count": 1243
+  },
+  {
+    "name": "voten",
+    "owner": "voten-co",
+    "stargazers_count": 1242
+  },
+  {
+    "name": "handesk",
+    "owner": "BadChoice",
+    "stargazers_count": 1241
+  },
+  {
+    "name": "kirki",
+    "owner": "kirki-framework",
+    "stargazers_count": 1236
+  },
+  {
+    "name": "Propel2",
+    "owner": "propelorm",
+    "stargazers_count": 1232
+  },
+  {
+    "name": "filegator",
+    "owner": "filegator",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "JoliNotif",
+    "owner": "jolicode",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "video_spider",
+    "owner": "5ime",
+    "stargazers_count": 1228
+  },
+  {
+    "name": "netease-cloud-api",
+    "owner": "ZainCheung",
+    "stargazers_count": 1226
+  },
+  {
+    "name": "lithium",
+    "owner": "UnionOfRAD",
+    "stargazers_count": 1223
+  },
+  {
+    "name": "laravel-compass",
+    "owner": "davidhsianturi",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "composer-unused",
+    "owner": "composer-unused",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "Laravel-Markdown",
+    "owner": "GrahamCampbell",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "FOSElasticaBundle",
+    "owner": "FriendsOfSymfony",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "phpbu",
+    "owner": "sebastianfeldmann",
+    "stargazers_count": 1219
+  },
+  {
+    "name": "themosis",
+    "owner": "themosis",
+    "stargazers_count": 1218
+  },
+  {
+    "name": "phpunit-pretty-result-printer",
+    "owner": "mikeerickson",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "laravel-microscope",
+    "owner": "imanghafoori1",
+    "stargazers_count": 1213
+  },
+  {
+    "name": "openflights",
+    "owner": "jpatokal",
+    "stargazers_count": 1209
+  },
+  {
+    "name": "color-extractor",
+    "owner": "thephpleague",
+    "stargazers_count": 1207
+  },
+  {
+    "name": "optimus",
+    "owner": "jenssegers",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "http-server",
+    "owner": "amphp",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "confide",
+    "owner": "Zizaco",
+    "stargazers_count": 1206
+  },
+  {
+    "name": "testlink-code",
+    "owner": "TestLinkOpenSourceTRMS",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "PHPPresentation",
+    "owner": "PHPOffice",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "phpstorm-stubs",
+    "owner": "JetBrains",
+    "stargazers_count": 1201
+  },
+  {
+    "name": "security",
+    "owner": "symfony",
+    "stargazers_count": 1199
+  },
+  {
+    "name": "HyperDown",
+    "owner": "segmentfault",
+    "stargazers_count": 1197
+  },
+  {
+    "name": "box2",
+    "owner": "box-project",
+    "stargazers_count": 1196
+  },
+  {
+    "name": "cookielesscookies",
+    "owner": "lucb1e",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "sendportal",
+    "owner": "mettle",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "laravel-shopify",
+    "owner": "osiset",
+    "stargazers_count": 1185
+  },
+  {
+    "name": "google-auth-library-php",
+    "owner": "googleapis",
+    "stargazers_count": 1184
+  },
+  {
+    "name": "IP-Tracer",
+    "owner": "rajkumardusad",
+    "stargazers_count": 1183
+  },
+  {
+    "name": "platform",
+    "owner": "cashmusic",
+    "stargazers_count": 1183
+  },
+  {
+    "name": "evenement",
+    "owner": "igorw",
+    "stargazers_count": 1182
+  },
+  {
+    "name": "website",
+    "owner": "elementary",
+    "stargazers_count": 1178
+  },
+  {
+    "name": "slack",
+    "owner": "maknz",
+    "stargazers_count": 1177
+  },
+  {
+    "name": "Beanbun",
+    "owner": "kiddyuchina",
+    "stargazers_count": 1176
+  },
+  {
+    "name": "blade-ui-kit",
+    "owner": "blade-ui-kit",
+    "stargazers_count": 1176
+  },
+  {
+    "name": "laminas-zendframework-bridge",
+    "owner": "laminas",
+    "stargazers_count": 1175
+  },
+  {
+    "name": "laravel-cookie-consent",
+    "owner": "spatie",
+    "stargazers_count": 1173
+  },
+  {
+    "name": "coding-standard",
+    "owner": "slevomat",
+    "stargazers_count": 1173
+  },
+  {
+    "name": "oembed",
+    "owner": "iamcal",
+    "stargazers_count": 1172
+  },
+  {
+    "name": "NotificationPusher",
+    "owner": "Ph3nol",
+    "stargazers_count": 1172
+  },
+  {
+    "name": "elephant.io",
+    "owner": "Wisembly",
+    "stargazers_count": 1171
+  },
+  {
+    "name": "laravel-api-boilerplate-jwt",
+    "owner": "francescomalatesta",
+    "stargazers_count": 1169
+  },
+  {
+    "name": "KnpSnappyBundle",
+    "owner": "KnpLabs",
+    "stargazers_count": 1165
+  },
+  {
+    "name": "carbon-fields",
+    "owner": "htmlburger",
+    "stargazers_count": 1163
+  },
+  {
+    "name": "Underscore.php",
+    "owner": "brianhaveri",
+    "stargazers_count": 1161
+  },
+  {
+    "name": "laraberg",
+    "owner": "VanOns",
+    "stargazers_count": 1160
+  },
+  {
+    "name": "PHP-Interview",
+    "owner": "xianyunyh",
+    "stargazers_count": 1152
+  },
+  {
+    "name": "notejam",
+    "owner": "komarserjio",
+    "stargazers_count": 1152
+  },
+  {
+    "name": "psr-http-message-bridge",
+    "owner": "symfony",
+    "stargazers_count": 1152
+  },
+  {
+    "name": "yii2-admin",
+    "owner": "mdmsoft",
+    "stargazers_count": 1151
+  },
+  {
+    "name": "forkcms",
+    "owner": "forkcms",
+    "stargazers_count": 1149
+  },
+  {
+    "name": "icicle",
+    "owner": "icicleio",
+    "stargazers_count": 1145
+  },
+  {
+    "name": "GUMP",
+    "owner": "Wixel",
+    "stargazers_count": 1145
+  },
+  {
+    "name": "book",
+    "owner": "3masterplus",
+    "stargazers_count": 1143
+  },
+  {
+    "name": "message",
+    "owner": "php-http",
+    "stargazers_count": 1142
+  },
+  {
+    "name": "pretty-package-versions",
+    "owner": "Jean85",
+    "stargazers_count": 1141
+  },
+  {
+    "name": "yii2-adminlte-asset",
+    "owner": "dmstr",
+    "stargazers_count": 1137
+  },
+  {
+    "name": "schema-org",
+    "owner": "spatie",
+    "stargazers_count": 1135
+  },
+  {
+    "name": "swoole-ide-helper",
+    "owner": "wudi",
+    "stargazers_count": 1134
+  },
+  {
+    "name": "recurr",
+    "owner": "simshaun",
+    "stargazers_count": 1134
+  },
+  {
+    "name": "phing",
+    "owner": "phingofficial",
+    "stargazers_count": 1134
+  },
+  {
+    "name": "flox",
+    "owner": "devfake",
+    "stargazers_count": 1133
+  },
+  {
+    "name": "Diaspora",
+    "owner": "LoeiFy",
+    "stargazers_count": 1133
+  },
+  {
+    "name": "eloquent-sortable",
+    "owner": "spatie",
+    "stargazers_count": 1132
+  },
+  {
+    "name": "rdebug",
+    "owner": "didi",
+    "stargazers_count": 1129
+  },
+  {
+    "name": "razor",
+    "owner": "cobub",
+    "stargazers_count": 1128
+  },
+  {
+    "name": "deprecations",
+    "owner": "doctrine",
+    "stargazers_count": 1128
+  },
+  {
+    "name": "siler",
+    "owner": "leocavalcante",
+    "stargazers_count": 1127
+  },
+  {
+    "name": "underscore-php",
+    "owner": "Anahkiasen",
+    "stargazers_count": 1126
+  },
+  {
+    "name": "SocketLog",
+    "owner": "luofei614",
+    "stargazers_count": 1124
+  },
+  {
+    "name": "mysqldump-php",
+    "owner": "ifsnop",
+    "stargazers_count": 1124
+  },
+  {
+    "name": "google-api-php-client-services",
+    "owner": "googleapis",
+    "stargazers_count": 1123
+  },
+  {
+    "name": "iter",
+    "owner": "nikic",
+    "stargazers_count": 1073
+  },
+  {
+    "name": "vat-calculator",
+    "owner": "driesvints",
+    "stargazers_count": 1070
+  },
+  {
+    "name": "regex",
+    "owner": "spatie",
+    "stargazers_count": 1068
+  },
+  {
+    "name": "php-saml",
+    "owner": "onelogin",
+    "stargazers_count": 1067
+  },
+  {
+    "name": "orm",
+    "owner": "cycle",
+    "stargazers_count": 1065
+  },
+  {
+    "name": "dispatcher",
+    "owner": "Indatus",
+    "stargazers_count": 1063
+  },
+  {
+    "name": "halite",
+    "owner": "paragonie",
+    "stargazers_count": 1063
+  },
+  {
+    "name": "vmqphp",
+    "owner": "szvone",
+    "stargazers_count": 1062
+  },
+  {
+    "name": "php-vcr",
+    "owner": "php-vcr",
+    "stargazers_count": 1060
+  },
+  {
+    "name": "mongodb-odm",
+    "owner": "doctrine",
+    "stargazers_count": 1060
+  },
+  {
+    "name": "opcache-gui",
+    "owner": "amnuts",
+    "stargazers_count": 1057
+  },
+  {
+    "name": "socket",
+    "owner": "reactphp",
+    "stargazers_count": 1057
+  },
+  {
+    "name": "WebStack",
+    "owner": "owen0o0",
+    "stargazers_count": 1055
+  },
+  {
+    "name": "PicUploader",
+    "owner": "xiebruce",
+    "stargazers_count": 1055
+  },
+  {
+    "name": "winter",
+    "owner": "wintercms",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "revive-adserver",
+    "owner": "revive-adserver",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "codeigniter-base-model",
+    "owner": "jamierumbelow",
+    "stargazers_count": 1052
+  },
+  {
+    "name": "laravel-widgets",
+    "owner": "arrilot",
+    "stargazers_count": 1051
+  },
+  {
+    "name": "micro-ecc",
+    "owner": "kmackay",
+    "stargazers_count": 1050
+  },
+  {
+    "name": "simple-php-git-deploy",
+    "owner": "markomarkovic",
+    "stargazers_count": 1050
+  },
+  {
+    "name": "rockmongo",
+    "owner": "iwind",
+    "stargazers_count": 1048
+  },
+  {
+    "name": "stacey",
+    "owner": "kolber",
+    "stargazers_count": 1045
+  },
+  {
+    "name": "tenancy",
+    "owner": "tenancy",
+    "stargazers_count": 1044
+  },
+  {
+    "name": "Piplin",
+    "owner": "Piplin",
+    "stargazers_count": 1044
+  },
+  {
+    "name": "laravel-image-optimizer",
+    "owner": "spatie",
+    "stargazers_count": 1042
+  },
+  {
+    "name": "server",
+    "owner": "hashtopolis",
+    "stargazers_count": 1041
+  },
+  {
+    "name": "utilphp",
+    "owner": "brandonwamboldt",
+    "stargazers_count": 1040
+  },
+  {
+    "name": "page-cache",
+    "owner": "JosephSilber",
+    "stargazers_count": 1038
+  },
+  {
+    "name": "laravel-scout-tntsearch-driver",
+    "owner": "teamtnt",
+    "stargazers_count": 1038
+  },
+  {
+    "name": "mailgun-php",
+    "owner": "mailgun",
+    "stargazers_count": 1038
+  },
+  {
+    "name": "alfred-spotify-mini-player",
+    "owner": "vdesabou",
+    "stargazers_count": 1035
+  },
+  {
+    "name": "php-framework-benchmark",
+    "owner": "kenjis",
+    "stargazers_count": 1033
+  },
+  {
+    "name": "laravel-honeypot",
+    "owner": "spatie",
+    "stargazers_count": 1030
+  },
+  {
+    "name": "iCal",
+    "owner": "markuspoerschke",
+    "stargazers_count": 1030
+  },
+  {
+    "name": "Joe",
+    "owner": "HaoOuBa",
+    "stargazers_count": 1030
+  },
+  {
+    "name": "type",
+    "owner": "sebastianbergmann",
+    "stargazers_count": 1029
+  },
+  {
+    "name": "parental",
+    "owner": "tighten",
+    "stargazers_count": 1028
+  },
+  {
+    "name": "yii2-queue",
+    "owner": "yiisoft",
+    "stargazers_count": 1026
+  },
+  {
+    "name": "jobby",
+    "owner": "jobbyphp",
+    "stargazers_count": 1026
+  },
+  {
+    "name": "Bypass_Disable_functions_Shell",
+    "owner": "l3m0n",
+    "stargazers_count": 1025
+  },
+  {
+    "name": "Open.GL",
+    "owner": "Overv",
+    "stargazers_count": 1021
+  },
+  {
+    "name": "skeleton_wp",
+    "owner": "simplethemes",
+    "stargazers_count": 1019
+  },
+  {
+    "name": "easy-coding-standard",
+    "owner": "symplify",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "api.yike.io",
+    "owner": "yikeio",
+    "stargazers_count": 1017
+  },
+  {
+    "name": "amazon-s3-php-class",
+    "owner": "tpyo",
+    "stargazers_count": 1017
+  },
+  {
+    "name": "SncRedisBundle",
+    "owner": "snc",
+    "stargazers_count": 1017
+  },
+  {
+    "name": "laravel-google-calendar",
+    "owner": "spatie",
+    "stargazers_count": 1015
+  },
+  {
+    "name": "WordPress-Widget-Boilerplate",
+    "owner": "tommcfarlin",
+    "stargazers_count": 1013
+  },
+  {
+    "name": "laravel-mail-preview",
+    "owner": "spatie",
+    "stargazers_count": 1013
+  },
+  {
+    "name": "espocrm",
+    "owner": "espocrm",
+    "stargazers_count": 1012
+  },
+  {
+    "name": "laminas-eventmanager",
+    "owner": "laminas",
+    "stargazers_count": 1011
+  },
+  {
+    "name": "laravel-follow",
+    "owner": "overtrue",
+    "stargazers_count": 1007
+  },
+  {
+    "name": "mime-type-detection",
+    "owner": "thephpleague",
+    "stargazers_count": 1005
+  },
+  {
+    "name": "Ruler",
+    "owner": "bobthecow",
+    "stargazers_count": 1005
+  },
+  {
+    "name": "awesome-magento2",
+    "owner": "run-as-root",
+    "stargazers_count": 1005
+  },
+  {
+    "name": "soil",
+    "owner": "roots",
+    "stargazers_count": 1003
+  },
+  {
+    "name": "livewire-datatables",
+    "owner": "MedicOneSystems",
+    "stargazers_count": 1001
+  },
+  {
+    "name": "morgue",
+    "owner": "etsy",
+    "stargazers_count": 1001
+  },
+  {
+    "name": "Project",
+    "owner": "PHPixie",
+    "stargazers_count": 999
+  },
+  {
+    "name": "grocery-crud",
+    "owner": "scoumbourdis",
+    "stargazers_count": 997
+  },
+  {
+    "name": "Laravel-HTMLMin",
+    "owner": "HTMLMin",
+    "stargazers_count": 996
+  },
+  {
+    "name": "templating",
+    "owner": "symfony",
+    "stargazers_count": 996
+  },
+  {
+    "name": "Hateoas",
+    "owner": "willdurand",
+    "stargazers_count": 995
+  },
+  {
+    "name": "world_countries",
+    "owner": "stefangabos",
+    "stargazers_count": 993
+  },
+  {
+    "name": "thinkphp5-restfulapi",
+    "owner": "Leslin",
+    "stargazers_count": 990
+  },
+  {
+    "name": "weixinPay",
+    "owner": "dedemao",
+    "stargazers_count": 989
+  },
+  {
+    "name": "FUEL-CMS",
+    "owner": "daylightstudio",
+    "stargazers_count": 988
+  },
+  {
+    "name": "PHP",
+    "owner": "TheAlgorithms",
+    "stargazers_count": 987
+  },
+  {
+    "name": "laravel-love",
+    "owner": "cybercog",
+    "stargazers_count": 986
+  },
+  {
+    "name": "laravel-jsvalidation",
+    "owner": "proengsoft",
+    "stargazers_count": 985
+  },
+  {
+    "name": "laravel-package-top-100",
+    "owner": "summerblue",
+    "stargazers_count": 984
+  },
+  {
+    "name": "PHPThumb",
+    "owner": "masterexploder",
+    "stargazers_count": 983
+  },
+  {
+    "name": "faveo-helpdesk",
+    "owner": "ladybirdweb",
+    "stargazers_count": 982
+  },
+  {
+    "name": "eloquent-power-joins",
+    "owner": "kirschbaum-development",
+    "stargazers_count": 982
+  },
+  {
+    "name": "proxy-manager-lts",
+    "owner": "FriendsOfPHP",
+    "stargazers_count": 980
+  },
+  {
+    "name": "badaso",
+    "owner": "uasoft-indonesia",
+    "stargazers_count": 979
+  },
+  {
+    "name": "pods",
+    "owner": "pods-framework",
+    "stargazers_count": 978
+  },
+  {
+    "name": "pihole-updatelists",
+    "owner": "jacklul",
+    "stargazers_count": 978
+  },
+  {
+    "name": "Lychee-v3",
+    "owner": "LycheeOrg",
+    "stargazers_count": 977
+  },
+  {
+    "name": "phpvirtualbox",
+    "owner": "phpvirtualbox",
+    "stargazers_count": 977
+  },
+  {
+    "name": "imi",
+    "owner": "imiphp",
+    "stargazers_count": 975
+  },
+  {
+    "name": "scribe",
+    "owner": "knuckleswtf",
+    "stargazers_count": 974
+  },
+  {
+    "name": "gantry5",
+    "owner": "gantry",
+    "stargazers_count": 974
+  },
+  {
+    "name": "composer-git-hooks",
+    "owner": "BrainMaestro",
+    "stargazers_count": 973
+  },
+  {
+    "name": "teamwork",
+    "owner": "mpociot",
+    "stargazers_count": 973
+  },
+  {
+    "name": "getID3",
+    "owner": "JamesHeinrich",
+    "stargazers_count": 972
+  },
+  {
+    "name": "saber",
+    "owner": "swlib",
+    "stargazers_count": 970
+  },
+  {
+    "name": "411",
+    "owner": "etsy",
+    "stargazers_count": 969
+  },
+  {
+    "name": "testswarm",
+    "owner": "jquery",
+    "stargazers_count": 967
+  },
+  {
+    "name": "code6",
+    "owner": "4x99",
+    "stargazers_count": 965
+  },
+  {
+    "name": "SalienCheat",
+    "owner": "SteamDatabase",
+    "stargazers_count": 963
+  },
+  {
+    "name": "aws-refarch-wordpress",
+    "owner": "aws-samples",
+    "stargazers_count": 963
+  },
+  {
+    "name": "doorman",
+    "owner": "clarkeash",
+    "stargazers_count": 963
+  },
+  {
+    "name": "bitcoin-php",
+    "owner": "Bit-Wasp",
+    "stargazers_count": 963
+  },
+  {
+    "name": "projectsend",
+    "owner": "projectsend",
+    "stargazers_count": 962
+  },
+  {
+    "name": "KLogger",
+    "owner": "katzgrau",
+    "stargazers_count": 962
+  },
+  {
+    "name": "symfony-5-es-cqrs-boilerplate",
+    "owner": "jorge07",
+    "stargazers_count": 960
+  },
+  {
+    "name": "community-skeleton",
+    "owner": "uvdesk",
+    "stargazers_count": 959
+  },
+  {
+    "name": "known",
+    "owner": "idno",
+    "stargazers_count": 958
+  },
+  {
+    "name": "psr7",
+    "owner": "Nyholm",
+    "stargazers_count": 958
+  }
+]
