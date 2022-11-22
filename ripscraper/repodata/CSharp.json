@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "PowerToys",
+    "owner": "microsoft",
+    "stargazers_count": 82173
+  },
+  {
+    "name": "shadowsocks-windows",
+    "owner": "shadowsocks",
+    "stargazers_count": 55432
+  },
+  {
+    "name": "PowerShell",
+    "owner": "PowerShell",
+    "stargazers_count": 36170
+  },
+  {
+    "name": "aspnetcore",
+    "owner": "dotnet",
+    "stargazers_count": 30144
+  },
+  {
+    "name": "Files",
+    "owner": "files-community",
+    "stargazers_count": 25140
+  },
+  {
+    "name": "CodeHub",
+    "owner": "CodeHubApp",
+    "stargazers_count": 23083
+  },
+  {
+    "name": "Wox",
+    "owner": "Wox-launcher",
+    "stargazers_count": 22419
+  },
+  {
+    "name": "ShareX",
+    "owner": "ShareX",
+    "stargazers_count": 22205
+  },
+  {
+    "name": "dnSpy",
+    "owner": "dnSpy",
+    "stargazers_count": 22150
+  },
+  {
+    "name": "eShopOnContainers",
+    "owner": "dotnet-architecture",
+    "stargazers_count": 21962
+  },
+  {
+    "name": "WaveFunctionCollapse",
+    "owner": "mxgmn",
+    "stargazers_count": 20229
+  },
+  {
+    "name": "ScreenToGif",
+    "owner": "NickeManarin",
+    "stargazers_count": 18743
+  },
+  {
+    "name": "jellyfin",
+    "owner": "jellyfin",
+    "stargazers_count": 18259
+  },
+  {
+    "name": "RevokeMsgPatcher",
+    "owner": "huiyadanli",
+    "stargazers_count": 18121
+  },
+  {
+    "name": "maui",
+    "owner": "dotnet",
+    "stargazers_count": 17626
+  },
+  {
+    "name": "Avalonia",
+    "owner": "AvaloniaUI",
+    "stargazers_count": 15955
+  },
+  {
+    "name": "Dapper",
+    "owner": "DapperLib",
+    "stargazers_count": 15534
+  },
+  {
+    "name": "Ryujinx",
+    "owner": "Ryujinx",
+    "stargazers_count": 13936
+  },
+  {
+    "name": "ml-agents",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 13652
+  },
+  {
+    "name": "MaterialDesignInXamlToolkit",
+    "owner": "MaterialDesignInXAML",
+    "stargazers_count": 12929
+  },
+  {
+    "name": "netch",
+    "owner": "netchx",
+    "stargazers_count": 12824
+  },
+  {
+    "name": "QuickLook",
+    "owner": "QL-Win",
+    "stargazers_count": 12779
+  },
+  {
+    "name": "DevToys",
+    "owner": "veler",
+    "stargazers_count": 12127
+  },
+  {
+    "name": "OpenRA",
+    "owner": "OpenRA",
+    "stargazers_count": 12018
+  },
+  {
+    "name": "efcore",
+    "owner": "dotnet",
+    "stargazers_count": 11904
+  },
+  {
+    "name": "CleanArchitecture",
+    "owner": "ardalis",
+    "stargazers_count": 11503
+  },
+  {
+    "name": "Polly",
+    "owner": "App-vNext",
+    "stargazers_count": 11298
+  },
+  {
+    "name": "AspNetCore.Docs",
+    "owner": "dotnet",
+    "stargazers_count": 11107
+  },
+  {
+    "name": "SteamTools",
+    "owner": "BeyondDimension",
+    "stargazers_count": 11039
+  },
+  {
+    "name": "PEASS-ng",
+    "owner": "carlospolop",
+    "stargazers_count": 10625
+  },
+  {
+    "name": "mono",
+    "owner": "mono",
+    "stargazers_count": 10171
+  },
+  {
+    "name": "UnityCsReference",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 9769
+  },
+  {
+    "name": "FastGithub",
+    "owner": "dotnetcore",
+    "stargazers_count": 9717
+  },
+  {
+    "name": "Newtonsoft.Json",
+    "owner": "JamesNK",
+    "stargazers_count": 9679
+  },
+  {
+    "name": "AssetStudio",
+    "owner": "Perfare",
+    "stargazers_count": 9648
+  },
+  {
+    "name": "csharplang",
+    "owner": "dotnet",
+    "stargazers_count": 9392
+  },
+  {
+    "name": "basic-computer-games",
+    "owner": "coding-horror",
+    "stargazers_count": 9142
+  },
+  {
+    "name": "AutoMapper",
+    "owner": "AutoMapper",
+    "stargazers_count": 9085
+  },
+  {
+    "name": "orleans",
+    "owner": "dotnet",
+    "stargazers_count": 8942
+  },
+  {
+    "name": "MonoGame",
+    "owner": "MonoGame",
+    "stargazers_count": 8920
+  },
+  {
+    "name": "IdentityServer4",
+    "owner": "IdentityServer",
+    "stargazers_count": 8915
+  },
+  {
+    "name": "SignalR",
+    "owner": "SignalR",
+    "stargazers_count": 8778
+  },
+  {
+    "name": "RestSharp",
+    "owner": "restsharp",
+    "stargazers_count": 8763
+  },
+  {
+    "name": "ArchiSteamFarm",
+    "owner": "JustArchiNET",
+    "stargazers_count": 8691
+  },
+  {
+    "name": "choco",
+    "owner": "chocolatey",
+    "stargazers_count": 8682
+  },
+  {
+    "name": "MahApps.Metro",
+    "owner": "MahApps",
+    "stargazers_count": 8498
+  },
+  {
+    "name": "FluentTerminal",
+    "owner": "felixse",
+    "stargazers_count": 8476
+  },
+  {
+    "name": "BenchmarkDotNet",
+    "owner": "dotnet",
+    "stargazers_count": 8342
+  },
+  {
+    "name": "Jackett",
+    "owner": "Jackett",
+    "stargazers_count": 8213
+  },
+  {
+    "name": "machinelearning",
+    "owner": "dotnet",
+    "stargazers_count": 8193
+  },
+  {
+    "name": "eShopOnWeb",
+    "owner": "dotnet-architecture",
+    "stargazers_count": 8167
+  },
+  {
+    "name": "winsw",
+    "owner": "winsw",
+    "stargazers_count": 8138
+  },
+  {
+    "name": "Locale-Emulator",
+    "owner": "xupefei",
+    "stargazers_count": 8051
+  },
+  {
+    "name": "Sonarr",
+    "owner": "Sonarr",
+    "stargazers_count": 7900
+  },
+  {
+    "name": "Hangfire",
+    "owner": "HangfireIO",
+    "stargazers_count": 7895
+  },
+  {
+    "name": "Captura",
+    "owner": "MathewSachin",
+    "stargazers_count": 7822
+  },
+  {
+    "name": "nopCommerce",
+    "owner": "nopSolutions",
+    "stargazers_count": 7683
+  },
+  {
+    "name": "Terminal.Gui",
+    "owner": "gui-cs",
+    "stargazers_count": 7672
+  },
+  {
+    "name": "WeiXinMPSDK",
+    "owner": "JeffreySu",
+    "stargazers_count": 7602
+  },
+  {
+    "name": "Ocelot",
+    "owner": "ThreeMammals",
+    "stargazers_count": 7336
+  },
+  {
+    "name": "ReactiveUI",
+    "owner": "reactiveui",
+    "stargazers_count": 7249
+  },
+  {
+    "name": "Humanizer",
+    "owner": "Humanizr",
+    "stargazers_count": 7202
+  },
+  {
+    "name": "uno",
+    "owner": "unoplatform",
+    "stargazers_count": 7193
+  },
+  {
+    "name": "Nancy",
+    "owner": "NancyFx",
+    "stargazers_count": 7184
+  },
+  {
+    "name": "ailab",
+    "owner": "microsoft",
+    "stargazers_count": 7163
+  },
+  {
+    "name": "practical-aspnetcore",
+    "owner": "dodyg",
+    "stargazers_count": 7150
+  },
+  {
+    "name": "LiteDB",
+    "owner": "mbdavid",
+    "stargazers_count": 7022
+  },
+  {
+    "name": "mRemoteNG",
+    "owner": "mRemoteNG",
+    "stargazers_count": 6937
+  },
+  {
+    "name": "Notepads",
+    "owner": "0x7c13",
+    "stargazers_count": 6870
+  },
+  {
+    "name": "Radarr",
+    "owner": "Radarr",
+    "stargazers_count": 6830
+  },
+  {
+    "name": "Lean",
+    "owner": "QuantConnect",
+    "stargazers_count": 6778
+  },
+  {
+    "name": "gitextensions",
+    "owner": "gitextensions",
+    "stargazers_count": 6615
+  },
+  {
+    "name": "refit",
+    "owner": "reactiveui",
+    "stargazers_count": 6613
+  },
+  {
+    "name": "EarTrumpet",
+    "owner": "File-New-Project",
+    "stargazers_count": 6596
+  },
+  {
+    "name": "Electron.NET",
+    "owner": "ElectronNET",
+    "stargazers_count": 6487
+  },
+  {
+    "name": "PDFPatcher",
+    "owner": "wmjordan",
+    "stargazers_count": 6477
+  },
+  {
+    "name": "Bogus",
+    "owner": "bchavez",
+    "stargazers_count": 6451
+  },
+  {
+    "name": "ET",
+    "owner": "egametang",
+    "stargazers_count": 6391
+  },
+  {
+    "name": "OrchardCore",
+    "owner": "OrchardCMS",
+    "stargazers_count": 6239
+  },
+  {
+    "name": "UniRx",
+    "owner": "neuecc",
+    "stargazers_count": 6135
+  },
+  {
+    "name": "ShadowsocksR-Windows",
+    "owner": "HMBSbige",
+    "stargazers_count": 6116
+  },
+  {
+    "name": "ImageSharp",
+    "owner": "SixLabors",
+    "stargazers_count": 6101
+  },
+  {
+    "name": "de4dot",
+    "owner": "de4dot",
+    "stargazers_count": 6058
+  },
+  {
+    "name": "jynew",
+    "owner": "jynew",
+    "stargazers_count": 6037
+  },
+  {
+    "name": "wpf",
+    "owner": "dotnet",
+    "stargazers_count": 6021
+  },
+  {
+    "name": "reverse-proxy",
+    "owner": "microsoft",
+    "stargazers_count": 6009
+  },
+  {
+    "name": "ContextMenuManager",
+    "owner": "BluePointLilac",
+    "stargazers_count": 6008
+  },
+  {
+    "name": "Entitas",
+    "owner": "sschmid",
+    "stargazers_count": 5918
+  },
+  {
+    "name": "serilog",
+    "owner": "serilog",
+    "stargazers_count": 5885
+  },
+  {
+    "name": "docker-lambda",
+    "owner": "lambci",
+    "stargazers_count": 5824
+  },
+  {
+    "name": "VFSForGit",
+    "owner": "microsoft",
+    "stargazers_count": 5743
+  },
+  {
+    "name": "CAP",
+    "owner": "dotnetcore",
+    "stargazers_count": 5738
+  },
+  {
+    "name": "AspNetCoreDiagnosticScenarios",
+    "owner": "davidfowl",
+    "stargazers_count": 5708
+  },
+  {
+    "name": "Mvc",
+    "owner": "aspnet",
+    "stargazers_count": 5705
+  },
+  {
+    "name": "Dependencies",
+    "owner": "lucasg",
+    "stargazers_count": 5689
+  },
+  {
+    "name": "NLog",
+    "owner": "NLog",
+    "stargazers_count": 5678
+  },
+  {
+    "name": "Xamarin.Forms",
+    "owner": "xamarin",
+    "stargazers_count": 5624
+  },
+  {
+    "name": "clean-code-dotnet",
+    "owner": "thangchung",
+    "stargazers_count": 5559
+  },
+  {
+    "name": "NSwag",
+    "owner": "RicoSuter",
+    "stargazers_count": 5502
+  },
+  {
+    "name": "MarkovJunior",
+    "owner": "mxgmn",
+    "stargazers_count": 5493
+  },
+  {
+    "name": "reverse-proxy",
+    "owner": "microsoft",
+    "stargazers_count": 6009
+  },
+  {
+    "name": "ContextMenuManager",
+    "owner": "BluePointLilac",
+    "stargazers_count": 6008
+  },
+  {
+    "name": "Entitas",
+    "owner": "sschmid",
+    "stargazers_count": 5918
+  },
+  {
+    "name": "serilog",
+    "owner": "serilog",
+    "stargazers_count": 5885
+  },
+  {
+    "name": "docker-lambda",
+    "owner": "lambci",
+    "stargazers_count": 5824
+  },
+  {
+    "name": "VFSForGit",
+    "owner": "microsoft",
+    "stargazers_count": 5743
+  },
+  {
+    "name": "CAP",
+    "owner": "dotnetcore",
+    "stargazers_count": 5738
+  },
+  {
+    "name": "EquinoxProject",
+    "owner": "EduardoPires",
+    "stargazers_count": 5732
+  },
+  {
+    "name": "AspNetCoreDiagnosticScenarios",
+    "owner": "davidfowl",
+    "stargazers_count": 5708
+  },
+  {
+    "name": "Mvc",
+    "owner": "aspnet",
+    "stargazers_count": 5705
+  },
+  {
+    "name": "Dependencies",
+    "owner": "lucasg",
+    "stargazers_count": 5689
+  },
+  {
+    "name": "NLog",
+    "owner": "NLog",
+    "stargazers_count": 5678
+  },
+  {
+    "name": "reactive",
+    "owner": "dotnet",
+    "stargazers_count": 5652
+  },
+  {
+    "name": "Xamarin.Forms",
+    "owner": "xamarin",
+    "stargazers_count": 5624
+  },
+  {
+    "name": "clean-code-dotnet",
+    "owner": "thangchung",
+    "stargazers_count": 5559
+  },
+  {
+    "name": "NSwag",
+    "owner": "RicoSuter",
+    "stargazers_count": 5502
+  },
+  {
+    "name": "MarkovJunior",
+    "owner": "mxgmn",
+    "stargazers_count": 5493
+  },
+  {
+    "name": "imewlconverter",
+    "owner": "studyzy",
+    "stargazers_count": 5461
+  },
+  {
+    "name": "MixedRealityToolkit-Unity",
+    "owner": "microsoft",
+    "stargazers_count": 5444
+  },
+  {
+    "name": "Prism",
+    "owner": "PrismLibrary",
+    "stargazers_count": 5393
+  },
+  {
+    "name": "graphql-dotnet",
+    "owner": "graphql-dotnet",
+    "stargazers_count": 5372
+  },
+  {
+    "name": "StackExchange.Redis",
+    "owner": "StackExchange",
+    "stargazers_count": 5362
+  },
+  {
+    "name": "quartznet",
+    "owner": "quartznet",
+    "stargazers_count": 5330
+  },
+  {
+    "name": "FASTER",
+    "owner": "microsoft",
+    "stargazers_count": 5330
+  },
+  {
+    "name": "StockSharp",
+    "owner": "StockSharp",
+    "stargazers_count": 5261
+  },
+  {
+    "name": "WindowsCommunityToolkit",
+    "owner": "CommunityToolkit",
+    "stargazers_count": 5222
+  },
+  {
+    "name": "C-Sharp-Algorithms",
+    "owner": "aalhour",
+    "stargazers_count": 5187
+  },
+  {
+    "name": "microsoft-ui-xaml",
+    "owner": "microsoft",
+    "stargazers_count": 5125
+  },
+  {
+    "name": "ServiceStack",
+    "owner": "ServiceStack",
+    "stargazers_count": 5121
+  },
+  {
+    "name": "sharpkeys",
+    "owner": "randyrants",
+    "stargazers_count": 5099
+  },
+  {
+    "name": "MailKit",
+    "owner": "jstedfast",
+    "stargazers_count": 5062
+  },
+  {
+    "name": "language-ext",
+    "owner": "louthy",
+    "stargazers_count": 5044
+  },
+  {
+    "name": "open-project-1",
+    "owner": "UnityTechnologies",
+    "stargazers_count": 4964
+  },
+  {
+    "name": "MassTransit",
+    "owner": "MassTransit",
+    "stargazers_count": 4935
+  },
+  {
+    "name": "moq4",
+    "owner": "moq",
+    "stargazers_count": 4896
+  },
+  {
+    "name": "openhardwaremonitor",
+    "owner": "openhardwaremonitor",
+    "stargazers_count": 4894
+  },
+  {
+    "name": "tye",
+    "owner": "dotnet",
+    "stargazers_count": 4870
+  },
+  {
+    "name": "websocket-sharp",
+    "owner": "sta",
+    "stargazers_count": 4850
+  },
+  {
+    "name": "NorthwindTraders",
+    "owner": "jasontaylordev",
+    "stargazers_count": 4849
+  },
+  {
+    "name": "msbuild",
+    "owner": "dotnet",
+    "stargazers_count": 4842
+  },
+  {
+    "name": "EntityComponentSystemSamples",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 4834
+  },
+  {
+    "name": "Windows-Auto-Night-Mode",
+    "owner": "AutoDarkMode",
+    "stargazers_count": 4833
+  },
+  {
+    "name": "Unity3DTraining",
+    "owner": "XINCGer",
+    "stargazers_count": 4792
+  },
+  {
+    "name": "SparkleShare",
+    "owner": "hbons",
+    "stargazers_count": 4764
+  },
+  {
+    "name": "npoi",
+    "owner": "nissl-lab",
+    "stargazers_count": 4730
+  },
+  {
+    "name": "C-Sharp",
+    "owner": "TheAlgorithms",
+    "stargazers_count": 4728
+  },
+  {
+    "name": "EventStore",
+    "owner": "EventStore",
+    "stargazers_count": 4696
+  },
+  {
+    "name": "EverythingToolbar",
+    "owner": "stnkl",
+    "stargazers_count": 4643
+  },
+  {
+    "name": "stateless",
+    "owner": "dotnet-state-machine",
+    "stargazers_count": 4624
+  },
+  {
+    "name": "win-acme",
+    "owner": "win-acme",
+    "stargazers_count": 4621
+  },
+  {
+    "name": "Swashbuckle.AspNetCore",
+    "owner": "domaindrivendev",
+    "stargazers_count": 4618
+  },
+  {
+    "name": "Playnite",
+    "owner": "JosefNemec",
+    "stargazers_count": 4607
+  },
+  {
+    "name": "Hearthstone-Deck-Tracker",
+    "owner": "HearthSim",
+    "stargazers_count": 4603
+  },
+  {
+    "name": "xdm",
+    "owner": "subhra74",
+    "stargazers_count": 4594
+  },
+  {
+    "name": "ImageGlass",
+    "owner": "d2phap",
+    "stargazers_count": 4571
+  },
+  {
+    "name": "react-native-fs",
+    "owner": "itinance",
+    "stargazers_count": 4558
+  },
+  {
+    "name": "shadowsocksr-csharp",
+    "owner": "shadowsocksr-backup",
+    "stargazers_count": 4544
+  },
+  {
+    "name": "DiscordChatExporter",
+    "owner": "Tyrrrz",
+    "stargazers_count": 4529
+  },
+  {
+    "name": "Il2CppDumper",
+    "owner": "Perfare",
+    "stargazers_count": 4504
+  },
+  {
+    "name": "subtitleedit",
+    "owner": "SubtitleEdit",
+    "stargazers_count": 4487
+  },
+  {
+    "name": "FPSSample",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 4452
+  },
+  {
+    "name": "RunCat_for_windows",
+    "owner": "Kyome22",
+    "stargazers_count": 4408
+  },
+  {
+    "name": "AngleSharp",
+    "owner": "AngleSharp",
+    "stargazers_count": 4376
+  },
+  {
+    "name": "Common.Utility",
+    "owner": "Jimmey-Jiang",
+    "stargazers_count": 4373
+  },
+  {
+    "name": "ProxySU",
+    "owner": "proxysu",
+    "stargazers_count": 4366
+  },
+  {
+    "name": "PushSharp",
+    "owner": "Redth",
+    "stargazers_count": 4352
+  },
+  {
+    "name": "UniTask",
+    "owner": "Cysharp",
+    "stargazers_count": 4337
+  },
+  {
+    "name": "MudBlazor",
+    "owner": "MudBlazor",
+    "stargazers_count": 4288
+  },
+  {
+    "name": "electrino",
+    "owner": "pojala",
+    "stargazers_count": 4283
+  },
+  {
+    "name": "framework",
+    "owner": "accord-net",
+    "stargazers_count": 4282
+  },
+  {
+    "name": "SyncTrayzor",
+    "owner": "canton7",
+    "stargazers_count": 4278
+  },
+  {
+    "name": "HandyControl",
+    "owner": "HandyOrg",
+    "stargazers_count": 4276
+  },
+  {
+    "name": "MessagePack-CSharp",
+    "owner": "neuecc",
+    "stargazers_count": 4273
+  },
+  {
+    "name": "xamarin-forms-samples",
+    "owner": "xamarin",
+    "stargazers_count": 4253
+  },
+  {
+    "name": "NAudio",
+    "owner": "naudio",
+    "stargazers_count": 4250
+  },
+  {
+    "name": "SqlSugar",
+    "owner": "donet5",
+    "stargazers_count": 4232
+  },
+  {
+    "name": "akka.net",
+    "owner": "akkadotnet",
+    "stargazers_count": 4219
+  },
+  {
+    "name": "workflow-core",
+    "owner": "danielgerlag",
+    "stargazers_count": 4218
+  },
+  {
+    "name": "opencvsharp",
+    "owner": "shimat",
+    "stargazers_count": 4218
+  },
+  {
+    "name": "stride",
+    "owner": "stride3d",
+    "stargazers_count": 4210
+  },
+  {
+    "name": "DriverStoreExplorer",
+    "owner": "lostindark",
+    "stargazers_count": 4175
+  },
+  {
+    "name": "UIEffect",
+    "owner": "mob-sakai",
+    "stargazers_count": 4156
+  },
+  {
+    "name": "Blog.Core",
+    "owner": "anjoy8",
+    "stargazers_count": 4081
+  },
+  {
+    "name": "mobile",
+    "owner": "bitwarden",
+    "stargazers_count": 4058
+  },
+  {
+    "name": "BBDown",
+    "owner": "nilaoda",
+    "stargazers_count": 4029
+  },
+  {
+    "name": "protobuf-net",
+    "owner": "protobuf-net",
+    "stargazers_count": 4020
+  },
+  {
+    "name": "Borderless-Gaming",
+    "owner": "Codeusa",
+    "stargazers_count": 4014
+  },
+  {
+    "name": "Autofac",
+    "owner": "autofac",
+    "stargazers_count": 4008
+  },
+  {
+    "name": "ApplicationInspector",
+    "owner": "microsoft",
+    "stargazers_count": 4006
+  },
+  {
+    "name": "WPF-Samples",
+    "owner": "microsoft",
+    "stargazers_count": 3990
+  },
+  {
+    "name": "hotchocolate",
+    "owner": "ChilliCream",
+    "stargazers_count": 3984
+  },
+  {
+    "name": "OptiKey",
+    "owner": "OptiKey",
+    "stargazers_count": 3973
+  },
+  {
+    "name": "Psychson",
+    "owner": "brandonlw",
+    "stargazers_count": 3934
+  },
+  {
+    "name": "wavefunctioncollapse",
+    "owner": "marian42",
+    "stargazers_count": 3915
+  },
+  {
+    "name": "CsvHelper",
+    "owner": "JoshClose",
+    "stargazers_count": 3913
+  },
+  {
+    "name": "elsa-core",
+    "owner": "elsa-workflows",
+    "stargazers_count": 3900
+  },
+  {
+    "name": "btcpayserver",
+    "owner": "btcpayserver",
+    "stargazers_count": 3876
+  },
+  {
+    "name": "Fody",
+    "owner": "Fody",
+    "stargazers_count": 3821
+  },
+  {
+    "name": "VisualStudioUninstaller",
+    "owner": "microsoft",
+    "stargazers_count": 3811
+  },
+  {
+    "name": "WTM",
+    "owner": "dotnetcore",
+    "stargazers_count": 3768
+  },
+  {
+    "name": "azure-powershell",
+    "owner": "Azure",
+    "stargazers_count": 3358
+  },
+  {
+    "name": "Flurl",
+    "owner": "tmenier",
+    "stargazers_count": 3357
+  },
+  {
+    "name": "perfview",
+    "owner": "microsoft",
+    "stargazers_count": 3356
+  },
+  {
+    "name": "NaughtyAttributes",
+    "owner": "dbrizov",
+    "stargazers_count": 3343
+  },
+  {
+    "name": "Emby",
+    "owner": "MediaBrowser",
+    "stargazers_count": 3341
+  },
+  {
+    "name": "elasticsearch-net",
+    "owner": "elastic",
+    "stargazers_count": 3341
+  },
+  {
+    "name": "ink",
+    "owner": "inkle",
+    "stargazers_count": 3337
+  },
+  {
+    "name": "MathUtilities",
+    "owner": "zalo",
+    "stargazers_count": 3333
+  },
+  {
+    "name": "ModernWpf",
+    "owner": "Kinnara",
+    "stargazers_count": 3331
+  },
+  {
+    "name": "NoteHighlight2016",
+    "owner": "elvirbrk",
+    "stargazers_count": 3329
+  },
+  {
+    "name": "Open-XML-SDK",
+    "owner": "OfficeDev",
+    "stargazers_count": 3318
+  },
+  {
+    "name": "Covenant",
+    "owner": "cobbr",
+    "stargazers_count": 3307
+  },
+  {
+    "name": "IdentityServer4.Admin",
+    "owner": "skoruba",
+    "stargazers_count": 3302
+  },
+  {
+    "name": "wpftoolkit",
+    "owner": "xceedsoftware",
+    "stargazers_count": 3287
+  },
+  {
+    "name": "markdig",
+    "owner": "xoofx",
+    "stargazers_count": 3280
+  },
+  {
+    "name": "runner",
+    "owner": "actions",
+    "stargazers_count": 3271
+  },
+  {
+    "name": "ConfuserEx",
+    "owner": "yck1509",
+    "stargazers_count": 3268
+  },
+  {
+    "name": "ExcelDataReader",
+    "owner": "ExcelDataReader",
+    "stargazers_count": 3248
+  },
+  {
+    "name": "copy-dialog-lunar-lander",
+    "owner": "Sanakan8472",
+    "stargazers_count": 3244
+  },
+  {
+    "name": "example-voting-app",
+    "owner": "dockersamples",
+    "stargazers_count": 3244
+  },
+  {
+    "name": "docfx",
+    "owner": "dotnet",
+    "stargazers_count": 3231
+  },
+  {
+    "name": "Unity-Design-Pattern",
+    "owner": "QianMo",
+    "stargazers_count": 3227
+  },
+  {
+    "name": "MisakaTranslator",
+    "owner": "hanmin0822",
+    "stargazers_count": 3204
+  },
+  {
+    "name": "Bulk-Crap-Uninstaller",
+    "owner": "Klocman",
+    "stargazers_count": 3197
+  },
+  {
+    "name": "SharpZipLib",
+    "owner": "icsharpcode",
+    "stargazers_count": 3180
+  },
+  {
+    "name": "surging",
+    "owner": "fanliang11",
+    "stargazers_count": 3156
+  },
+  {
+    "name": "SSH.NET",
+    "owner": "sshnet",
+    "stargazers_count": 3131
+  },
+  {
+    "name": "Mapster",
+    "owner": "MapsterMapper",
+    "stargazers_count": 3120
+  },
+  {
+    "name": "ravendb",
+    "owner": "ravendb",
+    "stargazers_count": 3119
+  },
+  {
+    "name": "AspNetCore.Diagnostics.HealthChecks",
+    "owner": "Xabaril",
+    "stargazers_count": 3108
+  },
+  {
+    "name": "Templates",
+    "owner": "Dotnet-Boxed",
+    "stargazers_count": 3085
+  },
+  {
+    "name": "SkiaSharp",
+    "owner": "mono",
+    "stargazers_count": 3085
+  },
+  {
+    "name": "Ombi",
+    "owner": "Ombi-app",
+    "stargazers_count": 3083
+  },
+  {
+    "name": "JavaScriptServices",
+    "owner": "aspnet",
+    "stargazers_count": 3077
+  },
+  {
+    "name": "TensorFlowSharp",
+    "owner": "migueldeicaza",
+    "stargazers_count": 3073
+  },
+  {
+    "name": "greenshot",
+    "owner": "greenshot",
+    "stargazers_count": 3073
+  },
+  {
+    "name": "MoreLINQ",
+    "owner": "morelinq",
+    "stargazers_count": 3072
+  },
+  {
+    "name": "AsyncEx",
+    "owner": "StephenCleary",
+    "stargazers_count": 3071
+  },
+  {
+    "name": "openiddict-core",
+    "owner": "openiddict",
+    "stargazers_count": 3066
+  },
+  {
+    "name": "jint",
+    "owner": "sebastienros",
+    "stargazers_count": 3056
+  },
+  {
+    "name": "Swashbuckle.WebApi",
+    "owner": "domaindrivendev",
+    "stargazers_count": 3034
+  },
+  {
+    "name": "Hawk",
+    "owner": "ferventdesert",
+    "stargazers_count": 3023
+  },
+  {
+    "name": "fluentassertions",
+    "owner": "fluentassertions",
+    "stargazers_count": 3015
+  },
+  {
+    "name": "rant3",
+    "owner": "TheBerkin",
+    "stargazers_count": 3006
+  },
+  {
+    "name": "tModLoader",
+    "owner": "tModLoader",
+    "stargazers_count": 2993
+  },
+  {
+    "name": "kudu",
+    "owner": "projectkudu",
+    "stargazers_count": 2985
+  },
+  {
+    "name": "blazor-workshop",
+    "owner": "dotnet-presentations",
+    "stargazers_count": 2973
+  },
+  {
+    "name": "DS4Windows",
+    "owner": "Jays2Kings",
+    "stargazers_count": 2969
+  },
+  {
+    "name": "Celeste",
+    "owner": "NoelFB",
+    "stargazers_count": 2964
+  },
+  {
+    "name": "MagicOnion",
+    "owner": "Cysharp",
+    "stargazers_count": 2932
+  },
+  {
+    "name": "Chromely",
+    "owner": "chromelyapps",
+    "stargazers_count": 2931
+  },
+  {
+    "name": "gsudo",
+    "owner": "gerardog",
+    "stargazers_count": 2922
+  },
+  {
+    "name": "corert",
+    "owner": "dotnet",
+    "stargazers_count": 2913
+  },
+  {
+    "name": "CliWrap",
+    "owner": "Tyrrrz",
+    "stargazers_count": 2912
+  },
+  {
+    "name": "QFramework",
+    "owner": "liangxiegame",
+    "stargazers_count": 2910
+  },
+  {
+    "name": "hakchi2",
+    "owner": "ClusterM",
+    "stargazers_count": 2905
+  },
+  {
+    "name": "command-line-api",
+    "owner": "dotnet",
+    "stargazers_count": 2893
+  },
+  {
+    "name": "PSReadLine",
+    "owner": "PowerShell",
+    "stargazers_count": 2891
+  },
+  {
+    "name": "mongo-csharp-driver",
+    "owner": "mongodb",
+    "stargazers_count": 2887
+  },
+  {
+    "name": "CleanArchitecture",
+    "owner": "blazorhero",
+    "stargazers_count": 2877
+  },
+  {
+    "name": "EFCore.BulkExtensions",
+    "owner": "borisdj",
+    "stargazers_count": 2858
+  },
+  {
+    "name": "TwitchLeecher",
+    "owner": "Franiac",
+    "stargazers_count": 2850
+  },
+  {
+    "name": "BaiduPanDownloadWinform",
+    "owner": "Accelerider",
+    "stargazers_count": 2850
+  },
+  {
+    "name": "AutoFixture",
+    "owner": "AutoFixture",
+    "stargazers_count": 2829
+  },
+  {
+    "name": "referencesource",
+    "owner": "microsoft",
+    "stargazers_count": 2823
+  },
+  {
+    "name": "fluentmigrator",
+    "owner": "fluentmigrator",
+    "stargazers_count": 2823
+  },
+  {
+    "name": "tolua",
+    "owner": "topameng",
+    "stargazers_count": 2799
+  },
+  {
+    "name": "Rubeus",
+    "owner": "GhostPack",
+    "stargazers_count": 2799
+  },
+  {
+    "name": "Git-Credential-Manager-for-Windows",
+    "owner": "microsoft",
+    "stargazers_count": 2792
+  },
+  {
+    "name": "Discord.Net",
+    "owner": "discord-net",
+    "stargazers_count": 2780
+  },
+  {
+    "name": "privatezilla",
+    "owner": "builtbybel",
+    "stargazers_count": 2750
+  },
+  {
+    "name": "ILRuntime",
+    "owner": "Ourpalm",
+    "stargazers_count": 2741
+  },
+  {
+    "name": "crest",
+    "owner": "wave-harmonic",
+    "stargazers_count": 2740
+  },
+  {
+    "name": "SymSpell",
+    "owner": "wolfgarbe",
+    "stargazers_count": 2729
+  },
+  {
+    "name": "monodevelop",
+    "owner": "mono",
+    "stargazers_count": 2728
+  },
+  {
+    "name": "Deform",
+    "owner": "keenanwoodall",
+    "stargazers_count": 2723
+  },
+  {
+    "name": "oxyplot",
+    "owner": "oxyplot",
+    "stargazers_count": 2720
+  },
+  {
+    "name": "npgsql",
+    "owner": "npgsql",
+    "stargazers_count": 2718
+  },
+  {
+    "name": "Unity",
+    "owner": "github-for-unity",
+    "stargazers_count": 2705
+  },
+  {
+    "name": "libgit2sharp",
+    "owner": "libgit2",
+    "stargazers_count": 2693
+  },
+  {
+    "name": "NavMeshComponents",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 2684
+  },
+  {
+    "name": "ScottPlot",
+    "owner": "ScottPlot",
+    "stargazers_count": 2683
+  },
+  {
+    "name": "AspNetCoreRateLimit",
+    "owner": "stefanprodan",
+    "stargazers_count": 2678
+  },
+  {
+    "name": "Architecture",
+    "owner": "rafaelfgx",
+    "stargazers_count": 2674
+  },
+  {
+    "name": "KestrelHttpServer",
+    "owner": "aspnet",
+    "stargazers_count": 2653
+  },
+  {
+    "name": "Scrutor",
+    "owner": "khellang",
+    "stargazers_count": 2636
+  },
+  {
+    "name": "dotnet",
+    "owner": "MiniProfiler",
+    "stargazers_count": 2634
+  },
+  {
+    "name": "opentk",
+    "owner": "opentk",
+    "stargazers_count": 2621
+  },
+  {
+    "name": "BetterJoy",
+    "owner": "Davidobot",
+    "stargazers_count": 2618
+  },
+  {
+    "name": "P",
+    "owner": "p-org",
+    "stargazers_count": 2610
+  },
+  {
+    "name": "ParticleEffectForUGUI",
+    "owner": "mob-sakai",
+    "stargazers_count": 2605
+  },
+  {
+    "name": "netmq",
+    "owner": "zeromq",
+    "stargazers_count": 2604
+  },
+  {
+    "name": "xNode",
+    "owner": "Siccity",
+    "stargazers_count": 2585
+  },
+  {
+    "name": "EventSourcing.NetCore",
+    "owner": "oskardudycz",
+    "stargazers_count": 2583
+  },
+  {
+    "name": "Ninject",
+    "owner": "ninject",
+    "stargazers_count": 2572
+  },
+  {
+    "name": "Caliburn.Micro",
+    "owner": "Caliburn-Micro",
+    "stargazers_count": 2567
+  },
+  {
+    "name": "TensorFlow.NET",
+    "owner": "SciSharp",
+    "stargazers_count": 2547
+  },
+  {
+    "name": "MaterialSkin",
+    "owner": "IgnaceMaes",
+    "stargazers_count": 2541
+  },
+  {
+    "name": "BruteShark",
+    "owner": "odedshimon",
+    "stargazers_count": 2534
+  },
+  {
+    "name": "mui",
+    "owner": "firstfloorsoftware",
+    "stargazers_count": 2533
+  },
+  {
+    "name": "ServiceStack.Redis",
+    "owner": "ServiceStack",
+    "stargazers_count": 2276
+  },
+  {
+    "name": "Serenity",
+    "owner": "serenity-is",
+    "stargazers_count": 2263
+  },
+  {
+    "name": "x360ce",
+    "owner": "x360ce",
+    "stargazers_count": 2258
+  },
+  {
+    "name": "XCharts",
+    "owner": "XCharts-Team",
+    "stargazers_count": 2257
+  },
+  {
+    "name": "VisualStudio",
+    "owner": "github",
+    "stargazers_count": 2256
+  },
+  {
+    "name": "SharpSCADA",
+    "owner": "GavinYellow",
+    "stargazers_count": 2248
+  },
+  {
+    "name": "Silk.NET",
+    "owner": "dotnet",
+    "stargazers_count": 2244
+  },
+  {
+    "name": "Exceptionless",
+    "owner": "exceptionless",
+    "stargazers_count": 2243
+  },
+  {
+    "name": "nunit",
+    "owner": "nunit",
+    "stargazers_count": 2242
+  },
+  {
+    "name": "html-agility-pack",
+    "owner": "zzzprojects",
+    "stargazers_count": 2236
+  },
+  {
+    "name": "FairyGUI-unity",
+    "owner": "fairygui",
+    "stargazers_count": 2235
+  },
+  {
+    "name": "sample-dotnet-core-cqrs-api",
+    "owner": "kgrzybek",
+    "stargazers_count": 2200
+  },
+  {
+    "name": "xamarin-macios",
+    "owner": "xamarin",
+    "stargazers_count": 2197
+  },
+  {
+    "name": "BaGet",
+    "owner": "loic-sharma",
+    "stargazers_count": 2197
+  },
+  {
+    "name": "monodroid-samples",
+    "owner": "xamarin",
+    "stargazers_count": 2184
+  },
+  {
+    "name": "coolstore-microservices",
+    "owner": "vietnam-devs",
+    "stargazers_count": 2169
+  },
+  {
+    "name": "Impostor",
+    "owner": "Impostor",
+    "stargazers_count": 2158
+  },
+  {
+    "name": "dotnet-script",
+    "owner": "dotnet-script",
+    "stargazers_count": 2150
+  },
+  {
+    "name": "USBCopyer",
+    "owner": "kenvix",
+    "stargazers_count": 2149
+  },
+  {
+    "name": "Steamworks.NET",
+    "owner": "rlabrecque",
+    "stargazers_count": 2126
+  },
+  {
+    "name": "opentelemetry-dotnet",
+    "owner": "open-telemetry",
+    "stargazers_count": 2125
+  },
+  {
+    "name": "LibreHardwareMonitor",
+    "owner": "LibreHardwareMonitor",
+    "stargazers_count": 2123
+  },
+  {
+    "name": "SteamKit",
+    "owner": "SteamRE",
+    "stargazers_count": 2123
+  },
+  {
+    "name": "YoutubeExplode",
+    "owner": "Tyrrrz",
+    "stargazers_count": 2113
+  },
+  {
+    "name": "ZXing.Net",
+    "owner": "micjahn",
+    "stargazers_count": 2111
+  },
+  {
+    "name": "FOCA",
+    "owner": "ElevenPaths",
+    "stargazers_count": 2106
+  },
+  {
+    "name": "NuGetPackageExplorer",
+    "owner": "NuGetPackageExplorer",
+    "stargazers_count": 2102
+  },
+  {
+    "name": "BililiveRecorder",
+    "owner": "BililiveRecorder",
+    "stargazers_count": 2102
+  },
+  {
+    "name": "EventFlow",
+    "owner": "eventflow",
+    "stargazers_count": 2101
+  },
+  {
+    "name": "peachpie",
+    "owner": "peachpiecompiler",
+    "stargazers_count": 2100
+  },
+  {
+    "name": "ViVe",
+    "owner": "thebookisclosed",
+    "stargazers_count": 2100
+  },
+  {
+    "name": "interactive",
+    "owner": "dotnet",
+    "stargazers_count": 2100
+  },
+  {
+    "name": "smtp4dev",
+    "owner": "rnwood",
+    "stargazers_count": 2092
+  },
+  {
+    "name": "GraphEngine",
+    "owner": "microsoft",
+    "stargazers_count": 2072
+  },
+  {
+    "name": "ToastFish",
+    "owner": "Uahh",
+    "stargazers_count": 2069
+  },
+  {
+    "name": "Costura",
+    "owner": "Fody",
+    "stargazers_count": 2065
+  },
+  {
+    "name": "BoatAttack",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 2065
+  },
+  {
+    "name": "SimpleDnsCrypt",
+    "owner": "bitbeans",
+    "stargazers_count": 2065
+  },
+  {
+    "name": "SharpLab",
+    "owner": "ashmind",
+    "stargazers_count": 2054
+  },
+  {
+    "name": "FastReport",
+    "owner": "FastReports",
+    "stargazers_count": 2054
+  },
+  {
+    "name": "abot",
+    "owner": "sjdirect",
+    "stargazers_count": 2053
+  },
+  {
+    "name": "TShock",
+    "owner": "Pryaxis",
+    "stargazers_count": 2051
+  },
+  {
+    "name": "Sprache",
+    "owner": "sprache",
+    "stargazers_count": 2050
+  },
+  {
+    "name": "TailBlazer",
+    "owner": "RolandPheasant",
+    "stargazers_count": 2046
+  },
+  {
+    "name": "EnergyStar",
+    "owner": "imbushuo",
+    "stargazers_count": 2045
+  },
+  {
+    "name": "sdk",
+    "owner": "dotnet",
+    "stargazers_count": 2039
+  },
+  {
+    "name": "IdentityServer3",
+    "owner": "IdentityServer",
+    "stargazers_count": 2035
+  },
+  {
+    "name": "Fleck",
+    "owner": "statianzo",
+    "stargazers_count": 2031
+  },
+  {
+    "name": "wincompose",
+    "owner": "samhocevar",
+    "stargazers_count": 2030
+  },
+  {
+    "name": "Malware-Patch",
+    "owner": "the1812",
+    "stargazers_count": 2029
+  },
+  {
+    "name": "nhibernate-core",
+    "owner": "nhibernate",
+    "stargazers_count": 2023
+  },
+  {
+    "name": "FFXIVQuickLauncher",
+    "owner": "goatcorp",
+    "stargazers_count": 2023
+  },
+  {
+    "name": "KinoGlitch",
+    "owner": "keijiro",
+    "stargazers_count": 2014
+  },
+  {
+    "name": "SpecFlow",
+    "owner": "SpecFlowOSS",
+    "stargazers_count": 2006
+  },
+  {
+    "name": "XamarinComponents",
+    "owner": "xamarin",
+    "stargazers_count": 2000
+  },
+  {
+    "name": "ProceduralToolkit",
+    "owner": "Syomus",
+    "stargazers_count": 1991
+  },
+  {
+    "name": "CommandLineUtils",
+    "owner": "natemcmaster",
+    "stargazers_count": 1990
+  },
+  {
+    "name": "marten",
+    "owner": "JasperFx",
+    "stargazers_count": 1989
+  },
+  {
+    "name": "radzen-blazor",
+    "owner": "radzenhq",
+    "stargazers_count": 1988
+  },
+  {
+    "name": "m-r",
+    "owner": "gregoryyoung",
+    "stargazers_count": 1986
+  },
+  {
+    "name": "EntityFramework-Plus",
+    "owner": "zzzprojects",
+    "stargazers_count": 1982
+  },
+  {
+    "name": "xasset",
+    "owner": "xasset",
+    "stargazers_count": 1976
+  },
+  {
+    "name": "AV_Evasion_Tool",
+    "owner": "1y0n",
+    "stargazers_count": 1975
+  },
+  {
+    "name": "dotnetbook",
+    "owner": "sidristij",
+    "stargazers_count": 1970
+  },
+  {
+    "name": "Digital-Logic-Sim",
+    "owner": "SebLague",
+    "stargazers_count": 1967
+  },
+  {
+    "name": "ModAssistant",
+    "owner": "Assistant",
+    "stargazers_count": 1967
+  },
+  {
+    "name": "YamlDotNet",
+    "owner": "aaubry",
+    "stargazers_count": 1966
+  },
+  {
+    "name": "SHFB",
+    "owner": "EWSoftware",
+    "stargazers_count": 1965
+  },
+  {
+    "name": "Inveigh",
+    "owner": "Kevin-Robertson",
+    "stargazers_count": 1964
+  },
+  {
+    "name": "Identity",
+    "owner": "aspnet",
+    "stargazers_count": 1962
+  },
+  {
+    "name": "V2RayW",
+    "owner": "Cenmrev",
+    "stargazers_count": 1949
+  },
+  {
+    "name": "UIWidgets",
+    "owner": "UnityTech",
+    "stargazers_count": 1948
+  },
+  {
+    "name": "t3",
+    "owner": "still-scene",
+    "stargazers_count": 1946
+  },
+  {
+    "name": "Primes",
+    "owner": "PlummersSoftwareLLC",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "SidebarDiagnostics",
+    "owner": "ArcadeRenegade",
+    "stargazers_count": 1938
+  },
+  {
+    "name": "FancyScrollView",
+    "owner": "setchi",
+    "stargazers_count": 1935
+  },
+  {
+    "name": "Core",
+    "owner": "castleproject",
+    "stargazers_count": 1928
+  },
+  {
+    "name": "PetaPoco",
+    "owner": "CollaboratingPlatypus",
+    "stargazers_count": 1927
+  },
+  {
+    "name": "cscore",
+    "owner": "filoe",
+    "stargazers_count": 1923
+  },
+  {
+    "name": "AspNet.Security.OAuth.Providers",
+    "owner": "aspnet-contrib",
+    "stargazers_count": 1922
+  },
+  {
+    "name": "SharpDevelop",
+    "owner": "icsharpcode",
+    "stargazers_count": 1912
+  },
+  {
+    "name": "YiShaAdmin",
+    "owner": "liukuo362573",
+    "stargazers_count": 1909
+  },
+  {
+    "name": "jwt",
+    "owner": "jwt-dotnet",
+    "stargazers_count": 1906
+  },
+  {
+    "name": "NServiceBus",
+    "owner": "Particular",
+    "stargazers_count": 1903
+  },
+  {
+    "name": "lucenenet",
+    "owner": "apache",
+    "stargazers_count": 1901
+  },
+  {
+    "name": "taskbar-groups",
+    "owner": "tjackenpacken",
+    "stargazers_count": 1900
+  },
+  {
+    "name": "gong-wpf-dragdrop",
+    "owner": "punker76",
+    "stargazers_count": 1899
+  },
+  {
+    "name": "wix3",
+    "owner": "wixtoolset",
+    "stargazers_count": 1898
+  },
+  {
+    "name": "Rebus",
+    "owner": "rebus-org",
+    "stargazers_count": 1898
+  },
+  {
+    "name": "OnTopReplica",
+    "owner": "LorenzCK",
+    "stargazers_count": 1896
+  },
+  {
+    "name": "Nethereum",
+    "owner": "Nethereum",
+    "stargazers_count": 1896
+  },
+  {
+    "name": "NetWinformControl",
+    "owner": "kwwwvagaa",
+    "stargazers_count": 1895
+  },
+  {
+    "name": "DesignPatterns",
+    "owner": "abishekaditya",
+    "stargazers_count": 1895
+  },
+  {
+    "name": "tesseract",
+    "owner": "charlesw",
+    "stargazers_count": 1887
+  },
+  {
+    "name": "Monitorian",
+    "owner": "emoacht",
+    "stargazers_count": 1876
+  },
+  {
+    "name": "dafny",
+    "owner": "dafny-lang",
+    "stargazers_count": 1870
+  },
+  {
+    "name": "UniversalAdbDriver",
+    "owner": "koush",
+    "stargazers_count": 1863
+  },
+  {
+    "name": "Respawn",
+    "owner": "jbogard",
+    "stargazers_count": 1856
+  },
+  {
+    "name": "Node_Editor_Framework",
+    "owner": "Seneral",
+    "stargazers_count": 1854
+  },
+  {
+    "name": "dotween",
+    "owner": "Demigiant",
+    "stargazers_count": 1852
+  },
+  {
+    "name": "NBitcoin",
+    "owner": "MetacoSA",
+    "stargazers_count": 1744
+  },
+  {
+    "name": "UnitsNet",
+    "owner": "angularsen",
+    "stargazers_count": 1736
+  },
+  {
+    "name": "SoundSwitch",
+    "owner": "Belphemur",
+    "stargazers_count": 1734
+  },
+  {
+    "name": "Spotify-Ad-Blocker",
+    "owner": "Xeroday",
+    "stargazers_count": 1733
+  },
+  {
+    "name": "com.unity.netcode.gameobjects",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1730
+  },
+  {
+    "name": "qmk_toolbox",
+    "owner": "qmk",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "Readarr",
+    "owner": "Readarr",
+    "stargazers_count": 1726
+  },
+  {
+    "name": "UniVRM",
+    "owner": "vrm-c",
+    "stargazers_count": 1721
+  },
+  {
+    "name": "ServiceBusExplorer",
+    "owner": "paolosalvatori",
+    "stargazers_count": 1720
+  },
+  {
+    "name": "Magicodes.IE",
+    "owner": "dotnetcore",
+    "stargazers_count": 1714
+  },
+  {
+    "name": "OneOf",
+    "owner": "mcintyre321",
+    "stargazers_count": 1712
+  },
+  {
+    "name": "DotNetOpenAuth",
+    "owner": "DotNetOpenAuth",
+    "stargazers_count": 1711
+  },
+  {
+    "name": "codemaid",
+    "owner": "codecadwallader",
+    "stargazers_count": 1709
+  },
+  {
+    "name": "titanium-web-proxy",
+    "owner": "justcoding121",
+    "stargazers_count": 1704
+  },
+  {
+    "name": "superputty",
+    "owner": "jimradford",
+    "stargazers_count": 1697
+  },
+  {
+    "name": "mpv.net",
+    "owner": "mpvnet-player",
+    "stargazers_count": 1697
+  },
+  {
+    "name": "sandbox-attacksurface-analysis-tools",
+    "owner": "googleprojectzero",
+    "stargazers_count": 1691
+  },
+  {
+    "name": "dotnetcore-microservices-poc",
+    "owner": "asc-lab",
+    "stargazers_count": 1674
+  },
+  {
+    "name": "FNA",
+    "owner": "FNA-XNA",
+    "stargazers_count": 1671
+  },
+  {
+    "name": "OpenTabletDriver",
+    "owner": "OpenTabletDriver",
+    "stargazers_count": 1671
+  },
+  {
+    "name": "DefenderCheck",
+    "owner": "matterpreter",
+    "stargazers_count": 1670
+  },
+  {
+    "name": "zerosharp",
+    "owner": "MichalStrehovsky",
+    "stargazers_count": 1670
+  },
+  {
+    "name": "NLua",
+    "owner": "NLua",
+    "stargazers_count": 1662
+  },
+  {
+    "name": "AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "owner": "MicrosoftLearning",
+    "stargazers_count": 1661
+  },
+  {
+    "name": "blazorboilerplate",
+    "owner": "enkodellc",
+    "stargazers_count": 1658
+  },
+  {
+    "name": "Dapper-Extensions",
+    "owner": "tmsmith",
+    "stargazers_count": 1640
+  },
+  {
+    "name": "aspnetcore-realworld-example-app",
+    "owner": "gothinkster",
+    "stargazers_count": 1632
+  },
+  {
+    "name": "fluent-nhibernate",
+    "owner": "nhibernate",
+    "stargazers_count": 1628
+  },
+  {
+    "name": "Klak",
+    "owner": "keijiro",
+    "stargazers_count": 1626
+  },
+  {
+    "name": "PropertyChanged",
+    "owner": "Fody",
+    "stargazers_count": 1624
+  },
+  {
+    "name": "UnityToolbag",
+    "owner": "kellygravelyn",
+    "stargazers_count": 1617
+  },
+  {
+    "name": "PanuonUI.Silver",
+    "owner": "Mochengvia",
+    "stargazers_count": 1614
+  },
+  {
+    "name": "LightBulb",
+    "owner": "Tyrrrz",
+    "stargazers_count": 1610
+  },
+  {
+    "name": "Foundatio",
+    "owner": "FoundatioFx",
+    "stargazers_count": 1604
+  },
+  {
+    "name": "Miku-LuaProfiler",
+    "owner": "leinlin",
+    "stargazers_count": 1603
+  },
+  {
+    "name": "wcf",
+    "owner": "dotnet",
+    "stargazers_count": 1602
+  },
+  {
+    "name": "Unity5Effects",
+    "owner": "i-saint",
+    "stargazers_count": 1601
+  },
+  {
+    "name": "emgucv",
+    "owner": "emgucv",
+    "stargazers_count": 1584
+  },
+  {
+    "name": "awesome-dotnet-core",
+    "owner": "jasonhua95",
+    "stargazers_count": 1582
+  },
+  {
+    "name": "dotnet",
+    "owner": "CommunityToolkit",
+    "stargazers_count": 1579
+  },
+  {
+    "name": "CKAN",
+    "owner": "KSP-CKAN",
+    "stargazers_count": 1576
+  },
+  {
+    "name": "p2p",
+    "owner": "miroslavpejic85",
+    "stargazers_count": 1575
+  },
+  {
+    "name": "unity-movement-ai",
+    "owner": "sturdyspoon",
+    "stargazers_count": 1574
+  },
+  {
+    "name": "NodeGraphProcessor",
+    "owner": "alelievr",
+    "stargazers_count": 1574
+  },
+  {
+    "name": "DesignPatternsLibrary",
+    "owner": "nemanjarogic",
+    "stargazers_count": 1570
+  },
+  {
+    "name": "X",
+    "owner": "NewLifeX",
+    "stargazers_count": 1566
+  },
+  {
+    "name": "Carter",
+    "owner": "CarterCommunity",
+    "stargazers_count": 1565
+  },
+  {
+    "name": "winauth",
+    "owner": "winauth",
+    "stargazers_count": 1563
+  },
+  {
+    "name": "LoopScrollRect",
+    "owner": "qiankanglai",
+    "stargazers_count": 1562
+  },
+  {
+    "name": "SmartEnum",
+    "owner": "ardalis",
+    "stargazers_count": 1561
+  },
+  {
+    "name": "ios-samples",
+    "owner": "xamarin",
+    "stargazers_count": 1557
+  },
+  {
+    "name": "warp-plus-cloudflare",
+    "owner": "ALIILAPRO",
+    "stargazers_count": 1554
+  },
+  {
+    "name": "NEventStore",
+    "owner": "NEventStore",
+    "stargazers_count": 1552
+  },
+  {
+    "name": "KSFramework",
+    "owner": "mr-kelly",
+    "stargazers_count": 1551
+  },
+  {
+    "name": "luban",
+    "owner": "focus-creative-games",
+    "stargazers_count": 1551
+  },
+  {
+    "name": "UnityStandaloneFileBrowser",
+    "owner": "gkngkc",
+    "stargazers_count": 1544
+  },
+  {
+    "name": "dockpanelsuite",
+    "owner": "dockpanelsuite",
+    "stargazers_count": 1543
+  },
+  {
+    "name": "TouchScript",
+    "owner": "TouchScript",
+    "stargazers_count": 1537
+  },
+  {
+    "name": "PSScriptAnalyzer",
+    "owner": "PowerShell",
+    "stargazers_count": 1528
+  },
+  {
+    "name": "AspectCore-Framework",
+    "owner": "dotnetcore",
+    "stargazers_count": 1520
+  },
+  {
+    "name": "MyUnityFrameWork",
+    "owner": "GaoKaiHaHa",
+    "stargazers_count": 1516
+  },
+  {
+    "name": "idle_master",
+    "owner": "jshackles",
+    "stargazers_count": 1514
+  },
+  {
+    "name": "JabbR",
+    "owner": "JabbR",
+    "stargazers_count": 1507
+  },
+  {
+    "name": "AsyncRAT-C-Sharp",
+    "owner": "NYAN-x-CAT",
+    "stargazers_count": 1507
+  },
+  {
+    "name": "DocX",
+    "owner": "xceedsoftware",
+    "stargazers_count": 1505
+  },
+  {
+    "name": "AduSkin",
+    "owner": "aduskin",
+    "stargazers_count": 1504
+  },
+  {
+    "name": "Essentials",
+    "owner": "xamarin",
+    "stargazers_count": 1504
+  },
+  {
+    "name": "UA-.NETStandard",
+    "owner": "OPCFoundation",
+    "stargazers_count": 1504
+  },
+  {
+    "name": "cupscale",
+    "owner": "n00mkrad",
+    "stargazers_count": 1500
+  },
+  {
+    "name": "MahApps.Metro.IconPacks",
+    "owner": "MahApps",
+    "stargazers_count": 1495
+  },
+  {
+    "name": "SkyAPM-dotnet",
+    "owner": "SkyAPM",
+    "stargazers_count": 1485
+  },
+  {
+    "name": "Mathfs",
+    "owner": "FreyaHolmer",
+    "stargazers_count": 1484
+  },
+  {
+    "name": "BiliBili-UWP",
+    "owner": "Richasy",
+    "stargazers_count": 1484
+  },
+  {
+    "name": "Domain-Driven-Design-Example",
+    "owner": "zkavtaskin",
+    "stargazers_count": 1482
+  },
+  {
+    "name": "AvalonEdit",
+    "owner": "icsharpcode",
+    "stargazers_count": 1478
+  },
+  {
+    "name": "Microsoft.IO.RecyclableMemoryStream",
+    "owner": "microsoft",
+    "stargazers_count": 1476
+  },
+  {
+    "name": "MimeKit",
+    "owner": "jstedfast",
+    "stargazers_count": 1476
+  },
+  {
+    "name": "Accelerider.Windows",
+    "owner": "Accelerider",
+    "stargazers_count": 1475
+  },
+  {
+    "name": "EasyCaching",
+    "owner": "dotnetcore",
+    "stargazers_count": 1471
+  },
+  {
+    "name": "corefxlab",
+    "owner": "dotnet",
+    "stargazers_count": 1468
+  },
+  {
+    "name": "Stl.Fusion",
+    "owner": "servicetitan",
+    "stargazers_count": 1464
+  },
+  {
+    "name": "infer",
+    "owner": "dotnet",
+    "stargazers_count": 1464
+  },
+  {
+    "name": "protoactor-dotnet",
+    "owner": "asynkron",
+    "stargazers_count": 1459
+  },
+  {
+    "name": "azure-pipelines-agent",
+    "owner": "microsoft",
+    "stargazers_count": 1457
+  },
+  {
+    "name": "excel2json",
+    "owner": "neil3d",
+    "stargazers_count": 1455
+  },
+  {
+    "name": "myrtille",
+    "owner": "cedrozor",
+    "stargazers_count": 1454
+  },
+  {
+    "name": "LazyCache",
+    "owner": "alastairtree",
+    "stargazers_count": 1451
+  },
+  {
+    "name": "p0wnedShell",
+    "owner": "Cn33liz",
+    "stargazers_count": 1450
+  },
+  {
+    "name": "DynamicExpresso",
+    "owner": "dynamicexpresso",
+    "stargazers_count": 1450
+  },
+  {
+    "name": "SanAndreasUnity",
+    "owner": "GTA-ASM",
+    "stargazers_count": 1449
+  },
+  {
+    "name": "NanoFabric",
+    "owner": "geffzhang",
+    "stargazers_count": 1449
+  },
+  {
+    "name": "reko",
+    "owner": "uxmal",
+    "stargazers_count": 1440
+  },
+  {
+    "name": "Voxelman",
+    "owner": "keijiro",
+    "stargazers_count": 1437
+  },
+  {
+    "name": "OutlookGoogleCalendarSync",
+    "owner": "phw198",
+    "stargazers_count": 1433
+  },
+  {
+    "name": "Windsor",
+    "owner": "castleproject",
+    "stargazers_count": 1432
+  },
+  {
+    "name": "qqzeng-ip",
+    "owner": "zengzhan",
+    "stargazers_count": 1431
+  },
+  {
+    "name": "Path-Creator",
+    "owner": "SebLague",
+    "stargazers_count": 1430
+  },
+  {
+    "name": "bepuphysics2",
+    "owner": "bepu",
+    "stargazers_count": 1430
+  },
+  {
+    "name": "JEngine",
+    "owner": "JasonXuDeveloper",
+    "stargazers_count": 1423
+  },
+  {
+    "name": "stryker-net",
+    "owner": "stryker-mutator",
+    "stargazers_count": 1422
+  },
+  {
+    "name": "Dragablz",
+    "owner": "ButchersBoy",
+    "stargazers_count": 1891
+  },
+  {
+    "name": "tesseract",
+    "owner": "charlesw",
+    "stargazers_count": 1887
+  },
+  {
+    "name": "Graphics",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1880
+  },
+  {
+    "name": "Monitorian",
+    "owner": "emoacht",
+    "stargazers_count": 1876
+  },
+  {
+    "name": "PnP",
+    "owner": "pnp",
+    "stargazers_count": 1875
+  },
+  {
+    "name": "Audit.NET",
+    "owner": "thepirat000",
+    "stargazers_count": 1870
+  },
+  {
+    "name": "dafny",
+    "owner": "dafny-lang",
+    "stargazers_count": 1870
+  },
+  {
+    "name": "UniversalAdbDriver",
+    "owner": "koush",
+    "stargazers_count": 1863
+  },
+  {
+    "name": "CommunityServer",
+    "owner": "ONLYOFFICE",
+    "stargazers_count": 1858
+  },
+  {
+    "name": "csredis",
+    "owner": "2881099",
+    "stargazers_count": 1857
+  },
+  {
+    "name": "Node_Editor_Framework",
+    "owner": "Seneral",
+    "stargazers_count": 1854
+  },
+  {
+    "name": "dotween",
+    "owner": "Demigiant",
+    "stargazers_count": 1852
+  },
+  {
+    "name": "NSubstitute",
+    "owner": "nsubstitute",
+    "stargazers_count": 1850
+  },
+  {
+    "name": "SteamCleaner",
+    "owner": "Codeusa",
+    "stargazers_count": 1850
+  },
+  {
+    "name": "sharpcompress",
+    "owner": "adamhathcock",
+    "stargazers_count": 1839
+  },
+  {
+    "name": "spark",
+    "owner": "dotnet",
+    "stargazers_count": 1839
+  },
+  {
+    "name": "SNETCracker",
+    "owner": "shack2",
+    "stargazers_count": 1838
+  },
+  {
+    "name": "ATF",
+    "owner": "SonyWWS",
+    "stargazers_count": 1836
+  },
+  {
+    "name": "grandnode",
+    "owner": "grandnode",
+    "stargazers_count": 1831
+  },
+  {
+    "name": "Docker.DotNet",
+    "owner": "dotnet",
+    "stargazers_count": 1828
+  },
+  {
+    "name": "NPOI",
+    "owner": "dotnetcore",
+    "stargazers_count": 1825
+  },
+  {
+    "name": "Thrive",
+    "owner": "Revolutionary-Games",
+    "stargazers_count": 1823
+  },
+  {
+    "name": "Prowlarr",
+    "owner": "Prowlarr",
+    "stargazers_count": 1811
+  },
+  {
+    "name": "RoundedTB",
+    "owner": "torchgm",
+    "stargazers_count": 1810
+  },
+  {
+    "name": "enode",
+    "owner": "tangxuehua",
+    "stargazers_count": 1810
+  },
+  {
+    "name": "git-tfs",
+    "owner": "git-tfs",
+    "stargazers_count": 1808
+  },
+  {
+    "name": "BiliBiliToolPro",
+    "owner": "RayWangQvQ",
+    "stargazers_count": 1807
+  },
+  {
+    "name": "squidex",
+    "owner": "Squidex",
+    "stargazers_count": 1806
+  },
+  {
+    "name": "ComputeSharp",
+    "owner": "Sergio0694",
+    "stargazers_count": 1806
+  },
+  {
+    "name": "Kavita",
+    "owner": "Kareadita",
+    "stargazers_count": 1802
+  },
+  {
+    "name": "AssetBundles-Browser",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1802
+  },
+  {
+    "name": "DbUp",
+    "owner": "DbUp",
+    "stargazers_count": 1797
+  },
+  {
+    "name": "WebApiClient",
+    "owner": "dotnetcore",
+    "stargazers_count": 1794
+  },
+  {
+    "name": "YarnSpinner",
+    "owner": "YarnSpinnerTool",
+    "stargazers_count": 1791
+  },
+  {
+    "name": "pinvoke",
+    "owner": "dotnet",
+    "stargazers_count": 1791
+  },
+  {
+    "name": "NuGetForUnity",
+    "owner": "GlitchEnzo",
+    "stargazers_count": 1789
+  },
+  {
+    "name": "Microcharts",
+    "owner": "microcharts-dotnet",
+    "stargazers_count": 1786
+  },
+  {
+    "name": "Massive",
+    "owner": "FransBouma",
+    "stargazers_count": 1785
+  },
+  {
+    "name": "nodejstools",
+    "owner": "microsoft",
+    "stargazers_count": 1779
+  },
+  {
+    "name": "EvilClippy",
+    "owner": "outflanknl",
+    "stargazers_count": 1778
+  },
+  {
+    "name": "nvidiaProfileInspector",
+    "owner": "Orbmu2k",
+    "stargazers_count": 1777
+  },
+  {
+    "name": "azure-functions-host",
+    "owner": "Azure",
+    "stargazers_count": 1774
+  },
+  {
+    "name": "temporal",
+    "owner": "playdeadgames",
+    "stargazers_count": 1768
+  },
+  {
+    "name": "Furion",
+    "owner": "MonkSoul",
+    "stargazers_count": 1766
+  },
+  {
+    "name": "rabbitmq-dotnet-client",
+    "owner": "rabbitmq",
+    "stargazers_count": 1761
+  },
+  {
+    "name": "shouldly",
+    "owner": "shouldly",
+    "stargazers_count": 1761
+  },
+  {
+    "name": "iot",
+    "owner": "dotnet",
+    "stargazers_count": 1759
+  },
+  {
+    "name": "Aurora",
+    "owner": "antonpup",
+    "stargazers_count": 1754
+  },
+  {
+    "name": "Bonobo-Git-Server",
+    "owner": "jakubgarfield",
+    "stargazers_count": 1753
+  },
+  {
+    "name": "maui-samples",
+    "owner": "dotnet",
+    "stargazers_count": 1751
+  },
+  {
+    "name": "NetCoreServer",
+    "owner": "chronoxor",
+    "stargazers_count": 1749
+  },
+  {
+    "name": "xamarin-android",
+    "owner": "xamarin",
+    "stargazers_count": 1745
+  },
+  {
+    "name": "NBitcoin",
+    "owner": "MetacoSA",
+    "stargazers_count": 1744
+  },
+  {
+    "name": "snoopwpf",
+    "owner": "snoopwpf",
+    "stargazers_count": 1740
+  },
+  {
+    "name": "UnitsNet",
+    "owner": "angularsen",
+    "stargazers_count": 1736
+  },
+  {
+    "name": "SoundSwitch",
+    "owner": "Belphemur",
+    "stargazers_count": 1734
+  },
+  {
+    "name": "Spotify-Ad-Blocker",
+    "owner": "Xeroday",
+    "stargazers_count": 1733
+  },
+  {
+    "name": "CSharpFunctionalExtensions",
+    "owner": "vkhorikov",
+    "stargazers_count": 1730
+  },
+  {
+    "name": "com.unity.netcode.gameobjects",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1730
+  },
+  {
+    "name": "qmk_toolbox",
+    "owner": "qmk",
+    "stargazers_count": 1729
+  },
+  {
+    "name": "Readarr",
+    "owner": "Readarr",
+    "stargazers_count": 1726
+  },
+  {
+    "name": "roslynpad",
+    "owner": "roslynpad",
+    "stargazers_count": 1726
+  },
+  {
+    "name": "Blazor",
+    "owner": "SteveSanderson",
+    "stargazers_count": 1725
+  },
+  {
+    "name": "InjectFix",
+    "owner": "Tencent",
+    "stargazers_count": 1722
+  },
+  {
+    "name": "UniVRM",
+    "owner": "vrm-c",
+    "stargazers_count": 1721
+  },
+  {
+    "name": "ServiceBusExplorer",
+    "owner": "paolosalvatori",
+    "stargazers_count": 1720
+  },
+  {
+    "name": "JSIL",
+    "owner": "sq",
+    "stargazers_count": 1716
+  },
+  {
+    "name": "Magicodes.IE",
+    "owner": "dotnetcore",
+    "stargazers_count": 1714
+  },
+  {
+    "name": "OneOf",
+    "owner": "mcintyre321",
+    "stargazers_count": 1712
+  },
+  {
+    "name": "DotNetOpenAuth",
+    "owner": "DotNetOpenAuth",
+    "stargazers_count": 1711
+  },
+  {
+    "name": "nuke",
+    "owner": "nuke-build",
+    "stargazers_count": 1705
+  },
+  {
+    "name": "titanium-web-proxy",
+    "owner": "justcoding121",
+    "stargazers_count": 1704
+  },
+  {
+    "name": "superputty",
+    "owner": "jimradford",
+    "stargazers_count": 1697
+  },
+  {
+    "name": "mpv.net",
+    "owner": "mpvnet-player",
+    "stargazers_count": 1697
+  },
+  {
+    "name": "Verify",
+    "owner": "VerifyTests",
+    "stargazers_count": 1693
+  },
+  {
+    "name": "sandbox-attacksurface-analysis-tools",
+    "owner": "googleprojectzero",
+    "stargazers_count": 1691
+  },
+  {
+    "name": "WalletWasabi",
+    "owner": "zkSNACKs",
+    "stargazers_count": 1690
+  },
+  {
+    "name": "piranha.core",
+    "owner": "PiranhaCMS",
+    "stargazers_count": 1686
+  },
+  {
+    "name": "LittleBigMouse",
+    "owner": "mgth",
+    "stargazers_count": 1683
+  },
+  {
+    "name": "VolumetricLights",
+    "owner": "SlightlyMad",
+    "stargazers_count": 1678
+  },
+  {
+    "name": "dnlib",
+    "owner": "0xd4d",
+    "stargazers_count": 1678
+  },
+  {
+    "name": "dotnetcore-microservices-poc",
+    "owner": "asc-lab",
+    "stargazers_count": 1674
+  },
+  {
+    "name": "Rubberduck",
+    "owner": "rubberduck-vba",
+    "stargazers_count": 1672
+  },
+  {
+    "name": "FNA",
+    "owner": "FNA-XNA",
+    "stargazers_count": 1671
+  },
+  {
+    "name": "OpenTabletDriver",
+    "owner": "OpenTabletDriver",
+    "stargazers_count": 1671
+  },
+  {
+    "name": "DefenderCheck",
+    "owner": "matterpreter",
+    "stargazers_count": 1670
+  },
+  {
+    "name": "NLua",
+    "owner": "NLua",
+    "stargazers_count": 1662
+  },
+  {
+    "name": "AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "owner": "MicrosoftLearning",
+    "stargazers_count": 1661
+  },
+  {
+    "name": "UniversalRenderingExamples",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1660
+  },
+  {
+    "name": "SophiApp",
+    "owner": "Sophia-Community",
+    "stargazers_count": 1658
+  },
+  {
+    "name": "NBTExplorer",
+    "owner": "jaquadro",
+    "stargazers_count": 1641
+  },
+  {
+    "name": "Dapper-Extensions",
+    "owner": "tmsmith",
+    "stargazers_count": 1640
+  },
+  {
+    "name": "aspnetcore-realworld-example-app",
+    "owner": "gothinkster",
+    "stargazers_count": 1632
+  },
+  {
+    "name": "CVE-2021-1675",
+    "owner": "cube0x0",
+    "stargazers_count": 1631
+  },
+  {
+    "name": "fluent-nhibernate",
+    "owner": "nhibernate",
+    "stargazers_count": 1628
+  },
+  {
+    "name": "Klak",
+    "owner": "keijiro",
+    "stargazers_count": 1626
+  },
+  {
+    "name": "PropertyChanged",
+    "owner": "Fody",
+    "stargazers_count": 1624
+  },
+  {
+    "name": "UnityToolbag",
+    "owner": "kellygravelyn",
+    "stargazers_count": 1617
+  },
+  {
+    "name": "MyTested.AspNetCore.Mvc",
+    "owner": "ivaylokenov",
+    "stargazers_count": 1616
+  },
+  {
+    "name": "PanuonUI.Silver",
+    "owner": "Mochengvia",
+    "stargazers_count": 1614
+  },
+  {
+    "name": "iotedge",
+    "owner": "Azure",
+    "stargazers_count": 1365
+  },
+  {
+    "name": "EFCorePowerTools",
+    "owner": "ErikEJ",
+    "stargazers_count": 1356
+  },
+  {
+    "name": "DownmarkerWPF",
+    "owner": "Code52",
+    "stargazers_count": 1355
+  },
+  {
+    "name": "AssetStudio",
+    "owner": "RaduMC",
+    "stargazers_count": 1353
+  },
+  {
+    "name": "adonis-ui",
+    "owner": "benruehl",
+    "stargazers_count": 1352
+  },
+  {
+    "name": "odin-serializer",
+    "owner": "TeamSirenix",
+    "stargazers_count": 1351
+  },
+  {
+    "name": "PokemonUnity",
+    "owner": "PokemonUnity",
+    "stargazers_count": 1346
+  },
+  {
+    "name": "loxodon-framework",
+    "owner": "vovgou",
+    "stargazers_count": 1344
+  },
+  {
+    "name": "FakeItEasy",
+    "owner": "FakeItEasy",
+    "stargazers_count": 1343
+  },
+  {
+    "name": "CDM",
+    "owner": "microsoft",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "MicaForEveryone",
+    "owner": "MicaForEveryone",
+    "stargazers_count": 1339
+  },
+  {
+    "name": "AutumnBox",
+    "owner": "zsh2401",
+    "stargazers_count": 1335
+  },
+  {
+    "name": "Watson",
+    "owner": "rasta-mouse",
+    "stargazers_count": 1334
+  },
+  {
+    "name": "Simple.Data",
+    "owner": "markrendle",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "duality",
+    "owner": "AdamsLair",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "templating",
+    "owner": "dotnet",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "Practical.CleanArchitecture",
+    "owner": "phongnguyend",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "BotSharp",
+    "owner": "SciSharp",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "ChocolateyGUI",
+    "owner": "chocolatey",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "MyBox",
+    "owner": "Deadcows",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "cqrs-journey",
+    "owner": "microsoftarchive",
+    "stargazers_count": 1322
+  },
+  {
+    "name": "Dynamo",
+    "owner": "DynamoDS",
+    "stargazers_count": 1320
+  },
+  {
+    "name": "Neutronium",
+    "owner": "NeutroniumCore",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "certify",
+    "owner": "webprofusion",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "SEGI",
+    "owner": "sonicether",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "ColorHighlighter",
+    "owner": "Monnoroch",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "qmlnet",
+    "owner": "qmlnet",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "Scut",
+    "owner": "ScutGame",
+    "stargazers_count": 1309
+  },
+  {
+    "name": "multiplayer",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1307
+  },
+  {
+    "name": "Unity-Robotics-Hub",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1306
+  },
+  {
+    "name": "UnityIngameDebugConsole",
+    "owner": "yasirkula",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "RazorLight",
+    "owner": "toddams",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "WGestures",
+    "owner": "yingDev",
+    "stargazers_count": 1302
+  },
+  {
+    "name": "ClearScript",
+    "owner": "microsoft",
+    "stargazers_count": 1302
+  },
+  {
+    "name": "roslyn-analyzers",
+    "owner": "dotnet",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "ButtFish",
+    "owner": "RonSijm",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "EPPlus",
+    "owner": "EPPlusSoftware",
+    "stargazers_count": 1297
+  },
+  {
+    "name": "cs-script",
+    "owner": "oleg-shilo",
+    "stargazers_count": 1295
+  },
+  {
+    "name": "coyote",
+    "owner": "microsoft",
+    "stargazers_count": 1294
+  },
+  {
+    "name": "job-system-cookbook",
+    "owner": "stella3d",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "JTRP",
+    "owner": "JasonMa0012",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "NatTypeTester",
+    "owner": "HMBSbige",
+    "stargazers_count": 1291
+  },
+  {
+    "name": "SoftMaskForUGUI",
+    "owner": "mob-sakai",
+    "stargazers_count": 1290
+  },
+  {
+    "name": "biliuwp-lite",
+    "owner": "xiaoyaocz",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "Text-Grab",
+    "owner": "TheJoeFin",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "FluentWPF",
+    "owner": "sourcechord",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "2d-extras",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1284
+  },
+  {
+    "name": "embedio",
+    "owner": "unosquare",
+    "stargazers_count": 1283
+  },
+  {
+    "name": "Lasp",
+    "owner": "keijiro",
+    "stargazers_count": 1282
+  },
+  {
+    "name": "Animation-Instancing",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1282
+  },
+  {
+    "name": "Netling",
+    "owner": "hallatore",
+    "stargazers_count": 1281
+  },
+  {
+    "name": "SunnyUI",
+    "owner": "yhuse",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "AggressorScripts",
+    "owner": "harleyQu1nn",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "Prism-Samples-Wpf",
+    "owner": "PrismLibrary",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "Windows11Upgrade",
+    "owner": "coofcookie",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "LenovoLegionToolkit",
+    "owner": "BartoszCichecki",
+    "stargazers_count": 1266
+  },
+  {
+    "name": "openrpa",
+    "owner": "open-rpa",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "gInk",
+    "owner": "geovens",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "InputSystem",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "TileIconifier",
+    "owner": "Jonno12345",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "NRules",
+    "owner": "NRules",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "ZString",
+    "owner": "Cysharp",
+    "stargazers_count": 1259
+  },
+  {
+    "name": "AtomOS",
+    "owner": "amaneureka",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "Pinta",
+    "owner": "PintaProject",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "Terraria-Map-Editor",
+    "owner": "TEdit",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "WebApiThrottle",
+    "owner": "stefanprodan",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "LevelEditor",
+    "owner": "SonyWWS",
+    "stargazers_count": 1254
+  },
+  {
+    "name": "itextsharp",
+    "owner": "itext",
+    "stargazers_count": 1248
+  },
+  {
+    "name": "Security",
+    "owner": "aspnet",
+    "stargazers_count": 1245
+  },
+  {
+    "name": "PowerForensics",
+    "owner": "Invoke-IR",
+    "stargazers_count": 1244
+  },
+  {
+    "name": "DncZeus",
+    "owner": "lampo1024",
+    "stargazers_count": 1242
+  },
+  {
+    "name": "sharpshell",
+    "owner": "dwmkerr",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "shellprogressbar",
+    "owner": "Mpdreamz",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "oqtane.framework",
+    "owner": "oqtane",
+    "stargazers_count": 1230
+  },
+  {
+    "name": "codeformatter",
+    "owner": "dotnet",
+    "stargazers_count": 1227
+  },
+  {
+    "name": "ServiceStack.Text",
+    "owner": "ServiceStack",
+    "stargazers_count": 1226
+  },
+  {
+    "name": "SpotifyAPI-NET",
+    "owner": "JohnnyCrazy",
+    "stargazers_count": 1225
+  },
+  {
+    "name": "SteamBot",
+    "owner": "Jessecar96",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "fungus",
+    "owner": "snozbot",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "Depressurizer",
+    "owner": "Depressurizer",
+    "stargazers_count": 1217
+  },
+  {
+    "name": "awesome-xamarin-forms",
+    "owner": "jsuarezruiz",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "CliFx",
+    "owner": "Tyrrrz",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "Vanara",
+    "owner": "dahall",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "HttpReports",
+    "owner": "dotnetcore",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "stripe-dotnet",
+    "owner": "stripe",
+    "stargazers_count": 1213
+  },
+  {
+    "name": "DotNetCorePlugins",
+    "owner": "natemcmaster",
+    "stargazers_count": 1211
+  },
+  {
+    "name": "UnityExplorer",
+    "owner": "sinai-dev",
+    "stargazers_count": 1210
+  },
+  {
+    "name": "mockhttp",
+    "owner": "richardszalay",
+    "stargazers_count": 1210
+  },
+  {
+    "name": "System.IO.Abstractions",
+    "owner": "TestableIO",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "UnityGameFramework",
+    "owner": "EllanJiang",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "eShopOnDapr",
+    "owner": "dotnet-architecture",
+    "stargazers_count": 1202
+  },
+  {
+    "name": "LightShafts",
+    "owner": "robcupisz",
+    "stargazers_count": 1198
+  },
+  {
+    "name": "MelonLoader",
+    "owner": "LavaGang",
+    "stargazers_count": 1194
+  },
+  {
+    "name": "CsWin32",
+    "owner": "microsoft",
+    "stargazers_count": 1193
+  },
+  {
+    "name": "Recognizers-Text",
+    "owner": "microsoft",
+    "stargazers_count": 1191
+  },
+  {
+    "name": "LiveSplit",
+    "owner": "LiveSplit",
+    "stargazers_count": 1190
+  },
+  {
+    "name": "cloudscribe",
+    "owner": "cloudscribe",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "BootstrapBlazor",
+    "owner": "dotnetcore",
+    "stargazers_count": 1184
+  },
+  {
+    "name": "MySqlConnector",
+    "owner": "mysql-net",
+    "stargazers_count": 1178
+  },
+  {
+    "name": "ThreeDPoseUnityBarracuda",
+    "owner": "digital-standard",
+    "stargazers_count": 1177
+  },
+  {
+    "name": "MiniExcel",
+    "owner": "mini-software",
+    "stargazers_count": 1341
+  },
+  {
+    "name": "CDM",
+    "owner": "microsoft",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "MicaForEveryone",
+    "owner": "MicaForEveryone",
+    "stargazers_count": 1339
+  },
+  {
+    "name": "Watson",
+    "owner": "rasta-mouse",
+    "stargazers_count": 1334
+  },
+  {
+    "name": "Simple.Data",
+    "owner": "markrendle",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "duality",
+    "owner": "AdamsLair",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "templating",
+    "owner": "dotnet",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "Practical.CleanArchitecture",
+    "owner": "phongnguyend",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "BotSharp",
+    "owner": "SciSharp",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "ChocolateyGUI",
+    "owner": "chocolatey",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "MyBox",
+    "owner": "Deadcows",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "cqrs-journey",
+    "owner": "microsoftarchive",
+    "stargazers_count": 1322
+  },
+  {
+    "name": "Neutronium",
+    "owner": "NeutroniumCore",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "certify",
+    "owner": "webprofusion",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "xwt",
+    "owner": "mono",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "ImGui.NET",
+    "owner": "mellinoe",
+    "stargazers_count": 1313
+  },
+  {
+    "name": "quartzui",
+    "owner": "zhaopeiym",
+    "stargazers_count": 1311
+  },
+  {
+    "name": "ColorHighlighter",
+    "owner": "Monnoroch",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "qmlnet",
+    "owner": "qmlnet",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "Scut",
+    "owner": "ScutGame",
+    "stargazers_count": 1309
+  },
+  {
+    "name": "NetModular",
+    "owner": "iamoldli",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "CSharpRepl",
+    "owner": "waf",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "multiplayer",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1307
+  },
+  {
+    "name": "Unity-Robotics-Hub",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1306
+  },
+  {
+    "name": "UnityIngameDebugConsole",
+    "owner": "yasirkula",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "RazorLight",
+    "owner": "toddams",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "DnsServer",
+    "owner": "TechnitiumSoftware",
+    "stargazers_count": 1300
+  },
+  {
+    "name": "roslyn-analyzers",
+    "owner": "dotnet",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "ButtFish",
+    "owner": "RonSijm",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "EPPlus",
+    "owner": "EPPlusSoftware",
+    "stargazers_count": 1297
+  },
+  {
+    "name": "coyote",
+    "owner": "microsoft",
+    "stargazers_count": 1294
+  },
+  {
+    "name": "job-system-cookbook",
+    "owner": "stella3d",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "JTRP",
+    "owner": "JasonMa0012",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "NatTypeTester",
+    "owner": "HMBSbige",
+    "stargazers_count": 1291
+  },
+  {
+    "name": "SoftMaskForUGUI",
+    "owner": "mob-sakai",
+    "stargazers_count": 1290
+  },
+  {
+    "name": "LettuceEncrypt",
+    "owner": "natemcmaster",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "biliuwp-lite",
+    "owner": "xiaoyaocz",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "aws-lambda-dotnet",
+    "owner": "aws",
+    "stargazers_count": 1288
+  },
+  {
+    "name": "Text-Grab",
+    "owner": "TheJoeFin",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "JustDecompileEngine",
+    "owner": "telerik",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "2d-extras",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1284
+  },
+  {
+    "name": "embedio",
+    "owner": "unosquare",
+    "stargazers_count": 1283
+  },
+  {
+    "name": "Lasp",
+    "owner": "keijiro",
+    "stargazers_count": 1282
+  },
+  {
+    "name": "Animation-Instancing",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1282
+  },
+  {
+    "name": "Netling",
+    "owner": "hallatore",
+    "stargazers_count": 1281
+  },
+  {
+    "name": "SunnyUI",
+    "owner": "yhuse",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "AggressorScripts",
+    "owner": "harleyQu1nn",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "Unity3d-Finite-State-Machine",
+    "owner": "thefuntastic",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "ReClass.NET",
+    "owner": "ReClassNET",
+    "stargazers_count": 1273
+  },
+  {
+    "name": "Prism-Samples-Wpf",
+    "owner": "PrismLibrary",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "Windows11Upgrade",
+    "owner": "coofcookie",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "LenovoLegionToolkit",
+    "owner": "BartoszCichecki",
+    "stargazers_count": 1266
+  },
+  {
+    "name": "openrpa",
+    "owner": "open-rpa",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "InputSystem",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "TileIconifier",
+    "owner": "Jonno12345",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "NRules",
+    "owner": "NRules",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "RetroBar",
+    "owner": "dremin",
+    "stargazers_count": 1261
+  },
+  {
+    "name": "ZString",
+    "owner": "Cysharp",
+    "stargazers_count": 1259
+  },
+  {
+    "name": "AtomOS",
+    "owner": "amaneureka",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "Pinta",
+    "owner": "PintaProject",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "Terraria-Map-Editor",
+    "owner": "TEdit",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "WebApiThrottle",
+    "owner": "stefanprodan",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "Unity.Mathematics",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1250
+  },
+  {
+    "name": "itextsharp",
+    "owner": "itext",
+    "stargazers_count": 1248
+  },
+  {
+    "name": "Security",
+    "owner": "aspnet",
+    "stargazers_count": 1245
+  },
+  {
+    "name": "PowerForensics",
+    "owner": "Invoke-IR",
+    "stargazers_count": 1244
+  },
+  {
+    "name": "DncZeus",
+    "owner": "lampo1024",
+    "stargazers_count": 1242
+  },
+  {
+    "name": "sharpshell",
+    "owner": "dwmkerr",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "shellprogressbar",
+    "owner": "Mpdreamz",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "oqtane.framework",
+    "owner": "oqtane",
+    "stargazers_count": 1230
+  },
+  {
+    "name": "codeformatter",
+    "owner": "dotnet",
+    "stargazers_count": 1227
+  },
+  {
+    "name": "ServiceStack.Text",
+    "owner": "ServiceStack",
+    "stargazers_count": 1226
+  },
+  {
+    "name": "SpotifyAPI-NET",
+    "owner": "JohnnyCrazy",
+    "stargazers_count": 1225
+  },
+  {
+    "name": "SteamBot",
+    "owner": "Jessecar96",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "fungus",
+    "owner": "snozbot",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "Depressurizer",
+    "owner": "Depressurizer",
+    "stargazers_count": 1217
+  },
+  {
+    "name": "awesome-xamarin-forms",
+    "owner": "jsuarezruiz",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "MSBuildStructuredLog",
+    "owner": "KirillOsenkov",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "DSInternals",
+    "owner": "MichaelGrafnetter",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "CliFx",
+    "owner": "Tyrrrz",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "Vanara",
+    "owner": "dahall",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "HttpReports",
+    "owner": "dotnetcore",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "stripe-dotnet",
+    "owner": "stripe",
+    "stargazers_count": 1213
+  },
+  {
+    "name": "DotNetCorePlugins",
+    "owner": "natemcmaster",
+    "stargazers_count": 1211
+  },
+  {
+    "name": "UnityExplorer",
+    "owner": "sinai-dev",
+    "stargazers_count": 1210
+  },
+  {
+    "name": "mockhttp",
+    "owner": "richardszalay",
+    "stargazers_count": 1210
+  },
+  {
+    "name": "System.IO.Abstractions",
+    "owner": "TestableIO",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "UnityGameFramework",
+    "owner": "EllanJiang",
+    "stargazers_count": 1208
+  },
+  {
+    "name": "voat",
+    "owner": "voat",
+    "stargazers_count": 1207
+  },
+  {
+    "name": "LottieXamarin",
+    "owner": "Baseflow",
+    "stargazers_count": 1204
+  },
+  {
+    "name": "SabreCSG",
+    "owner": "sabresaurus",
+    "stargazers_count": 1203
+  },
+  {
+    "name": "YourAV",
+    "owner": "Tlaster",
+    "stargazers_count": 1201
+  },
+  {
+    "name": "Trill",
+    "owner": "microsoft",
+    "stargazers_count": 1200
+  },
+  {
+    "name": "LightShafts",
+    "owner": "robcupisz",
+    "stargazers_count": 1198
+  },
+  {
+    "name": "MelonLoader",
+    "owner": "LavaGang",
+    "stargazers_count": 1194
+  },
+  {
+    "name": "CsWin32",
+    "owner": "microsoft",
+    "stargazers_count": 1193
+  },
+  {
+    "name": "LockstepFramework",
+    "owner": "SnpM",
+    "stargazers_count": 1192
+  },
+  {
+    "name": "Recognizers-Text",
+    "owner": "microsoft",
+    "stargazers_count": 1191
+  },
+  {
+    "name": "AsyncAwaitBestPractices",
+    "owner": "brminnick",
+    "stargazers_count": 1189
+  },
+  {
+    "name": "ACMESharp",
+    "owner": "ebekker",
+    "stargazers_count": 1185
+  },
+  {
+    "name": "odin-serializer",
+    "owner": "TeamSirenix",
+    "stargazers_count": 1351
+  },
+  {
+    "name": "PokemonUnity",
+    "owner": "PokemonUnity",
+    "stargazers_count": 1346
+  },
+  {
+    "name": "loxodon-framework",
+    "owner": "vovgou",
+    "stargazers_count": 1344
+  },
+  {
+    "name": "FakeItEasy",
+    "owner": "FakeItEasy",
+    "stargazers_count": 1343
+  },
+  {
+    "name": "MiniExcel",
+    "owner": "mini-software",
+    "stargazers_count": 1341
+  },
+  {
+    "name": "CDM",
+    "owner": "microsoft",
+    "stargazers_count": 1340
+  },
+  {
+    "name": "MicaForEveryone",
+    "owner": "MicaForEveryone",
+    "stargazers_count": 1339
+  },
+  {
+    "name": "EntityFramework.Extended",
+    "owner": "zzzprojects",
+    "stargazers_count": 1335
+  },
+  {
+    "name": "AutumnBox",
+    "owner": "zsh2401",
+    "stargazers_count": 1335
+  },
+  {
+    "name": "Watson",
+    "owner": "rasta-mouse",
+    "stargazers_count": 1334
+  },
+  {
+    "name": "Simple.Data",
+    "owner": "markrendle",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "duality",
+    "owner": "AdamsLair",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "templating",
+    "owner": "dotnet",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "MissionPlanner",
+    "owner": "ArduPilot",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "Practical.CleanArchitecture",
+    "owner": "phongnguyend",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "BotSharp",
+    "owner": "SciSharp",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "ChocolateyGUI",
+    "owner": "chocolatey",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "MyBox",
+    "owner": "Deadcows",
+    "stargazers_count": 1324
+  },
+  {
+    "name": "cqrs-journey",
+    "owner": "microsoftarchive",
+    "stargazers_count": 1322
+  },
+  {
+    "name": "Dynamo",
+    "owner": "DynamoDS",
+    "stargazers_count": 1320
+  },
+  {
+    "name": "Neutronium",
+    "owner": "NeutroniumCore",
+    "stargazers_count": 1315
+  },
+  {
+    "name": "certify",
+    "owner": "webprofusion",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "xwt",
+    "owner": "mono",
+    "stargazers_count": 1314
+  },
+  {
+    "name": "ImGui.NET",
+    "owner": "mellinoe",
+    "stargazers_count": 1313
+  },
+  {
+    "name": "SEGI",
+    "owner": "sonicether",
+    "stargazers_count": 1312
+  },
+  {
+    "name": "quartzui",
+    "owner": "zhaopeiym",
+    "stargazers_count": 1311
+  },
+  {
+    "name": "ColorHighlighter",
+    "owner": "Monnoroch",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "qmlnet",
+    "owner": "qmlnet",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "Scut",
+    "owner": "ScutGame",
+    "stargazers_count": 1309
+  },
+  {
+    "name": "NetModular",
+    "owner": "iamoldli",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "CSharpRepl",
+    "owner": "waf",
+    "stargazers_count": 1308
+  },
+  {
+    "name": "multiplayer",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1307
+  },
+  {
+    "name": "Unity-Robotics-Hub",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1306
+  },
+  {
+    "name": "UnityIngameDebugConsole",
+    "owner": "yasirkula",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "RazorLight",
+    "owner": "toddams",
+    "stargazers_count": 1305
+  },
+  {
+    "name": "WGestures",
+    "owner": "yingDev",
+    "stargazers_count": 1302
+  },
+  {
+    "name": "ClearScript",
+    "owner": "microsoft",
+    "stargazers_count": 1302
+  },
+  {
+    "name": "DnsServer",
+    "owner": "TechnitiumSoftware",
+    "stargazers_count": 1300
+  },
+  {
+    "name": "roslyn-analyzers",
+    "owner": "dotnet",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "LINQKit",
+    "owner": "scottksmith95",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "ButtFish",
+    "owner": "RonSijm",
+    "stargazers_count": 1299
+  },
+  {
+    "name": "EPPlus",
+    "owner": "EPPlusSoftware",
+    "stargazers_count": 1297
+  },
+  {
+    "name": "cs-script",
+    "owner": "oleg-shilo",
+    "stargazers_count": 1295
+  },
+  {
+    "name": "coyote",
+    "owner": "microsoft",
+    "stargazers_count": 1294
+  },
+  {
+    "name": "job-system-cookbook",
+    "owner": "stella3d",
+    "stargazers_count": 1293
+  },
+  {
+    "name": "JTRP",
+    "owner": "JasonMa0012",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "NatTypeTester",
+    "owner": "HMBSbige",
+    "stargazers_count": 1291
+  },
+  {
+    "name": "SoftMaskForUGUI",
+    "owner": "mob-sakai",
+    "stargazers_count": 1290
+  },
+  {
+    "name": "LettuceEncrypt",
+    "owner": "natemcmaster",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "biliuwp-lite",
+    "owner": "xiaoyaocz",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "aws-lambda-dotnet",
+    "owner": "aws",
+    "stargazers_count": 1288
+  },
+  {
+    "name": "Text-Grab",
+    "owner": "TheJoeFin",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "JustDecompileEngine",
+    "owner": "telerik",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "FluentWPF",
+    "owner": "sourcechord",
+    "stargazers_count": 1287
+  },
+  {
+    "name": "HtmlSanitizer",
+    "owner": "mganss",
+    "stargazers_count": 1284
+  },
+  {
+    "name": "2d-extras",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1284
+  },
+  {
+    "name": "embedio",
+    "owner": "unosquare",
+    "stargazers_count": 1283
+  },
+  {
+    "name": "Lasp",
+    "owner": "keijiro",
+    "stargazers_count": 1282
+  },
+  {
+    "name": "Animation-Instancing",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1282
+  },
+  {
+    "name": "Netling",
+    "owner": "hallatore",
+    "stargazers_count": 1281
+  },
+  {
+    "name": "SunnyUI",
+    "owner": "yhuse",
+    "stargazers_count": 1280
+  },
+  {
+    "name": "AggressorScripts",
+    "owner": "harleyQu1nn",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "Unity3d-Finite-State-Machine",
+    "owner": "thefuntastic",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "ReClass.NET",
+    "owner": "ReClassNET",
+    "stargazers_count": 1273
+  },
+  {
+    "name": "Prism-Samples-Wpf",
+    "owner": "PrismLibrary",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "Windows11Upgrade",
+    "owner": "coofcookie",
+    "stargazers_count": 1269
+  },
+  {
+    "name": "LenovoLegionToolkit",
+    "owner": "BartoszCichecki",
+    "stargazers_count": 1266
+  },
+  {
+    "name": "openrpa",
+    "owner": "open-rpa",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "gInk",
+    "owner": "geovens",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "InputSystem",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1263
+  },
+  {
+    "name": "TileIconifier",
+    "owner": "Jonno12345",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "NRules",
+    "owner": "NRules",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "RetroBar",
+    "owner": "dremin",
+    "stargazers_count": 1261
+  },
+  {
+    "name": "ZString",
+    "owner": "Cysharp",
+    "stargazers_count": 1259
+  },
+  {
+    "name": "AtomOS",
+    "owner": "amaneureka",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "Pinta",
+    "owner": "PintaProject",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "Terraria-Map-Editor",
+    "owner": "TEdit",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "WebApiThrottle",
+    "owner": "stefanprodan",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "LevelEditor",
+    "owner": "SonyWWS",
+    "stargazers_count": 1254
+  },
+  {
+    "name": "Unity.Mathematics",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1250
+  },
+  {
+    "name": "itextsharp",
+    "owner": "itext",
+    "stargazers_count": 1248
+  },
+  {
+    "name": "Security",
+    "owner": "aspnet",
+    "stargazers_count": 1245
+  },
+  {
+    "name": "PowerForensics",
+    "owner": "Invoke-IR",
+    "stargazers_count": 1244
+  },
+  {
+    "name": "DncZeus",
+    "owner": "lampo1024",
+    "stargazers_count": 1242
+  },
+  {
+    "name": "sharpshell",
+    "owner": "dwmkerr",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "shellprogressbar",
+    "owner": "Mpdreamz",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "osu-framework",
+    "owner": "ppy",
+    "stargazers_count": 1234
+  },
+  {
+    "name": "oqtane.framework",
+    "owner": "oqtane",
+    "stargazers_count": 1230
+  },
+  {
+    "name": "codeformatter",
+    "owner": "dotnet",
+    "stargazers_count": 1227
+  },
+  {
+    "name": "ServiceStack.Text",
+    "owner": "ServiceStack",
+    "stargazers_count": 1226
+  },
+  {
+    "name": "SpotifyAPI-NET",
+    "owner": "JohnnyCrazy",
+    "stargazers_count": 1225
+  },
+  {
+    "name": "SteamBot",
+    "owner": "Jessecar96",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "fungus",
+    "owner": "snozbot",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "Depressurizer",
+    "owner": "Depressurizer",
+    "stargazers_count": 1217
+  },
+  {
+    "name": "awesome-xamarin-forms",
+    "owner": "jsuarezruiz",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "MSBuildStructuredLog",
+    "owner": "KirillOsenkov",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "DSInternals",
+    "owner": "MichaelGrafnetter",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "CliFx",
+    "owner": "Tyrrrz",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "Vanara",
+    "owner": "dahall",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "HttpReports",
+    "owner": "dotnetcore",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "Slime-Simulation",
+    "owner": "SebLague",
+    "stargazers_count": 1057
+  },
+  {
+    "name": "FileHelpers",
+    "owner": "MarcosMeli",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "Squalr",
+    "owner": "Squalr",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "taglib-sharp",
+    "owner": "mono",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "C-Sharp-Promise",
+    "owner": "Real-Serious-Games",
+    "stargazers_count": 1054
+  },
+  {
+    "name": "HslCommunication",
+    "owner": "dathlin",
+    "stargazers_count": 1053
+  },
+  {
+    "name": "IPBan",
+    "owner": "DigitalRuby",
+    "stargazers_count": 1051
+  },
+  {
+    "name": "workspacer",
+    "owner": "workspacer",
+    "stargazers_count": 1050
+  },
+  {
+    "name": "ZXing.Net.Mobile",
+    "owner": "Redth",
+    "stargazers_count": 1047
+  },
+  {
+    "name": "BeetleX",
+    "owner": "beetlex-io",
+    "stargazers_count": 1045
+  },
+  {
+    "name": "CSharp.lua",
+    "owner": "yanghuan",
+    "stargazers_count": 1044
+  },
+  {
+    "name": "Dapper.SimpleCRUD",
+    "owner": "ericdc1",
+    "stargazers_count": 1042
+  },
+  {
+    "name": "OpenAPI.NET",
+    "owner": "microsoft",
+    "stargazers_count": 1042
+  },
+  {
+    "name": "unityassets",
+    "owner": "fholm",
+    "stargazers_count": 1042
+  },
+  {
+    "name": "AudioSwitch",
+    "owner": "sirWest",
+    "stargazers_count": 1040
+  },
+  {
+    "name": "XboxDownload",
+    "owner": "skydevil88",
+    "stargazers_count": 1040
+  },
+  {
+    "name": "com.unity.multiplayer.samples.coop",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1038
+  },
+  {
+    "name": "azure-functions-core-tools",
+    "owner": "Azure",
+    "stargazers_count": 1037
+  },
+  {
+    "name": "BrowserGhost",
+    "owner": "QAX-A-Team",
+    "stargazers_count": 1037
+  },
+  {
+    "name": "ShaderGraphExamples",
+    "owner": "keijiro",
+    "stargazers_count": 1036
+  },
+  {
+    "name": "microsoft-authentication-library-for-dotnet",
+    "owner": "AzureAD",
+    "stargazers_count": 1033
+  },
+  {
+    "name": "LinqToExcel",
+    "owner": "paulyoder",
+    "stargazers_count": 1028
+  },
+  {
+    "name": "WindowsCompositionSamples",
+    "owner": "microsoft",
+    "stargazers_count": 1027
+  },
+  {
+    "name": "yessql",
+    "owner": "sebastienros",
+    "stargazers_count": 1027
+  },
+  {
+    "name": "iSpy",
+    "owner": "ispysoftware",
+    "stargazers_count": 1025
+  },
+  {
+    "name": "saaskit",
+    "owner": "saaskit",
+    "stargazers_count": 1024
+  },
+  {
+    "name": "Disruptor-net",
+    "owner": "disruptor-net",
+    "stargazers_count": 1024
+  },
+  {
+    "name": "fullserializer",
+    "owner": "jacobdufault",
+    "stargazers_count": 1021
+  },
+  {
+    "name": "skynet",
+    "owner": "atemerev",
+    "stargazers_count": 1019
+  },
+  {
+    "name": "White",
+    "owner": "TestStack",
+    "stargazers_count": 1019
+  },
+  {
+    "name": "fast-blazor",
+    "owner": "microsoft",
+    "stargazers_count": 1019
+  },
+  {
+    "name": "MarkdownViewerPlusPlus",
+    "owner": "nea",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "TwitchDownloader",
+    "owner": "lay295",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "DotNetToJScript",
+    "owner": "tyranid",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "XMusicDownloader",
+    "owner": "jadepeng",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "OffensiveCSharp",
+    "owner": "matterpreter",
+    "stargazers_count": 1018
+  },
+  {
+    "name": "CSGO-Demos-Manager",
+    "owner": "akiver",
+    "stargazers_count": 1017
+  },
+  {
+    "name": "unity-toolbar-extender",
+    "owner": "marijnz",
+    "stargazers_count": 1016
+  },
+  {
+    "name": "AI-Programmer",
+    "owner": "primaryobjects",
+    "stargazers_count": 1015
+  },
+  {
+    "name": "AssetGraph",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 1009
+  },
+  {
+    "name": "RestClient",
+    "owner": "proyecto26",
+    "stargazers_count": 1009
+  },
+  {
+    "name": "Unite2017",
+    "owner": "roboryantron",
+    "stargazers_count": 1007
+  },
+  {
+    "name": "CSharp-From-Zero-To-Hero",
+    "owner": "Almantask",
+    "stargazers_count": 1007
+  },
+  {
+    "name": "InkPainter",
+    "owner": "EsProgram",
+    "stargazers_count": 1007
+  },
+  {
+    "name": "AvaloniaILSpy",
+    "owner": "icsharpcode",
+    "stargazers_count": 1007
+  },
+  {
+    "name": "Z.ExtensionMethods",
+    "owner": "zzzprojects",
+    "stargazers_count": 1006
+  },
+  {
+    "name": "GithubXamarin",
+    "owner": "prajjwaldimri",
+    "stargazers_count": 1006
+  },
+  {
+    "name": "UWPHook",
+    "owner": "BrianLima",
+    "stargazers_count": 1006
+  },
+  {
+    "name": "Axiom",
+    "owner": "MattMcManis",
+    "stargazers_count": 1005
+  },
+  {
+    "name": "CQRSlite",
+    "owner": "gautema",
+    "stargazers_count": 1004
+  },
+  {
+    "name": "High-Speed-Priority-Queue-for-C-Sharp",
+    "owner": "BlueRaja",
+    "stargazers_count": 1001
+  },
+  {
+    "name": "repkg",
+    "owner": "notscuffed",
+    "stargazers_count": 1001
+  },
+  {
+    "name": "Todos",
+    "owner": "davidfowl",
+    "stargazers_count": 997
+  },
+  {
+    "name": "ResXResourceManager",
+    "owner": "dotnet",
+    "stargazers_count": 995
+  },
+  {
+    "name": "Pix2Pix",
+    "owner": "keijiro",
+    "stargazers_count": 995
+  },
+  {
+    "name": "pose",
+    "owner": "tonerdo",
+    "stargazers_count": 994
+  },
+  {
+    "name": "serilog-aspnetcore",
+    "owner": "serilog",
+    "stargazers_count": 993
+  },
+  {
+    "name": "MappingGenerator",
+    "owner": "cezarypiatek",
+    "stargazers_count": 993
+  },
+  {
+    "name": "Imgbot",
+    "owner": "imgbot",
+    "stargazers_count": 993
+  },
+  {
+    "name": "APK-Installer",
+    "owner": "Paving-Base",
+    "stargazers_count": 992
+  },
+  {
+    "name": "TLSharp",
+    "owner": "sochix",
+    "stargazers_count": 991
+  },
+  {
+    "name": "try-convert",
+    "owner": "dotnet",
+    "stargazers_count": 991
+  },
+  {
+    "name": "SmartTaskbar",
+    "owner": "ChanpleCai",
+    "stargazers_count": 987
+  },
+  {
+    "name": "sharppcap",
+    "owner": "dotpcap",
+    "stargazers_count": 987
+  },
+  {
+    "name": "CommonMark.NET",
+    "owner": "Knagis",
+    "stargazers_count": 985
+  },
+  {
+    "name": "CsprojToVs2017",
+    "owner": "hvanbakel",
+    "stargazers_count": 985
+  },
+  {
+    "name": "Snip",
+    "owner": "dlrudie",
+    "stargazers_count": 984
+  },
+  {
+    "name": "essential-ui-kit-for-xamarin.forms",
+    "owner": "syncfusion",
+    "stargazers_count": 984
+  },
+  {
+    "name": "CharacterController2D",
+    "owner": "prime31",
+    "stargazers_count": 983
+  },
+  {
+    "name": "open3mod",
+    "owner": "acgessler",
+    "stargazers_count": 981
+  },
+  {
+    "name": "AvalonDock",
+    "owner": "Dirkster99",
+    "stargazers_count": 979
+  },
+  {
+    "name": "dotnet-apiport",
+    "owner": "microsoft",
+    "stargazers_count": 979
+  },
+  {
+    "name": "HostsFileEditor",
+    "owner": "scottlerch",
+    "stargazers_count": 978
+  },
+  {
+    "name": "SafetyKatz",
+    "owner": "GhostPack",
+    "stargazers_count": 976
+  },
+  {
+    "name": "sendgrid-csharp",
+    "owner": "sendgrid",
+    "stargazers_count": 976
+  },
+  {
+    "name": "unity-design-patterns",
+    "owner": "Naphier",
+    "stargazers_count": 975
+  },
+  {
+    "name": "Unity-Editor-Toolbox",
+    "owner": "arimger",
+    "stargazers_count": 975
+  },
+  {
+    "name": "C5",
+    "owner": "sestoft",
+    "stargazers_count": 972
+  },
+  {
+    "name": "C-sharp-console-gui-framework",
+    "owner": "TomaszRewak",
+    "stargazers_count": 972
+  },
+  {
+    "name": "akka-bootcamp",
+    "owner": "petabridge",
+    "stargazers_count": 970
+  },
+  {
+    "name": "MediaPipeUnityPlugin",
+    "owner": "homuler",
+    "stargazers_count": 970
+  },
+  {
+    "name": "dnscrypt-win-client",
+    "owner": "opendns",
+    "stargazers_count": 969
+  },
+  {
+    "name": "ExcelDna",
+    "owner": "Excel-DNA",
+    "stargazers_count": 969
+  },
+  {
+    "name": "gemini",
+    "owner": "tgjones",
+    "stargazers_count": 968
+  },
+  {
+    "name": "CoreWF",
+    "owner": "UiPath",
+    "stargazers_count": 968
+  },
+  {
+    "name": "ffmediaelement",
+    "owner": "unosquare",
+    "stargazers_count": 968
+  },
+  {
+    "name": "Sharp-Suite",
+    "owner": "FuzzySecurity",
+    "stargazers_count": 967
+  },
+  {
+    "name": "space-station-14",
+    "owner": "space-wizards",
+    "stargazers_count": 966
+  },
+  {
+    "name": "SpriteDicing",
+    "owner": "Elringus",
+    "stargazers_count": 965
+  },
+  {
+    "name": "FastTunnel",
+    "owner": "FastTunnel",
+    "stargazers_count": 965
+  },
+  {
+    "name": "FFMpegCore",
+    "owner": "rosenbjerg",
+    "stargazers_count": 963
+  },
+  {
+    "name": "ProjectPSX",
+    "owner": "BluestormDNA",
+    "stargazers_count": 957
+  },
+  {
+    "name": "FFmpeg.AutoGen",
+    "owner": "Ruslan-B",
+    "stargazers_count": 956
+  },
+  {
+    "name": "lessmsi",
+    "owner": "activescott",
+    "stargazers_count": 956
+  },
+  {
+    "name": "WOA-Deployer-Rpi",
+    "owner": "WOA-Project",
+    "stargazers_count": 955
+  },
+  {
+    "name": "WebEssentials2013",
+    "owner": "madskristensen",
+    "stargazers_count": 954
+  },
+  {
+    "name": "AuthenticatorPro",
+    "owner": "jamie-mh",
+    "stargazers_count": 953
+  },
+  {
+    "name": "EasyHttp",
+    "owner": "EasyHttp",
+    "stargazers_count": 953
+  },
+  {
+    "name": "tweetinvi",
+    "owner": "linvi",
+    "stargazers_count": 952
+  },
+  {
+    "name": "UnityRenderStreaming",
+    "owner": "Unity-Technologies",
+    "stargazers_count": 950
+  }
+]

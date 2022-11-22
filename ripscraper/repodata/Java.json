@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "JavaGuide",
+    "owner": "Snailclimb",
+    "stargazers_count": 128768
+  },
+  {
+    "name": "LeetCodeAnimation",
+    "owner": "MisterBooo",
+    "stargazers_count": 71895
+  },
+  {
+    "name": "advanced-java",
+    "owner": "doocs",
+    "stargazers_count": 67625
+  },
+  {
+    "name": "spring-boot",
+    "owner": "spring-projects",
+    "stargazers_count": 64135
+  },
+  {
+    "name": "RxJava",
+    "owner": "ReactiveX",
+    "stargazers_count": 46648
+  },
+  {
+    "name": "guava",
+    "owner": "google",
+    "stargazers_count": 46188
+  },
+  {
+    "name": "tutorials",
+    "owner": "eugenp",
+    "stargazers_count": 32540
+  },
+  {
+    "name": "AndroidUtilCode",
+    "owner": "Blankj",
+    "stargazers_count": 31582
+  },
+  {
+    "name": "hello-algorithm",
+    "owner": "geekxh",
+    "stargazers_count": 31576
+  },
+  {
+    "name": "arthas",
+    "owner": "alibaba",
+    "stargazers_count": 31071
+  },
+  {
+    "name": "apollo",
+    "owner": "apolloconfig",
+    "stargazers_count": 27499
+  },
+  {
+    "name": "proxyee-down",
+    "owner": "proxyee-down-org",
+    "stargazers_count": 25155
+  },
+  {
+    "name": "canal",
+    "owner": "alibaba",
+    "stargazers_count": 24514
+  },
+  {
+    "name": "Hystrix",
+    "owner": "Netflix",
+    "stargazers_count": 23040
+  },
+  {
+    "name": "xxl-job",
+    "owner": "xuxueli",
+    "stargazers_count": 23035
+  },
+  {
+    "name": "Signal-Android",
+    "owner": "signalapp",
+    "stargazers_count": 23031
+  },
+  {
+    "name": "libgdx",
+    "owner": "libgdx",
+    "stargazers_count": 20761
+  },
+  {
+    "name": "Sentinel",
+    "owner": "alibaba",
+    "stargazers_count": 20172
+  },
+  {
+    "name": "redisson",
+    "owner": "redisson",
+    "stargazers_count": 20157
+  },
+  {
+    "name": "bazel",
+    "owner": "bazelbuild",
+    "stargazers_count": 19745
+  },
+  {
+    "name": "DoKit",
+    "owner": "didi",
+    "stargazers_count": 19176
+  },
+  {
+    "name": "GSYVideoPlayer",
+    "owner": "CarGuo",
+    "stargazers_count": 17991
+  },
+  {
+    "name": "graal",
+    "owner": "oracle",
+    "stargazers_count": 17819
+  },
+  {
+    "name": "SpringCloudLearning",
+    "owner": "forezp",
+    "stargazers_count": 16985
+  },
+  {
+    "name": "fresco",
+    "owner": "facebook",
+    "stargazers_count": 16888
+  },
+  {
+    "name": "Android-Universal-Image-Loader",
+    "owner": "nostra13",
+    "stargazers_count": 16803
+  },
+  {
+    "name": "zheng",
+    "owner": "shuzheng",
+    "stargazers_count": 16386
+  },
+  {
+    "name": "java8-tutorial",
+    "owner": "winterbe",
+    "stargazers_count": 16059
+  },
+  {
+    "name": "SpringBoot-Learning",
+    "owner": "dyc87112",
+    "stargazers_count": 14842
+  },
+  {
+    "name": "logger",
+    "owner": "orhanobut",
+    "stargazers_count": 13463
+  },
+  {
+    "name": "antlr4",
+    "owner": "antlr",
+    "stargazers_count": 13341
+  },
+  {
+    "name": "Arduino",
+    "owner": "arduino",
+    "stargazers_count": 13278
+  },
+  {
+    "name": "vert.x",
+    "owner": "eclipse-vertx",
+    "stargazers_count": 13265
+  },
+  {
+    "name": "AndroidAutoSize",
+    "owner": "JessYanCoding",
+    "stargazers_count": 12737
+  },
+  {
+    "name": "thingsboard",
+    "owner": "thingsboard",
+    "stargazers_count": 12672
+  },
+  {
+    "name": "stetho",
+    "owner": "facebook",
+    "stargazers_count": 12608
+  },
+  {
+    "name": "pinpoint",
+    "owner": "pinpoint-apm",
+    "stargazers_count": 12474
+  },
+  {
+    "name": "Matisse",
+    "owner": "zhihu",
+    "stargazers_count": 12351
+  },
+  {
+    "name": "jib",
+    "owner": "GoogleContainerTools",
+    "stargazers_count": 12327
+  },
+  {
+    "name": "spring-analysis",
+    "owner": "seaswalker",
+    "stargazers_count": 12136
+  },
+  {
+    "name": "lombok",
+    "owner": "projectlombok",
+    "stargazers_count": 11606
+  },
+  {
+    "name": "mall-learning",
+    "owner": "macrozheng",
+    "stargazers_count": 11538
+  },
+  {
+    "name": "uCrop",
+    "owner": "Yalantis",
+    "stargazers_count": 11369
+  },
+  {
+    "name": "realm-java",
+    "owner": "realm",
+    "stargazers_count": 11340
+  },
+  {
+    "name": "androidannotations",
+    "owner": "androidannotations",
+    "stargazers_count": 11156
+  },
+  {
+    "name": "SlidingMenu",
+    "owner": "jfeinstein10",
+    "stargazers_count": 11145
+  },
+  {
+    "name": "FileDownloader",
+    "owner": "lingochamp",
+    "stargazers_count": 10677
+  },
+  {
+    "name": "neo4j",
+    "owner": "neo4j",
+    "stargazers_count": 10646
+  },
+  {
+    "name": "android-async-http",
+    "owner": "android-async-http",
+    "stargazers_count": 10645
+  },
+  {
+    "name": "ImmersionBar",
+    "owner": "gyf-dev",
+    "stargazers_count": 10579
+  },
+  {
+    "name": "okhttp-OkGo",
+    "owner": "jeasonlzy",
+    "stargazers_count": 10472
+  },
+  {
+    "name": "RxPermissions",
+    "owner": "tbruyelle",
+    "stargazers_count": 10386
+  },
+  {
+    "name": "SmarterStreaming",
+    "owner": "daniulive",
+    "stargazers_count": 10284
+  },
+  {
+    "name": "Fragmentation",
+    "owner": "YoKeyword",
+    "stargazers_count": 9729
+  },
+  {
+    "name": "glide-transformations",
+    "owner": "wasabeef",
+    "stargazers_count": 9715
+  },
+  {
+    "name": "AVLoadingIndicatorView",
+    "owner": "HarlonWang",
+    "stargazers_count": 9671
+  },
+  {
+    "name": "paascloud-master",
+    "owner": "paascloud",
+    "stargazers_count": 9485
+  },
+  {
+    "name": "newbee-mall",
+    "owner": "newbee-ltd",
+    "stargazers_count": 9461
+  },
+  {
+    "name": "android-interview-questions",
+    "owner": "amitshekhariitbhu",
+    "stargazers_count": 9421
+  },
+  {
+    "name": "dolphinscheduler",
+    "owner": "apache",
+    "stargazers_count": 9396
+  },
+  {
+    "name": "Mycat-Server",
+    "owner": "MyCATApache",
+    "stargazers_count": 9357
+  },
+  {
+    "name": "VirtualApp",
+    "owner": "asLody",
+    "stargazers_count": 8997
+  },
+  {
+    "name": "storm",
+    "owner": "nathanmarz",
+    "stargazers_count": 8891
+  },
+  {
+    "name": "AndroidNote",
+    "owner": "GcsSloop",
+    "stargazers_count": 8763
+  },
+  {
+    "name": "AgentWeb",
+    "owner": "Justson",
+    "stargazers_count": 8699
+  },
+  {
+    "name": "android-gpuimage",
+    "owner": "cats-oss",
+    "stargazers_count": 8548
+  },
+  {
+    "name": "metersphere",
+    "owner": "metersphere",
+    "stargazers_count": 8516
+  },
+  {
+    "name": "cryptomator",
+    "owner": "cryptomator",
+    "stargazers_count": 8457
+  },
+  {
+    "name": "Android-SpinKit",
+    "owner": "ybq",
+    "stargazers_count": 8315
+  },
+  {
+    "name": "dropwizard",
+    "owner": "dropwizard",
+    "stargazers_count": 8309
+  },
+  {
+    "name": "dataease",
+    "owner": "dataease",
+    "stargazers_count": 8230
+  },
+  {
+    "name": "Android-Debug-Database",
+    "owner": "amitshekhariitbhu",
+    "stargazers_count": 8092
+  },
+  {
+    "name": "atlas",
+    "owner": "alibaba",
+    "stargazers_count": 8073
+  },
+  {
+    "name": "SmartTubeNext",
+    "owner": "yuliskov",
+    "stargazers_count": 7963
+  },
+  {
+    "name": "Signal-Server",
+    "owner": "signalapp",
+    "stargazers_count": 7943
+  },
+  {
+    "name": "LitePal",
+    "owner": "guolindev",
+    "stargazers_count": 7905
+  },
+  {
+    "name": "material-theme-jetbrains",
+    "owner": "ChrisRM",
+    "stargazers_count": 7905
+  },
+  {
+    "name": "hugo",
+    "owner": "JakeWharton",
+    "stargazers_count": 7848
+  },
+  {
+    "name": "react-native-image-picker",
+    "owner": "react-native-image-picker",
+    "stargazers_count": 7799
+  },
+  {
+    "name": "languagetool",
+    "owner": "languagetool-org",
+    "stargazers_count": 7777
+  },
+  {
+    "name": "shardingsphere-elasticjob",
+    "owner": "apache",
+    "stargazers_count": 7743
+  },
+  {
+    "name": "ruoyi-vue-pro",
+    "owner": "YunaiV",
+    "stargazers_count": 7664
+  },
+  {
+    "name": "metrics",
+    "owner": "dropwizard",
+    "stargazers_count": 7650
+  },
+  {
+    "name": "UltimateAndroidReference",
+    "owner": "aritraroy",
+    "stargazers_count": 7597
+  },
+  {
+    "name": "supertokens-core",
+    "owner": "supertokens",
+    "stargazers_count": 7559
+  },
+  {
+    "name": "spider-flow",
+    "owner": "ssssssss-team",
+    "stargazers_count": 7430
+  },
+  {
+    "name": "EhViewer",
+    "owner": "seven332",
+    "stargazers_count": 7402
+  },
+  {
+    "name": "vjtools",
+    "owner": "vipshop",
+    "stargazers_count": 7369
+  },
+  {
+    "name": "hellocharts-android",
+    "owner": "lecho",
+    "stargazers_count": 7349
+  },
+  {
+    "name": "UltimateRecyclerView",
+    "owner": "cymcsg",
+    "stargazers_count": 7238
+  },
+  {
+    "name": "ShortcutBadger",
+    "owner": "leolin310148",
+    "stargazers_count": 7226
+  },
+  {
+    "name": "android-classyshark",
+    "owner": "google",
+    "stargazers_count": 7207
+  },
+  {
+    "name": "ActionBarSherlock",
+    "owner": "JakeWharton",
+    "stargazers_count": 7136
+  },
+  {
+    "name": "plantuml",
+    "owner": "plantuml",
+    "stargazers_count": 7055
+  },
+  {
+    "name": "okhttputils",
+    "owner": "hongyangAndroid",
+    "stargazers_count": 6861
+  },
+  {
+    "name": "flyway",
+    "owner": "flyway",
+    "stargazers_count": 6844
+  },
+  {
+    "name": "xmall",
+    "owner": "Exrick",
+    "stargazers_count": 6790
+  },
+  {
+    "name": "VBlog",
+    "owner": "lenve",
+    "stargazers_count": 6758
+  },
+  {
+    "name": "DroidPlugin",
+    "owner": "DroidPluginTeam",
+    "stargazers_count": 6755
+  },
+  {
+    "name": "AndroidAutoLayout",
+    "owner": "hongyangAndroid",
+    "stargazers_count": 6690
+  },
+  {
+    "name": "sticky-headers-recyclerview",
+    "owner": "timehop",
+    "stargazers_count": 3741
+  },
+  {
+    "name": "tiny-spring",
+    "owner": "code4craft",
+    "stargazers_count": 3741
+  },
+  {
+    "name": "--",
+    "owner": "981011512",
+    "stargazers_count": 3723
+  },
+  {
+    "name": "javassist",
+    "owner": "jboss-javassist",
+    "stargazers_count": 3690
+  },
+  {
+    "name": "MarqueeView",
+    "owner": "sunfusheng",
+    "stargazers_count": 3684
+  },
+  {
+    "name": "tech-weekly",
+    "owner": "mercyblitz",
+    "stargazers_count": 3657
+  },
+  {
+    "name": "ExplosionField",
+    "owner": "tyrantgit",
+    "stargazers_count": 3585
+  },
+  {
+    "name": "android-stackblur",
+    "owner": "kikoso",
+    "stargazers_count": 3579
+  },
+  {
+    "name": "rejoiner",
+    "owner": "google",
+    "stargazers_count": 3578
+  },
+  {
+    "name": "Store",
+    "owner": "nytimes",
+    "stargazers_count": 3563
+  },
+  {
+    "name": "SwipeMenuListView",
+    "owner": "baoyongzhang",
+    "stargazers_count": 3513
+  },
+  {
+    "name": "hackpad",
+    "owner": "dropbox",
+    "stargazers_count": 3497
+  },
+  {
+    "name": "calcite",
+    "owner": "apache",
+    "stargazers_count": 3492
+  },
+  {
+    "name": "Leetcode",
+    "owner": "fishercoder1534",
+    "stargazers_count": 3442
+  },
+  {
+    "name": "SSM",
+    "owner": "crossoverJie",
+    "stargazers_count": 3427
+  },
+  {
+    "name": "android-butterknife-zelezny",
+    "owner": "avast",
+    "stargazers_count": 3415
+  },
+  {
+    "name": "OsmAnd",
+    "owner": "osmandapp",
+    "stargazers_count": 3401
+  },
+  {
+    "name": "maven",
+    "owner": "apache",
+    "stargazers_count": 3358
+  },
+  {
+    "name": "MyBatis-Spring-Boot",
+    "owner": "abel533",
+    "stargazers_count": 3347
+  },
+  {
+    "name": "Android",
+    "owner": "hmkcode",
+    "stargazers_count": 3333
+  },
+  {
+    "name": "LoadSir",
+    "owner": "KingJA",
+    "stargazers_count": 3309
+  },
+  {
+    "name": "MifareClassicTool",
+    "owner": "ikarus23",
+    "stargazers_count": 3266
+  },
+  {
+    "name": "undertow",
+    "owner": "undertow-io",
+    "stargazers_count": 3258
+  },
+  {
+    "name": "SuperTextView",
+    "owner": "chenBingX",
+    "stargazers_count": 3250
+  },
+  {
+    "name": "android-hidden-api",
+    "owner": "anggrayudi",
+    "stargazers_count": 3232
+  },
+  {
+    "name": "GalleryFinal",
+    "owner": "pengjianbo",
+    "stargazers_count": 3198
+  },
+  {
+    "name": "immutables",
+    "owner": "immutables",
+    "stargazers_count": 3184
+  },
+  {
+    "name": "pixel-dungeon",
+    "owner": "watabou",
+    "stargazers_count": 3179
+  },
+  {
+    "name": "native-navigation",
+    "owner": "airbnb",
+    "stargazers_count": 3133
+  },
+  {
+    "name": "ViewpagerTransition",
+    "owner": "xmuSistone",
+    "stargazers_count": 3037
+  },
+  {
+    "name": "android-viewbadger",
+    "owner": "jgilfelt",
+    "stargazers_count": 3028
+  },
+  {
+    "name": "LikeButton",
+    "owner": "jd-alexander",
+    "stargazers_count": 3001
+  },
+  {
+    "name": "react-native-fbsdk",
+    "owner": "facebookarchive",
+    "stargazers_count": 2998
+  },
+  {
+    "name": "camunda-bpm-platform",
+    "owner": "camunda",
+    "stargazers_count": 2994
+  },
+  {
+    "name": "SlidingRootNav",
+    "owner": "yarolegovich",
+    "stargazers_count": 2981
+  },
+  {
+    "name": "spotless",
+    "owner": "diffplug",
+    "stargazers_count": 2973
+  },
+  {
+    "name": "serve",
+    "owner": "pytorch",
+    "stargazers_count": 2972
+  },
+  {
+    "name": "logging-log4j2",
+    "owner": "apache",
+    "stargazers_count": 2969
+  },
+  {
+    "name": "Nuwa",
+    "owner": "jasonross",
+    "stargazers_count": 2966
+  },
+  {
+    "name": "light-task-scheduler",
+    "owner": "ltsopensource",
+    "stargazers_count": 2964
+  },
+  {
+    "name": "jwt-spring-security-demo",
+    "owner": "szerhusenBC",
+    "stargazers_count": 2957
+  },
+  {
+    "name": "kestra",
+    "owner": "kestra-io",
+    "stargazers_count": 2925
+  },
+  {
+    "name": "android-vision",
+    "owner": "googlesamples",
+    "stargazers_count": 2910
+  },
+  {
+    "name": "jersey",
+    "owner": "javaee",
+    "stargazers_count": 2903
+  },
+  {
+    "name": "spotbugs",
+    "owner": "spotbugs",
+    "stargazers_count": 2887
+  },
+  {
+    "name": "FlyRefresh",
+    "owner": "race604",
+    "stargazers_count": 2863
+  },
+  {
+    "name": "RxJava2Examples",
+    "owner": "nanchen2251",
+    "stargazers_count": 2855
+  },
+  {
+    "name": "Android-Material-Examples",
+    "owner": "saulmm",
+    "stargazers_count": 2849
+  },
+  {
+    "name": "android-flip",
+    "owner": "openaphid",
+    "stargazers_count": 2848
+  },
+  {
+    "name": "screw",
+    "owner": "pingfangushi",
+    "stargazers_count": 2822
+  },
+  {
+    "name": "optaplanner",
+    "owner": "kiegroup",
+    "stargazers_count": 2803
+  },
+  {
+    "name": "MusicDNA",
+    "owner": "harjot-oberai",
+    "stargazers_count": 2773
+  },
+  {
+    "name": "awesome-android-complete-reference",
+    "owner": "amitshekhariitbhu",
+    "stargazers_count": 2770
+  },
+  {
+    "name": "best-pay-sdk",
+    "owner": "Pay-Group",
+    "stargazers_count": 2759
+  },
+  {
+    "name": "overscroll-decor",
+    "owner": "EverythingMe",
+    "stargazers_count": 2751
+  },
+  {
+    "name": "spring-native",
+    "owner": "spring-projects-experimental",
+    "stargazers_count": 2743
+  },
+  {
+    "name": "javamelody",
+    "owner": "javamelody",
+    "stargazers_count": 2730
+  },
+  {
+    "name": "KenBurnsView",
+    "owner": "flavioarfaria",
+    "stargazers_count": 2713
+  },
+  {
+    "name": "ByteX",
+    "owner": "bytedance",
+    "stargazers_count": 2702
+  },
+  {
+    "name": "webporter",
+    "owner": "brianway",
+    "stargazers_count": 2692
+  },
+  {
+    "name": "500px-android-blur",
+    "owner": "500px",
+    "stargazers_count": 2688
+  },
+  {
+    "name": "Slidr",
+    "owner": "r0adkll",
+    "stargazers_count": 2664
+  },
+  {
+    "name": "ProgressWheel",
+    "owner": "Todd-Davies",
+    "stargazers_count": 2659
+  },
+  {
+    "name": "sugar",
+    "owner": "chennaione",
+    "stargazers_count": 2640
+  },
+  {
+    "name": "WorldEdit",
+    "owner": "EngineHub",
+    "stargazers_count": 2619
+  },
+  {
+    "name": "google-signin",
+    "owner": "react-native-google-signin",
+    "stargazers_count": 2607
+  },
+  {
+    "name": "MasteringAndroidDataBinding",
+    "owner": "liangfeidotme",
+    "stargazers_count": 2603
+  },
+  {
+    "name": "android-ConstraintLayoutExamples",
+    "owner": "googlearchive",
+    "stargazers_count": 2579
+  },
+  {
+    "name": "wycheproof",
+    "owner": "google",
+    "stargazers_count": 2572
+  },
+  {
+    "name": "fnlp",
+    "owner": "FudanNLP",
+    "stargazers_count": 2549
+  },
+  {
+    "name": "mini-spring",
+    "owner": "DerekYRC",
+    "stargazers_count": 2536
+  },
+  {
+    "name": "javacore",
+    "owner": "dunwu",
+    "stargazers_count": 2532
+  },
+  {
+    "name": "Zebra",
+    "owner": "Meituan-Dianping",
+    "stargazers_count": 2517
+  },
+  {
+    "name": "mongo-java-driver",
+    "owner": "mongodb",
+    "stargazers_count": 2516
+  },
+  {
+    "name": "Android-ItemTouchHelper-Demo",
+    "owner": "iPaulPro",
+    "stargazers_count": 2515
+  },
+  {
+    "name": "cucumber-jvm",
+    "owner": "cucumber",
+    "stargazers_count": 2509
+  },
+  {
+    "name": "spring-data-jpa",
+    "owner": "spring-projects",
+    "stargazers_count": 2493
+  },
+  {
+    "name": "AndroidGodEye",
+    "owner": "Kyson",
+    "stargazers_count": 2491
+  },
+  {
+    "name": "AppMethodOrder",
+    "owner": "zjw-swun",
+    "stargazers_count": 2488
+  },
+  {
+    "name": "android-pulltorefresh",
+    "owner": "johannilsson",
+    "stargazers_count": 2478
+  },
+  {
+    "name": "Telecine",
+    "owner": "JakeWharton",
+    "stargazers_count": 2477
+  },
+  {
+    "name": "netty-learning-example",
+    "owner": "sanshengshui",
+    "stargazers_count": 2470
+  },
+  {
+    "name": "Iris",
+    "owner": "IrisShaders",
+    "stargazers_count": 2469
+  },
+  {
+    "name": "AndroidPhotoFilters",
+    "owner": "Zomato",
+    "stargazers_count": 2468
+  },
+  {
+    "name": "jmx_exporter",
+    "owner": "prometheus",
+    "stargazers_count": 2453
+  },
+  {
+    "name": "weixin-popular",
+    "owner": "liyiorg",
+    "stargazers_count": 2442
+  },
+  {
+    "name": "springboot-socks",
+    "owner": "yizhiwazi",
+    "stargazers_count": 2440
+  },
+  {
+    "name": "MaterialIntroView",
+    "owner": "iammert",
+    "stargazers_count": 2437
+  },
+  {
+    "name": "FreeFlow",
+    "owner": "Comcast",
+    "stargazers_count": 2422
+  },
+  {
+    "name": "MinimalistWeather",
+    "owner": "BaronZ88",
+    "stargazers_count": 2414
+  },
+  {
+    "name": "markor",
+    "owner": "gsantner",
+    "stargazers_count": 2402
+  },
+  {
+    "name": "mlkit",
+    "owner": "googlesamples",
+    "stargazers_count": 2389
+  },
+  {
+    "name": "Pantheon",
+    "owner": "ProgrammerAnthony",
+    "stargazers_count": 2379
+  },
+  {
+    "name": "DataSphereStudio",
+    "owner": "WeBankFinTech",
+    "stargazers_count": 2361
+  },
+  {
+    "name": "TProfiler",
+    "owner": "alibaba",
+    "stargazers_count": 2335
+  },
+  {
+    "name": "Swipecards",
+    "owner": "Diolor",
+    "stargazers_count": 2321
+  },
+  {
+    "name": "Smack",
+    "owner": "igniterealtime",
+    "stargazers_count": 2317
+  },
+  {
+    "name": "http-kit",
+    "owner": "http-kit",
+    "stargazers_count": 2313
+  },
+  {
+    "name": "tray",
+    "owner": "GCX-HCI",
+    "stargazers_count": 2306
+  },
+  {
+    "name": "Paper",
+    "owner": "pilgr",
+    "stargazers_count": 2305
+  },
+  {
+    "name": "java-string-similarity",
+    "owner": "tdebatty",
+    "stargazers_count": 2524
+  },
+  {
+    "name": "Chronicle-Map",
+    "owner": "OpenHFT",
+    "stargazers_count": 2518
+  },
+  {
+    "name": "react-native-sqlite-storage",
+    "owner": "andpor",
+    "stargazers_count": 2518
+  },
+  {
+    "name": "loaderviewlibrary",
+    "owner": "elye",
+    "stargazers_count": 2509
+  },
+  {
+    "name": "ViewServer",
+    "owner": "romainguy",
+    "stargazers_count": 2506
+  },
+  {
+    "name": "ToastUtils",
+    "owner": "getActivity",
+    "stargazers_count": 2485
+  },
+  {
+    "name": "emoji-java",
+    "owner": "vdurmont",
+    "stargazers_count": 2479
+  },
+  {
+    "name": "LRecyclerView",
+    "owner": "jdsjlzx",
+    "stargazers_count": 2474
+  },
+  {
+    "name": "nutz",
+    "owner": "nutzam",
+    "stargazers_count": 2467
+  },
+  {
+    "name": "ZoomHeader",
+    "owner": "githubwing",
+    "stargazers_count": 2466
+  },
+  {
+    "name": "nutch",
+    "owner": "apache",
+    "stargazers_count": 2466
+  },
+  {
+    "name": "ArchUnit",
+    "owner": "TNG",
+    "stargazers_count": 2463
+  },
+  {
+    "name": "signal-cli",
+    "owner": "AsamK",
+    "stargazers_count": 2462
+  },
+  {
+    "name": "AnimationEasingFunctions",
+    "owner": "daimajia",
+    "stargazers_count": 2451
+  },
+  {
+    "name": "android-priority-jobqueue",
+    "owner": "path",
+    "stargazers_count": 2425
+  },
+  {
+    "name": "Houseclub",
+    "owner": "grishka",
+    "stargazers_count": 2425
+  },
+  {
+    "name": "CompressHelper",
+    "owner": "nanchen2251",
+    "stargazers_count": 2418
+  },
+  {
+    "name": "MinimalistWeather",
+    "owner": "BaronZ88",
+    "stargazers_count": 2414
+  },
+  {
+    "name": "RxCache",
+    "owner": "VictorAlbertos",
+    "stargazers_count": 2390
+  },
+  {
+    "name": "CardSlidePanel",
+    "owner": "xmuSistone",
+    "stargazers_count": 2387
+  },
+  {
+    "name": "archaius",
+    "owner": "Netflix",
+    "stargazers_count": 2381
+  },
+  {
+    "name": "visualvm",
+    "owner": "oracle",
+    "stargazers_count": 2355
+  },
+  {
+    "name": "RedisClient",
+    "owner": "caoxinyu",
+    "stargazers_count": 2339
+  },
+  {
+    "name": "J2V8",
+    "owner": "eclipsesource",
+    "stargazers_count": 2305
+  },
+  {
+    "name": "BGASwipeBackLayout-Android",
+    "owner": "bingoogolapple",
+    "stargazers_count": 2302
+  },
+  {
+    "name": "MarqueeViewLibrary",
+    "owner": "gongwen",
+    "stargazers_count": 2300
+  },
+  {
+    "name": "OpenBot",
+    "owner": "isl-org",
+    "stargazers_count": 2293
+  },
+  {
+    "name": "android-samples",
+    "owner": "googlemaps",
+    "stargazers_count": 2291
+  },
+  {
+    "name": "afwall",
+    "owner": "ukanth",
+    "stargazers_count": 2274
+  },
+  {
+    "name": "liugh-parent",
+    "owner": "qq53182347",
+    "stargazers_count": 2257
+  },
+  {
+    "name": "Andromeda",
+    "owner": "iqiyi",
+    "stargazers_count": 2248
+  },
+  {
+    "name": "android-ripple-background",
+    "owner": "skyfishjy",
+    "stargazers_count": 2244
+  },
+  {
+    "name": "ApiManager",
+    "owner": "EhsanTang",
+    "stargazers_count": 2243
+  },
+  {
+    "name": "Bukkit",
+    "owner": "Bukkit",
+    "stargazers_count": 2232
+  },
+  {
+    "name": "javacpp-presets",
+    "owner": "bytedeco",
+    "stargazers_count": 2219
+  },
+  {
+    "name": "Rajawali",
+    "owner": "Rajawali",
+    "stargazers_count": 2218
+  },
+  {
+    "name": "Android-Clean-Boilerplate",
+    "owner": "dmilicic",
+    "stargazers_count": 2209
+  },
+  {
+    "name": "SlantedTextView",
+    "owner": "HeZaiJin",
+    "stargazers_count": 2207
+  },
+  {
+    "name": "Shuttle",
+    "owner": "timusus",
+    "stargazers_count": 2206
+  },
+  {
+    "name": "cskefu",
+    "owner": "cskefu",
+    "stargazers_count": 2204
+  },
+  {
+    "name": "MaterialProgressBar",
+    "owner": "zhanghai",
+    "stargazers_count": 2179
+  },
+  {
+    "name": "MaterialShadows",
+    "owner": "harjot-oberai",
+    "stargazers_count": 2169
+  },
+  {
+    "name": "jeromq",
+    "owner": "zeromq",
+    "stargazers_count": 2160
+  },
+  {
+    "name": "android-sqlite-asset-helper",
+    "owner": "jgilfelt",
+    "stargazers_count": 2158
+  },
+  {
+    "name": "metadata-extractor",
+    "owner": "drewnoakes",
+    "stargazers_count": 2154
+  },
+  {
+    "name": "PanelSwitchHelper",
+    "owner": "DSAppTeam",
+    "stargazers_count": 2136
+  },
+  {
+    "name": "DWSurvey",
+    "owner": "wkeyuan",
+    "stargazers_count": 2116
+  },
+  {
+    "name": "ToggleButton",
+    "owner": "zcweng",
+    "stargazers_count": 2113
+  },
+  {
+    "name": "discreteSeekBar",
+    "owner": "AnderWeb",
+    "stargazers_count": 2098
+  },
+  {
+    "name": "eclipse-collections",
+    "owner": "eclipse",
+    "stargazers_count": 2092
+  },
+  {
+    "name": "bt",
+    "owner": "atomashpolskiy",
+    "stargazers_count": 2092
+  },
+  {
+    "name": "helios",
+    "owner": "spotify",
+    "stargazers_count": 2090
+  },
+  {
+    "name": "StyleableToast",
+    "owner": "Muddz",
+    "stargazers_count": 2084
+  },
+  {
+    "name": "santa-tracker-android",
+    "owner": "google",
+    "stargazers_count": 2080
+  },
+  {
+    "name": "BlurDialogFragment",
+    "owner": "tvbarthel",
+    "stargazers_count": 2069
+  },
+  {
+    "name": "modelmapper",
+    "owner": "modelmapper",
+    "stargazers_count": 2066
+  },
+  {
+    "name": "expandable-recycler-view",
+    "owner": "thoughtbot",
+    "stargazers_count": 2048
+  },
+  {
+    "name": "vectalign",
+    "owner": "bonnyfone",
+    "stargazers_count": 2045
+  },
+  {
+    "name": "slf4j",
+    "owner": "qos-ch",
+    "stargazers_count": 2042
+  },
+  {
+    "name": "ImageEditor-Android",
+    "owner": "siwangqishiq",
+    "stargazers_count": 2039
+  },
+  {
+    "name": "speedment",
+    "owner": "speedment",
+    "stargazers_count": 2037
+  },
+  {
+    "name": "HdrHistogram",
+    "owner": "HdrHistogram",
+    "stargazers_count": 2028
+  },
+  {
+    "name": "amidst",
+    "owner": "toolbox4minecraft",
+    "stargazers_count": 2009
+  },
+  {
+    "name": "CircularAnim",
+    "owner": "XunMengWinter",
+    "stargazers_count": 1996
+  },
+  {
+    "name": "mysql-binlog-connector-java",
+    "owner": "shyiko",
+    "stargazers_count": 1985
+  },
+  {
+    "name": "scm-biz-suite",
+    "owner": "doublechaintech",
+    "stargazers_count": 1982
+  },
+  {
+    "name": "tinyid",
+    "owner": "didi",
+    "stargazers_count": 1967
+  },
+  {
+    "name": "firebase-android-sdk",
+    "owner": "firebase",
+    "stargazers_count": 1962
+  },
+  {
+    "name": "Xpatch",
+    "owner": "WindySha",
+    "stargazers_count": 1956
+  },
+  {
+    "name": "android-testing-templates",
+    "owner": "googlesamples",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "EasyProtector",
+    "owner": "lamster2018",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "AnimatedSvgView",
+    "owner": "jaredrummler",
+    "stargazers_count": 1953
+  },
+  {
+    "name": "nv-websocket-client",
+    "owner": "TakahikoKawasaki",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "MaterialLogin",
+    "owner": "fanrunqi",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "PathLayoutManager",
+    "owner": "wuyr",
+    "stargazers_count": 1938
+  },
+  {
+    "name": "airsonic",
+    "owner": "airsonic",
+    "stargazers_count": 1937
+  },
+  {
+    "name": "gl-react-native-v2",
+    "owner": "gre",
+    "stargazers_count": 1936
+  },
+  {
+    "name": "lanterna",
+    "owner": "mabe02",
+    "stargazers_count": 1936
+  },
+  {
+    "name": "Telegram-FOSS",
+    "owner": "Telegram-FOSS-Team",
+    "stargazers_count": 1934
+  },
+  {
+    "name": "PinchImageView",
+    "owner": "boycy815",
+    "stargazers_count": 1921
+  },
+  {
+    "name": "sqli",
+    "owner": "x-ream",
+    "stargazers_count": 1913
+  },
+  {
+    "name": "snowflake",
+    "owner": "subhra74",
+    "stargazers_count": 1903
+  },
+  {
+    "name": "AdaptiveTableLayout",
+    "owner": "Cleveroad",
+    "stargazers_count": 1903
+  },
+  {
+    "name": "react-native-localize",
+    "owner": "zoontek",
+    "stargazers_count": 1894
+  },
+  {
+    "name": "scouter",
+    "owner": "scouter-project",
+    "stargazers_count": 1891
+  },
+  {
+    "name": "ninja",
+    "owner": "ninjaframework",
+    "stargazers_count": 1891
+  },
+  {
+    "name": "rootbeer",
+    "owner": "scottyab",
+    "stargazers_count": 1888
+  },
+  {
+    "name": "elasticsearch-hadoop",
+    "owner": "elastic",
+    "stargazers_count": 1886
+  },
+  {
+    "name": "QuestionAnsweringSystem",
+    "owner": "ysc",
+    "stargazers_count": 1882
+  },
+  {
+    "name": "WSLiveDemo",
+    "owner": "WangShuo1143368701",
+    "stargazers_count": 1881
+  },
+  {
+    "name": "TinyDancer",
+    "owner": "friendlyrobotnyc",
+    "stargazers_count": 1877
+  },
+  {
+    "name": "commonmark-java",
+    "owner": "commonmark",
+    "stargazers_count": 1876
+  },
+  {
+    "name": "flinkStreamSQL",
+    "owner": "DTStack",
+    "stargazers_count": 1876
+  },
+  {
+    "name": "jianshi",
+    "owner": "wingjay",
+    "stargazers_count": 1873
+  },
+  {
+    "name": "erupt",
+    "owner": "erupts",
+    "stargazers_count": 1873
+  },
+  {
+    "name": "mybatis-plus-samples",
+    "owner": "baomidou",
+    "stargazers_count": 1871
+  },
+  {
+    "name": "fitnesse",
+    "owner": "unclebob",
+    "stargazers_count": 1864
+  },
+  {
+    "name": "system-design-interviews",
+    "owner": "DreamOfTheRedChamber",
+    "stargazers_count": 1864
+  },
+  {
+    "name": "SeimiCrawler",
+    "owner": "zhegexiaohuozi",
+    "stargazers_count": 1860
+  },
+  {
+    "name": "garland-view-android",
+    "owner": "Ramotion",
+    "stargazers_count": 1851
+  },
+  {
+    "name": "AndroidStudy",
+    "owner": "crazyqiang",
+    "stargazers_count": 1489
+  },
+  {
+    "name": "java-docs-samples",
+    "owner": "GoogleCloudPlatform",
+    "stargazers_count": 1488
+  },
+  {
+    "name": "UnblockMusicPro_Xposed",
+    "owner": "nining377",
+    "stargazers_count": 1487
+  },
+  {
+    "name": "frodo",
+    "owner": "android10",
+    "stargazers_count": 1487
+  },
+  {
+    "name": "road-trip",
+    "owner": "romainguy",
+    "stargazers_count": 1470
+  },
+  {
+    "name": "discrollview",
+    "owner": "flavienlaurent",
+    "stargazers_count": 1467
+  },
+  {
+    "name": "spring-data-mongodb",
+    "owner": "spring-projects",
+    "stargazers_count": 1462
+  },
+  {
+    "name": "mage",
+    "owner": "magefree",
+    "stargazers_count": 1459
+  },
+  {
+    "name": "flink-streaming-platform-web",
+    "owner": "zhp8341",
+    "stargazers_count": 1455
+  },
+  {
+    "name": "seldon-server",
+    "owner": "SeldonIO",
+    "stargazers_count": 1452
+  },
+  {
+    "name": "uaa",
+    "owner": "cloudfoundry",
+    "stargazers_count": 1452
+  },
+  {
+    "name": "WaveLoading",
+    "owner": "race604",
+    "stargazers_count": 1447
+  },
+  {
+    "name": "Virtualview-Android",
+    "owner": "alibaba",
+    "stargazers_count": 1441
+  },
+  {
+    "name": "AndroidDynamicLoader",
+    "owner": "mmin18",
+    "stargazers_count": 1441
+  },
+  {
+    "name": "segmentfault-lessons",
+    "owner": "mercyblitz",
+    "stargazers_count": 1435
+  },
+  {
+    "name": "VCameraDemo",
+    "owner": "motianhuo",
+    "stargazers_count": 1431
+  },
+  {
+    "name": "mysql_perf_analyzer",
+    "owner": "yahoo",
+    "stargazers_count": 1431
+  },
+  {
+    "name": "jsprit",
+    "owner": "graphhopper",
+    "stargazers_count": 1428
+  },
+  {
+    "name": "myexcel",
+    "owner": "liaochong",
+    "stargazers_count": 1427
+  },
+  {
+    "name": "Anti-recall",
+    "owner": "JasonQS",
+    "stargazers_count": 1425
+  },
+  {
+    "name": "AndroidModulePattern",
+    "owner": "guiying712",
+    "stargazers_count": 1423
+  },
+  {
+    "name": "TitleBar",
+    "owner": "getActivity",
+    "stargazers_count": 1421
+  },
+  {
+    "name": "NettyGameServer",
+    "owner": "jwpttcg66",
+    "stargazers_count": 1411
+  },
+  {
+    "name": "beauty_ssm",
+    "owner": "wosyingjun",
+    "stargazers_count": 1405
+  },
+  {
+    "name": "nlp-lang",
+    "owner": "NLPchina",
+    "stargazers_count": 1405
+  },
+  {
+    "name": "TrayNotification",
+    "owner": "PlusHaze",
+    "stargazers_count": 1398
+  },
+  {
+    "name": "android-PictureInPicture",
+    "owner": "googlearchive",
+    "stargazers_count": 1397
+  },
+  {
+    "name": "siddhi",
+    "owner": "siddhi-io",
+    "stargazers_count": 1397
+  },
+  {
+    "name": "beautyeye",
+    "owner": "JackJiang2011",
+    "stargazers_count": 1393
+  },
+  {
+    "name": "mojito",
+    "owner": "mikaelzero",
+    "stargazers_count": 1392
+  },
+  {
+    "name": "PullLoadMoreRecyclerView",
+    "owner": "WuXiaolong",
+    "stargazers_count": 1387
+  },
+  {
+    "name": "open-event-android",
+    "owner": "OpnTec",
+    "stargazers_count": 1384
+  },
+  {
+    "name": "AnimatorDurationTile",
+    "owner": "nickbutcher",
+    "stargazers_count": 1383
+  },
+  {
+    "name": "BezierMaker",
+    "owner": "venshine",
+    "stargazers_count": 1382
+  },
+  {
+    "name": "MultiType-FilePicker",
+    "owner": "fishwjy",
+    "stargazers_count": 1381
+  },
+  {
+    "name": "android-FingerprintDialog",
+    "owner": "googlearchive",
+    "stargazers_count": 1380
+  },
+  {
+    "name": "PinLockView",
+    "owner": "aritraroy",
+    "stargazers_count": 1376
+  },
+  {
+    "name": "goodsKill",
+    "owner": "techa03",
+    "stargazers_count": 1373
+  },
+  {
+    "name": "FAANG",
+    "owner": "neerazz",
+    "stargazers_count": 1368
+  },
+  {
+    "name": "metacat",
+    "owner": "Netflix",
+    "stargazers_count": 1367
+  },
+  {
+    "name": "AndroRAT",
+    "owner": "karma9874",
+    "stargazers_count": 1350
+  },
+  {
+    "name": "phpinspectionsea",
+    "owner": "kalessil",
+    "stargazers_count": 1349
+  },
+  {
+    "name": "strman-java",
+    "owner": "shekhargulati",
+    "stargazers_count": 1347
+  },
+  {
+    "name": "keycloak-quickstarts",
+    "owner": "keycloak",
+    "stargazers_count": 1339
+  },
+  {
+    "name": "FloatingSearchView",
+    "owner": "renaudcerrato",
+    "stargazers_count": 1338
+  },
+  {
+    "name": "ebean",
+    "owner": "ebean-orm",
+    "stargazers_count": 1336
+  },
+  {
+    "name": "jsweet",
+    "owner": "cincheo",
+    "stargazers_count": 1335
+  },
+  {
+    "name": "asmack",
+    "owner": "Flowdalic",
+    "stargazers_count": 1331
+  },
+  {
+    "name": "HiBench",
+    "owner": "Intel-bigdata",
+    "stargazers_count": 1328
+  },
+  {
+    "name": "greenhouse",
+    "owner": "spring-attic",
+    "stargazers_count": 1327
+  },
+  {
+    "name": "firing-range",
+    "owner": "google",
+    "stargazers_count": 1323
+  },
+  {
+    "name": "spring-data-book",
+    "owner": "spring-projects",
+    "stargazers_count": 1323
+  },
+  {
+    "name": "ColorfulNews",
+    "owner": "kaku2015",
+    "stargazers_count": 1319
+  },
+  {
+    "name": "android-actionbar",
+    "owner": "johannilsson",
+    "stargazers_count": 1316
+  },
+  {
+    "name": "RandomImage",
+    "owner": "unline2",
+    "stargazers_count": 1316
+  },
+  {
+    "name": "pi4j-v1",
+    "owner": "Pi4J",
+    "stargazers_count": 1311
+  },
+  {
+    "name": "teammates",
+    "owner": "TEAMMATES",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "IndexableRecyclerView",
+    "owner": "YoKeyword",
+    "stargazers_count": 1310
+  },
+  {
+    "name": "StateButton",
+    "owner": "niniloveyou",
+    "stargazers_count": 1302
+  },
+  {
+    "name": "XDroid",
+    "owner": "limedroid",
+    "stargazers_count": 1296
+  },
+  {
+    "name": "CyberController",
+    "owner": "KikiLetGo",
+    "stargazers_count": 1296
+  },
+  {
+    "name": "cuba",
+    "owner": "cuba-platform",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "ShareUtil",
+    "owner": "shaohui10086",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "android-slidingactivity",
+    "owner": "klinker41",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "LearningJDK",
+    "owner": "kangjianwei",
+    "stargazers_count": 1284
+  },
+  {
+    "name": "ByWebView",
+    "owner": "youlookwhat",
+    "stargazers_count": 1279
+  },
+  {
+    "name": "GoodView",
+    "owner": "venshine",
+    "stargazers_count": 1273
+  },
+  {
+    "name": "Quality-Tools-for-Android",
+    "owner": "stephanenicolas",
+    "stargazers_count": 1272
+  },
+  {
+    "name": "Spotlight",
+    "owner": "29jitender",
+    "stargazers_count": 1271
+  },
+  {
+    "name": "liteflow",
+    "owner": "dromara",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "controlsfx",
+    "owner": "controlsfx",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "s3proxy",
+    "owner": "gaul",
+    "stargazers_count": 1241
+  },
+  {
+    "name": "Circle-Progress-View",
+    "owner": "jakob-grabner",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "recyclerview-playground",
+    "owner": "devunwired",
+    "stargazers_count": 1240
+  },
+  {
+    "name": "LandscapeVideoCamera",
+    "owner": "JeroenMols",
+    "stargazers_count": 1236
+  },
+  {
+    "name": "BinAbsInspector",
+    "owner": "KeenSecurityLab",
+    "stargazers_count": 1230
+  },
+  {
+    "name": "booknotes",
+    "owner": "preslavmihaylov",
+    "stargazers_count": 1229
+  },
+  {
+    "name": "UberUX",
+    "owner": "mohak1712",
+    "stargazers_count": 1223
+  },
+  {
+    "name": "Java-Chronicle",
+    "owner": "peter-lawrey",
+    "stargazers_count": 1221
+  },
+  {
+    "name": "ArcAnimator",
+    "owner": "asyl",
+    "stargazers_count": 1219
+  },
+  {
+    "name": "neuralnetworks",
+    "owner": "ivan-vasilev",
+    "stargazers_count": 1218
+  },
+  {
+    "name": "rest-client",
+    "owner": "wisdom-projects",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "openpnp",
+    "owner": "openpnp",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "turbo-editor",
+    "owner": "vmihalachi",
+    "stargazers_count": 1212
+  },
+  {
+    "name": "PhotoDraweeView",
+    "owner": "ongakuer",
+    "stargazers_count": 1211
+  },
+  {
+    "name": "dev-summit-architecture-demo",
+    "owner": "yigit",
+    "stargazers_count": 1209
+  },
+  {
+    "name": "Once",
+    "owner": "jonfinerty",
+    "stargazers_count": 1199
+  },
+  {
+    "name": "jbot",
+    "owner": "rampatra",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "Ehviewer",
+    "owner": "Ehviewer-Overhauled",
+    "stargazers_count": 1186
+  },
+  {
+    "name": "ambrose",
+    "owner": "twitter-archive",
+    "stargazers_count": 1185
+  },
+  {
+    "name": "android-app",
+    "owner": "eoecn",
+    "stargazers_count": 1179
+  },
+  {
+    "name": "struts",
+    "owner": "apache",
+    "stargazers_count": 1178
+  },
+  {
+    "name": "CreditSesameRingView",
+    "owner": "HotBitmapGG",
+    "stargazers_count": 1172
+  },
+  {
+    "name": "superFileView",
+    "owner": "ZhongXiaoHong",
+    "stargazers_count": 1172
+  },
+  {
+    "name": "KnowWeather",
+    "owner": "SilenceDut",
+    "stargazers_count": 1170
+  },
+  {
+    "name": "cw-android",
+    "owner": "commonsguy",
+    "stargazers_count": 1169
+  },
+  {
+    "name": "spring-boot-tutorial",
+    "owner": "RameshMF",
+    "stargazers_count": 1167
+  },
+  {
+    "name": "iri",
+    "owner": "iotaledger",
+    "stargazers_count": 1165
+  },
+  {
+    "name": "chromium-webview-samples",
+    "owner": "googlearchive",
+    "stargazers_count": 1165
+  },
+  {
+    "name": "GanK",
+    "owner": "dongjunkun",
+    "stargazers_count": 1162
+  },
+  {
+    "name": "PagerBottomTabStrip",
+    "owner": "tyzlmjj",
+    "stargazers_count": 2795
+  },
+  {
+    "name": "ExpectAnim",
+    "owner": "florent37",
+    "stargazers_count": 2789
+  },
+  {
+    "name": "jitwatch",
+    "owner": "AdoptOpenJDK",
+    "stargazers_count": 2781
+  },
+  {
+    "name": "MusicDNA",
+    "owner": "harjot-oberai",
+    "stargazers_count": 2773
+  },
+  {
+    "name": "CoCoin",
+    "owner": "Nightonke",
+    "stargazers_count": 2773
+  },
+  {
+    "name": "scalpel",
+    "owner": "JakeWharton",
+    "stargazers_count": 2772
+  },
+  {
+    "name": "awesome-android-complete-reference",
+    "owner": "amitshekhariitbhu",
+    "stargazers_count": 2770
+  },
+  {
+    "name": "MSEC",
+    "owner": "Tencent",
+    "stargazers_count": 2768
+  },
+  {
+    "name": "airpal",
+    "owner": "airbnb",
+    "stargazers_count": 2765
+  },
+  {
+    "name": "Head-First-Design-Patterns",
+    "owner": "bethrobson",
+    "stargazers_count": 2764
+  },
+  {
+    "name": "best-pay-sdk",
+    "owner": "Pay-Group",
+    "stargazers_count": 2759
+  },
+  {
+    "name": "my-site",
+    "owner": "WinterChenS",
+    "stargazers_count": 2748
+  },
+  {
+    "name": "spring-native",
+    "owner": "spring-projects-experimental",
+    "stargazers_count": 2743
+  },
+  {
+    "name": "GuillotineMenu-Android",
+    "owner": "Yalantis",
+    "stargazers_count": 2741
+  },
+  {
+    "name": "fernflower",
+    "owner": "fesh0r",
+    "stargazers_count": 2740
+  },
+  {
+    "name": "nice-spinner",
+    "owner": "arcadefire",
+    "stargazers_count": 2735
+  },
+  {
+    "name": "javamelody",
+    "owner": "javamelody",
+    "stargazers_count": 2730
+  },
+  {
+    "name": "CoreLink",
+    "owner": "lizhangqu",
+    "stargazers_count": 2717
+  },
+  {
+    "name": "java-eight-part",
+    "owner": "CoderLeixiaoshuai",
+    "stargazers_count": 2713
+  },
+  {
+    "name": "Digital",
+    "owner": "hneemann",
+    "stargazers_count": 2710
+  },
+  {
+    "name": "kubernetes-client",
+    "owner": "fabric8io",
+    "stargazers_count": 2706
+  },
+  {
+    "name": "ByteX",
+    "owner": "bytedance",
+    "stargazers_count": 2702
+  },
+  {
+    "name": "EasyPhotos",
+    "owner": "HuanTanSheng",
+    "stargazers_count": 2698
+  },
+  {
+    "name": "YCAppTool",
+    "owner": "yangchong211",
+    "stargazers_count": 2693
+  },
+  {
+    "name": "grpc-spring-boot-starter",
+    "owner": "yidongnan",
+    "stargazers_count": 2693
+  },
+  {
+    "name": "AlgorithmsSedgewick",
+    "owner": "aistrate",
+    "stargazers_count": 2689
+  },
+  {
+    "name": "500px-android-blur",
+    "owner": "500px",
+    "stargazers_count": 2688
+  },
+  {
+    "name": "weixin-java-tools",
+    "owner": "chanjarster",
+    "stargazers_count": 2685
+  },
+  {
+    "name": "PatternLockView",
+    "owner": "aritraroy",
+    "stargazers_count": 2681
+  },
+  {
+    "name": "Twitter4J",
+    "owner": "Twitter4J",
+    "stargazers_count": 2679
+  },
+  {
+    "name": "dockerfile-maven",
+    "owner": "spotify",
+    "stargazers_count": 2671
+  },
+  {
+    "name": "Grav",
+    "owner": "glomadrian",
+    "stargazers_count": 2670
+  },
+  {
+    "name": "Slidr",
+    "owner": "r0adkll",
+    "stargazers_count": 2664
+  },
+  {
+    "name": "VasDolly",
+    "owner": "Tencent",
+    "stargazers_count": 2662
+  },
+  {
+    "name": "ProgressWheel",
+    "owner": "Todd-Davies",
+    "stargazers_count": 2659
+  },
+  {
+    "name": "sugar",
+    "owner": "chennaione",
+    "stargazers_count": 2640
+  },
+  {
+    "name": "java",
+    "owner": "kubernetes-client",
+    "stargazers_count": 2636
+  },
+  {
+    "name": "WorldEdit",
+    "owner": "EngineHub",
+    "stargazers_count": 2619
+  },
+  {
+    "name": "android-open-source-project-analysis",
+    "owner": "sucese",
+    "stargazers_count": 2611
+  },
+  {
+    "name": "Component",
+    "owner": "xiaojinzi123",
+    "stargazers_count": 2609
+  },
+  {
+    "name": "RecyclerViewCardGallery",
+    "owner": "huazhiyuan2008",
+    "stargazers_count": 2608
+  },
+  {
+    "name": "dex-method-counts",
+    "owner": "mihaip",
+    "stargazers_count": 2594
+  },
+  {
+    "name": "dolby_beta",
+    "owner": "nining377",
+    "stargazers_count": 2588
+  },
+  {
+    "name": "ANR-WatchDog",
+    "owner": "SalomonBrys",
+    "stargazers_count": 2587
+  },
+  {
+    "name": "logback",
+    "owner": "qos-ch",
+    "stargazers_count": 2587
+  },
+  {
+    "name": "ArgusAPM",
+    "owner": "Qihoo360",
+    "stargazers_count": 2573
+  },
+  {
+    "name": "AndroidFire",
+    "owner": "jaydenxiao2016",
+    "stargazers_count": 2573
+  },
+  {
+    "name": "android-database-sqlcipher",
+    "owner": "sqlcipher",
+    "stargazers_count": 2572
+  },
+  {
+    "name": "FlowingDrawer",
+    "owner": "mxn21",
+    "stargazers_count": 2564
+  },
+  {
+    "name": "understand-plugin-framework",
+    "owner": "tiann",
+    "stargazers_count": 2561
+  },
+  {
+    "name": "Openfire",
+    "owner": "igniterealtime",
+    "stargazers_count": 2560
+  },
+  {
+    "name": "tools-ocr",
+    "owner": "AnyListen",
+    "stargazers_count": 2559
+  },
+  {
+    "name": "HackerRank_solutions",
+    "owner": "RodneyShag",
+    "stargazers_count": 2549
+  },
+  {
+    "name": "phimpme-android",
+    "owner": "fossasia",
+    "stargazers_count": 2547
+  },
+  {
+    "name": "java-string-similarity",
+    "owner": "tdebatty",
+    "stargazers_count": 2524
+  },
+  {
+    "name": "lbry-android",
+    "owner": "lbryio",
+    "stargazers_count": 2523
+  },
+  {
+    "name": "spring-cloud-tencent",
+    "owner": "Tencent",
+    "stargazers_count": 2516
+  },
+  {
+    "name": "Android-ItemTouchHelper-Demo",
+    "owner": "iPaulPro",
+    "stargazers_count": 2515
+  },
+  {
+    "name": "skija",
+    "owner": "JetBrains",
+    "stargazers_count": 2512
+  },
+  {
+    "name": "spring-data-jpa",
+    "owner": "spring-projects",
+    "stargazers_count": 2493
+  },
+  {
+    "name": "AndroidGodEye",
+    "owner": "Kyson",
+    "stargazers_count": 2491
+  },
+  {
+    "name": "AndroidTagGroup",
+    "owner": "2dxgujun",
+    "stargazers_count": 2479
+  },
+  {
+    "name": "android-pulltorefresh",
+    "owner": "johannilsson",
+    "stargazers_count": 2478
+  },
+  {
+    "name": "condom",
+    "owner": "oasisfeng",
+    "stargazers_count": 2478
+  },
+  {
+    "name": "Telecine",
+    "owner": "JakeWharton",
+    "stargazers_count": 2477
+  },
+  {
+    "name": "LRecyclerView",
+    "owner": "jdsjlzx",
+    "stargazers_count": 2474
+  },
+  {
+    "name": "Album",
+    "owner": "yanzhenjie",
+    "stargazers_count": 2473
+  },
+  {
+    "name": "osmdroid",
+    "owner": "osmdroid",
+    "stargazers_count": 2470
+  },
+  {
+    "name": "ArchUnit",
+    "owner": "TNG",
+    "stargazers_count": 2463
+  },
+  {
+    "name": "signal-cli",
+    "owner": "AsamK",
+    "stargazers_count": 2462
+  },
+  {
+    "name": "SopCastComponent",
+    "owner": "LaiFeng-Android",
+    "stargazers_count": 2461
+  },
+  {
+    "name": "soot",
+    "owner": "soot-oss",
+    "stargazers_count": 2446
+  },
+  {
+    "name": "Material-Movies",
+    "owner": "saulmm",
+    "stargazers_count": 2444
+  },
+  {
+    "name": "weixin-popular",
+    "owner": "liyiorg",
+    "stargazers_count": 2442
+  },
+  {
+    "name": "stickers",
+    "owner": "WhatsApp",
+    "stargazers_count": 2438
+  },
+  {
+    "name": "susi_server",
+    "owner": "fossasia",
+    "stargazers_count": 2434
+  },
+  {
+    "name": "thymeleaf",
+    "owner": "thymeleaf",
+    "stargazers_count": 2423
+  },
+  {
+    "name": "FreeFlow",
+    "owner": "Comcast",
+    "stargazers_count": 2422
+  },
+  {
+    "name": "android-material-design-icon-generator-plugin",
+    "owner": "konifar",
+    "stargazers_count": 2422
+  },
+  {
+    "name": "X2C",
+    "owner": "iReaderAndroid",
+    "stargazers_count": 2421
+  },
+  {
+    "name": "agrona",
+    "owner": "real-logic",
+    "stargazers_count": 2419
+  },
+  {
+    "name": "CompressHelper",
+    "owner": "nanchen2251",
+    "stargazers_count": 2418
+  },
+  {
+    "name": "tape",
+    "owner": "square",
+    "stargazers_count": 2415
+  },
+  {
+    "name": "swagger2markup",
+    "owner": "Swagger2Markup",
+    "stargazers_count": 2408
+  },
+  {
+    "name": "JZVideo",
+    "owner": "Jzvd",
+    "stargazers_count": 2407
+  },
+  {
+    "name": "markor",
+    "owner": "gsantner",
+    "stargazers_count": 2402
+  },
+  {
+    "name": "CarouselLayoutManager",
+    "owner": "Azoft",
+    "stargazers_count": 2397
+  },
+  {
+    "name": "RxCache",
+    "owner": "VictorAlbertos",
+    "stargazers_count": 2390
+  },
+  {
+    "name": "unidbg",
+    "owner": "zhkl0228",
+    "stargazers_count": 2375
+  },
+  {
+    "name": "ListenerMusicPlayer",
+    "owner": "hefuyicoder",
+    "stargazers_count": 2372
+  },
+  {
+    "name": "DataSphereStudio",
+    "owner": "WeBankFinTech",
+    "stargazers_count": 2361
+  },
+  {
+    "name": "flume",
+    "owner": "apache",
+    "stargazers_count": 2351
+  },
+  {
+    "name": "TProfiler",
+    "owner": "alibaba",
+    "stargazers_count": 2335
+  },
+  {
+    "name": "cardslider-android",
+    "owner": "Ramotion",
+    "stargazers_count": 2325
+  },
+  {
+    "name": "Smack",
+    "owner": "igniterealtime",
+    "stargazers_count": 2317
+  },
+  {
+    "name": "EasyTransaction",
+    "owner": "QNJR-GROUP",
+    "stargazers_count": 2316
+  },
+  {
+    "name": "http-kit",
+    "owner": "http-kit",
+    "stargazers_count": 2313
+  },
+  {
+    "name": "tray",
+    "owner": "GCX-HCI",
+    "stargazers_count": 2306
+  },
+  {
+    "name": "Cknife",
+    "owner": "Chora10",
+    "stargazers_count": 2304
+  },
+  {
+    "name": "CameraFragment",
+    "owner": "florent37",
+    "stargazers_count": 2304
+  },
+  {
+    "name": "android-flux-todo-app",
+    "owner": "lgvalle",
+    "stargazers_count": 1295
+  },
+  {
+    "name": "Crescento",
+    "owner": "developer-shivam",
+    "stargazers_count": 1292
+  },
+  {
+    "name": "cloudstack",
+    "owner": "apache",
+    "stargazers_count": 1291
+  },
+  {
+    "name": "RapidFloatingActionButton",
+    "owner": "wangjiegulu",
+    "stargazers_count": 1289
+  },
+  {
+    "name": "myblog",
+    "owner": "shuleisanshi",
+    "stargazers_count": 1285
+  },
+  {
+    "name": "ByWebView",
+    "owner": "youlookwhat",
+    "stargazers_count": 1279
+  },
+  {
+    "name": "BottomDialog",
+    "owner": "shaohui10086",
+    "stargazers_count": 1278
+  },
+  {
+    "name": "react-native-background-geolocation",
+    "owner": "mauron85",
+    "stargazers_count": 1276
+  },
+  {
+    "name": "AndroidSocketClient",
+    "owner": "vilyever",
+    "stargazers_count": 1268
+  },
+  {
+    "name": "opencv-processing",
+    "owner": "atduskgreg",
+    "stargazers_count": 1266
+  },
+  {
+    "name": "google-io-2014",
+    "owner": "romainguy",
+    "stargazers_count": 1265
+  },
+  {
+    "name": "proteus",
+    "owner": "flipkart-incubator",
+    "stargazers_count": 1264
+  },
+  {
+    "name": "Moss",
+    "owner": "SpringCloud",
+    "stargazers_count": 1264
+  },
+  {
+    "name": "aws-serverless-java-container",
+    "owner": "awslabs",
+    "stargazers_count": 1262
+  },
+  {
+    "name": "controlsfx",
+    "owner": "controlsfx",
+    "stargazers_count": 1258
+  },
+  {
+    "name": "psi-probe",
+    "owner": "psi-probe",
+    "stargazers_count": 1257
+  },
+  {
+    "name": "WaveSideBar",
+    "owner": "gjiazhe",
+    "stargazers_count": 1255
+  },
+  {
+    "name": "ArcProgressStackView",
+    "owner": "Devlight",
+    "stargazers_count": 1255
+  },
+  {
+    "name": "SparkButton",
+    "owner": "varunest",
+    "stargazers_count": 1255
+  },
+  {
+    "name": "AndroidAudioConverter",
+    "owner": "adrielcafe",
+    "stargazers_count": 1254
+  },
+  {
+    "name": "deobfuscator",
+    "owner": "java-deobfuscator",
+    "stargazers_count": 1253
+  },
+  {
+    "name": "ribot-app-android",
+    "owner": "ribot",
+    "stargazers_count": 1245
+  },
+  {
+    "name": "s3proxy",
+    "owner": "gaul",
+    "stargazers_count": 1241
+  },
+  {
+    "name": "vector-compat",
+    "owner": "wnafee",
+    "stargazers_count": 1237
+  },
+  {
+    "name": "LandscapeVideoCamera",
+    "owner": "JeroenMols",
+    "stargazers_count": 1236
+  },
+  {
+    "name": "BinAbsInspector",
+    "owner": "KeenSecurityLab",
+    "stargazers_count": 1230
+  },
+  {
+    "name": "UberUX",
+    "owner": "mohak1712",
+    "stargazers_count": 1223
+  },
+  {
+    "name": "openScale",
+    "owner": "oliexdev",
+    "stargazers_count": 1223
+  },
+  {
+    "name": "Travel-Mate",
+    "owner": "project-travel-mate",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "radar",
+    "owner": "wfh45678",
+    "stargazers_count": 1222
+  },
+  {
+    "name": "ByeBurger",
+    "owner": "githubwing",
+    "stargazers_count": 1220
+  },
+  {
+    "name": "neuralnetworks",
+    "owner": "ivan-vasilev",
+    "stargazers_count": 1218
+  },
+  {
+    "name": "rest-client",
+    "owner": "wisdom-projects",
+    "stargazers_count": 1215
+  },
+  {
+    "name": "openpnp",
+    "owner": "openpnp",
+    "stargazers_count": 1214
+  },
+  {
+    "name": "PhotoDraweeView",
+    "owner": "ongakuer",
+    "stargazers_count": 1211
+  },
+  {
+    "name": "dev-summit-architecture-demo",
+    "owner": "yigit",
+    "stargazers_count": 1209
+  },
+  {
+    "name": "xjar",
+    "owner": "core-lib",
+    "stargazers_count": 1204
+  },
+  {
+    "name": "cube-sdk",
+    "owner": "liaohuqiu",
+    "stargazers_count": 1198
+  },
+  {
+    "name": "DebugDrawer",
+    "owner": "palaima",
+    "stargazers_count": 1195
+  },
+  {
+    "name": "MSPaintIDE",
+    "owner": "MSPaintIDE",
+    "stargazers_count": 1195
+  },
+  {
+    "name": "LondonEyeLayoutManager",
+    "owner": "danylovolokh",
+    "stargazers_count": 1190
+  },
+  {
+    "name": "jbot",
+    "owner": "rampatra",
+    "stargazers_count": 1187
+  },
+  {
+    "name": "kayenta",
+    "owner": "spinnaker",
+    "stargazers_count": 1182
+  },
+  {
+    "name": "VerticalTabLayout",
+    "owner": "qstumn",
+    "stargazers_count": 1181
+  },
+  {
+    "name": "android-app",
+    "owner": "eoecn",
+    "stargazers_count": 1179
+  },
+  {
+    "name": "struts",
+    "owner": "apache",
+    "stargazers_count": 1178
+  },
+  {
+    "name": "CreditSesameRingView",
+    "owner": "HotBitmapGG",
+    "stargazers_count": 1172
+  },
+  {
+    "name": "DaggerMock",
+    "owner": "fabioCollini",
+    "stargazers_count": 1169
+  },
+  {
+    "name": "DropDownMenu",
+    "owner": "baiiu",
+    "stargazers_count": 1168
+  },
+  {
+    "name": "iri",
+    "owner": "iotaledger",
+    "stargazers_count": 1165
+  },
+  {
+    "name": "turms",
+    "owner": "turms-im",
+    "stargazers_count": 1163
+  },
+  {
+    "name": "smithy",
+    "owner": "awslabs",
+    "stargazers_count": 1159
+  },
+  {
+    "name": "journaldev",
+    "owner": "WebJournal",
+    "stargazers_count": 1158
+  },
+  {
+    "name": "IndexRecyclerView",
+    "owner": "jiang111",
+    "stargazers_count": 1158
+  },
+  {
+    "name": "jsql-injection",
+    "owner": "ron190",
+    "stargazers_count": 1157
+  },
+  {
+    "name": "gctoolkit",
+    "owner": "microsoft",
+    "stargazers_count": 1155
+  },
+  {
+    "name": "RoadRunner",
+    "owner": "glomadrian",
+    "stargazers_count": 1155
+  },
+  {
+    "name": "RippleView",
+    "owner": "siriscac",
+    "stargazers_count": 1154
+  },
+  {
+    "name": "NClientV2",
+    "owner": "Dar9586",
+    "stargazers_count": 1152
+  },
+  {
+    "name": "opennlp",
+    "owner": "apache",
+    "stargazers_count": 1151
+  },
+  {
+    "name": "GifImageView",
+    "owner": "felipecsl",
+    "stargazers_count": 1150
+  },
+  {
+    "name": "gesture-imageview",
+    "owner": "jasonpolites",
+    "stargazers_count": 1148
+  },
+  {
+    "name": "talon-for-twitter-android",
+    "owner": "klinker24",
+    "stargazers_count": 1147
+  },
+  {
+    "name": "YImagePicker",
+    "owner": "yangpeixing",
+    "stargazers_count": 1145
+  },
+  {
+    "name": "TodayStepCounter",
+    "owner": "jiahongfei",
+    "stargazers_count": 1145
+  },
+  {
+    "name": "openmrs-core",
+    "owner": "openmrs",
+    "stargazers_count": 1139
+  },
+  {
+    "name": "HollyViewPager",
+    "owner": "florent37",
+    "stargazers_count": 1138
+  },
+  {
+    "name": "WorldMap",
+    "owner": "johnnylambada",
+    "stargazers_count": 1138
+  },
+  {
+    "name": "ff4j",
+    "owner": "ff4j",
+    "stargazers_count": 1134
+  },
+  {
+    "name": "RecyclerViewFastScroller",
+    "owner": "danoz73",
+    "stargazers_count": 1129
+  },
+  {
+    "name": "react-native-admob",
+    "owner": "sbugert",
+    "stargazers_count": 1127
+  },
+  {
+    "name": "android-ui-toolkit-demos",
+    "owner": "googlearchive",
+    "stargazers_count": 1126
+  },
+  {
+    "name": "DragRankSquare",
+    "owner": "xmuSistone",
+    "stargazers_count": 1122
+  },
+  {
+    "name": "intellij-swagger",
+    "owner": "zalando",
+    "stargazers_count": 1120
+  },
+  {
+    "name": "mobius",
+    "owner": "spotify",
+    "stargazers_count": 1120
+  },
+  {
+    "name": "FiftyShadesOf",
+    "owner": "florent37",
+    "stargazers_count": 1117
+  },
+  {
+    "name": "AnLinux-App",
+    "owner": "EXALAB",
+    "stargazers_count": 1113
+  },
+  {
+    "name": "ik-analyzer-solr",
+    "owner": "magese",
+    "stargazers_count": 1113
+  },
+  {
+    "name": "MaterialFilePicker",
+    "owner": "nbsp-team",
+    "stargazers_count": 1108
+  },
+  {
+    "name": "BottomSheetPickers",
+    "owner": "philliphsu",
+    "stargazers_count": 1107
+  },
+  {
+    "name": "VerticalViewPager",
+    "owner": "castorflex",
+    "stargazers_count": 1107
+  },
+  {
+    "name": "influxdb-java",
+    "owner": "influxdata",
+    "stargazers_count": 1098
+  },
+  {
+    "name": "MaterialLoadingProgressBar",
+    "owner": "lsjwzh",
+    "stargazers_count": 1094
+  },
+  {
+    "name": "loklak_jlib_api",
+    "owner": "loklak",
+    "stargazers_count": 1088
+  },
+  {
+    "name": "DiscoveryGuide",
+    "owner": "Nepxion",
+    "stargazers_count": 1088
+  },
+  {
+    "name": "pager-layoutmanager",
+    "owner": "GcsSloop",
+    "stargazers_count": 1082
+  },
+  {
+    "name": "and_swipeback",
+    "owner": "XBeats",
+    "stargazers_count": 1078
+  },
+  {
+    "name": "opentelemetry-java-instrumentation",
+    "owner": "open-telemetry",
+    "stargazers_count": 1078
+  },
+  {
+    "name": "matecloud",
+    "owner": "matevip",
+    "stargazers_count": 1077
+  },
+  {
+    "name": "CommonPullToRefresh",
+    "owner": "Chanven",
+    "stargazers_count": 1074
+  },
+  {
+    "name": "tracker-control-android",
+    "owner": "TrackerControl",
+    "stargazers_count": 1074
+  },
+  {
+    "name": "A-tutorial-compiler-written-in-Java",
+    "owner": "wangjs96",
+    "stargazers_count": 1071
+  },
+  {
+    "name": "PhotoEdit",
+    "owner": "jarlen",
+    "stargazers_count": 1067
+  },
+  {
+    "name": "SmileyRating",
+    "owner": "sujithkanna",
+    "stargazers_count": 1065
+  },
+  {
+    "name": "CalendarListView",
+    "owner": "Kelin-Hong",
+    "stargazers_count": 1062
+  },
+  {
+    "name": "zkclient",
+    "owner": "sgroschupf",
+    "stargazers_count": 1060
+  },
+  {
+    "name": "likequanmintv",
+    "owner": "chenchengyin",
+    "stargazers_count": 1060
+  },
+  {
+    "name": "PokeGOAPI-Java",
+    "owner": "Grover-c13",
+    "stargazers_count": 1058
+  },
+  {
+    "name": "jvm_book",
+    "owner": "fenixsoft",
+    "stargazers_count": 1051
+  },
+  {
+    "name": "weixin-java-miniapp-demo",
+    "owner": "binarywang",
+    "stargazers_count": 1049
+  },
+  {
+    "name": "android-styled-dialogs",
+    "owner": "avast",
+    "stargazers_count": 2170
+  },
+  {
+    "name": "MaterialShadows",
+    "owner": "harjot-oberai",
+    "stargazers_count": 2169
+  },
+  {
+    "name": "StatusBarCompat",
+    "owner": "niorgai",
+    "stargazers_count": 2162
+  },
+  {
+    "name": "BeautifulRefreshLayout",
+    "owner": "android-cjj",
+    "stargazers_count": 2161
+  },
+  {
+    "name": "android-sqlite-asset-helper",
+    "owner": "jgilfelt",
+    "stargazers_count": 2158
+  },
+  {
+    "name": "es",
+    "owner": "zhangkaitao",
+    "stargazers_count": 2156
+  },
+  {
+    "name": "metadata-extractor",
+    "owner": "drewnoakes",
+    "stargazers_count": 2154
+  },
+  {
+    "name": "NiceVieoPlayer",
+    "owner": "jianjunxiao",
+    "stargazers_count": 2154
+  },
+  {
+    "name": "CardStackView",
+    "owner": "loopeer",
+    "stargazers_count": 2150
+  },
+  {
+    "name": "webdrivermanager",
+    "owner": "bonigarcia",
+    "stargazers_count": 2146
+  },
+  {
+    "name": "NettyRpc",
+    "owner": "luxiaoxun",
+    "stargazers_count": 2144
+  },
+  {
+    "name": "Lazy",
+    "owner": "l123456789jy",
+    "stargazers_count": 2144
+  },
+  {
+    "name": "AndroidPileLayout",
+    "owner": "xmuSistone",
+    "stargazers_count": 2142
+  },
+  {
+    "name": "learnjavabug",
+    "owner": "threedr3am",
+    "stargazers_count": 2142
+  },
+  {
+    "name": "PanelSwitchHelper",
+    "owner": "DSAppTeam",
+    "stargazers_count": 2136
+  },
+  {
+    "name": "xbin-store",
+    "owner": "xubinux",
+    "stargazers_count": 2129
+  },
+  {
+    "name": "White-Jotter",
+    "owner": "Antabot",
+    "stargazers_count": 2130
+  },
+  {
+    "name": "reactor-netty",
+    "owner": "reactor",
+    "stargazers_count": 2123
+  },
+  {
+    "name": "ethereumj",
+    "owner": "ethereum",
+    "stargazers_count": 2120
+  },
+  {
+    "name": "jackson-core",
+    "owner": "FasterXML",
+    "stargazers_count": 2120
+  },
+  {
+    "name": "incubator-hugegraph",
+    "owner": "apache",
+    "stargazers_count": 2119
+  },
+  {
+    "name": "Jest",
+    "owner": "searchbox-io",
+    "stargazers_count": 2118
+  },
+  {
+    "name": "DWSurvey",
+    "owner": "wkeyuan",
+    "stargazers_count": 2116
+  },
+  {
+    "name": "dubbo-spring-boot-starter",
+    "owner": "alibaba",
+    "stargazers_count": 2108
+  },
+  {
+    "name": "Minimal-Todo",
+    "owner": "avjinder",
+    "stargazers_count": 2103
+  },
+  {
+    "name": "eclipse-collections",
+    "owner": "eclipse",
+    "stargazers_count": 2092
+  },
+  {
+    "name": "commons",
+    "owner": "twitter-archive",
+    "stargazers_count": 2090
+  },
+  {
+    "name": "gobblin",
+    "owner": "apache",
+    "stargazers_count": 2089
+  },
+  {
+    "name": "StyleableToast",
+    "owner": "Muddz",
+    "stargazers_count": 2084
+  },
+  {
+    "name": "kafka-streams-examples",
+    "owner": "confluentinc",
+    "stargazers_count": 2080
+  },
+  {
+    "name": "santa-tracker-android",
+    "owner": "google",
+    "stargazers_count": 2080
+  },
+  {
+    "name": "reark",
+    "owner": "reark",
+    "stargazers_count": 2078
+  },
+  {
+    "name": "BlurDialogFragment",
+    "owner": "tvbarthel",
+    "stargazers_count": 2069
+  },
+  {
+    "name": "AndroidSweetSheet",
+    "owner": "zzz40500",
+    "stargazers_count": 2069
+  },
+  {
+    "name": "modelmapper",
+    "owner": "modelmapper",
+    "stargazers_count": 2066
+  },
+  {
+    "name": "SpringBoot-Dubbo-Docker-Jenkins",
+    "owner": "bz51",
+    "stargazers_count": 2065
+  },
+  {
+    "name": "RetrofitUrlManager",
+    "owner": "JessYanCoding",
+    "stargazers_count": 2064
+  },
+  {
+    "name": "ScrollablePanel",
+    "owner": "Kelin-Hong",
+    "stargazers_count": 2063
+  },
+  {
+    "name": "FanLayoutManager",
+    "owner": "Cleveroad",
+    "stargazers_count": 2061
+  },
+  {
+    "name": "spring-boot-cloud",
+    "owner": "zhangxd1989",
+    "stargazers_count": 2061
+  },
+  {
+    "name": "ud851-Exercises",
+    "owner": "udacity",
+    "stargazers_count": 2056
+  },
+  {
+    "name": "PinnedSectionItemDecoration",
+    "owner": "oubowu",
+    "stargazers_count": 2054
+  },
+  {
+    "name": "vectalign",
+    "owner": "bonnyfone",
+    "stargazers_count": 2045
+  },
+  {
+    "name": "portfolio",
+    "owner": "buchen",
+    "stargazers_count": 2044
+  },
+  {
+    "name": "slf4j",
+    "owner": "qos-ch",
+    "stargazers_count": 2042
+  },
+  {
+    "name": "MiPushFramework",
+    "owner": "MiPushFramework",
+    "stargazers_count": 2040
+  },
+  {
+    "name": "ImageEditor-Android",
+    "owner": "siwangqishiq",
+    "stargazers_count": 2039
+  },
+  {
+    "name": "speedment",
+    "owner": "speedment",
+    "stargazers_count": 2037
+  },
+  {
+    "name": "XPrivacy",
+    "owner": "M66B",
+    "stargazers_count": 2036
+  },
+  {
+    "name": "HdrHistogram",
+    "owner": "HdrHistogram",
+    "stargazers_count": 2028
+  },
+  {
+    "name": "android-ui-animation-components-and-libraries",
+    "owner": "Ramotion",
+    "stargazers_count": 2024
+  },
+  {
+    "name": "JavaHamcrest",
+    "owner": "hamcrest",
+    "stargazers_count": 2011
+  },
+  {
+    "name": "amidst",
+    "owner": "toolbox4minecraft",
+    "stargazers_count": 2009
+  },
+  {
+    "name": "piranha",
+    "owner": "uber",
+    "stargazers_count": 2003
+  },
+  {
+    "name": "code-examples",
+    "owner": "thombergs",
+    "stargazers_count": 2002
+  },
+  {
+    "name": "AnyChart-Android",
+    "owner": "AnyChart",
+    "stargazers_count": 2000
+  },
+  {
+    "name": "CircularAnim",
+    "owner": "XunMengWinter",
+    "stargazers_count": 1996
+  },
+  {
+    "name": "SmartSwipe",
+    "owner": "luckybilly",
+    "stargazers_count": 1992
+  },
+  {
+    "name": "Android-SlideExpandableListView",
+    "owner": "tjerkw",
+    "stargazers_count": 1991
+  },
+  {
+    "name": "mysql-binlog-connector-java",
+    "owner": "shyiko",
+    "stargazers_count": 1985
+  },
+  {
+    "name": "CardStackView",
+    "owner": "yuyakaido",
+    "stargazers_count": 1984
+  },
+  {
+    "name": "scm-biz-suite",
+    "owner": "doublechaintech",
+    "stargazers_count": 1982
+  },
+  {
+    "name": "IndicatorSeekBar",
+    "owner": "warkiz",
+    "stargazers_count": 1978
+  },
+  {
+    "name": "streamex",
+    "owner": "amaembo",
+    "stargazers_count": 1972
+  },
+  {
+    "name": "Note",
+    "owner": "scalad",
+    "stargazers_count": 1969
+  },
+  {
+    "name": "tinyid",
+    "owner": "didi",
+    "stargazers_count": 1967
+  },
+  {
+    "name": "card.io-Android-SDK",
+    "owner": "card-io",
+    "stargazers_count": 1963
+  },
+  {
+    "name": "netty-in-action",
+    "owner": "normanmaurer",
+    "stargazers_count": 1963
+  },
+  {
+    "name": "FlatLaf",
+    "owner": "JFormDesigner",
+    "stargazers_count": 1960
+  },
+  {
+    "name": "Cimoc",
+    "owner": "Haleydu",
+    "stargazers_count": 1958
+  },
+  {
+    "name": "hertzbeat",
+    "owner": "dromara",
+    "stargazers_count": 1957
+  },
+  {
+    "name": "android-testing-templates",
+    "owner": "googlesamples",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "EasyProtector",
+    "owner": "lamster2018",
+    "stargazers_count": 1955
+  },
+  {
+    "name": "AnimatedSvgView",
+    "owner": "jaredrummler",
+    "stargazers_count": 1953
+  },
+  {
+    "name": "aws-lambda-developer-guide",
+    "owner": "awsdocs",
+    "stargazers_count": 1949
+  },
+  {
+    "name": "voltdb",
+    "owner": "VoltDB",
+    "stargazers_count": 1946
+  },
+  {
+    "name": "KJFrameForAndroid",
+    "owner": "kymjs",
+    "stargazers_count": 1944
+  },
+  {
+    "name": "renren-security",
+    "owner": "renrenio",
+    "stargazers_count": 1943
+  },
+  {
+    "name": "nv-websocket-client",
+    "owner": "TakahikoKawasaki",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "MaterialLogin",
+    "owner": "fanrunqi",
+    "stargazers_count": 1939
+  },
+  {
+    "name": "PathLayoutManager",
+    "owner": "wuyr",
+    "stargazers_count": 1938
+  },
+  {
+    "name": "WaveSwipeRefreshLayout",
+    "owner": "recruit-lifestyle",
+    "stargazers_count": 1936
+  },
+  {
+    "name": "gl-react-native-v2",
+    "owner": "gre",
+    "stargazers_count": 1936
+  },
+  {
+    "name": "gremlin",
+    "owner": "tinkerpop",
+    "stargazers_count": 1928
+  },
+  {
+    "name": "PinchImageView",
+    "owner": "boycy815",
+    "stargazers_count": 1921
+  },
+  {
+    "name": "jcasbin",
+    "owner": "casbin",
+    "stargazers_count": 1920
+  },
+  {
+    "name": "SpringBoot-vue",
+    "owner": "boylegu",
+    "stargazers_count": 1917
+  },
+  {
+    "name": "ratpack",
+    "owner": "ratpack",
+    "stargazers_count": 1916
+  },
+  {
+    "name": "poli",
+    "owner": "shzlw",
+    "stargazers_count": 1914
+  },
+  {
+    "name": "sqli",
+    "owner": "x-ream",
+    "stargazers_count": 1913
+  },
+  {
+    "name": "HotswapAgent",
+    "owner": "HotswapProjects",
+    "stargazers_count": 1904
+  },
+  {
+    "name": "snowflake",
+    "owner": "subhra74",
+    "stargazers_count": 1903
+  },
+  {
+    "name": "smart-sso",
+    "owner": "a466350665",
+    "stargazers_count": 1899
+  },
+  {
+    "name": "PLMCodeTemplate",
+    "owner": "xwjie",
+    "stargazers_count": 1898
+  },
+  {
+    "name": "scouter",
+    "owner": "scouter-project",
+    "stargazers_count": 1891
+  },
+  {
+    "name": "elasticsearch-hadoop",
+    "owner": "elastic",
+    "stargazers_count": 1886
+  },
+  {
+    "name": "QuestionAnsweringSystem",
+    "owner": "ysc",
+    "stargazers_count": 1882
+  },
+  {
+    "name": "WSLiveDemo",
+    "owner": "WangShuo1143368701",
+    "stargazers_count": 1881
+  },
+  {
+    "name": "android-segmented-control",
+    "owner": "Kaopiz",
+    "stargazers_count": 1878
+  },
+  {
+    "name": "TinyDancer",
+    "owner": "friendlyrobotnyc",
+    "stargazers_count": 1877
+  },
+  {
+    "name": "LuckPerms",
+    "owner": "LuckPerms",
+    "stargazers_count": 1605
+  },
+  {
+    "name": "rapidoid",
+    "owner": "rapidoid",
+    "stargazers_count": 1604
+  },
+  {
+    "name": "PdfViewPager",
+    "owner": "voghDev",
+    "stargazers_count": 1602
+  },
+  {
+    "name": "AndroidRubberIndicator",
+    "owner": "liangfeidotme",
+    "stargazers_count": 1596
+  },
+  {
+    "name": "lemon",
+    "owner": "xuhuisheng",
+    "stargazers_count": 1595
+  },
+  {
+    "name": "Lightweight-Stream-API",
+    "owner": "aNNiMON",
+    "stargazers_count": 1594
+  },
+  {
+    "name": "PhotoNoter",
+    "owner": "yydcdut",
+    "stargazers_count": 1589
+  },
+  {
+    "name": "spring-security-react-ant-design-polls-app",
+    "owner": "callicoder",
+    "stargazers_count": 1587
+  },
+  {
+    "name": "Android-Download-Manager-Pro",
+    "owner": "majidgolshadi",
+    "stargazers_count": 1582
+  },
+  {
+    "name": "morphia",
+    "owner": "MorphiaOrg",
+    "stargazers_count": 1578
+  },
+  {
+    "name": "android-selector-chapek",
+    "owner": "inmite",
+    "stargazers_count": 1578
+  },
+  {
+    "name": "CosmoCalendar",
+    "owner": "ApplikeySolutions",
+    "stargazers_count": 1578
+  },
+  {
+    "name": "lithium-fabric",
+    "owner": "CaffeineMC",
+    "stargazers_count": 1578
+  },
+  {
+    "name": "pdf2json",
+    "owner": "modesty",
+    "stargazers_count": 1575
+  },
+  {
+    "name": "CatServer",
+    "owner": "Luohuayu",
+    "stargazers_count": 1575
+  },
+  {
+    "name": "RocooFix",
+    "owner": "dodola",
+    "stargazers_count": 1573
+  },
+  {
+    "name": "Peergos",
+    "owner": "Peergos",
+    "stargazers_count": 1571
+  },
+  {
+    "name": "MaterialNavigationDrawer",
+    "owner": "neokree",
+    "stargazers_count": 1570
+  },
+  {
+    "name": "JApiDocs",
+    "owner": "YeDaxia",
+    "stargazers_count": 1568
+  },
+  {
+    "name": "UsbSerial",
+    "owner": "felHR85",
+    "stargazers_count": 1566
+  },
+  {
+    "name": "openhtmltopdf",
+    "owner": "danfickle",
+    "stargazers_count": 1563
+  },
+  {
+    "name": "java8-the-missing-tutorial",
+    "owner": "shekhargulati",
+    "stargazers_count": 1563
+  },
+  {
+    "name": "loklak_wok_android",
+    "owner": "fossasia",
+    "stargazers_count": 1562
+  },
+  {
+    "name": "pushy",
+    "owner": "jchambers",
+    "stargazers_count": 1561
+  },
+  {
+    "name": "coderiver",
+    "owner": "cachecats",
+    "stargazers_count": 1558
+  },
+  {
+    "name": "WeiBo",
+    "owner": "wenmingvs",
+    "stargazers_count": 1553
+  },
+  {
+    "name": "AndroidDevMetrics",
+    "owner": "frogermcs",
+    "stargazers_count": 1552
+  },
+  {
+    "name": "BroadleafCommerce",
+    "owner": "BroadleafCommerce",
+    "stargazers_count": 1551
+  },
+  {
+    "name": "cling",
+    "owner": "4thline",
+    "stargazers_count": 1549
+  },
+  {
+    "name": "Oculess",
+    "owner": "basti564",
+    "stargazers_count": 1547
+  },
+  {
+    "name": "FloatingToolbar",
+    "owner": "rubensousa",
+    "stargazers_count": 1547
+  },
+  {
+    "name": "SlidingUpPanelLayout",
+    "owner": "woxingxiao",
+    "stargazers_count": 1542
+  },
+  {
+    "name": "zip4j",
+    "owner": "srikanth-lingala",
+    "stargazers_count": 1540
+  },
+  {
+    "name": "rx-preferences",
+    "owner": "f2prateek",
+    "stargazers_count": 1540
+  },
+  {
+    "name": "DylanStepCount",
+    "owner": "linglongxin24",
+    "stargazers_count": 1540
+  },
+  {
+    "name": "primefaces",
+    "owner": "primefaces",
+    "stargazers_count": 1539
+  },
+  {
+    "name": "MetaballLoading",
+    "owner": "dodola",
+    "stargazers_count": 1535
+  },
+  {
+    "name": "opentracing-tutorial",
+    "owner": "yurishkuro",
+    "stargazers_count": 1531
+  },
+  {
+    "name": "TwelveMonkeys",
+    "owner": "haraldk",
+    "stargazers_count": 1529
+  },
+  {
+    "name": "urule",
+    "owner": "youseries",
+    "stargazers_count": 1528
+  },
+  {
+    "name": "Router",
+    "owner": "chenenyu",
+    "stargazers_count": 1527
+  },
+  {
+    "name": "react-native-date-picker",
+    "owner": "henninghall",
+    "stargazers_count": 1527
+  },
+  {
+    "name": "modeldb",
+    "owner": "VertaAI",
+    "stargazers_count": 1526
+  },
+  {
+    "name": "spring-cloud-flycloud",
+    "owner": "mxdldev",
+    "stargazers_count": 1525
+  },
+  {
+    "name": "cpbook-code",
+    "owner": "stevenhalim",
+    "stargazers_count": 1523
+  },
+  {
+    "name": "okbuck",
+    "owner": "uber",
+    "stargazers_count": 1523
+  },
+  {
+    "name": "gravitee-api-management",
+    "owner": "gravitee-io",
+    "stargazers_count": 1522
+  },
+  {
+    "name": "Java-Thread-Affinity",
+    "owner": "OpenHFT",
+    "stargazers_count": 1519
+  },
+  {
+    "name": "spring-data-redis",
+    "owner": "spring-projects",
+    "stargazers_count": 1514
+  },
+  {
+    "name": "synthea",
+    "owner": "synthetichealth",
+    "stargazers_count": 1513
+  },
+  {
+    "name": "Algorithm-Guide",
+    "owner": "Xunzhuo",
+    "stargazers_count": 1513
+  },
+  {
+    "name": "maps",
+    "owner": "rnmapbox",
+    "stargazers_count": 1511
+  },
+  {
+    "name": "exchange-core",
+    "owner": "exchange-core",
+    "stargazers_count": 1511
+  },
+  {
+    "name": "Discord4J",
+    "owner": "Discord4J",
+    "stargazers_count": 1511
+  },
+  {
+    "name": "photon",
+    "owner": "komoot",
+    "stargazers_count": 1510
+  },
+  {
+    "name": "ImageSelector",
+    "owner": "smuyyh",
+    "stargazers_count": 1508
+  },
+  {
+    "name": "AndroidRTC",
+    "owner": "pchab",
+    "stargazers_count": 1507
+  },
+  {
+    "name": "JavaKeeper",
+    "owner": "Jstarfish",
+    "stargazers_count": 1504
+  },
+  {
+    "name": "json2view",
+    "owner": "Avocarrot",
+    "stargazers_count": 1504
+  },
+  {
+    "name": "jdeferred",
+    "owner": "jdeferred",
+    "stargazers_count": 1502
+  },
+  {
+    "name": "chunked-coding-converter",
+    "owner": "c0ny1",
+    "stargazers_count": 1502
+  },
+  {
+    "name": "exposed",
+    "owner": "android-hacker",
+    "stargazers_count": 1501
+  },
+  {
+    "name": "WheelView",
+    "owner": "wangjiegulu",
+    "stargazers_count": 1500
+  },
+  {
+    "name": "XDroidMvp",
+    "owner": "limedroid",
+    "stargazers_count": 1499
+  },
+  {
+    "name": "CalendarListview",
+    "owner": "traex",
+    "stargazers_count": 1491
+  },
+  {
+    "name": "AppStartFaster",
+    "owner": "aiceking",
+    "stargazers_count": 1487
+  },
+  {
+    "name": "frodo",
+    "owner": "android10",
+    "stargazers_count": 1487
+  },
+  {
+    "name": "myth",
+    "owner": "dromara",
+    "stargazers_count": 1482
+  },
+  {
+    "name": "Etar-Calendar",
+    "owner": "Etar-Group",
+    "stargazers_count": 1481
+  },
+  {
+    "name": "sonarqube-community-branch-plugin",
+    "owner": "mc1arke",
+    "stargazers_count": 1481
+  },
+  {
+    "name": "Thusy",
+    "owner": "jayZheng87",
+    "stargazers_count": 1480
+  },
+  {
+    "name": "GroupedRecyclerViewAdapter",
+    "owner": "donkingliang",
+    "stargazers_count": 1479
+  },
+  {
+    "name": "spring-boot-learning-examples",
+    "owner": "rhwayfun",
+    "stargazers_count": 1478
+  },
+  {
+    "name": "Android-MvvmComponent-App",
+    "owner": "darryrzhong",
+    "stargazers_count": 1474
+  },
+  {
+    "name": "Fetch",
+    "owner": "tonyofrancis",
+    "stargazers_count": 1474
+  },
+  {
+    "name": "Jailer",
+    "owner": "Wisser",
+    "stargazers_count": 1471
+  },
+  {
+    "name": "ImageBlurring",
+    "owner": "qiujuer",
+    "stargazers_count": 1470
+  },
+  {
+    "name": "RootTools",
+    "owner": "Stericson",
+    "stargazers_count": 1470
+  },
+  {
+    "name": "road-trip",
+    "owner": "romainguy",
+    "stargazers_count": 1470
+  },
+  {
+    "name": "discrollview",
+    "owner": "flavienlaurent",
+    "stargazers_count": 1467
+  },
+  {
+    "name": "buckpal",
+    "owner": "thombergs",
+    "stargazers_count": 1463
+  },
+  {
+    "name": "spring-data-mongodb",
+    "owner": "spring-projects",
+    "stargazers_count": 1462
+  },
+  {
+    "name": "tabula-java",
+    "owner": "tabulapdf",
+    "stargazers_count": 1459
+  },
+  {
+    "name": "mica",
+    "owner": "lets-mica",
+    "stargazers_count": 1459
+  },
+  {
+    "name": "flink-streaming-platform-web",
+    "owner": "zhp8341",
+    "stargazers_count": 1455
+  },
+  {
+    "name": "TileView",
+    "owner": "moagrius",
+    "stargazers_count": 1453
+  },
+  {
+    "name": "aima-java",
+    "owner": "aimacode",
+    "stargazers_count": 1452
+  },
+  {
+    "name": "uaa",
+    "owner": "cloudfoundry",
+    "stargazers_count": 1452
+  },
+  {
+    "name": "SwipeRevealLayout",
+    "owner": "chthai64",
+    "stargazers_count": 1451
+  },
+  {
+    "name": "spring-boot-samples",
+    "owner": "netgloo",
+    "stargazers_count": 1451
+  },
+  {
+    "name": "anvil",
+    "owner": "anvil-ui",
+    "stargazers_count": 1447
+  },
+  {
+    "name": "leveldb",
+    "owner": "dain",
+    "stargazers_count": 1440
+  },
+  {
+    "name": "Novate",
+    "owner": "Tamicer",
+    "stargazers_count": 1438
+  },
+  {
+    "name": "hackerskeyboard",
+    "owner": "klausw",
+    "stargazers_count": 1437
+  },
+  {
+    "name": "segmentfault-lessons",
+    "owner": "mercyblitz",
+    "stargazers_count": 1435
+  },
+  {
+    "name": "VCameraDemo",
+    "owner": "motianhuo",
+    "stargazers_count": 1431
+  },
+  {
+    "name": "FlexLayout",
+    "owner": "mmin18",
+    "stargazers_count": 1432
+  },
+  {
+    "name": "Android-StickyNavLayout",
+    "owner": "hongyangAndroid",
+    "stargazers_count": 1430
+  },
+  {
+    "name": "PLDroidMediaStreaming",
+    "owner": "pili-engineering",
+    "stargazers_count": 1429
+  },
+  {
+    "name": "FantasySlide",
+    "owner": "mzule",
+    "stargazers_count": 1429
+  },
+  {
+    "name": "cldr",
+    "owner": "unicode-org",
+    "stargazers_count": 632
+  },
+  {
+    "name": "dledger",
+    "owner": "openmessaging",
+    "stargazers_count": 632
+  },
+  {
+    "name": "RxReplayingShare",
+    "owner": "JakeWharton",
+    "stargazers_count": 631
+  },
+  {
+    "name": "Android-QuickSideBar",
+    "owner": "saiwu-bigkoo",
+    "stargazers_count": 631
+  },
+  {
+    "name": "CircleProgress",
+    "owner": "MyLifeMyTravel",
+    "stargazers_count": 630
+  },
+  {
+    "name": "MDStudySamples",
+    "owner": "Mike-bel",
+    "stargazers_count": 630
+  },
+  {
+    "name": "android-chips",
+    "owner": "klinker41",
+    "stargazers_count": 629
+  },
+  {
+    "name": "android-collapse-calendar-view",
+    "owner": "blazsolar",
+    "stargazers_count": 629
+  },
+  {
+    "name": "receiptnotice",
+    "owner": "c-kzxvldkhX",
+    "stargazers_count": 628
+  },
+  {
+    "name": "DilatingDotsProgressBar",
+    "owner": "JustZak",
+    "stargazers_count": 628
+  },
+  {
+    "name": "java_design_patterns",
+    "owner": "JamesZBL",
+    "stargazers_count": 628
+  },
+  {
+    "name": "DoubleScrollVIew",
+    "owner": "ysnows",
+    "stargazers_count": 627
+  },
+  {
+    "name": "aurora",
+    "owner": "apache",
+    "stargazers_count": 624
+  },
+  {
+    "name": "spring-cloud-commons",
+    "owner": "spring-cloud",
+    "stargazers_count": 624
+  },
+  {
+    "name": "mynlp",
+    "owner": "mayabot",
+    "stargazers_count": 624
+  },
+  {
+    "name": "kafka-spark-consumer",
+    "owner": "dibbhatt",
+    "stargazers_count": 623
+  },
+  {
+    "name": "ECMobile_Android",
+    "owner": "GeekZooStudio",
+    "stargazers_count": 620
+  },
+  {
+    "name": "SpringBootDemo",
+    "owner": "xiaour",
+    "stargazers_count": 622
+  },
+  {
+    "name": "ThumbUp",
+    "owner": "ldoublem",
+    "stargazers_count": 621
+  },
+  {
+    "name": "aem-core-wcm-components",
+    "owner": "adobe",
+    "stargazers_count": 620
+  },
+  {
+    "name": "htmlunit",
+    "owner": "HtmlUnit",
+    "stargazers_count": 620
+  },
+  {
+    "name": "jamm",
+    "owner": "jbellis",
+    "stargazers_count": 620
+  },
+  {
+    "name": "kitty",
+    "owner": "yinjihuan",
+    "stargazers_count": 620
+  },
+  {
+    "name": "MTransition",
+    "owner": "HJ-Money",
+    "stargazers_count": 619
+  },
+  {
+    "name": "Beam",
+    "owner": "Jude95",
+    "stargazers_count": 619
+  },
+  {
+    "name": "DataDroid",
+    "owner": "foxykeep",
+    "stargazers_count": 615
+  },
+  {
+    "name": "hivemq-mqtt-client",
+    "owner": "hivemq",
+    "stargazers_count": 614
+  },
+  {
+    "name": "EasyXRecyclerView",
+    "owner": "zhou-you",
+    "stargazers_count": 614
+  },
+  {
+    "name": "EazyBuilder",
+    "owner": "iSoftStoneGroup",
+    "stargazers_count": 611
+  },
+  {
+    "name": "APKParser",
+    "owner": "jaredrummler",
+    "stargazers_count": 610
+  },
+  {
+    "name": "japicmp",
+    "owner": "siom79",
+    "stargazers_count": 609
+  },
+  {
+    "name": "ActivityTracker",
+    "owner": "fashare2015",
+    "stargazers_count": 606
+  },
+  {
+    "name": "octo-rpc",
+    "owner": "Meituan-Dianping",
+    "stargazers_count": 604
+  },
+  {
+    "name": "material-drawer",
+    "owner": "heinrichreimer",
+    "stargazers_count": 601
+  },
+  {
+    "name": "9stepsawesome",
+    "owner": "burrsutter",
+    "stargazers_count": 604
+  },
+  {
+    "name": "equalsverifier",
+    "owner": "jqno",
+    "stargazers_count": 603
+  },
+  {
+    "name": "cwac-saferoom",
+    "owner": "commonsguy",
+    "stargazers_count": 603
+  },
+  {
+    "name": "spring-shell",
+    "owner": "spring-projects",
+    "stargazers_count": 601
+  },
+  {
+    "name": "comsat",
+    "owner": "puniverse",
+    "stargazers_count": 601
+  },
+  {
+    "name": "youtubedl-android",
+    "owner": "yausername",
+    "stargazers_count": 600
+  },
+  {
+    "name": "react-native-google-cast",
+    "owner": "react-native-google-cast",
+    "stargazers_count": 599
+  },
+  {
+    "name": "WxRecoderVideo",
+    "owner": "maimingliang",
+    "stargazers_count": 598
+  },
+  {
+    "name": "Cynthia",
+    "owner": "desktopqa",
+    "stargazers_count": 597
+  },
+  {
+    "name": "wiki2vec",
+    "owner": "idio",
+    "stargazers_count": 597
+  },
+  {
+    "name": "libjitsi",
+    "owner": "jitsi",
+    "stargazers_count": 595
+  },
+  {
+    "name": "InstagramLikeColorTransitionAndroid",
+    "owner": "Taishi-Y",
+    "stargazers_count": 594
+  },
+  {
+    "name": "wdl",
+    "owner": "openwdl",
+    "stargazers_count": 593
+  },
+  {
+    "name": "juicessh-performancemonitor",
+    "owner": "Sonelli",
+    "stargazers_count": 593
+  },
+  {
+    "name": "MeiTuanLocateCity",
+    "owner": "yangxu4536",
+    "stargazers_count": 593
+  },
+  {
+    "name": "cassandra-lucene-index",
+    "owner": "Stratio",
+    "stargazers_count": 593
+  },
+  {
+    "name": "CorfuDB",
+    "owner": "CorfuDB",
+    "stargazers_count": 592
+  },
+  {
+    "name": "ud862-samples",
+    "owner": "udacity",
+    "stargazers_count": 591
+  },
+  {
+    "name": "roaster",
+    "owner": "forge",
+    "stargazers_count": 590
+  },
+  {
+    "name": "ParallaxViewPager",
+    "owner": "ybq",
+    "stargazers_count": 589
+  },
+  {
+    "name": "PullZoomView",
+    "owner": "jeasonlzy",
+    "stargazers_count": 589
+  },
+  {
+    "name": "sofa-registry",
+    "owner": "sofastack",
+    "stargazers_count": 589
+  },
+  {
+    "name": "FlowHelper",
+    "owner": "LillteZheng",
+    "stargazers_count": 589
+  },
+  {
+    "name": "ApkSignatureKiller",
+    "owner": "L-JINBIN",
+    "stargazers_count": 588
+  },
+  {
+    "name": "jfxtras",
+    "owner": "JFXtras",
+    "stargazers_count": 586
+  },
+  {
+    "name": "wasp",
+    "owner": "orhanobut",
+    "stargazers_count": 585
+  },
+  {
+    "name": "CardView",
+    "owner": "chiemy",
+    "stargazers_count": 584
+  },
+  {
+    "name": "basex",
+    "owner": "BaseXdb",
+    "stargazers_count": 584
+  },
+  {
+    "name": "BleachHack",
+    "owner": "BleachDev",
+    "stargazers_count": 583
+  },
+  {
+    "name": "android-gradle-java-app-template",
+    "owner": "jaredsburrows",
+    "stargazers_count": 583
+  },
+  {
+    "name": "AES-Killer",
+    "owner": "Ebryx",
+    "stargazers_count": 582
+  },
+  {
+    "name": "signpost",
+    "owner": "mttkay",
+    "stargazers_count": 582
+  },
+  {
+    "name": "news-android",
+    "owner": "nextcloud",
+    "stargazers_count": 581
+  },
+  {
+    "name": "onboarding-examples-android",
+    "owner": "saulmm",
+    "stargazers_count": 580
+  },
+  {
+    "name": "AiYaSchoolPush",
+    "owner": "nanchen2251",
+    "stargazers_count": 580
+  },
+  {
+    "name": "solr",
+    "owner": "apache",
+    "stargazers_count": 580
+  },
+  {
+    "name": "DiscreteSlider",
+    "owner": "lawloretienne",
+    "stargazers_count": 579
+  },
+  {
+    "name": "NightOwl",
+    "owner": "ashqal",
+    "stargazers_count": 578
+  },
+  {
+    "name": "OfficerBreaker",
+    "owner": "nedlir",
+    "stargazers_count": 578
+  },
+  {
+    "name": "fragnums",
+    "owner": "pyricau",
+    "stargazers_count": 579
+  },
+  {
+    "name": "UndoBar",
+    "owner": "soarcn",
+    "stargazers_count": 578
+  },
+  {
+    "name": "LoadingStateView",
+    "owner": "DylanCaiCoding",
+    "stargazers_count": 577
+  },
+  {
+    "name": "Trestle",
+    "owner": "lawloretienne",
+    "stargazers_count": 576
+  },
+  {
+    "name": "shadowsocks-android-java",
+    "owner": "dawei101",
+    "stargazers_count": 576
+  },
+  {
+    "name": "org.alloytools.alloy",
+    "owner": "AlloyTools",
+    "stargazers_count": 576
+  },
+  {
+    "name": "ActSwitchAnimTool",
+    "owner": "Yellow5A5",
+    "stargazers_count": 575
+  },
+  {
+    "name": "ZDepthShadow",
+    "owner": "sho5nn",
+    "stargazers_count": 574
+  },
+  {
+    "name": "RedEnvelopeAssistant",
+    "owner": "waylife",
+    "stargazers_count": 573
+  },
+  {
+    "name": "LibrarySystem",
+    "owner": "zhanghuanhao",
+    "stargazers_count": 571
+  },
+  {
+    "name": "CycleMenu",
+    "owner": "Cleveroad",
+    "stargazers_count": 571
+  },
+  {
+    "name": "ark-tweet-nlp",
+    "owner": "brendano",
+    "stargazers_count": 571
+  },
+  {
+    "name": "Idaily",
+    "owner": "liuguangqiang",
+    "stargazers_count": 570
+  },
+  {
+    "name": "OWASP-WebScarab",
+    "owner": "OWASP",
+    "stargazers_count": 570
+  },
+  {
+    "name": "JavaMultiThreading",
+    "owner": "Beerkay",
+    "stargazers_count": 570
+  },
+  {
+    "name": "VideoRecorderAndCompressor",
+    "owner": "chenzhihui28",
+    "stargazers_count": 569
+  },
+  {
+    "name": "huabanDemo",
+    "owner": "LiCola1213",
+    "stargazers_count": 569
+  },
+  {
+    "name": "OnePageSigninSignup",
+    "owner": "irfaan008",
+    "stargazers_count": 567
+  },
+  {
+    "name": "pickerview",
+    "owner": "jaaksi",
+    "stargazers_count": 567
+  },
+  {
+    "name": "rocketmq-dashboard",
+    "owner": "apache",
+    "stargazers_count": 567
+  },
+  {
+    "name": "Time-NLP",
+    "owner": "shinyke",
+    "stargazers_count": 567
+  },
+  {
+    "name": "cordova-plugin-googleplus",
+    "owner": "EddyVerbruggen",
+    "stargazers_count": 567
+  },
+  {
+    "name": "DraggableGridView",
+    "owner": "thquinn",
+    "stargazers_count": 566
+  },
+  {
+    "name": "jblas",
+    "owner": "jblas-project",
+    "stargazers_count": 564
+  },
+  {
+    "name": "MoppyClassic",
+    "owner": "Sammy1Am",
+    "stargazers_count": 563
+  },
+  {
+    "name": "docs-archive",
+    "owner": "xamarin",
+    "stargazers_count": 563
+  },
+  {
+    "name": "Kylin",
+    "owner": "KylinOLAP",
+    "stargazers_count": 562
+  },
+  {
+    "name": "NightOwl",
+    "owner": "ashqal",
+    "stargazers_count": 578
+  },
+  {
+    "name": "fragnums",
+    "owner": "pyricau",
+    "stargazers_count": 579
+  },
+  {
+    "name": "UndoBar",
+    "owner": "soarcn",
+    "stargazers_count": 578
+  },
+  {
+    "name": "wlmusic",
+    "owner": "wanliyang1990",
+    "stargazers_count": 578
+  },
+  {
+    "name": "ListItemView",
+    "owner": "lurbas",
+    "stargazers_count": 578
+  },
+  {
+    "name": "java-simple-serial-connector",
+    "owner": "scream3r",
+    "stargazers_count": 577
+  },
+  {
+    "name": "BubbleAnimationLayout",
+    "owner": "Cleveroad",
+    "stargazers_count": 577
+  },
+  {
+    "name": "Trestle",
+    "owner": "lawloretienne",
+    "stargazers_count": 576
+  },
+  {
+    "name": "jzmq",
+    "owner": "zeromq",
+    "stargazers_count": 575
+  },
+  {
+    "name": "ScrollingPagerIndicator",
+    "owner": "Tinkoff",
+    "stargazers_count": 575
+  },
+  {
+    "name": "dialogflow-android-client",
+    "owner": "dialogflow",
+    "stargazers_count": 575
+  },
+  {
+    "name": "ActSwitchAnimTool",
+    "owner": "Yellow5A5",
+    "stargazers_count": 575
+  },
+  {
+    "name": "gs-spring-boot-docker",
+    "owner": "spring-guides",
+    "stargazers_count": 573
+  },
+  {
+    "name": "LinearListView",
+    "owner": "frankiesardo",
+    "stargazers_count": 573
+  },
+  {
+    "name": "AvatarLabelView",
+    "owner": "yanbober",
+    "stargazers_count": 573
+  },
+  {
+    "name": "RedEnvelopeAssistant",
+    "owner": "waylife",
+    "stargazers_count": 573
+  },
+  {
+    "name": "Android-Camera",
+    "owner": "dingjikerbo",
+    "stargazers_count": 570
+  },
+  {
+    "name": "DarkCalculator",
+    "owner": "HK-SHAO",
+    "stargazers_count": 570
+  },
+  {
+    "name": "mirror",
+    "owner": "maxbbraun",
+    "stargazers_count": 569
+  },
+  {
+    "name": "Android-Zxing",
+    "owner": "mylhyl",
+    "stargazers_count": 569
+  },
+  {
+    "name": "ContourView",
+    "owner": "OCNYang",
+    "stargazers_count": 569
+  },
+  {
+    "name": "kstools",
+    "owner": "fourbrother",
+    "stargazers_count": 568
+  },
+  {
+    "name": "jediterm",
+    "owner": "JetBrains",
+    "stargazers_count": 568
+  },
+  {
+    "name": "ashot",
+    "owner": "pazone",
+    "stargazers_count": 567
+  },
+  {
+    "name": "FeatureFu",
+    "owner": "linkedin",
+    "stargazers_count": 567
+  },
+  {
+    "name": "effective-java-examples",
+    "owner": "marhan",
+    "stargazers_count": 567
+  },
+  {
+    "name": "SpringCloudBook",
+    "owner": "dyc87112",
+    "stargazers_count": 566
+  },
+  {
+    "name": "openscoring",
+    "owner": "openscoring",
+    "stargazers_count": 566
+  },
+  {
+    "name": "MoppyClassic",
+    "owner": "Sammy1Am",
+    "stargazers_count": 563
+  },
+  {
+    "name": "QuiltViewLibrary",
+    "owner": "jacobmoncur",
+    "stargazers_count": 562
+  },
+  {
+    "name": "BehinderClientSource",
+    "owner": "MountCloud",
+    "stargazers_count": 562
+  },
+  {
+    "name": "scalecube-services",
+    "owner": "scalecube",
+    "stargazers_count": 562
+  },
+  {
+    "name": "OneSignal-Android-SDK",
+    "owner": "OneSignal",
+    "stargazers_count": 561
+  },
+  {
+    "name": "LockTableView",
+    "owner": "RmondJone",
+    "stargazers_count": 561
+  },
+  {
+    "name": "cordova-plugin-camera-preview",
+    "owner": "cordova-plugin-camera-preview",
+    "stargazers_count": 560
+  },
+  {
+    "name": "BottomSheetBuilder",
+    "owner": "rubensousa",
+    "stargazers_count": 559
+  },
+  {
+    "name": "cleo",
+    "owner": "LinkedInAttic",
+    "stargazers_count": 559
+  },
+  {
+    "name": "ShapeRipple",
+    "owner": "poldz123",
+    "stargazers_count": 558
+  },
+  {
+    "name": "KingIM",
+    "owner": "jkxqj",
+    "stargazers_count": 558
+  },
+  {
+    "name": "FABToolbar",
+    "owner": "fafaldo-zz",
+    "stargazers_count": 557
+  },
+  {
+    "name": "blitz4j",
+    "owner": "Netflix",
+    "stargazers_count": 557
+  },
+  {
+    "name": "hprose-java",
+    "owner": "hprose",
+    "stargazers_count": 557
+  },
+  {
+    "name": "SubmitButton",
+    "owner": "SparkYuan",
+    "stargazers_count": 557
+  },
+  {
+    "name": "ZrcListView",
+    "owner": "Namir233",
+    "stargazers_count": 552
+  },
+  {
+    "name": "contrib-drivers",
+    "owner": "androidthings",
+    "stargazers_count": 556
+  },
+  {
+    "name": "obd-java-api",
+    "owner": "pires",
+    "stargazers_count": 556
+  },
+  {
+    "name": "GPUVideo-android",
+    "owner": "MasayukiSuda",
+    "stargazers_count": 556
+  },
+  {
+    "name": "MessageBar",
+    "owner": "SimonVT",
+    "stargazers_count": 556
+  },
+  {
+    "name": "app-icon",
+    "owner": "dwmkerr",
+    "stargazers_count": 553
+  },
+  {
+    "name": "litiengine",
+    "owner": "gurkenlabs",
+    "stargazers_count": 551
+  },
+  {
+    "name": "EaseInterpolator",
+    "owner": "cimi-chen",
+    "stargazers_count": 551
+  },
+  {
+    "name": "super-diamond",
+    "owner": "melin",
+    "stargazers_count": 549
+  },
+  {
+    "name": "SkyMonitoring",
+    "owner": "Tamicer",
+    "stargazers_count": 548
+  },
+  {
+    "name": "portmapper",
+    "owner": "kaklakariada",
+    "stargazers_count": 548
+  },
+  {
+    "name": "NodeFlow",
+    "owner": "Telenav",
+    "stargazers_count": 546
+  },
+  {
+    "name": "Tmall_SSM",
+    "owner": "wmyskxz",
+    "stargazers_count": 546
+  },
+  {
+    "name": "derive4j",
+    "owner": "derive4j",
+    "stargazers_count": 544
+  },
+  {
+    "name": "pull-back-layout",
+    "owner": "oxoooo",
+    "stargazers_count": 542
+  },
+  {
+    "name": "RxBlur",
+    "owner": "SmartDengg",
+    "stargazers_count": 540
+  },
+  {
+    "name": "Oceanus",
+    "owner": "wuba",
+    "stargazers_count": 541
+  },
+  {
+    "name": "concurrency",
+    "owner": "Fadezed",
+    "stargazers_count": 541
+  },
+  {
+    "name": "My-RPC-Framework",
+    "owner": "CN-GuoZiyang",
+    "stargazers_count": 541
+  },
+  {
+    "name": "StompProtocolAndroid",
+    "owner": "NaikSoftware",
+    "stargazers_count": 540
+  },
+  {
+    "name": "ormlite-core",
+    "owner": "j256",
+    "stargazers_count": 540
+  },
+  {
+    "name": "SlideSwitch",
+    "owner": "Leaking",
+    "stargazers_count": 539
+  },
+  {
+    "name": "TextViewExpandableAnimation",
+    "owner": "freecats",
+    "stargazers_count": 539
+  },
+  {
+    "name": "StackOverView",
+    "owner": "Bossyao168",
+    "stargazers_count": 538
+  },
+  {
+    "name": "vertx-guide-for-java-devs",
+    "owner": "vert-x3",
+    "stargazers_count": 538
+  },
+  {
+    "name": "netflix-graph",
+    "owner": "Netflix",
+    "stargazers_count": 538
+  },
+  {
+    "name": "specification-arg-resolver",
+    "owner": "tkaczmarzyk",
+    "stargazers_count": 538
+  },
+  {
+    "name": "ShadowDrawable",
+    "owner": "Liberuman",
+    "stargazers_count": 537
+  },
+  {
+    "name": "syndesis",
+    "owner": "syndesisio",
+    "stargazers_count": 537
+  },
+  {
+    "name": "Jpom",
+    "owner": "dromara",
+    "stargazers_count": 537
+  },
+  {
+    "name": "ParallaxScrollView",
+    "owner": "chrisjenx",
+    "stargazers_count": 536
+  },
+  {
+    "name": "BubbleTab",
+    "owner": "florent37",
+    "stargazers_count": 536
+  },
+  {
+    "name": "EncryptedPreferences",
+    "owner": "PDDStudio",
+    "stargazers_count": 536
+  },
+  {
+    "name": "TempleApp",
+    "owner": "amfoss",
+    "stargazers_count": 536
+  },
+  {
+    "name": "android-sku",
+    "owner": "wuhenzhizao",
+    "stargazers_count": 535
+  },
+  {
+    "name": "Coder",
+    "owner": "CoderGuoy",
+    "stargazers_count": 535
+  },
+  {
+    "name": "BetterBatteryStats",
+    "owner": "asksven",
+    "stargazers_count": 535
+  },
+  {
+    "name": "Lobsterpicker",
+    "owner": "LarsWerkman",
+    "stargazers_count": 534
+  },
+  {
+    "name": "andlytics",
+    "owner": "AndlyticsProject",
+    "stargazers_count": 534
+  },
+  {
+    "name": "GadgetProbe",
+    "owner": "BishopFox",
+    "stargazers_count": 533
+  },
+  {
+    "name": "Bailan",
+    "owner": "guzhigang001",
+    "stargazers_count": 533
+  },
+  {
+    "name": "database-rider",
+    "owner": "database-rider",
+    "stargazers_count": 532
+  },
+  {
+    "name": "plantuml4idea",
+    "owner": "esteinberg",
+    "stargazers_count": 531
+  },
+  {
+    "name": "VUE",
+    "owner": "VUE",
+    "stargazers_count": 531
+  },
+  {
+    "name": "flower",
+    "owner": "zhihuili",
+    "stargazers_count": 531
+  },
+  {
+    "name": "let",
+    "owner": "canelmas",
+    "stargazers_count": 531
+  },
+  {
+    "name": "AndroidSideMenu",
+    "owner": "dmitry-zaitsev",
+    "stargazers_count": 530
+  },
+  {
+    "name": "language-detector",
+    "owner": "optimaize",
+    "stargazers_count": 529
+  },
+  {
+    "name": "Logcat",
+    "owner": "getActivity",
+    "stargazers_count": 529
+  },
+  {
+    "name": "yamlbeans",
+    "owner": "EsotericSoftware",
+    "stargazers_count": 528
+  },
+  {
+    "name": "cs-summary-reflection",
+    "owner": "jxnu-liguobin",
+    "stargazers_count": 528
+  },
+  {
+    "name": "App",
+    "owner": "amfoss",
+    "stargazers_count": 527
+  },
+  {
+    "name": "android-PdfRendererBasic",
+    "owner": "googlearchive",
+    "stargazers_count": 527
+  },
+  {
+    "name": "crystal-range-seekbar",
+    "owner": "syedowaisali",
+    "stargazers_count": 527
+  },
+  {
+    "name": "SnailBar",
+    "owner": "android-cjj",
+    "stargazers_count": 527
+  },
+  {
+    "name": "Remember",
+    "owner": "tumblr",
+    "stargazers_count": 526
+  },
+  {
+    "name": "wxOrder",
+    "owner": "923310233",
+    "stargazers_count": 526
+  }
+]
