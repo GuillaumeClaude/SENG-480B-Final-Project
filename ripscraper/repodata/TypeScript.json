@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "stargazers_count": 357228
+  },
+  {
+    "name": "developer-roadmap",
+    "owner": "kamranahmedse",
+    "stargazers_count": 218532
+  },
+  {
+    "name": "vue",
+    "owner": "vuejs",
+    "stargazers_count": 200762
+  },
+  {
+    "name": "vscode",
+    "owner": "microsoft",
+    "stargazers_count": 139252
+  },
+  {
+    "name": "angular",
+    "owner": "angular",
+    "stargazers_count": 84974
+  },
+  {
+    "name": "ant-design",
+    "owner": "ant-design",
+    "stargazers_count": 82703
+  },
+  {
+    "name": "tech-interview-handbook",
+    "owner": "yangshun",
+    "stargazers_count": 82288
+  },
+  {
+    "name": "storybook",
+    "owner": "storybookjs",
+    "stargazers_count": 75118
+  },
+  {
+    "name": "svelte",
+    "owner": "sveltejs",
+    "stargazers_count": 63263
+  },
+  {
+    "name": "redux",
+    "owner": "reduxjs",
+    "stargazers_count": 58895
+  },
+  {
+    "name": "code-server",
+    "owner": "coder",
+    "stargazers_count": 57672
+  },
+  {
+    "name": "echarts",
+    "owner": "apache",
+    "stargazers_count": 53366
+  },
+  {
+    "name": "grafana",
+    "owner": "grafana",
+    "stargazers_count": 52415
+  },
+  {
+    "name": "nest",
+    "owner": "nestjs",
+    "stargazers_count": 52245
+  },
+  {
+    "name": "vite",
+    "owner": "vitejs",
+    "stargazers_count": 49562
+  },
+  {
+    "name": "superset",
+    "owner": "apache",
+    "stargazers_count": 49117
+  },
+  {
+    "name": "react-router",
+    "owner": "remix-run",
+    "stargazers_count": 48839
+  },
+  {
+    "name": "ionic-framework",
+    "owner": "ionic-team",
+    "stargazers_count": 48258
+  },
+  {
+    "name": "playwright",
+    "owner": "microsoft",
+    "stargazers_count": 44593
+  },
+  {
+    "name": "DefinitelyTyped",
+    "owner": "DefinitelyTyped",
+    "stargazers_count": 41635
+  },
+  {
+    "name": "babel",
+    "owner": "babel",
+    "stargazers_count": 41617
+  },
+  {
+    "name": "supabase",
+    "owner": "supabase",
+    "stargazers_count": 40945
+  },
+  {
+    "name": "jest",
+    "owner": "facebook",
+    "stargazers_count": 40742
+  },
+  {
+    "name": "docusaurus",
+    "owner": "facebook",
+    "stargazers_count": 39767
+  },
+  {
+    "name": "hyper",
+    "owner": "vercel",
+    "stargazers_count": 39689
+  },
+  {
+    "name": "pixijs",
+    "owner": "pixijs",
+    "stargazers_count": 38086
+  },
+  {
+    "name": "styled-components",
+    "owner": "styled-components",
+    "stargazers_count": 37750
+  },
+  {
+    "name": "vuetify",
+    "owner": "vuetifyjs",
+    "stargazers_count": 35866
+  },
+  {
+    "name": "excalidraw",
+    "owner": "excalidraw",
+    "stargazers_count": 35458
+  },
+  {
+    "name": "Rocket.Chat",
+    "owner": "RocketChat",
+    "stargazers_count": 33781
+  },
+  {
+    "name": "core",
+    "owner": "vuejs",
+    "stargazers_count": 33769
+  },
+  {
+    "name": "ant-design-pro",
+    "owner": "ant-design",
+    "stargazers_count": 33193
+  },
+  {
+    "name": "joplin",
+    "owner": "laurent22",
+    "stargazers_count": 33024
+  },
+  {
+    "name": "nocodb",
+    "owner": "nocodb",
+    "stargazers_count": 32487
+  },
+  {
+    "name": "nativefier",
+    "owner": "nativefier",
+    "stargazers_count": 32062
+  },
+  {
+    "name": "taro",
+    "owner": "NervJS",
+    "stargazers_count": 31912
+  },
+  {
+    "name": "react-hook-form",
+    "owner": "react-hook-form",
+    "stargazers_count": 31753
+  },
+  {
+    "name": "formik",
+    "owner": "jaredpalmer",
+    "stargazers_count": 31499
+  },
+  {
+    "name": "query",
+    "owner": "TanStack",
+    "stargazers_count": 31117
+  },
+  {
+    "name": "typeorm",
+    "owner": "typeorm",
+    "stargazers_count": 29768
+  },
+  {
+    "name": "chakra-ui",
+    "owner": "chakra-ui",
+    "stargazers_count": 29763
+  },
+  {
+    "name": "graphql-engine",
+    "owner": "hasura",
+    "stargazers_count": 28674
+  },
+  {
+    "name": "rxjs",
+    "owner": "ReactiveX",
+    "stargazers_count": 27993
+  },
+  {
+    "name": "type-challenges",
+    "owner": "type-challenges",
+    "stargazers_count": 27830
+  },
+  {
+    "name": "appwrite",
+    "owner": "appwrite",
+    "stargazers_count": 27250
+  },
+  {
+    "name": "html2canvas",
+    "owner": "niklasvh",
+    "stargazers_count": 27096
+  },
+  {
+    "name": "prisma",
+    "owner": "prisma",
+    "stargazers_count": 26970
+  },
+  {
+    "name": "postcss",
+    "owner": "postcss",
+    "stargazers_count": 26893
+  },
+  {
+    "name": "slate",
+    "owner": "ianstormtaylor",
+    "stargazers_count": 25910
+  },
+  {
+    "name": "mobx",
+    "owner": "mobxjs",
+    "stargazers_count": 25881
+  },
+  {
+    "name": "angular-cli",
+    "owner": "angular",
+    "stargazers_count": 25739
+  },
+  {
+    "name": "cheerio",
+    "owner": "cheeriojs",
+    "stargazers_count": 25660
+  },
+  {
+    "name": "react-select",
+    "owner": "JedWatson",
+    "stargazers_count": 25422
+  },
+  {
+    "name": "swr",
+    "owner": "vercel",
+    "stargazers_count": 24622
+  },
+  {
+    "name": "react-spring",
+    "owner": "pmndrs",
+    "stargazers_count": 24463
+  },
+  {
+    "name": "etcher",
+    "owner": "balena-io",
+    "stargazers_count": 24229
+  },
+  {
+    "name": "ngx-admin",
+    "owner": "akveo",
+    "stargazers_count": 24038
+  },
+  {
+    "name": "solid",
+    "owner": "solidjs",
+    "stargazers_count": 23563
+  },
+  {
+    "name": "floating-ui",
+    "owner": "floating-ui",
+    "stargazers_count": 23448
+  },
+  {
+    "name": "slidev",
+    "owner": "slidevjs",
+    "stargazers_count": 23373
+  },
+  {
+    "name": "devtools",
+    "owner": "vuejs",
+    "stargazers_count": 23105
+  },
+  {
+    "name": "components",
+    "owner": "angular",
+    "stargazers_count": 23101
+  },
+  {
+    "name": "react-native-elements",
+    "owner": "react-native-elements",
+    "stargazers_count": 23009
+  },
+  {
+    "name": "docz",
+    "owner": "doczjs",
+    "stargazers_count": 22998
+  },
+  {
+    "name": "astro",
+    "owner": "withastro",
+    "stargazers_count": 22609
+  },
+  {
+    "name": "react-redux",
+    "owner": "reduxjs",
+    "stargazers_count": 22458
+  },
+  {
+    "name": "sweetalert",
+    "owner": "t4t5",
+    "stargazers_count": 22152
+  },
+  {
+    "name": "react-navigation",
+    "owner": "react-navigation",
+    "stargazers_count": 21847
+  },
+  {
+    "name": "NativeScript",
+    "owner": "NativeScript",
+    "stargazers_count": 21776
+  },
+  {
+    "name": "xstate",
+    "owner": "statelyai",
+    "stargazers_count": 21763
+  },
+  {
+    "name": "coc.nvim",
+    "owner": "neoclide",
+    "stargazers_count": 21658
+  },
+  {
+    "name": "windows95",
+    "owner": "felixrieseberg",
+    "stargazers_count": 21602
+  },
+  {
+    "name": "react-starter-kit",
+    "owner": "kriasoft",
+    "stargazers_count": 21586
+  },
+  {
+    "name": "github1s",
+    "owner": "conwnet",
+    "stargazers_count": 21405
+  },
+  {
+    "name": "react-bootstrap",
+    "owner": "react-bootstrap",
+    "stargazers_count": 21266
+  },
+  {
+    "name": "react-admin",
+    "owner": "marmelab",
+    "stargazers_count": 21012
+  },
+  {
+    "name": "remix",
+    "owner": "remix-run",
+    "stargazers_count": 20844
+  },
+  {
+    "name": "editor.js",
+    "owner": "codex-team",
+    "stargazers_count": 20742
+  },
+  {
+    "name": "autocomplete",
+    "owner": "withfig",
+    "stargazers_count": 20639
+  },
+  {
+    "name": "pnpm",
+    "owner": "pnpm",
+    "stargazers_count": 20608
+  },
+  {
+    "name": "react-three-fiber",
+    "owner": "pmndrs",
+    "stargazers_count": 20376
+  },
+  {
+    "name": "generator-jhipster",
+    "owner": "jhipster",
+    "stargazers_count": 20094
+  },
+  {
+    "name": "table",
+    "owner": "TanStack",
+    "stargazers_count": 19879
+  },
+  {
+    "name": "lens",
+    "owner": "lensapp",
+    "stargazers_count": 19849
+  },
+  {
+    "name": "blueprint",
+    "owner": "palantir",
+    "stargazers_count": 19422
+  },
+  {
+    "name": "upterm",
+    "owner": "railsware",
+    "stargazers_count": 19378
+  },
+  {
+    "name": "refined-github",
+    "owner": "refined-github",
+    "stargazers_count": 19304
+  },
+  {
+    "name": "backstage",
+    "owner": "backstage",
+    "stargazers_count": 19283
+  },
+  {
+    "name": "jsoncrack.com",
+    "owner": "AykutSarac",
+    "stargazers_count": 19208
+  },
+  {
+    "name": "recharts",
+    "owner": "recharts",
+    "stargazers_count": 19201
+  },
+  {
+    "name": "redoc",
+    "owner": "Redocly",
+    "stargazers_count": 18896
+  },
+  {
+    "name": "yup",
+    "owner": "jquense",
+    "stargazers_count": 18839
+  },
+  {
+    "name": "reselect",
+    "owner": "reduxjs",
+    "stargazers_count": 18793
+  },
+  {
+    "name": "Babylon.js",
+    "owner": "BabylonJS",
+    "stargazers_count": 18773
+  },
+  {
+    "name": "PicGo",
+    "owner": "Molunerfinn",
+    "stargazers_count": 18741
+  },
+  {
+    "name": "wenyan",
+    "owner": "wenyan-lang",
+    "stargazers_count": 18569
+  },
+  {
+    "name": "SwitchHosts",
+    "owner": "oldj",
+    "stargazers_count": 18561
+  },
+  {
+    "name": "directus",
+    "owner": "directus",
+    "stargazers_count": 18504
+  },
+  {
+    "name": "react-dnd",
+    "owner": "react-dnd",
+    "stargazers_count": 18481
+  },
+  {
+    "name": "kibana",
+    "owner": "elastic",
+    "stargazers_count": 18015
+  },
+  {
+    "name": "react-dnd",
+    "owner": "react-dnd",
+    "stargazers_count": 18481
+  },
+  {
+    "name": "typescript-book",
+    "owner": "basarat",
+    "stargazers_count": 18470
+  },
+  {
+    "name": "rxdb",
+    "owner": "pubkey",
+    "stargazers_count": 18446
+  },
+  {
+    "name": "apollo-client",
+    "owner": "apollographql",
+    "stargazers_count": 18249
+  },
+  {
+    "name": "fingerprintjs",
+    "owner": "fingerprintjs",
+    "stargazers_count": 17866
+  },
+  {
+    "name": "squoosh",
+    "owner": "GoogleChromeLabs",
+    "stargazers_count": 17832
+  },
+  {
+    "name": "headlessui",
+    "owner": "tailwindlabs",
+    "stargazers_count": 17706
+  },
+  {
+    "name": "theia",
+    "owner": "eclipse-theia",
+    "stargazers_count": 17591
+  },
+  {
+    "name": "outline",
+    "owner": "outline",
+    "stargazers_count": 17491
+  },
+  {
+    "name": "redux-thunk",
+    "owner": "reduxjs",
+    "stargazers_count": 17412
+  },
+  {
+    "name": "tfjs",
+    "owner": "tensorflow",
+    "stargazers_count": 16766
+  },
+  {
+    "name": "motion",
+    "owner": "framer",
+    "stargazers_count": 16563
+  },
+  {
+    "name": "ionicons",
+    "owner": "ionic-team",
+    "stargazers_count": 16463
+  },
+  {
+    "name": "desktop",
+    "owner": "desktop",
+    "stargazers_count": 16213
+  },
+  {
+    "name": "visx",
+    "owner": "airbnb",
+    "stargazers_count": 16156
+  },
+  {
+    "name": "bit",
+    "owner": "teambit",
+    "stargazers_count": 16042
+  },
+  {
+    "name": "Kap",
+    "owner": "wulkano",
+    "stargazers_count": 15876
+  },
+  {
+    "name": "better-scroll",
+    "owner": "ustbhuangyi",
+    "stargazers_count": 15842
+  },
+  {
+    "name": "mantine",
+    "owner": "mantinedev",
+    "stargazers_count": 15790
+  },
+  {
+    "name": "node-redis",
+    "owner": "redis",
+    "stargazers_count": 15669
+  },
+  {
+    "name": "fullcalendar",
+    "owner": "fullcalendar",
+    "stargazers_count": 15657
+  },
+  {
+    "name": "tui.editor",
+    "owner": "nhn",
+    "stargazers_count": 15404
+  },
+  {
+    "name": "darkreader",
+    "owner": "darkreader",
+    "stargazers_count": 15386
+  },
+  {
+    "name": "nx",
+    "owner": "nrwl",
+    "stargazers_count": 15362
+  },
+  {
+    "name": "Bilibili-Evolved",
+    "owner": "the1812",
+    "stargazers_count": 15346
+  },
+  {
+    "name": "flatpickr",
+    "owner": "flatpickr",
+    "stargazers_count": 15281
+  },
+  {
+    "name": "vConsole",
+    "owner": "Tencent",
+    "stargazers_count": 15239
+  },
+  {
+    "name": "redwood",
+    "owner": "redwoodjs",
+    "stargazers_count": 15122
+  },
+  {
+    "name": "bulletproof-react",
+    "owner": "alan2207",
+    "stargazers_count": 15069
+  },
+  {
+    "name": "medusa",
+    "owner": "medusajs",
+    "stargazers_count": 14973
+  },
+  {
+    "name": "react-sketchapp",
+    "owner": "airbnb",
+    "stargazers_count": 14931
+  },
+  {
+    "name": "CopyTranslator",
+    "owner": "CopyTranslator",
+    "stargazers_count": 14804
+  },
+  {
+    "name": "wangEditor",
+    "owner": "wangeditor-team",
+    "stargazers_count": 14730
+  },
+  {
+    "name": "ignite",
+    "owner": "infinitered",
+    "stargazers_count": 14489
+  },
+  {
+    "name": "ar-cutpaste",
+    "owner": "cyrildiagne",
+    "stargazers_count": 14466
+  },
+  {
+    "name": "face-api.js",
+    "owner": "justadudewhohacks",
+    "stargazers_count": 14431
+  },
+  {
+    "name": "remotion",
+    "owner": "remotion-dev",
+    "stargazers_count": 14319
+  },
+  {
+    "name": "fluentui",
+    "owner": "microsoft",
+    "stargazers_count": 14274
+  },
+  {
+    "name": "sass",
+    "owner": "sass",
+    "stargazers_count": 14236
+  },
+  {
+    "name": "cal.com",
+    "owner": "calcom",
+    "stargazers_count": 14203
+  },
+  {
+    "name": "feathers",
+    "owner": "feathersjs",
+    "stargazers_count": 14192
+  },
+  {
+    "name": "xterm.js",
+    "owner": "xtermjs",
+    "stargazers_count": 14056
+  },
+  {
+    "name": "wechaty",
+    "owner": "wechaty",
+    "stargazers_count": 13751
+  },
+  {
+    "name": "ui-router",
+    "owner": "angular-ui",
+    "stargazers_count": 13683
+  },
+  {
+    "name": "qiankun",
+    "owner": "umijs",
+    "stargazers_count": 13683
+  },
+  {
+    "name": "focalboard",
+    "owner": "mattermost",
+    "stargazers_count": 13653
+  },
+  {
+    "name": "truffle",
+    "owner": "trufflesuite",
+    "stargazers_count": 13647
+  },
+  {
+    "name": "deskreen",
+    "owner": "pavlobu",
+    "stargazers_count": 13599
+  },
+  {
+    "name": "formatjs",
+    "owner": "formatjs",
+    "stargazers_count": 13450
+  },
+  {
+    "name": "brain.js",
+    "owner": "BrainJS",
+    "stargazers_count": 13333
+  },
+  {
+    "name": "umi",
+    "owner": "umijs",
+    "stargazers_count": 13316
+  },
+  {
+    "name": "core",
+    "owner": "adonisjs",
+    "stargazers_count": 13233
+  },
+  {
+    "name": "qwik",
+    "owner": "BuilderIO",
+    "stargazers_count": 13220
+  },
+  {
+    "name": "redux-devtools",
+    "owner": "reduxjs",
+    "stargazers_count": 13182
+  },
+  {
+    "name": "lit",
+    "owner": "lit",
+    "stargazers_count": 13122
+  },
+  {
+    "name": "foam",
+    "owner": "foambubble",
+    "stargazers_count": 13088
+  },
+  {
+    "name": "chartist",
+    "owner": "chartist-js",
+    "stargazers_count": 13085
+  },
+  {
+    "name": "apollo-server",
+    "owner": "apollographql",
+    "stargazers_count": 13016
+  },
+  {
+    "name": "Signal-Desktop",
+    "owner": "signalapp",
+    "stargazers_count": 12866
+  },
+  {
+    "name": "turbolinks",
+    "owner": "turbolinks",
+    "stargazers_count": 12784
+  },
+  {
+    "name": "react-flow",
+    "owner": "wbkd",
+    "stargazers_count": 12747
+  },
+  {
+    "name": "commitlint",
+    "owner": "conventional-changelog",
+    "stargazers_count": 12635
+  },
+  {
+    "name": "react-redux-typescript-guide",
+    "owner": "piotrwitek",
+    "stargazers_count": 12628
+  },
+  {
+    "name": "vueuse",
+    "owner": "vueuse",
+    "stargazers_count": 12610
+  },
+  {
+    "name": "react-content-loader",
+    "owner": "danilowoz",
+    "stargazers_count": 12608
+  },
+  {
+    "name": "novu",
+    "owner": "novuhq",
+    "stargazers_count": 12579
+  },
+  {
+    "name": "typescript-eslint",
+    "owner": "typescript-eslint",
+    "stargazers_count": 12518
+  },
+  {
+    "name": "amis",
+    "owner": "baidu",
+    "stargazers_count": 12492
+  },
+  {
+    "name": "jupyterlab",
+    "owner": "jupyterlab",
+    "stargazers_count": 12458
+  },
+  {
+    "name": "electron-builder",
+    "owner": "electron-userland",
+    "stargazers_count": 12419
+  },
+  {
+    "name": "redux-persist",
+    "owner": "rt2zz",
+    "stargazers_count": 12395
+  },
+  {
+    "name": "next-auth",
+    "owner": "nextauthjs",
+    "stargazers_count": 12363
+  },
+  {
+    "name": "blitz",
+    "owner": "blitz-js",
+    "stargazers_count": 12312
+  },
+  {
+    "name": "got",
+    "owner": "sindresorhus",
+    "stargazers_count": 12279
+  },
+  {
+    "name": "tinymce",
+    "owner": "tinymce",
+    "stargazers_count": 12179
+  },
+  {
+    "name": "mean",
+    "owner": "linnovate",
+    "stargazers_count": 12168
+  },
+  {
+    "name": "hls.js",
+    "owner": "video-dev",
+    "stargazers_count": 12149
+  },
+  {
+    "name": "flipper",
+    "owner": "facebook",
+    "stargazers_count": 12137
+  },
+  {
+    "name": "Tone.js",
+    "owner": "Tonejs",
+    "stargazers_count": 12069
+  },
+  {
+    "name": "react-native-gifted-chat",
+    "owner": "FaridSafi",
+    "stargazers_count": 12030
+  },
+  {
+    "name": "react-jsonschema-form",
+    "owner": "rjsf-team",
+    "stargazers_count": 12024
+  },
+  {
+    "name": "nexe",
+    "owner": "nexe",
+    "stargazers_count": 11871
+  },
+  {
+    "name": "ajv",
+    "owner": "ajv-validator",
+    "stargazers_count": 11846
+  },
+  {
+    "name": "tfjs-models",
+    "owner": "tensorflow",
+    "stargazers_count": 11832
+  },
+  {
+    "name": "framework",
+    "owner": "aurelia",
+    "stargazers_count": 11740
+  },
+  {
+    "name": "mkdocs-material",
+    "owner": "squidfunk",
+    "stargazers_count": 11691
+  },
+  {
+    "name": "stimulus",
+    "owner": "hotwired",
+    "stargazers_count": 11656
+  },
+  {
+    "name": "postgraphile",
+    "owner": "graphile",
+    "stargazers_count": 11629
+  },
+  {
+    "name": "ioredis",
+    "owner": "luin",
+    "stargazers_count": 11465
+  },
+  {
+    "name": "G2",
+    "owner": "antvis",
+    "stargazers_count": 11437
+  },
+  {
+    "name": "interact.js",
+    "owner": "taye",
+    "stargazers_count": 11227
+  },
+  {
+    "name": "stencil",
+    "owner": "ionic-team",
+    "stargazers_count": 11191
+  },
+  {
+    "name": "ts-node",
+    "owner": "TypeStrong",
+    "stargazers_count": 11077
+  },
+  {
+    "name": "TypeScript-React-Starter",
+    "owner": "microsoft",
+    "stargazers_count": 11005
+  },
+  {
+    "name": "AFFiNE",
+    "owner": "toeverything",
+    "stargazers_count": 10984
+  },
+  {
+    "name": "proton-native",
+    "owner": "kusti8",
+    "stargazers_count": 10899
+  },
+  {
+    "name": "jotai",
+    "owner": "pmndrs",
+    "stargazers_count": 10897
+  },
+  {
+    "name": "botkit",
+    "owner": "howdyai",
+    "stargazers_count": 10892
+  },
+  {
+    "name": "naive-ui",
+    "owner": "tusen-ai",
+    "stargazers_count": 10859
+  },
+  {
+    "name": "highcharts",
+    "owner": "highcharts",
+    "stargazers_count": 10845
+  },
+  {
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "stargazers_count": 9458
+  },
+  {
+    "name": "InversifyJS",
+    "owner": "inversify",
+    "stargazers_count": 9406
+  },
+  {
+    "name": "vee-validate",
+    "owner": "logaretm",
+    "stargazers_count": 9397
+  },
+  {
+    "name": "typescript-tutorial",
+    "owner": "xcatliu",
+    "stargazers_count": 9381
+  },
+  {
+    "name": "react-native-ui-kitten",
+    "owner": "akveo",
+    "stargazers_count": 9375
+  },
+  {
+    "name": "spectacle",
+    "owner": "FormidableLabs",
+    "stargazers_count": 9367
+  },
+  {
+    "name": "ag-grid",
+    "owner": "ag-grid",
+    "stargazers_count": 9363
+  },
+  {
+    "name": "G6",
+    "owner": "antvis",
+    "stargazers_count": 9353
+  },
+  {
+    "name": "type-fest",
+    "owner": "sindresorhus",
+    "stargazers_count": 9339
+  },
+  {
+    "name": "boardgame.io",
+    "owner": "boardgameio",
+    "stargazers_count": 9323
+  },
+  {
+    "name": "helmet",
+    "owner": "helmetjs",
+    "stargazers_count": 9260
+  },
+  {
+    "name": "svgr",
+    "owner": "gregberge",
+    "stargazers_count": 9196
+  },
+  {
+    "name": "wired-elements",
+    "owner": "rough-stuff",
+    "stargazers_count": 9186
+  },
+  {
+    "name": "dogehouse",
+    "owner": "benawad",
+    "stargazers_count": 9166
+  },
+  {
+    "name": "comlink",
+    "owner": "GoogleChromeLabs",
+    "stargazers_count": 9131
+  },
+  {
+    "name": "react-page",
+    "owner": "react-page",
+    "stargazers_count": 9032
+  },
+  {
+    "name": "kepler.gl",
+    "owner": "keplergl",
+    "stargazers_count": 9020
+  },
+  {
+    "name": "amplify-js",
+    "owner": "aws-amplify",
+    "stargazers_count": 9001
+  },
+  {
+    "name": "amplication",
+    "owner": "amplication",
+    "stargazers_count": 8979
+  },
+  {
+    "name": "LaTeX-Workshop",
+    "owner": "James-Yu",
+    "stargazers_count": 8947
+  },
+  {
+    "name": "tween.js",
+    "owner": "tweenjs",
+    "stargazers_count": 8910
+  },
+  {
+    "name": "webamp",
+    "owner": "captbaritone",
+    "stargazers_count": 8846
+  },
+  {
+    "name": "react-icons",
+    "owner": "react-icons",
+    "stargazers_count": 8802
+  },
+  {
+    "name": "redux-toolkit",
+    "owner": "reduxjs",
+    "stargazers_count": 8791
+  },
+  {
+    "name": "lenster",
+    "owner": "lensterxyz",
+    "stargazers_count": 8660
+  },
+  {
+    "name": "fp-ts",
+    "owner": "gcanti",
+    "stargazers_count": 8654
+  },
+  {
+    "name": "signature_pad",
+    "owner": "szimek",
+    "stargazers_count": 8645
+  },
+  {
+    "name": "devhub",
+    "owner": "devhubapp",
+    "stargazers_count": 8551
+  },
+  {
+    "name": "class-validator",
+    "owner": "typestack",
+    "stargazers_count": 8546
+  },
+  {
+    "name": "monkeytype",
+    "owner": "monkeytypegame",
+    "stargazers_count": 8483
+  },
+  {
+    "name": "konva",
+    "owner": "konvajs",
+    "stargazers_count": 8445
+  },
+  {
+    "name": "vscode-drawio",
+    "owner": "hediet",
+    "stargazers_count": 8425
+  },
+  {
+    "name": "payload",
+    "owner": "payloadcms",
+    "stargazers_count": 8386
+  },
+  {
+    "name": "eva-icons",
+    "owner": "akveo",
+    "stargazers_count": 8377
+  },
+  {
+    "name": "theatre",
+    "owner": "theatre-js",
+    "stargazers_count": 8362
+  },
+  {
+    "name": "nextui",
+    "owner": "nextui-org",
+    "stargazers_count": 8346
+  },
+  {
+    "name": "reactxp",
+    "owner": "microsoft",
+    "stargazers_count": 8339
+  },
+  {
+    "name": "ng-zorro-antd",
+    "owner": "NG-ZORRO",
+    "stargazers_count": 8302
+  },
+  {
+    "name": "capacitor",
+    "owner": "ionic-team",
+    "stargazers_count": 8278
+  },
+  {
+    "name": "rematch",
+    "owner": "rematch",
+    "stargazers_count": 8272
+  },
+  {
+    "name": "mini-vue",
+    "owner": "cuixiaorui",
+    "stargazers_count": 8270
+  },
+  {
+    "name": "serve",
+    "owner": "vercel",
+    "stargazers_count": 8266
+  },
+  {
+    "name": "graphql-playground",
+    "owner": "graphql",
+    "stargazers_count": 8263
+  },
+  {
+    "name": "ky",
+    "owner": "sindresorhus",
+    "stargazers_count": 8236
+  },
+  {
+    "name": "qinglong",
+    "owner": "whyour",
+    "stargazers_count": 8164
+  },
+  {
+    "name": "react-native-calendars",
+    "owner": "wix",
+    "stargazers_count": 8148
+  },
+  {
+    "name": "tinacms",
+    "owner": "tinacms",
+    "stargazers_count": 8113
+  },
+  {
+    "name": "faker",
+    "owner": "faker-js",
+    "stargazers_count": 8068
+  },
+  {
+    "name": "probot",
+    "owner": "probot",
+    "stargazers_count": 8022
+  },
+  {
+    "name": "ng-bootstrap",
+    "owner": "ng-bootstrap",
+    "stargazers_count": 8016
+  },
+  {
+    "name": "Reactive-Resume",
+    "owner": "AmruthPillai",
+    "stargazers_count": 7995
+  },
+  {
+    "name": "satellizer",
+    "owner": "sahat",
+    "stargazers_count": 7916
+  },
+  {
+    "name": "oclif",
+    "owner": "oclif",
+    "stargazers_count": 7860
+  },
+  {
+    "name": "patch-package",
+    "owner": "ds300",
+    "stargazers_count": 7837
+  },
+  {
+    "name": "redux-observable",
+    "owner": "redux-observable",
+    "stargazers_count": 7831
+  },
+  {
+    "name": "fast",
+    "owner": "microsoft",
+    "stargazers_count": 7816
+  },
+  {
+    "name": "webdriverio",
+    "owner": "webdriverio",
+    "stargazers_count": 7804
+  },
+  {
+    "name": "Zettlr",
+    "owner": "Zettlr",
+    "stargazers_count": 7780
+  },
+  {
+    "name": "domain-driven-hexagon",
+    "owner": "Sairyss",
+    "stargazers_count": 7772
+  },
+  {
+    "name": "F2",
+    "owner": "antvis",
+    "stargazers_count": 7767
+  },
+  {
+    "name": "api-platform",
+    "owner": "api-platform",
+    "stargazers_count": 7672
+  },
+  {
+    "name": "nebular",
+    "owner": "akveo",
+    "stargazers_count": 7661
+  },
+  {
+    "name": "react-cosmos",
+    "owner": "react-cosmos",
+    "stargazers_count": 7649
+  },
+  {
+    "name": "urql",
+    "owner": "urql-graphql",
+    "stargazers_count": 7600
+  },
+  {
+    "name": "unocss",
+    "owner": "unocss",
+    "stargazers_count": 7597
+  },
+  {
+    "name": "shoelace",
+    "owner": "shoelace-style",
+    "stargazers_count": 7580
+  },
+  {
+    "name": "vscode-leetcode",
+    "owner": "LeetCode-OpenSource",
+    "stargazers_count": 7576
+  },
+  {
+    "name": "react-spectrum",
+    "owner": "adobe",
+    "stargazers_count": 7529
+  },
+  {
+    "name": "vscode-gitlens",
+    "owner": "gitkraken",
+    "stargazers_count": 7502
+  },
+  {
+    "name": "type-graphql",
+    "owner": "MichalLytek",
+    "stargazers_count": 7498
+  },
+  {
+    "name": "metrics-graphics",
+    "owner": "metricsgraphics",
+    "stargazers_count": 7473
+  },
+  {
+    "name": "vscode-debug-visualizer",
+    "owner": "hediet",
+    "stargazers_count": 7415
+  },
+  {
+    "name": "majestic",
+    "owner": "Raathigesh",
+    "stargazers_count": 7413
+  },
+  {
+    "name": "juice-shop",
+    "owner": "juice-shop",
+    "stargazers_count": 7405
+  },
+  {
+    "name": "countUp.js",
+    "owner": "inorganik",
+    "stargazers_count": 7388
+  },
+  {
+    "name": "platform",
+    "owner": "ngrx",
+    "stargazers_count": 7370
+  },
+  {
+    "name": "react-diagrams",
+    "owner": "projectstorm",
+    "stargazers_count": 7333
+  },
+  {
+    "name": "angularfire",
+    "owner": "angular",
+    "stargazers_count": 7313
+  },
+  {
+    "name": "path-to-regexp",
+    "owner": "pillarjs",
+    "stargazers_count": 7288
+  },
+  {
+    "name": "outline-client",
+    "owner": "Jigsaw-Code",
+    "stargazers_count": 7275
+  },
+  {
+    "name": "graphql-yoga",
+    "owner": "dotansimha",
+    "stargazers_count": 7233
+  },
+  {
+    "name": "react-native-fast-image",
+    "owner": "DylanVann",
+    "stargazers_count": 7225
+  },
+  {
+    "name": "rsschool-app",
+    "owner": "rolling-scopes",
+    "stargazers_count": 7220
+  },
+  {
+    "name": "mitosis",
+    "owner": "BuilderIO",
+    "stargazers_count": 7208
+  },
+  {
+    "name": "keystone",
+    "owner": "keystonejs",
+    "stargazers_count": 7193
+  },
+  {
+    "name": "use-gesture",
+    "owner": "pmndrs",
+    "stargazers_count": 7179
+  },
+  {
+    "name": "purgecss",
+    "owner": "FullHuman",
+    "stargazers_count": 7169
+  },
+  {
+    "name": "crawlee",
+    "owner": "apify",
+    "stargazers_count": 7107
+  },
+  {
+    "name": "any-rule",
+    "owner": "any86",
+    "stargazers_count": 7094
+  },
+  {
+    "name": "deepstream.io",
+    "owner": "deepstreamIO",
+    "stargazers_count": 7023
+  },
+  {
+    "name": "graphql-voyager",
+    "owner": "IvanGoncharov",
+    "stargazers_count": 7001
+  },
+  {
+    "name": "azuredatastudio",
+    "owner": "microsoft",
+    "stargazers_count": 6960
+  },
+  {
+    "name": "kittenTricks",
+    "owner": "akveo",
+    "stargazers_count": 6932
+  },
+  {
+    "name": "starter-workflows",
+    "owner": "actions",
+    "stargazers_count": 6874
+  },
+  {
+    "name": "fiddle",
+    "owner": "electron",
+    "stargazers_count": 6866
+  },
+  {
+    "name": "react-map-gl",
+    "owner": "visgl",
+    "stargazers_count": 6852
+  },
+  {
+    "name": "clean-code-typescript",
+    "owner": "labs42io",
+    "stargazers_count": 6799
+  },
+  {
+    "name": "beginners-typescript-tutorial",
+    "owner": "total-typescript",
+    "stargazers_count": 6792
+  },
+  {
+    "name": "che",
+    "owner": "eclipse",
+    "stargazers_count": 6740
+  },
+  {
+    "name": "vanilla-extract",
+    "owner": "vanilla-extract-css",
+    "stargazers_count": 6703
+  },
+  {
+    "name": "million",
+    "owner": "aidenybai",
+    "stargazers_count": 5391
+  },
+  {
+    "name": "noUiSlider",
+    "owner": "leongersen",
+    "stargazers_count": 5355
+  },
+  {
+    "name": "regulex",
+    "owner": "CJex",
+    "stargazers_count": 5316
+  },
+  {
+    "name": "BosqueLanguage",
+    "owner": "microsoft",
+    "stargazers_count": 5315
+  },
+  {
+    "name": "mikro-orm",
+    "owner": "mikro-orm",
+    "stargazers_count": 5300
+  },
+  {
+    "name": "angular-electron",
+    "owner": "maximegris",
+    "stargazers_count": 5269
+  },
+  {
+    "name": "learnapollo",
+    "owner": "learnapollo",
+    "stargazers_count": 5246
+  },
+  {
+    "name": "arwes",
+    "owner": "arwes",
+    "stargazers_count": 5225
+  },
+  {
+    "name": "forge",
+    "owner": "electron",
+    "stargazers_count": 5199
+  },
+  {
+    "name": "tui.chart",
+    "owner": "nhn",
+    "stargazers_count": 5164
+  },
+  {
+    "name": "react-native-webview",
+    "owner": "react-native-webview",
+    "stargazers_count": 5152
+  },
+  {
+    "name": "react-native-gesture-handler",
+    "owner": "software-mansion",
+    "stargazers_count": 5129
+  },
+  {
+    "name": "server",
+    "owner": "screego",
+    "stargazers_count": 5095
+  },
+  {
+    "name": "react-native-tab-view",
+    "owner": "satya164",
+    "stargazers_count": 5095
+  },
+  {
+    "name": "nhost",
+    "owner": "nhost",
+    "stargazers_count": 5080
+  },
+  {
+    "name": "polaris",
+    "owner": "Shopify",
+    "stargazers_count": 5067
+  },
+  {
+    "name": "elasticsearch-js",
+    "owner": "elastic",
+    "stargazers_count": 5050
+  },
+  {
+    "name": "immutability-helper",
+    "owner": "kolodny",
+    "stargazers_count": 5043
+  },
+  {
+    "name": "model-viewer",
+    "owner": "google",
+    "stargazers_count": 5035
+  },
+  {
+    "name": "realm-js",
+    "owner": "realm",
+    "stargazers_count": 5026
+  },
+  {
+    "name": "graphql-request",
+    "owner": "prisma-labs",
+    "stargazers_count": 4975
+  },
+  {
+    "name": "dicebear",
+    "owner": "dicebear",
+    "stargazers_count": 4974
+  },
+  {
+    "name": "tutanota",
+    "owner": "tutao",
+    "stargazers_count": 4965
+  },
+  {
+    "name": "sucrase",
+    "owner": "alangpierce",
+    "stargazers_count": 4958
+  },
+  {
+    "name": "vue-chartjs",
+    "owner": "apertureless",
+    "stargazers_count": 4945
+  },
+  {
+    "name": "idb",
+    "owner": "jakearchibald",
+    "stargazers_count": 4935
+  },
+  {
+    "name": "react-native-ui-lib",
+    "owner": "wix",
+    "stargazers_count": 4926
+  },
+  {
+    "name": "clients",
+    "owner": "bitwarden",
+    "stargazers_count": 4921
+  },
+  {
+    "name": "instagram-private-api",
+    "owner": "dilame",
+    "stargazers_count": 4912
+  },
+  {
+    "name": "aleph.js",
+    "owner": "alephjs",
+    "stargazers_count": 4902
+  },
+  {
+    "name": "bulletproof-nodejs",
+    "owner": "santiq",
+    "stargazers_count": 4889
+  },
+  {
+    "name": "logto",
+    "owner": "logto-io",
+    "stargazers_count": 4884
+  },
+  {
+    "name": "thelounge",
+    "owner": "thelounge",
+    "stargazers_count": 4882
+  },
+  {
+    "name": "react-konva",
+    "owner": "konvajs",
+    "stargazers_count": 4874
+  },
+  {
+    "name": "lucky-canvas",
+    "owner": "buuing",
+    "stargazers_count": 4872
+  },
+  {
+    "name": "pts",
+    "owner": "williamngan",
+    "stargazers_count": 4871
+  },
+  {
+    "name": "streetmerchant",
+    "owner": "jef",
+    "stargazers_count": 4863
+  },
+  {
+    "name": "timeago.js",
+    "owner": "hustcc",
+    "stargazers_count": 4862
+  },
+  {
+    "name": "vscode-cpptools",
+    "owner": "microsoft",
+    "stargazers_count": 4856
+  },
+  {
+    "name": "dendron",
+    "owner": "dendronhq",
+    "stargazers_count": 4839
+  },
+  {
+    "name": "react-native-material-kit",
+    "owner": "xinthink",
+    "stargazers_count": 4839
+  },
+  {
+    "name": "ts-pattern",
+    "owner": "gvergnaud",
+    "stargazers_count": 4781
+  },
+  {
+    "name": "bitcoinjs-lib",
+    "owner": "bitcoinjs",
+    "stargazers_count": 4753
+  },
+  {
+    "name": "kraken",
+    "owner": "openkraken",
+    "stargazers_count": 4736
+  },
+  {
+    "name": "react-day-picker",
+    "owner": "gpbl",
+    "stargazers_count": 4721
+  },
+  {
+    "name": "danger-js",
+    "owner": "danger",
+    "stargazers_count": 4694
+  },
+  {
+    "name": "nit",
+    "owner": "numbersprotocol",
+    "stargazers_count": 4675
+  },
+  {
+    "name": "angular-realworld-example-app",
+    "owner": "gothinkster",
+    "stargazers_count": 4668
+  },
+  {
+    "name": "changesets",
+    "owner": "changesets",
+    "stargazers_count": 4666
+  },
+  {
+    "name": "utility-types",
+    "owner": "piotrwitek",
+    "stargazers_count": 4618
+  },
+  {
+    "name": "plasmo",
+    "owner": "PlasmoHQ",
+    "stargazers_count": 4588
+  },
+  {
+    "name": "web3-react",
+    "owner": "Uniswap",
+    "stargazers_count": 4543
+  },
+  {
+    "name": "pdf-lib",
+    "owner": "Hopding",
+    "stargazers_count": 4530
+  },
+  {
+    "name": "cmdk",
+    "owner": "pacocoursey",
+    "stargazers_count": 4527
+  },
+  {
+    "name": "ngx-datatable",
+    "owner": "swimlane",
+    "stargazers_count": 4510
+  },
+  {
+    "name": "davinci",
+    "owner": "edp963",
+    "stargazers_count": 4505
+  },
+  {
+    "name": "colyseus",
+    "owner": "colyseus",
+    "stargazers_count": 4485
+  },
+  {
+    "name": "unform",
+    "owner": "unform",
+    "stargazers_count": 4481
+  },
+  {
+    "name": "polar-bookshelf",
+    "owner": "burtonator",
+    "stargazers_count": 4480
+  },
+  {
+    "name": "searchkit",
+    "owner": "searchkit",
+    "stargazers_count": 4471
+  },
+  {
+    "name": "react-native-skia",
+    "owner": "Shopify",
+    "stargazers_count": 4463
+  },
+  {
+    "name": "turbo",
+    "owner": "hotwired",
+    "stargazers_count": 4458
+  },
+  {
+    "name": "oak",
+    "owner": "oakserver",
+    "stargazers_count": 4453
+  },
+  {
+    "name": "remax",
+    "owner": "remaxjs",
+    "stargazers_count": 4426
+  },
+  {
+    "name": "planck.js",
+    "owner": "shakiba",
+    "stargazers_count": 4411
+  },
+  {
+    "name": "gridstack.js",
+    "owner": "gridstack",
+    "stargazers_count": 4398
+  },
+  {
+    "name": "tsparticles",
+    "owner": "matteobruni",
+    "stargazers_count": 4390
+  },
+  {
+    "name": "vscode-browser-preview",
+    "owner": "auchenberg",
+    "stargazers_count": 4380
+  },
+  {
+    "name": "loopback-next",
+    "owner": "loopbackio",
+    "stargazers_count": 4354
+  },
+  {
+    "name": "ms",
+    "owner": "vercel",
+    "stargazers_count": 4300
+  },
+  {
+    "name": "recast",
+    "owner": "benjamn",
+    "stargazers_count": 4296
+  },
+  {
+    "name": "express-jwt",
+    "owner": "auth0",
+    "stargazers_count": 4287
+  },
+  {
+    "name": "firebase-js-sdk",
+    "owner": "firebase",
+    "stargazers_count": 4279
+  },
+  {
+    "name": "markmap",
+    "owner": "markmap",
+    "stargazers_count": 4270
+  },
+  {
+    "name": "runtipi",
+    "owner": "meienberger",
+    "stargazers_count": 4253
+  },
+  {
+    "name": "core",
+    "owner": "ngx-translate",
+    "stargazers_count": 4229
+  },
+  {
+    "name": "simplenote-electron",
+    "owner": "Automattic",
+    "stargazers_count": 4214
+  },
+  {
+    "name": "code-push",
+    "owner": "microsoft",
+    "stargazers_count": 4213
+  },
+  {
+    "name": "playroom",
+    "owner": "seek-oss",
+    "stargazers_count": 4207
+  },
+  {
+    "name": "cli",
+    "owner": "snyk",
+    "stargazers_count": 4207
+  },
+  {
+    "name": "flat",
+    "owner": "netless-io",
+    "stargazers_count": 4204
+  },
+  {
+    "name": "yn",
+    "owner": "purocean",
+    "stargazers_count": 4193
+  },
+  {
+    "name": "typescript-library-starter",
+    "owner": "alexjoverm",
+    "stargazers_count": 4192
+  },
+  {
+    "name": "transform",
+    "owner": "ritz078",
+    "stargazers_count": 4169
+  },
+  {
+    "name": "ngx-charts",
+    "owner": "swimlane",
+    "stargazers_count": 4166
+  },
+  {
+    "name": "yalc",
+    "owner": "wclr",
+    "stargazers_count": 4157
+  },
+  {
+    "name": "sqlectron-gui",
+    "owner": "sqlectron",
+    "stargazers_count": 4127
+  },
+  {
+    "name": "after.js",
+    "owner": "jaredpalmer",
+    "stargazers_count": 4103
+  },
+  {
+    "name": "grpc-web",
+    "owner": "improbable-eng",
+    "stargazers_count": 4074
+  },
+  {
+    "name": "composition-api",
+    "owner": "vuejs",
+    "stargazers_count": 4064
+  },
+  {
+    "name": "taro-ui",
+    "owner": "NervJS",
+    "stargazers_count": 4058
+  },
+  {
+    "name": "tamperchrome",
+    "owner": "google",
+    "stargazers_count": 4046
+  },
+  {
+    "name": "codetour",
+    "owner": "microsoft",
+    "stargazers_count": 4028
+  },
+  {
+    "name": "unstated-next",
+    "owner": "jamiebuilds",
+    "stargazers_count": 4025
+  },
+  {
+    "name": "autorest",
+    "owner": "Azure",
+    "stargazers_count": 4020
+  },
+  {
+    "name": "volar",
+    "owner": "johnsoncodehk",
+    "stargazers_count": 4001
+  },
+  {
+    "name": "kafka-ui",
+    "owner": "provectus",
+    "stargazers_count": 3995
+  },
+  {
+    "name": "tridactyl",
+    "owner": "tridactyl",
+    "stargazers_count": 3989
+  },
+  {
+    "name": "effector",
+    "owner": "effector",
+    "stargazers_count": 3982
+  },
+  {
+    "name": "shiki",
+    "owner": "shikijs",
+    "stargazers_count": 3968
+  },
+  {
+    "name": "unstated-next",
+    "owner": "jamiebuilds",
+    "stargazers_count": 4025
+  },
+  {
+    "name": "autorest",
+    "owner": "Azure",
+    "stargazers_count": 4020
+  },
+  {
+    "name": "kafka-ui",
+    "owner": "provectus",
+    "stargazers_count": 3995
+  },
+  {
+    "name": "effector",
+    "owner": "effector",
+    "stargazers_count": 3982
+  },
+  {
+    "name": "shiki",
+    "owner": "shikijs",
+    "stargazers_count": 3968
+  },
+  {
+    "name": "store",
+    "owner": "ngrx",
+    "stargazers_count": 3937
+  },
+  {
+    "name": "fluent-reader",
+    "owner": "yang991178",
+    "stargazers_count": 3934
+  },
+  {
+    "name": "vega-lite",
+    "owner": "vega",
+    "stargazers_count": 3928
+  },
+  {
+    "name": "code-settings-sync",
+    "owner": "shanalikhan",
+    "stargazers_count": 3928
+  },
+  {
+    "name": "universal",
+    "owner": "angular",
+    "stargazers_count": 3926
+  },
+  {
+    "name": "routing-controllers",
+    "owner": "typestack",
+    "stargazers_count": 3921
+  },
+  {
+    "name": "vendure",
+    "owner": "vendure-ecommerce",
+    "stargazers_count": 3920
+  },
+  {
+    "name": "turbulenz_engine",
+    "owner": "turbulenz",
+    "stargazers_count": 3919
+  },
+  {
+    "name": "wireit",
+    "owner": "google",
+    "stargazers_count": 3915
+  },
+  {
+    "name": "danfojs",
+    "owner": "javascriptdata",
+    "stargazers_count": 3912
+  },
+  {
+    "name": "serverless-next.js",
+    "owner": "serverless-nextjs",
+    "stargazers_count": 3907
+  },
+  {
+    "name": "tsup",
+    "owner": "egoist",
+    "stargazers_count": 3873
+  },
+  {
+    "name": "speedscope",
+    "owner": "jlfwong",
+    "stargazers_count": 3872
+  },
+  {
+    "name": "hashids.js",
+    "owner": "niieani",
+    "stargazers_count": 3862
+  },
+  {
+    "name": "app",
+    "owner": "standardnotes",
+    "stargazers_count": 3859
+  },
+  {
+    "name": "javascript-datastructures-algorithms",
+    "owner": "loiane",
+    "stargazers_count": 3858
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "LasCC",
+    "stargazers_count": 3852
+  },
+  {
+    "name": "echarts-for-react",
+    "owner": "hustcc",
+    "stargazers_count": 3850
+  },
+  {
+    "name": "og-image",
+    "owner": "vercel",
+    "stargazers_count": 3826
+  },
+  {
+    "name": "growthbook",
+    "owner": "growthbook",
+    "stargazers_count": 3811
+  },
+  {
+    "name": "sanity",
+    "owner": "sanity-io",
+    "stargazers_count": 3804
+  },
+  {
+    "name": "tribeca",
+    "owner": "michaelgrosner",
+    "stargazers_count": 3793
+  },
+  {
+    "name": "rowy",
+    "owner": "rowyio",
+    "stargazers_count": 3755
+  },
+  {
+    "name": "gridjs",
+    "owner": "grid-js",
+    "stargazers_count": 3753
+  },
+  {
+    "name": "alva",
+    "owner": "meetalva",
+    "stargazers_count": 3749
+  },
+  {
+    "name": "react-fns",
+    "owner": "jaredpalmer",
+    "stargazers_count": 3739
+  },
+  {
+    "name": "compodoc",
+    "owner": "compodoc",
+    "stargazers_count": 3739
+  },
+  {
+    "name": "constate",
+    "owner": "diegohaz",
+    "stargazers_count": 3737
+  },
+  {
+    "name": "web3modal",
+    "owner": "WalletConnect",
+    "stargazers_count": 3727
+  },
+  {
+    "name": "vscode-icons",
+    "owner": "vscode-icons",
+    "stargazers_count": 3726
+  },
+  {
+    "name": "async-storage",
+    "owner": "react-native-async-storage",
+    "stargazers_count": 3709
+  },
+  {
+    "name": "jspm-cli",
+    "owner": "jspm",
+    "stargazers_count": 3708
+  },
+  {
+    "name": "grpc-node",
+    "owner": "grpc",
+    "stargazers_count": 3700
+  },
+  {
+    "name": "shumway",
+    "owner": "mozilla",
+    "stargazers_count": 3699
+  },
+  {
+    "name": "react-intersection-observer",
+    "owner": "thebuilder",
+    "stargazers_count": 3694
+  },
+  {
+    "name": "hydrogen",
+    "owner": "Shopify",
+    "stargazers_count": 3692
+  },
+  {
+    "name": "imove",
+    "owner": "i5ting",
+    "stargazers_count": 3685
+  },
+  {
+    "name": "lyra",
+    "owner": "LyraSearch",
+    "stargazers_count": 3682
+  },
+  {
+    "name": "htmlparser2",
+    "owner": "fb55",
+    "stargazers_count": 3681
+  },
+  {
+    "name": "relay-starter-kit",
+    "owner": "kriasoft",
+    "stargazers_count": 3653
+  },
+  {
+    "name": "ow",
+    "owner": "sindresorhus",
+    "stargazers_count": 3652
+  },
+  {
+    "name": "number-precision",
+    "owner": "nefe",
+    "stargazers_count": 3639
+  },
+  {
+    "name": "peerjs-server",
+    "owner": "peers",
+    "stargazers_count": 3635
+  },
+  {
+    "name": "gqless",
+    "owner": "samdenty",
+    "stargazers_count": 3633
+  },
+  {
+    "name": "desktop",
+    "owner": "bitwarden",
+    "stargazers_count": 3627
+  },
+  {
+    "name": "LiveTerm",
+    "owner": "Cveinnt",
+    "stargazers_count": 3610
+  },
+  {
+    "name": "react-flip-toolkit",
+    "owner": "aholachek",
+    "stargazers_count": 3609
+  },
+  {
+    "name": "ublacklist",
+    "owner": "iorate",
+    "stargazers_count": 3604
+  },
+  {
+    "name": "source-map-explorer",
+    "owner": "danvk",
+    "stargazers_count": 3595
+  },
+  {
+    "name": "virtual",
+    "owner": "TanStack",
+    "stargazers_count": 3595
+  },
+  {
+    "name": "firebase-tools",
+    "owner": "firebase",
+    "stargazers_count": 3572
+  },
+  {
+    "name": "akita",
+    "owner": "salesforce",
+    "stargazers_count": 3570
+  },
+  {
+    "name": "bhai-lang",
+    "owner": "DulLabs",
+    "stargazers_count": 3568
+  },
+  {
+    "name": "arco-design",
+    "owner": "arco-design",
+    "stargazers_count": 3551
+  },
+  {
+    "name": "learn-rxjs",
+    "owner": "btroncone",
+    "stargazers_count": 3551
+  },
+  {
+    "name": "fre",
+    "owner": "frejs",
+    "stargazers_count": 3536
+  },
+  {
+    "name": "orchest",
+    "owner": "orchest",
+    "stargazers_count": 3531
+  },
+  {
+    "name": "varharrie.github.io",
+    "owner": "varHarrie",
+    "stargazers_count": 3527
+  },
+  {
+    "name": "can-it-be-done-in-react-native",
+    "owner": "wcandillon",
+    "stargazers_count": 3515
+  },
+  {
+    "name": "WebClients",
+    "owner": "ProtonMail",
+    "stargazers_count": 3512
+  },
+  {
+    "name": "memlab",
+    "owner": "facebook",
+    "stargazers_count": 3499
+  },
+  {
+    "name": "incremental-dom",
+    "owner": "google",
+    "stargazers_count": 3486
+  },
+  {
+    "name": "nocobase",
+    "owner": "nocobase",
+    "stargazers_count": 3484
+  },
+  {
+    "name": "slonik",
+    "owner": "gajus",
+    "stargazers_count": 3481
+  },
+  {
+    "name": "actions-gh-pages",
+    "owner": "peaceiris",
+    "stargazers_count": 3479
+  },
+  {
+    "name": "wetty",
+    "owner": "butlerx",
+    "stargazers_count": 3459
+  },
+  {
+    "name": "taskcafe",
+    "owner": "JordanKnott",
+    "stargazers_count": 3449
+  },
+  {
+    "name": "grist-core",
+    "owner": "gristlabs",
+    "stargazers_count": 3442
+  },
+  {
+    "name": "nextjs-notion-starter-kit",
+    "owner": "transitive-bullshit",
+    "stargazers_count": 3436
+  },
+  {
+    "name": "vexflow",
+    "owner": "0xfe",
+    "stargazers_count": 3434
+  },
+  {
+    "name": "hint",
+    "owner": "webhintio",
+    "stargazers_count": 3423
+  },
+  {
+    "name": "LogicFlow",
+    "owner": "didi",
+    "stargazers_count": 3419
+  },
+  {
+    "name": "react-native-blur",
+    "owner": "Kureev",
+    "stargazers_count": 3410
+  },
+  {
+    "name": "mometa",
+    "owner": "imcuttle",
+    "stargazers_count": 3376
+  },
+  {
+    "name": "giscus",
+    "owner": "giscus",
+    "stargazers_count": 3374
+  },
+  {
+    "name": "wagmi",
+    "owner": "wagmi-dev",
+    "stargazers_count": 3370
+  },
+  {
+    "name": "checkout",
+    "owner": "actions",
+    "stargazers_count": 3369
+  },
+  {
+    "name": "asciiflow",
+    "owner": "lewish",
+    "stargazers_count": 3364
+  },
+  {
+    "name": "common",
+    "owner": "cucumber",
+    "stargazers_count": 3358
+  },
+  {
+    "name": "graphql-shield",
+    "owner": "dimatill",
+    "stargazers_count": 3357
+  },
+  {
+    "name": "ring-ui",
+    "owner": "JetBrains",
+    "stargazers_count": 3347
+  },
+  {
+    "name": "typedi",
+    "owner": "typestack",
+    "stargazers_count": 3344
+  },
+  {
+    "name": "Caporal.js",
+    "owner": "mattallty",
+    "stargazers_count": 3338
+  },
+  {
+    "name": "GGEditor",
+    "owner": "alibaba",
+    "stargazers_count": 3324
+  },
+  {
+    "name": "store",
+    "owner": "ngxs",
+    "stargazers_count": 3318
+  },
+  {
+    "name": "ts-loader",
+    "owner": "TypeStrong",
+    "stargazers_count": 3311
+  },
+  {
+    "name": "cosmiconfig",
+    "owner": "davidtheclark",
+    "stargazers_count": 3309
+  },
+  {
+    "name": "router",
+    "owner": "TanStack",
+    "stargazers_count": 3303
+  },
+  {
+    "name": "vuefire",
+    "owner": "vuejs",
+    "stargazers_count": 3302
+  },
+  {
+    "name": "mianshiya-public",
+    "owner": "liyupi",
+    "stargazers_count": 3300
+  },
+  {
+    "name": "sqip",
+    "owner": "axe312ger",
+    "stargazers_count": 3298
+  },
+  {
+    "name": "react-mosaic",
+    "owner": "nomcopter",
+    "stargazers_count": 3296
+  },
+  {
+    "name": "fast-check",
+    "owner": "dubzzz",
+    "stargazers_count": 3296
+  },
+  {
+    "name": "styletron",
+    "owner": "styletron",
+    "stargazers_count": 3295
+  },
+  {
+    "name": "scrollmonitor",
+    "owner": "stutrek",
+    "stargazers_count": 3292
+  },
+  {
+    "name": "altair",
+    "owner": "altair-graphql",
+    "stargazers_count": 4495
+  },
+  {
+    "name": "brick-design",
+    "owner": "brick-design",
+    "stargazers_count": 4492
+  },
+  {
+    "name": "colyseus",
+    "owner": "colyseus",
+    "stargazers_count": 4485
+  },
+  {
+    "name": "unform",
+    "owner": "unform",
+    "stargazers_count": 4481
+  },
+  {
+    "name": "searchkit",
+    "owner": "searchkit",
+    "stargazers_count": 4471
+  },
+  {
+    "name": "prettier-vscode",
+    "owner": "prettier",
+    "stargazers_count": 4467
+  },
+  {
+    "name": "react-native-skia",
+    "owner": "Shopify",
+    "stargazers_count": 4463
+  },
+  {
+    "name": "turbo",
+    "owner": "hotwired",
+    "stargazers_count": 4458
+  },
+  {
+    "name": "oak",
+    "owner": "oakserver",
+    "stargazers_count": 4453
+  },
+  {
+    "name": "node-lru-cache",
+    "owner": "isaacs",
+    "stargazers_count": 4450
+  },
+  {
+    "name": "react-error-boundary",
+    "owner": "bvaughn",
+    "stargazers_count": 4444
+  },
+  {
+    "name": "leerob.io",
+    "owner": "leerob",
+    "stargazers_count": 4427
+  },
+  {
+    "name": "remax",
+    "owner": "remaxjs",
+    "stargazers_count": 4426
+  },
+  {
+    "name": "marp",
+    "owner": "marp-team",
+    "stargazers_count": 4419
+  },
+  {
+    "name": "the-platform",
+    "owner": "jaredpalmer",
+    "stargazers_count": 4399
+  },
+  {
+    "name": "ng-alain",
+    "owner": "ng-alain",
+    "stargazers_count": 4394
+  },
+  {
+    "name": "tsparticles",
+    "owner": "matteobruni",
+    "stargazers_count": 4390
+  },
+  {
+    "name": "vscode-browser-preview",
+    "owner": "auchenberg",
+    "stargazers_count": 4380
+  },
+  {
+    "name": "react-leaflet",
+    "owner": "PaulLeCam",
+    "stargazers_count": 4360
+  },
+  {
+    "name": "loopback-next",
+    "owner": "loopbackio",
+    "stargazers_count": 4354
+  },
+  {
+    "name": "intern",
+    "owner": "theintern",
+    "stargazers_count": 4353
+  },
+  {
+    "name": "hackernews-react-graphql",
+    "owner": "clintonwoo",
+    "stargazers_count": 4348
+  },
+  {
+    "name": "kalidokit",
+    "owner": "yeemachine",
+    "stargazers_count": 4326
+  },
+  {
+    "name": "ms",
+    "owner": "vercel",
+    "stargazers_count": 4300
+  },
+  {
+    "name": "recast",
+    "owner": "benjamn",
+    "stargazers_count": 4296
+  },
+  {
+    "name": "express-jwt",
+    "owner": "auth0",
+    "stargazers_count": 4287
+  },
+  {
+    "name": "firebase-js-sdk",
+    "owner": "firebase",
+    "stargazers_count": 4279
+  },
+  {
+    "name": "markmap",
+    "owner": "markmap",
+    "stargazers_count": 4270
+  },
+  {
+    "name": "prisma-examples",
+    "owner": "prisma",
+    "stargazers_count": 4268
+  },
+  {
+    "name": "runtipi",
+    "owner": "meienberger",
+    "stargazers_count": 4253
+  },
+  {
+    "name": "emmet",
+    "owner": "emmetio",
+    "stargazers_count": 4244
+  },
+  {
+    "name": "core",
+    "owner": "ngx-translate",
+    "stargazers_count": 4229
+  },
+  {
+    "name": "HeroicGamesLauncher",
+    "owner": "Heroic-Games-Launcher",
+    "stargazers_count": 4218
+  },
+  {
+    "name": "simplenote-electron",
+    "owner": "Automattic",
+    "stargazers_count": 4214
+  },
+  {
+    "name": "code-push",
+    "owner": "microsoft",
+    "stargazers_count": 4213
+  },
+  {
+    "name": "playroom",
+    "owner": "seek-oss",
+    "stargazers_count": 4207
+  },
+  {
+    "name": "cli",
+    "owner": "snyk",
+    "stargazers_count": 4207
+  },
+  {
+    "name": "flat",
+    "owner": "netless-io",
+    "stargazers_count": 4204
+  },
+  {
+    "name": "tsdoc",
+    "owner": "microsoft",
+    "stargazers_count": 4197
+  },
+  {
+    "name": "yn",
+    "owner": "purocean",
+    "stargazers_count": 4193
+  },
+  {
+    "name": "rancher-desktop",
+    "owner": "rancher-sandbox",
+    "stargazers_count": 4190
+  },
+  {
+    "name": "react-gh-pages",
+    "owner": "gitname",
+    "stargazers_count": 4169
+  },
+  {
+    "name": "transform",
+    "owner": "ritz078",
+    "stargazers_count": 4169
+  },
+  {
+    "name": "ngx-charts",
+    "owner": "swimlane",
+    "stargazers_count": 4166
+  },
+  {
+    "name": "gts",
+    "owner": "google",
+    "stargazers_count": 4161
+  },
+  {
+    "name": "yalc",
+    "owner": "wclr",
+    "stargazers_count": 4157
+  },
+  {
+    "name": "sqlectron-gui",
+    "owner": "sqlectron",
+    "stargazers_count": 4127
+  },
+  {
+    "name": "massCode",
+    "owner": "massCodeIO",
+    "stargazers_count": 4109
+  },
+  {
+    "name": "after.js",
+    "owner": "jaredpalmer",
+    "stargazers_count": 4103
+  },
+  {
+    "name": "builder",
+    "owner": "BuilderIO",
+    "stargazers_count": 4099
+  },
+  {
+    "name": "grpc-web",
+    "owner": "improbable-eng",
+    "stargazers_count": 4074
+  },
+  {
+    "name": "FluidFramework",
+    "owner": "microsoft",
+    "stargazers_count": 4065
+  },
+  {
+    "name": "composition-api",
+    "owner": "vuejs",
+    "stargazers_count": 4064
+  },
+  {
+    "name": "terraform-cdk",
+    "owner": "hashicorp",
+    "stargazers_count": 4059
+  },
+  {
+    "name": "taro-ui",
+    "owner": "NervJS",
+    "stargazers_count": 4058
+  },
+  {
+    "name": "react-native-bottom-sheet",
+    "owner": "gorhom",
+    "stargazers_count": 4058
+  },
+  {
+    "name": "tamperchrome",
+    "owner": "google",
+    "stargazers_count": 4046
+  },
+  {
+    "name": "codetour",
+    "owner": "microsoft",
+    "stargazers_count": 4028
+  },
+  {
+    "name": "vscode-restclient",
+    "owner": "Huachao",
+    "stargazers_count": 4027
+  },
+  {
+    "name": "unstated-next",
+    "owner": "jamiebuilds",
+    "stargazers_count": 4025
+  },
+  {
+    "name": "autorest",
+    "owner": "Azure",
+    "stargazers_count": 4020
+  },
+  {
+    "name": "X6",
+    "owner": "antvis",
+    "stargazers_count": 4011
+  },
+  {
+    "name": "volar",
+    "owner": "johnsoncodehk",
+    "stargazers_count": 4001
+  },
+  {
+    "name": "jshistory-cn",
+    "owner": "doodlewind",
+    "stargazers_count": 3996
+  },
+  {
+    "name": "tridactyl",
+    "owner": "tridactyl",
+    "stargazers_count": 3989
+  },
+  {
+    "name": "effector",
+    "owner": "effector",
+    "stargazers_count": 3982
+  },
+  {
+    "name": "shiki",
+    "owner": "shikijs",
+    "stargazers_count": 3968
+  },
+  {
+    "name": "bottender",
+    "owner": "Yoctol",
+    "stargazers_count": 3967
+  },
+  {
+    "name": "store",
+    "owner": "ngrx",
+    "stargazers_count": 3937
+  },
+  {
+    "name": "buttercup-desktop",
+    "owner": "buttercup",
+    "stargazers_count": 3934
+  },
+  {
+    "name": "fluent-reader",
+    "owner": "yang991178",
+    "stargazers_count": 3934
+  },
+  {
+    "name": "desktop",
+    "owner": "stream-labs",
+    "stargazers_count": 3933
+  },
+  {
+    "name": "VoTT",
+    "owner": "microsoft",
+    "stargazers_count": 3929
+  },
+  {
+    "name": "vega-lite",
+    "owner": "vega",
+    "stargazers_count": 3928
+  },
+  {
+    "name": "code-settings-sync",
+    "owner": "shanalikhan",
+    "stargazers_count": 3928
+  },
+  {
+    "name": "universal",
+    "owner": "angular",
+    "stargazers_count": 3926
+  },
+  {
+    "name": "routing-controllers",
+    "owner": "typestack",
+    "stargazers_count": 3921
+  },
+  {
+    "name": "turbulenz_engine",
+    "owner": "turbulenz",
+    "stargazers_count": 3919
+  },
+  {
+    "name": "wireit",
+    "owner": "google",
+    "stargazers_count": 3915
+  },
+  {
+    "name": "danfojs",
+    "owner": "javascriptdata",
+    "stargazers_count": 3912
+  },
+  {
+    "name": "serverless-next.js",
+    "owner": "serverless-nextjs",
+    "stargazers_count": 3907
+  },
+  {
+    "name": "speedscope",
+    "owner": "jlfwong",
+    "stargazers_count": 3872
+  },
+  {
+    "name": "pokemon-showdown",
+    "owner": "smogon",
+    "stargazers_count": 3866
+  },
+  {
+    "name": "hashids.js",
+    "owner": "niieani",
+    "stargazers_count": 3862
+  },
+  {
+    "name": "app",
+    "owner": "standardnotes",
+    "stargazers_count": 3859
+  },
+  {
+    "name": "gitify",
+    "owner": "manosim",
+    "stargazers_count": 3859
+  },
+  {
+    "name": "javascript-datastructures-algorithms",
+    "owner": "loiane",
+    "stargazers_count": 3858
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "LasCC",
+    "stargazers_count": 3852
+  },
+  {
+    "name": "echarts-for-react",
+    "owner": "hustcc",
+    "stargazers_count": 3850
+  },
+  {
+    "name": "dub",
+    "owner": "steven-tey",
+    "stargazers_count": 3838
+  },
+  {
+    "name": "next-i18next",
+    "owner": "i18next",
+    "stargazers_count": 3835
+  },
+  {
+    "name": "og-image",
+    "owner": "vercel",
+    "stargazers_count": 3826
+  },
+  {
+    "name": "hydrogen",
+    "owner": "nteract",
+    "stargazers_count": 3823
+  },
+  {
+    "name": "growthbook",
+    "owner": "growthbook",
+    "stargazers_count": 3811
+  },
+  {
+    "name": "sanity",
+    "owner": "sanity-io",
+    "stargazers_count": 3804
+  },
+  {
+    "name": "tribeca",
+    "owner": "michaelgrosner",
+    "stargazers_count": 3793
+  },
+  {
+    "name": "interface",
+    "owner": "Uniswap",
+    "stargazers_count": 3776
+  },
+  {
+    "name": "rowy",
+    "owner": "rowyio",
+    "stargazers_count": 3755
+  },
+  {
+    "name": "gridjs",
+    "owner": "grid-js",
+    "stargazers_count": 3753
+  },
+  {
+    "name": "alva",
+    "owner": "meetalva",
+    "stargazers_count": 3749
+  },
+  {
+    "name": "orchest",
+    "owner": "orchest",
+    "stargazers_count": 3531
+  },
+  {
+    "name": "destiny",
+    "owner": "benawad",
+    "stargazers_count": 3525
+  },
+  {
+    "name": "WebClients",
+    "owner": "ProtonMail",
+    "stargazers_count": 3512
+  },
+  {
+    "name": "ionic-conference-app",
+    "owner": "ionic-team",
+    "stargazers_count": 3511
+  },
+  {
+    "name": "kbar",
+    "owner": "timc1",
+    "stargazers_count": 3499
+  },
+  {
+    "name": "memlab",
+    "owner": "facebook",
+    "stargazers_count": 3499
+  },
+  {
+    "name": "incremental-dom",
+    "owner": "google",
+    "stargazers_count": 3486
+  },
+  {
+    "name": "nocobase",
+    "owner": "nocobase",
+    "stargazers_count": 3484
+  },
+  {
+    "name": "js-lingui",
+    "owner": "lingui",
+    "stargazers_count": 3474
+  },
+  {
+    "name": "wetty",
+    "owner": "butlerx",
+    "stargazers_count": 3459
+  },
+  {
+    "name": "survey-library",
+    "owner": "surveyjs",
+    "stargazers_count": 3447
+  },
+  {
+    "name": "grist-core",
+    "owner": "gristlabs",
+    "stargazers_count": 3442
+  },
+  {
+    "name": "nextjs-notion-starter-kit",
+    "owner": "transitive-bullshit",
+    "stargazers_count": 3436
+  },
+  {
+    "name": "vexflow",
+    "owner": "0xfe",
+    "stargazers_count": 3434
+  },
+  {
+    "name": "star-history",
+    "owner": "bytebase",
+    "stargazers_count": 3431
+  },
+  {
+    "name": "geist-ui",
+    "owner": "geist-org",
+    "stargazers_count": 3429
+  },
+  {
+    "name": "hint",
+    "owner": "webhintio",
+    "stargazers_count": 3423
+  },
+  {
+    "name": "react-native-blur",
+    "owner": "Kureev",
+    "stargazers_count": 3410
+  },
+  {
+    "name": "hedgedoc",
+    "owner": "hedgedoc",
+    "stargazers_count": 3377
+  },
+  {
+    "name": "mometa",
+    "owner": "imcuttle",
+    "stargazers_count": 3376
+  },
+  {
+    "name": "bqplot",
+    "owner": "bqplot",
+    "stargazers_count": 3371
+  },
+  {
+    "name": "wagmi",
+    "owner": "wagmi-dev",
+    "stargazers_count": 3370
+  },
+  {
+    "name": "asciiflow",
+    "owner": "lewish",
+    "stargazers_count": 3364
+  },
+  {
+    "name": "common",
+    "owner": "cucumber",
+    "stargazers_count": 3358
+  },
+  {
+    "name": "graphql-shield",
+    "owner": "dimatill",
+    "stargazers_count": 3357
+  },
+  {
+    "name": "ring-ui",
+    "owner": "JetBrains",
+    "stargazers_count": 3347
+  },
+  {
+    "name": "typedi",
+    "owner": "typestack",
+    "stargazers_count": 3344
+  },
+  {
+    "name": "splide",
+    "owner": "Splidejs",
+    "stargazers_count": 3341
+  },
+  {
+    "name": "Caporal.js",
+    "owner": "mattallty",
+    "stargazers_count": 3338
+  },
+  {
+    "name": "react-docgen",
+    "owner": "reactjs",
+    "stargazers_count": 3325
+  },
+  {
+    "name": "Tech-Interview-Cheat-Sheet",
+    "owner": "tsiege",
+    "stargazers_count": 3324
+  },
+  {
+    "name": "GGEditor",
+    "owner": "alibaba",
+    "stargazers_count": 3324
+  },
+  {
+    "name": "store",
+    "owner": "ngxs",
+    "stargazers_count": 3318
+  },
+  {
+    "name": "router",
+    "owner": "TanStack",
+    "stargazers_count": 3303
+  },
+  {
+    "name": "github-pages-deploy-action",
+    "owner": "JamesIves",
+    "stargazers_count": 3302
+  },
+  {
+    "name": "vuefire",
+    "owner": "vuejs",
+    "stargazers_count": 3302
+  },
+  {
+    "name": "react-mosaic",
+    "owner": "nomcopter",
+    "stargazers_count": 3296
+  },
+  {
+    "name": "fast-check",
+    "owner": "dubzzz",
+    "stargazers_count": 3296
+  },
+  {
+    "name": "styletron",
+    "owner": "styletron",
+    "stargazers_count": 3295
+  },
+  {
+    "name": "zotero-better-bibtex",
+    "owner": "retorquere",
+    "stargazers_count": 3293
+  },
+  {
+    "name": "ImageOptim-CLI",
+    "owner": "JamieMason",
+    "stargazers_count": 3292
+  },
+  {
+    "name": "scrollmonitor",
+    "owner": "stutrek",
+    "stargazers_count": 3292
+  },
+  {
+    "name": "pigeon-maps",
+    "owner": "mariusandra",
+    "stargazers_count": 3286
+  },
+  {
+    "name": "ts-morph",
+    "owner": "dsherret",
+    "stargazers_count": 3276
+  },
+  {
+    "name": "crud",
+    "owner": "nestjsx",
+    "stargazers_count": 3273
+  },
+  {
+    "name": "notion-sdk-js",
+    "owner": "makenotion",
+    "stargazers_count": 3263
+  },
+  {
+    "name": "react-image-crop",
+    "owner": "DominicTobias",
+    "stargazers_count": 3262
+  },
+  {
+    "name": "obsidian-dataview",
+    "owner": "blacksmithgu",
+    "stargazers_count": 3259
+  },
+  {
+    "name": "CrewLink",
+    "owner": "ottomated",
+    "stargazers_count": 3248
+  },
+  {
+    "name": "zone.js",
+    "owner": "angular",
+    "stargazers_count": 3247
+  },
+  {
+    "name": "canvg",
+    "owner": "canvg",
+    "stargazers_count": 3246
+  },
+  {
+    "name": "cache",
+    "owner": "actions",
+    "stargazers_count": 3243
+  },
+  {
+    "name": "misskey",
+    "owner": "misskey-dev",
+    "stargazers_count": 3238
+  },
+  {
+    "name": "reactour",
+    "owner": "elrumordelaluz",
+    "stargazers_count": 3229
+  },
+  {
+    "name": "html-to-image",
+    "owner": "bubkoo",
+    "stargazers_count": 3224
+  },
+  {
+    "name": "typescript-starter",
+    "owner": "bitjson",
+    "stargazers_count": 3224
+  },
+  {
+    "name": "leva",
+    "owner": "pmndrs",
+    "stargazers_count": 3207
+  },
+  {
+    "name": "saas",
+    "owner": "async-labs",
+    "stargazers_count": 3198
+  },
+  {
+    "name": "BoostNote-App",
+    "owner": "BoostIO",
+    "stargazers_count": 3197
+  },
+  {
+    "name": "esbuild-loader",
+    "owner": "privatenumber",
+    "stargazers_count": 3190
+  },
+  {
+    "name": "react-native-reanimated-bottom-sheet",
+    "owner": "osdnk",
+    "stargazers_count": 3189
+  },
+  {
+    "name": "reactfire",
+    "owner": "FirebaseExtended",
+    "stargazers_count": 3187
+  },
+  {
+    "name": "How-to-run",
+    "owner": "lidangzzz",
+    "stargazers_count": 3174
+  },
+  {
+    "name": "qrcode.react",
+    "owner": "zpao",
+    "stargazers_count": 3163
+  },
+  {
+    "name": "qawolf",
+    "owner": "qawolf",
+    "stargazers_count": 3162
+  },
+  {
+    "name": "react-chrono",
+    "owner": "prabhuignoto",
+    "stargazers_count": 3159
+  },
+  {
+    "name": "bytemd",
+    "owner": "bytedance",
+    "stargazers_count": 3159
+  },
+  {
+    "name": "air-conditioner",
+    "owner": "YunYouJun",
+    "stargazers_count": 3158
+  },
+  {
+    "name": "firenvim",
+    "owner": "glacambre",
+    "stargazers_count": 3155
+  },
+  {
+    "name": "match-sorter",
+    "owner": "kentcdodds",
+    "stargazers_count": 3151
+  },
+  {
+    "name": "flame",
+    "owner": "pawelmalak",
+    "stargazers_count": 3146
+  },
+  {
+    "name": "tiktok-scraper",
+    "owner": "drawrowfly",
+    "stargazers_count": 3144
+  },
+  {
+    "name": "azure-pipelines-tasks",
+    "owner": "microsoft",
+    "stargazers_count": 3132
+  },
+  {
+    "name": "TypeScriptSamples",
+    "owner": "microsoft",
+    "stargazers_count": 3130
+  },
+  {
+    "name": "nexus",
+    "owner": "graphql-nexus",
+    "stargazers_count": 3130
+  },
+  {
+    "name": "notistack",
+    "owner": "iamhosseindhv",
+    "stargazers_count": 3126
+  },
+  {
+    "name": "eigen",
+    "owner": "artsy",
+    "stargazers_count": 3121
+  },
+  {
+    "name": "tinykeys",
+    "owner": "jamiebuilds",
+    "stargazers_count": 3116
+  },
+  {
+    "name": "pro-components",
+    "owner": "ant-design",
+    "stargazers_count": 3106
+  },
+  {
+    "name": "rainbow",
+    "owner": "rainbow-me",
+    "stargazers_count": 3105
+  },
+  {
+    "name": "node-slack-sdk",
+    "owner": "slackapi",
+    "stargazers_count": 3103
+  },
+  {
+    "name": "github-profile-trophy",
+    "owner": "ryo-ma",
+    "stargazers_count": 3091
+  },
+  {
+    "name": "react-loading-skeleton",
+    "owner": "dvtng",
+    "stargazers_count": 3085
+  },
+  {
+    "name": "jsQR",
+    "owner": "cozmo",
+    "stargazers_count": 3080
+  },
+  {
+    "name": "ts-node-dev",
+    "owner": "wclr",
+    "stargazers_count": 3079
+  },
+  {
+    "name": "common-voice",
+    "owner": "common-voice",
+    "stargazers_count": 3078
+  },
+  {
+    "name": "pandora",
+    "owner": "midwayjs",
+    "stargazers_count": 3072
+  },
+  {
+    "name": "react-rnd",
+    "owner": "bokuweb",
+    "stargazers_count": 3063
+  },
+  {
+    "name": "miniflare",
+    "owner": "cloudflare",
+    "stargazers_count": 3061
+  },
+  {
+    "name": "docsearch",
+    "owner": "algolia",
+    "stargazers_count": 3053
+  },
+  {
+    "name": "mailing",
+    "owner": "sofn-xyz",
+    "stargazers_count": 3048
+  },
+  {
+    "name": "my-mind",
+    "owner": "ondras",
+    "stargazers_count": 3041
+  },
+  {
+    "name": "node-api-boilerplate",
+    "owner": "talyssonoc",
+    "stargazers_count": 3030
+  },
+  {
+    "name": "typestyle",
+    "owner": "typestyle",
+    "stargazers_count": 3010
+  },
+  {
+    "name": "worker-dom",
+    "owner": "ampproject",
+    "stargazers_count": 3010
+  },
+  {
+    "name": "moti",
+    "owner": "nandorojo",
+    "stargazers_count": 3010
+  },
+  {
+    "name": "react-notion-x",
+    "owner": "NotionX",
+    "stargazers_count": 3002
+  },
+  {
+    "name": "trois",
+    "owner": "troisjs",
+    "stargazers_count": 2998
+  },
+  {
+    "name": "instantsearch.js",
+    "owner": "algolia",
+    "stargazers_count": 2993
+  },
+  {
+    "name": "react-native-render-html",
+    "owner": "meliorence",
+    "stargazers_count": 2988
+  },
+  {
+    "name": "remotedebug-ios-webkit-adapter",
+    "owner": "RemoteDebug",
+    "stargazers_count": 2634
+  },
+  {
+    "name": "ipywidgets",
+    "owner": "jupyter-widgets",
+    "stargazers_count": 2631
+  },
+  {
+    "name": "frontend",
+    "owner": "home-assistant",
+    "stargazers_count": 2629
+  },
+  {
+    "name": "puppeteer-cluster",
+    "owner": "thomasdondorf",
+    "stargazers_count": 2627
+  },
+  {
+    "name": "threads.js",
+    "owner": "andywer",
+    "stargazers_count": 2627
+  },
+  {
+    "name": "rooks",
+    "owner": "imbhargav5",
+    "stargazers_count": 2627
+  },
+  {
+    "name": "ant-design-mobile-rn",
+    "owner": "ant-design",
+    "stargazers_count": 2614
+  },
+  {
+    "name": "amplify-cli",
+    "owner": "aws-amplify",
+    "stargazers_count": 2609
+  },
+  {
+    "name": "HAP-NodeJS",
+    "owner": "homebridge",
+    "stargazers_count": 2607
+  },
+  {
+    "name": "socket.io-redis-adapter",
+    "owner": "socketio",
+    "stargazers_count": 2602
+  },
+  {
+    "name": "dumi",
+    "owner": "umijs",
+    "stargazers_count": 2596
+  },
+  {
+    "name": "react-native-testing-library",
+    "owner": "callstack",
+    "stargazers_count": 2592
+  },
+  {
+    "name": "webpack-merge",
+    "owner": "survivejs",
+    "stargazers_count": 2591
+  },
+  {
+    "name": "react-express",
+    "owner": "dabbott",
+    "stargazers_count": 2589
+  },
+  {
+    "name": "useAuth",
+    "owner": "Swizec",
+    "stargazers_count": 2582
+  },
+  {
+    "name": "vscode-jest",
+    "owner": "jest-community",
+    "stargazers_count": 2574
+  },
+  {
+    "name": "piping-server",
+    "owner": "nwtgck",
+    "stargazers_count": 2570
+  },
+  {
+    "name": "laravel-echo-server",
+    "owner": "tlaverdure",
+    "stargazers_count": 2566
+  },
+  {
+    "name": "mmenu-js",
+    "owner": "FrDH",
+    "stargazers_count": 2560
+  },
+  {
+    "name": "gcoord",
+    "owner": "hujiulong",
+    "stargazers_count": 2549
+  },
+  {
+    "name": "typescript-json-schema",
+    "owner": "YousefED",
+    "stargazers_count": 2543
+  },
+  {
+    "name": "clash-verge",
+    "owner": "zzzgydi",
+    "stargazers_count": 2538
+  },
+  {
+    "name": "router",
+    "owner": "vuejs",
+    "stargazers_count": 2535
+  },
+  {
+    "name": "react-morph",
+    "owner": "brunnolou",
+    "stargazers_count": 2531
+  },
+  {
+    "name": "crank",
+    "owner": "bikeshaving",
+    "stargazers_count": 2528
+  },
+  {
+    "name": "avataaars-generator",
+    "owner": "fangpenlin",
+    "stargazers_count": 2527
+  },
+  {
+    "name": "setup-node",
+    "owner": "actions",
+    "stargazers_count": 2526
+  },
+  {
+    "name": "vue-codemirror",
+    "owner": "surmon-china",
+    "stargazers_count": 2525
+  },
+  {
+    "name": "graphql-faker",
+    "owner": "IvanGoncharov",
+    "stargazers_count": 2517
+  },
+  {
+    "name": "aura-theme",
+    "owner": "daltonmenezes",
+    "stargazers_count": 2510
+  },
+  {
+    "name": "react-notion",
+    "owner": "splitbee",
+    "stargazers_count": 2505
+  },
+  {
+    "name": "leek-fund",
+    "owner": "LeekHub",
+    "stargazers_count": 2502
+  },
+  {
+    "name": "wretch",
+    "owner": "elbywan",
+    "stargazers_count": 2501
+  },
+  {
+    "name": "flamethrower",
+    "owner": "fireship-io",
+    "stargazers_count": 2499
+  },
+  {
+    "name": "try",
+    "owner": "dotnet",
+    "stargazers_count": 2498
+  },
+  {
+    "name": "use-immer",
+    "owner": "immerjs",
+    "stargazers_count": 2495
+  },
+  {
+    "name": "devtools-frontend",
+    "owner": "ChromeDevTools",
+    "stargazers_count": 2489
+  },
+  {
+    "name": "react-native-screens",
+    "owner": "software-mansion",
+    "stargazers_count": 2488
+  },
+  {
+    "name": "web",
+    "owner": "bitwarden",
+    "stargazers_count": 2487
+  },
+  {
+    "name": "typescript-exercises",
+    "owner": "typescript-exercises",
+    "stargazers_count": 2478
+  },
+  {
+    "name": "musescore-downloader",
+    "owner": "Xmader",
+    "stargazers_count": 2475
+  },
+  {
+    "name": "sequelize-typescript",
+    "owner": "sequelize",
+    "stargazers_count": 2471
+  },
+  {
+    "name": "bricklayer",
+    "owner": "ademilter",
+    "stargazers_count": 2471
+  },
+  {
+    "name": "angular-calendar",
+    "owner": "mattlewis92",
+    "stargazers_count": 2468
+  },
+  {
+    "name": "scully",
+    "owner": "scullyio",
+    "stargazers_count": 2467
+  },
+  {
+    "name": "tail-kit",
+    "owner": "Charlie85270",
+    "stargazers_count": 2465
+  },
+  {
+    "name": "textlint",
+    "owner": "textlint",
+    "stargazers_count": 2461
+  },
+  {
+    "name": "tad",
+    "owner": "antonycourtney",
+    "stargazers_count": 2460
+  },
+  {
+    "name": "lago",
+    "owner": "yangshun",
+    "stargazers_count": 2460
+  },
+  {
+    "name": "vscode-react-native",
+    "owner": "microsoft",
+    "stargazers_count": 2452
+  },
+  {
+    "name": "haunted",
+    "owner": "matthewp",
+    "stargazers_count": 2448
+  },
+  {
+    "name": "google-cloud-node",
+    "owner": "googleapis",
+    "stargazers_count": 2444
+  },
+  {
+    "name": "codelyzer",
+    "owner": "mgechev",
+    "stargazers_count": 2444
+  },
+  {
+    "name": "vscode-markdown",
+    "owner": "yzhang-gh",
+    "stargazers_count": 2434
+  },
+  {
+    "name": "tsoa",
+    "owner": "lukeautry",
+    "stargazers_count": 2433
+  },
+  {
+    "name": "html5-qrcode",
+    "owner": "mebjas",
+    "stargazers_count": 2425
+  },
+  {
+    "name": "YouTube.js",
+    "owner": "LuanRT",
+    "stargazers_count": 2416
+  },
+  {
+    "name": "git-split-diffs",
+    "owner": "banga",
+    "stargazers_count": 2410
+  },
+  {
+    "name": "typesafe-actions",
+    "owner": "piotrwitek",
+    "stargazers_count": 2406
+  },
+  {
+    "name": "Angular-GettingStarted",
+    "owner": "DeborahK",
+    "stargazers_count": 2404
+  },
+  {
+    "name": "react-spinners",
+    "owner": "davidhu2000",
+    "stargazers_count": 2404
+  },
+  {
+    "name": "usehooks-ts",
+    "owner": "juliencrn",
+    "stargazers_count": 2400
+  },
+  {
+    "name": "ngx-formly",
+    "owner": "ngx-formly",
+    "stargazers_count": 2398
+  },
+  {
+    "name": "perfect-arrows",
+    "owner": "steveruizok",
+    "stargazers_count": 2398
+  },
+  {
+    "name": "cookies",
+    "owner": "reactivestack",
+    "stargazers_count": 2397
+  },
+  {
+    "name": "regexlearn.com",
+    "owner": "aykutkardas",
+    "stargazers_count": 2397
+  },
+  {
+    "name": "next-themes",
+    "owner": "pacocoursey",
+    "stargazers_count": 2392
+  },
+  {
+    "name": "OverlayScrollbars",
+    "owner": "KingSora",
+    "stargazers_count": 2389
+  },
+  {
+    "name": "react-native-image-viewer",
+    "owner": "ascoders",
+    "stargazers_count": 2387
+  },
+  {
+    "name": "caz",
+    "owner": "zce",
+    "stargazers_count": 2376
+  },
+  {
+    "name": "hiplot",
+    "owner": "facebookresearch",
+    "stargazers_count": 2369
+  },
+  {
+    "name": "react-colorful",
+    "owner": "omgovich",
+    "stargazers_count": 2365
+  },
+  {
+    "name": "nestjs-realworld-example-app",
+    "owner": "lujakob",
+    "stargazers_count": 2363
+  },
+  {
+    "name": "expo-cli",
+    "owner": "expo",
+    "stargazers_count": 2360
+  },
+  {
+    "name": "tonal",
+    "owner": "tonaljs",
+    "stargazers_count": 2358
+  },
+  {
+    "name": "honkit",
+    "owner": "honkit",
+    "stargazers_count": 2356
+  },
+  {
+    "name": "openapi-typescript",
+    "owner": "drwpow",
+    "stargazers_count": 2354
+  },
+  {
+    "name": "vime",
+    "owner": "vime-js",
+    "stargazers_count": 2354
+  },
+  {
+    "name": "grafana-dashboards",
+    "owner": "percona",
+    "stargazers_count": 2336
+  },
+  {
+    "name": "setup-php",
+    "owner": "shivammathur",
+    "stargazers_count": 2335
+  },
+  {
+    "name": "p-queue",
+    "owner": "sindresorhus",
+    "stargazers_count": 2334
+  },
+  {
+    "name": "zero",
+    "owner": "sinclairzx81",
+    "stargazers_count": 2333
+  },
+  {
+    "name": "actionhero",
+    "owner": "actionhero",
+    "stargazers_count": 2330
+  },
+  {
+    "name": "tinyhttp",
+    "owner": "tinyhttp",
+    "stargazers_count": 2330
+  },
+  {
+    "name": "react-native-chart-kit",
+    "owner": "indiespirit",
+    "stargazers_count": 2329
+  },
+  {
+    "name": "next-redux-wrapper",
+    "owner": "kirill-konshin",
+    "stargazers_count": 2328
+  },
+  {
+    "name": "use-cannon",
+    "owner": "pmndrs",
+    "stargazers_count": 2325
+  },
+  {
+    "name": "G2Plot",
+    "owner": "antvis",
+    "stargazers_count": 2324
+  },
+  {
+    "name": "nextjs-subscription-payments",
+    "owner": "vercel",
+    "stargazers_count": 2323
+  },
+  {
+    "name": "react-md",
+    "owner": "mlaursen",
+    "stargazers_count": 2322
+  },
+  {
+    "name": "xstream",
+    "owner": "staltz",
+    "stargazers_count": 2322
+  },
+  {
+    "name": "unplugin-vue-components",
+    "owner": "antfu",
+    "stargazers_count": 2316
+  },
+  {
+    "name": "TypeChain",
+    "owner": "dethcrypto",
+    "stargazers_count": 2307
+  },
+  {
+    "name": "solid-start",
+    "owner": "solidjs",
+    "stargazers_count": 2307
+  },
+  {
+    "name": "material-ui-pickers",
+    "owner": "mui",
+    "stargazers_count": 2305
+  },
+  {
+    "name": "glide-data-grid",
+    "owner": "glideapps",
+    "stargazers_count": 2298
+  },
+  {
+    "name": "vsinder",
+    "owner": "benawad",
+    "stargazers_count": 2298
+  },
+  {
+    "name": "hedgehog-lab",
+    "owner": "Hedgehog-Computing",
+    "stargazers_count": 2298
+  },
+  {
+    "name": "react-responsive-carousel",
+    "owner": "leandrowd",
+    "stargazers_count": 2291
+  },
+  {
+    "name": "react-widgets",
+    "owner": "jquense",
+    "stargazers_count": 2291
+  },
+  {
+    "name": "obsidian-dataview",
+    "owner": "blacksmithgu",
+    "stargazers_count": 3259
+  },
+  {
+    "name": "CrewLink",
+    "owner": "ottomated",
+    "stargazers_count": 3248
+  },
+  {
+    "name": "zone.js",
+    "owner": "angular",
+    "stargazers_count": 3247
+  },
+  {
+    "name": "canvg",
+    "owner": "canvg",
+    "stargazers_count": 3246
+  },
+  {
+    "name": "cache",
+    "owner": "actions",
+    "stargazers_count": 3243
+  },
+  {
+    "name": "misskey",
+    "owner": "misskey-dev",
+    "stargazers_count": 3238
+  },
+  {
+    "name": "reactour",
+    "owner": "elrumordelaluz",
+    "stargazers_count": 3229
+  },
+  {
+    "name": "html-to-image",
+    "owner": "bubkoo",
+    "stargazers_count": 3224
+  },
+  {
+    "name": "typescript-starter",
+    "owner": "bitjson",
+    "stargazers_count": 3224
+  },
+  {
+    "name": "photoview",
+    "owner": "photoview",
+    "stargazers_count": 3220
+  },
+  {
+    "name": "prism",
+    "owner": "stoplightio",
+    "stargazers_count": 3219
+  },
+  {
+    "name": "leva",
+    "owner": "pmndrs",
+    "stargazers_count": 3207
+  },
+  {
+    "name": "saas",
+    "owner": "async-labs",
+    "stargazers_count": 3198
+  },
+  {
+    "name": "BoostNote-App",
+    "owner": "BoostIO",
+    "stargazers_count": 3197
+  },
+  {
+    "name": "esbuild-loader",
+    "owner": "privatenumber",
+    "stargazers_count": 3190
+  },
+  {
+    "name": "react-native-reanimated-bottom-sheet",
+    "owner": "osdnk",
+    "stargazers_count": 3189
+  },
+  {
+    "name": "reactfire",
+    "owner": "FirebaseExtended",
+    "stargazers_count": 3187
+  },
+  {
+    "name": "How-to-run",
+    "owner": "lidangzzz",
+    "stargazers_count": 3174
+  },
+  {
+    "name": "qrcode.react",
+    "owner": "zpao",
+    "stargazers_count": 3163
+  },
+  {
+    "name": "qawolf",
+    "owner": "qawolf",
+    "stargazers_count": 3162
+  },
+  {
+    "name": "react-chrono",
+    "owner": "prabhuignoto",
+    "stargazers_count": 3159
+  },
+  {
+    "name": "oasis-engine",
+    "owner": "ant-galaxy",
+    "stargazers_count": 3159
+  },
+  {
+    "name": "bytemd",
+    "owner": "bytedance",
+    "stargazers_count": 3159
+  },
+  {
+    "name": "air-conditioner",
+    "owner": "YunYouJun",
+    "stargazers_count": 3158
+  },
+  {
+    "name": "firenvim",
+    "owner": "glacambre",
+    "stargazers_count": 3155
+  },
+  {
+    "name": "match-sorter",
+    "owner": "kentcdodds",
+    "stargazers_count": 3151
+  },
+  {
+    "name": "flame",
+    "owner": "pawelmalak",
+    "stargazers_count": 3146
+  },
+  {
+    "name": "tiktok-scraper",
+    "owner": "drawrowfly",
+    "stargazers_count": 3144
+  },
+  {
+    "name": "azure-pipelines-tasks",
+    "owner": "microsoft",
+    "stargazers_count": 3132
+  },
+  {
+    "name": "TypeScriptSamples",
+    "owner": "microsoft",
+    "stargazers_count": 3130
+  },
+  {
+    "name": "nexus",
+    "owner": "graphql-nexus",
+    "stargazers_count": 3130
+  },
+  {
+    "name": "notistack",
+    "owner": "iamhosseindhv",
+    "stargazers_count": 3126
+  },
+  {
+    "name": "eigen",
+    "owner": "artsy",
+    "stargazers_count": 3121
+  },
+  {
+    "name": "tinykeys",
+    "owner": "jamiebuilds",
+    "stargazers_count": 3116
+  },
+  {
+    "name": "pro-components",
+    "owner": "ant-design",
+    "stargazers_count": 3106
+  },
+  {
+    "name": "react-virtuoso",
+    "owner": "petyosi",
+    "stargazers_count": 3105
+  },
+  {
+    "name": "rainbow",
+    "owner": "rainbow-me",
+    "stargazers_count": 3105
+  },
+  {
+    "name": "node-slack-sdk",
+    "owner": "slackapi",
+    "stargazers_count": 3103
+  },
+  {
+    "name": "v3-core",
+    "owner": "Uniswap",
+    "stargazers_count": 3095
+  },
+  {
+    "name": "github-profile-trophy",
+    "owner": "ryo-ma",
+    "stargazers_count": 3091
+  },
+  {
+    "name": "react-loading-skeleton",
+    "owner": "dvtng",
+    "stargazers_count": 3085
+  },
+  {
+    "name": "jsQR",
+    "owner": "cozmo",
+    "stargazers_count": 3080
+  },
+  {
+    "name": "ts-node-dev",
+    "owner": "wclr",
+    "stargazers_count": 3079
+  },
+  {
+    "name": "common-voice",
+    "owner": "common-voice",
+    "stargazers_count": 3078
+  },
+  {
+    "name": "soketi",
+    "owner": "soketi",
+    "stargazers_count": 3076
+  },
+  {
+    "name": "alexa-skills-kit-sdk-for-nodejs",
+    "owner": "alexa",
+    "stargazers_count": 3073
+  },
+  {
+    "name": "pandora",
+    "owner": "midwayjs",
+    "stargazers_count": 3072
+  },
+  {
+    "name": "react-rnd",
+    "owner": "bokuweb",
+    "stargazers_count": 3063
+  },
+  {
+    "name": "miniflare",
+    "owner": "cloudflare",
+    "stargazers_count": 3061
+  },
+  {
+    "name": "docsearch",
+    "owner": "algolia",
+    "stargazers_count": 3053
+  },
+  {
+    "name": "vscode-go",
+    "owner": "golang",
+    "stargazers_count": 3053
+  },
+  {
+    "name": "mailing",
+    "owner": "sofn-xyz",
+    "stargazers_count": 3048
+  },
+  {
+    "name": "my-mind",
+    "owner": "ondras",
+    "stargazers_count": 3041
+  },
+  {
+    "name": "node-api-boilerplate",
+    "owner": "talyssonoc",
+    "stargazers_count": 3030
+  },
+  {
+    "name": "apollo-tooling",
+    "owner": "apollographql",
+    "stargazers_count": 3018
+  },
+  {
+    "name": "tmagic-editor",
+    "owner": "Tencent",
+    "stargazers_count": 3014
+  },
+  {
+    "name": "react-monaco-editor",
+    "owner": "react-monaco-editor",
+    "stargazers_count": 3012
+  },
+  {
+    "name": "typestyle",
+    "owner": "typestyle",
+    "stargazers_count": 3010
+  },
+  {
+    "name": "worker-dom",
+    "owner": "ampproject",
+    "stargazers_count": 3010
+  },
+  {
+    "name": "moti",
+    "owner": "nandorojo",
+    "stargazers_count": 3010
+  },
+  {
+    "name": "react-notion-x",
+    "owner": "NotionX",
+    "stargazers_count": 3002
+  },
+  {
+    "name": "trois",
+    "owner": "troisjs",
+    "stargazers_count": 2998
+  },
+  {
+    "name": "instantsearch.js",
+    "owner": "algolia",
+    "stargazers_count": 2993
+  },
+  {
+    "name": "react-native-render-html",
+    "owner": "meliorence",
+    "stargazers_count": 2988
+  },
+  {
+    "name": "ng-select",
+    "owner": "ng-select",
+    "stargazers_count": 2983
+  },
+  {
+    "name": "bases",
+    "owner": "tsconfig",
+    "stargazers_count": 2978
+  },
+  {
+    "name": "smooth-scrollbar",
+    "owner": "idiotWu",
+    "stargazers_count": 2976
+  },
+  {
+    "name": "hooks",
+    "owner": "react-native-community",
+    "stargazers_count": 2966
+  },
+  {
+    "name": "bullmq",
+    "owner": "taskforcesh",
+    "stargazers_count": 2965
+  },
+  {
+    "name": "react-firebase-hooks",
+    "owner": "CSFrequency",
+    "stargazers_count": 2965
+  },
+  {
+    "name": "cook",
+    "owner": "YunYouJun",
+    "stargazers_count": 2959
+  },
+  {
+    "name": "alm",
+    "owner": "alm-tools",
+    "stargazers_count": 2958
+  },
+  {
+    "name": "flash-list",
+    "owner": "Shopify",
+    "stargazers_count": 2955
+  },
+  {
+    "name": "sql.js-httpvfs",
+    "owner": "phiresky",
+    "stargazers_count": 2944
+  },
+  {
+    "name": "Musish",
+    "owner": "Musish",
+    "stargazers_count": 2918
+  },
+  {
+    "name": "jitsu",
+    "owner": "jitsucom",
+    "stargazers_count": 2917
+  },
+  {
+    "name": "jiffyreader.com",
+    "owner": "ansh",
+    "stargazers_count": 2910
+  },
+  {
+    "name": "L7",
+    "owner": "antvis",
+    "stargazers_count": 2899
+  },
+  {
+    "name": "git-js",
+    "owner": "steveukx",
+    "stargazers_count": 2898
+  },
+  {
+    "name": "Vorlonjs",
+    "owner": "MicrosoftDX",
+    "stargazers_count": 2898
+  },
+  {
+    "name": "plottable",
+    "owner": "palantir",
+    "stargazers_count": 2889
+  },
+  {
+    "name": "WebAssemblyStudio",
+    "owner": "wasdk",
+    "stargazers_count": 2888
+  },
+  {
+    "name": "svg-path-editor",
+    "owner": "Yqnn",
+    "stargazers_count": 2887
+  },
+  {
+    "name": "bundle-buddy",
+    "owner": "samccone",
+    "stargazers_count": 2887
+  },
+  {
+    "name": "chrono",
+    "owner": "wanasit",
+    "stargazers_count": 2876
+  },
+  {
+    "name": "piscina",
+    "owner": "piscinajs",
+    "stargazers_count": 2872
+  },
+  {
+    "name": "Fast-GitHub",
+    "owner": "fhefh2015",
+    "stargazers_count": 2872
+  },
+  {
+    "name": "komiser",
+    "owner": "tailwarden",
+    "stargazers_count": 2870
+  },
+  {
+    "name": "eslint-plugin-compat",
+    "owner": "amilajack",
+    "stargazers_count": 2869
+  },
+  {
+    "name": "aim",
+    "owner": "aimhubio",
+    "stargazers_count": 2869
+  },
+  {
+    "name": "iconoir",
+    "owner": "iconoir-icons",
+    "stargazers_count": 2867
+  },
+  {
+    "name": "build-push-action",
+    "owner": "docker",
+    "stargazers_count": 2864
+  },
+  {
+    "name": "github-script",
+    "owner": "actions",
+    "stargazers_count": 2864
+  },
+  {
+    "name": "chrome-aws-lambda",
+    "owner": "alixaxel",
+    "stargazers_count": 2863
+  },
+  {
+    "name": "jscpd",
+    "owner": "kucherenko",
+    "stargazers_count": 2856
+  },
+  {
+    "name": "datav",
+    "owner": "sunface",
+    "stargazers_count": 2841
+  },
+  {
+    "name": "artipub",
+    "owner": "crawlab-team",
+    "stargazers_count": 2840
+  },
+  {
+    "name": "console",
+    "owner": "redpanda-data",
+    "stargazers_count": 2835
+  },
+  {
+    "name": "notion-blog",
+    "owner": "ijjk",
+    "stargazers_count": 2824
+  },
+  {
+    "name": "lucide",
+    "owner": "lucide-icons",
+    "stargazers_count": 2821
+  },
+  {
+    "name": "regex-vis",
+    "owner": "Bowen7",
+    "stargazers_count": 2241
+  },
+  {
+    "name": "react-native-iap",
+    "owner": "dooboolab",
+    "stargazers_count": 2237
+  },
+  {
+    "name": "use-http",
+    "owner": "ava",
+    "stargazers_count": 2236
+  },
+  {
+    "name": "react-share",
+    "owner": "nygardk",
+    "stargazers_count": 2236
+  },
+  {
+    "name": "react-scroll-parallax",
+    "owner": "jscottsmith",
+    "stargazers_count": 2222
+  },
+  {
+    "name": "v2-core",
+    "owner": "Uniswap",
+    "stargazers_count": 2212
+  },
+  {
+    "name": "chaskiq",
+    "owner": "chaskiq",
+    "stargazers_count": 2207
+  },
+  {
+    "name": "m3o",
+    "owner": "m3o",
+    "stargazers_count": 2207
+  },
+  {
+    "name": "pwa-asset-generator",
+    "owner": "elegantapp",
+    "stargazers_count": 2206
+  },
+  {
+    "name": "revogrid",
+    "owner": "revolist",
+    "stargazers_count": 2206
+  },
+  {
+    "name": "react-infinite-scroll-component",
+    "owner": "ankeetmaini",
+    "stargazers_count": 2202
+  },
+  {
+    "name": "multrin",
+    "owner": "sentialx",
+    "stargazers_count": 2200
+  },
+  {
+    "name": "sismo-protocol",
+    "owner": "sismo-core",
+    "stargazers_count": 2196
+  },
+  {
+    "name": "atproto",
+    "owner": "bluesky-social",
+    "stargazers_count": 2193
+  },
+  {
+    "name": "selenium-ide",
+    "owner": "SeleniumHQ",
+    "stargazers_count": 2192
+  },
+  {
+    "name": "sorry-cypress",
+    "owner": "sorry-cypress",
+    "stargazers_count": 2192
+  },
+  {
+    "name": "NyaoVim",
+    "owner": "rhysd",
+    "stargazers_count": 2190
+  },
+  {
+    "name": "ngx-toastr",
+    "owner": "scttcper",
+    "stargazers_count": 2185
+  },
+  {
+    "name": "pretty-algorithms",
+    "owner": "jiayihu",
+    "stargazers_count": 2182
+  },
+  {
+    "name": "egjs-flicking",
+    "owner": "naver",
+    "stargazers_count": 2182
+  },
+  {
+    "name": "vscode-chrome-debug",
+    "owner": "microsoft",
+    "stargazers_count": 2180
+  },
+  {
+    "name": "growth-ionic",
+    "owner": "phodal",
+    "stargazers_count": 2178
+  },
+  {
+    "name": "redux-react-hook",
+    "owner": "facebookarchive",
+    "stargazers_count": 2175
+  },
+  {
+    "name": "mirage",
+    "owner": "appbaseio",
+    "stargazers_count": 2172
+  },
+  {
+    "name": "Icalingua-plus-plus",
+    "owner": "Icalingua-plus-plus",
+    "stargazers_count": 2168
+  },
+  {
+    "name": "ssr",
+    "owner": "zhangyuang",
+    "stargazers_count": 2162
+  },
+  {
+    "name": "core",
+    "owner": "opensumi",
+    "stargazers_count": 2161
+  },
+  {
+    "name": "ng2-charts",
+    "owner": "valor-software",
+    "stargazers_count": 2160
+  },
+  {
+    "name": "nodejs.dev",
+    "owner": "nodejs",
+    "stargazers_count": 2159
+  },
+  {
+    "name": "platforms",
+    "owner": "vercel",
+    "stargazers_count": 2156
+  },
+  {
+    "name": "callapp-lib",
+    "owner": "suanmei",
+    "stargazers_count": 2155
+  },
+  {
+    "name": "kiwi",
+    "owner": "alibaba",
+    "stargazers_count": 2153
+  },
+  {
+    "name": "metastream",
+    "owner": "samuelmaddock",
+    "stargazers_count": 2152
+  },
+  {
+    "name": "jsSHA",
+    "owner": "Caligatio",
+    "stargazers_count": 2148
+  },
+  {
+    "name": "mattermost-webapp",
+    "owner": "mattermost",
+    "stargazers_count": 2147
+  },
+  {
+    "name": "oicq",
+    "owner": "takayama-lily",
+    "stargazers_count": 2144
+  },
+  {
+    "name": "react-native-offline",
+    "owner": "rgommezz",
+    "stargazers_count": 2137
+  },
+  {
+    "name": "react-figma",
+    "owner": "react-figma",
+    "stargazers_count": 2136
+  },
+  {
+    "name": "destreamer",
+    "owner": "snobu",
+    "stargazers_count": 2132
+  },
+  {
+    "name": "jsii",
+    "owner": "aws",
+    "stargazers_count": 2130
+  },
+  {
+    "name": "extraterm",
+    "owner": "sedwards2009",
+    "stargazers_count": 2129
+  },
+  {
+    "name": "vim-vixen",
+    "owner": "ueokande",
+    "stargazers_count": 2121
+  },
+  {
+    "name": "doppio",
+    "owner": "plasma-umass",
+    "stargazers_count": 2117
+  },
+  {
+    "name": "ganache",
+    "owner": "trufflesuite",
+    "stargazers_count": 2115
+  },
+  {
+    "name": "nanostores",
+    "owner": "nanostores",
+    "stargazers_count": 2109
+  },
+  {
+    "name": "vue-demo",
+    "owner": "lzxb",
+    "stargazers_count": 2099
+  },
+  {
+    "name": "formkit",
+    "owner": "formkit",
+    "stargazers_count": 2098
+  },
+  {
+    "name": "FTP-Deploy-Action",
+    "owner": "SamKirkland",
+    "stargazers_count": 2092
+  },
+  {
+    "name": "cusdis",
+    "owner": "djyde",
+    "stargazers_count": 2091
+  },
+  {
+    "name": "RedisInsight",
+    "owner": "RedisInsight",
+    "stargazers_count": 2091
+  },
+  {
+    "name": "1backend",
+    "owner": "1backend",
+    "stargazers_count": 2089
+  },
+  {
+    "name": "mui-x",
+    "owner": "mui",
+    "stargazers_count": 2088
+  },
+  {
+    "name": "action-gh-release",
+    "owner": "softprops",
+    "stargazers_count": 2085
+  },
+  {
+    "name": "tui.grid",
+    "owner": "nhn",
+    "stargazers_count": 2083
+  },
+  {
+    "name": "plasmic",
+    "owner": "plasmicapp",
+    "stargazers_count": 2083
+  },
+  {
+    "name": "react",
+    "owner": "primer",
+    "stargazers_count": 2082
+  },
+  {
+    "name": "xstyled",
+    "owner": "gregberge",
+    "stargazers_count": 2071
+  },
+  {
+    "name": "pgtyped",
+    "owner": "adelsz",
+    "stargazers_count": 2070
+  },
+  {
+    "name": "testing-nestjs",
+    "owner": "jmcdo29",
+    "stargazers_count": 2070
+  },
+  {
+    "name": "luma.gl",
+    "owner": "visgl",
+    "stargazers_count": 2070
+  },
+  {
+    "name": "quirk",
+    "owner": "Flaque",
+    "stargazers_count": 2069
+  },
+  {
+    "name": "typebox",
+    "owner": "sinclairzx81",
+    "stargazers_count": 2068
+  },
+  {
+    "name": "reflare",
+    "owner": "xiaoyang-sde",
+    "stargazers_count": 2067
+  },
+  {
+    "name": "navi",
+    "owner": "frontarm",
+    "stargazers_count": 2067
+  },
+  {
+    "name": "vue-toastification",
+    "owner": "Maronato",
+    "stargazers_count": 2064
+  },
+  {
+    "name": "gantt-schedule-timeline-calendar",
+    "owner": "neuronetio",
+    "stargazers_count": 2063
+  },
+  {
+    "name": "react-avatar-editor",
+    "owner": "mosch",
+    "stargazers_count": 2060
+  },
+  {
+    "name": "use-debounce",
+    "owner": "xnimorz",
+    "stargazers_count": 2055
+  },
+  {
+    "name": "ethereumjs-monorepo",
+    "owner": "ethereumjs",
+    "stargazers_count": 2053
+  },
+  {
+    "name": "marble",
+    "owner": "marblejs",
+    "stargazers_count": 2053
+  },
+  {
+    "name": "iron-session",
+    "owner": "vvo",
+    "stargazers_count": 2052
+  },
+  {
+    "name": "figma-linux",
+    "owner": "Figma-Linux",
+    "stargazers_count": 2048
+  },
+  {
+    "name": "MQTT-Explorer",
+    "owner": "thomasnordquist",
+    "stargazers_count": 2047
+  },
+  {
+    "name": "kysely",
+    "owner": "koskimas",
+    "stargazers_count": 2047
+  },
+  {
+    "name": "tailwindcss-intellisense",
+    "owner": "tailwindlabs",
+    "stargazers_count": 2045
+  },
+  {
+    "name": "universal-starter",
+    "owner": "angular",
+    "stargazers_count": 2042
+  },
+  {
+    "name": "chevrotain",
+    "owner": "Chevrotain",
+    "stargazers_count": 2041
+  },
+  {
+    "name": "augury",
+    "owner": "rangle",
+    "stargazers_count": 2036
+  },
+  {
+    "name": "pythonVSCode",
+    "owner": "DonJayamanne",
+    "stargazers_count": 2036
+  },
+  {
+    "name": "balena-sound",
+    "owner": "balena-labs-projects",
+    "stargazers_count": 2035
+  },
+  {
+    "name": "vite-vue3-lowcode",
+    "owner": "buqiyuan",
+    "stargazers_count": 2035
+  },
+  {
+    "name": "ultimate-backend",
+    "owner": "juicycleff",
+    "stargazers_count": 2031
+  },
+  {
+    "name": "pancake-frontend",
+    "owner": "pancakeswap",
+    "stargazers_count": 2030
+  },
+  {
+    "name": "elderjs",
+    "owner": "Elderjs",
+    "stargazers_count": 2030
+  },
+  {
+    "name": "jest-preview",
+    "owner": "nvh95",
+    "stargazers_count": 2025
+  },
+  {
+    "name": "bestofjs-webui",
+    "owner": "bestofjs",
+    "stargazers_count": 2023
+  },
+  {
+    "name": "vscode-blade-formatter",
+    "owner": "shufo",
+    "stargazers_count": 2019
+  },
+  {
+    "name": "opensea-js",
+    "owner": "ProjectOpenSea",
+    "stargazers_count": 2014
+  },
+  {
+    "name": "racing-game",
+    "owner": "pmndrs",
+    "stargazers_count": 2012
+  },
+  {
+    "name": "Gitako",
+    "owner": "EnixCoda",
+    "stargazers_count": 2012
+  },
+  {
+    "name": "generatedata",
+    "owner": "benkeen",
+    "stargazers_count": 2009
+  },
+  {
+    "name": "unplugin-icons",
+    "owner": "antfu",
+    "stargazers_count": 2008
+  },
+  {
+    "name": "idb-keyval",
+    "owner": "jakearchibald",
+    "stargazers_count": 2005
+  },
+  {
+    "name": "TypeScript-Babel-Starter",
+    "owner": "microsoft",
+    "stargazers_count": 1998
+  },
+  {
+    "name": "angular-google-maps",
+    "owner": "sebholstein",
+    "stargazers_count": 1998
+  },
+  {
+    "name": "restyle",
+    "owner": "Shopify",
+    "stargazers_count": 1992
+  },
+  {
+    "name": "emp",
+    "owner": "efoxTeam",
+    "stargazers_count": 1992
+  },
+  {
+    "name": "next-sitemap",
+    "owner": "iamvishnusankar",
+    "stargazers_count": 1991
+  },
+  {
+    "name": "webpackbar",
+    "owner": "unjs",
+    "stargazers_count": 1990
+  },
+  {
+    "name": "fonts.css",
+    "owner": "zenozeng",
+    "stargazers_count": 1988
+  }
+]
